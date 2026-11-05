@@ -293,12 +293,13 @@ FEED_RSS = {
 
 def leggi_feed(id_fonte: str):
     config = FEED_RSS[id_fonte]
-    risultati, visti = [], set()
+    risultati, visti, errori = [], set(), []
     for url in config["url"]:
         try:
             feed = feedparser.parse(scarica(url))
         except Exception as errore:
             log.warning("%s: pagina feed %s non disponibile: %s", id_fonte, url, errore)
+            errori.append(errore)
             continue
         for voce in feed.entries:
             link = voce.get("link")
@@ -318,6 +319,8 @@ def leggi_feed(id_fonte: str):
                 "categorie": categorie,
             })
         time.sleep(1)
+    if len(errori) == len(config["url"]):
+        raise RuntimeError(f"feed non raggiungibile ({errori[0].__class__.__name__})")
     log.info("%s: %d voci", id_fonte, len(risultati))
     return risultati[: config["max"]]
 
