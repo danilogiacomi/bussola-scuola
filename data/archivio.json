@@ -1,35 +1,36 @@
 {
- "aggiornato": "2026-11-05T16:07:07+00:00",
+ "aggiornato": "2026-11-05T16:14:08+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-05T16:07:07+00:00",
-   "ultimo_ok": "2026-11-05T16:07:07+00:00"
+   "controllato": "2026-11-05T16:14:08+00:00",
+   "ultimo_ok": "2026-11-05T16:14:08+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-05T16:07:07+00:00",
-   "ultimo_ok": "2026-11-05T16:07:07+00:00"
+   "controllato": "2026-11-05T16:14:08+00:00",
+   "ultimo_ok": "2026-11-05T16:14:08+00:00"
   },
   "indire": {
-   "esito": "ok",
+   "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-05T16:07:07+00:00",
-   "ultimo_ok": "2026-11-05T16:07:07+00:00"
+   "controllato": "2026-11-05T16:14:08+00:00",
+   "ultimo_ok": "2026-11-05T16:07:07+00:00",
+   "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-05T16:07:07+00:00",
-   "ultimo_ok": "2026-11-05T16:07:07+00:00"
+   "controllato": "2026-11-05T16:14:08+00:00",
+   "ultimo_ok": "2026-11-05T16:14:08+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-05T16:07:07+00:00",
-   "ultimo_ok": "2026-11-05T16:07:07+00:00"
+   "controllato": "2026-11-05T16:14:08+00:00",
+   "ultimo_ok": "2026-11-05T16:14:08+00:00"
   }
  },
  "notizie": [
@@ -414,6 +415,26 @@
     "studenti",
     "personale",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/gratteri-il-90-dei-minorenni-detenuti-e-analfabeta-e-ai-genitori-lasciate-lavorare-i-docenti-e-aumentiamo-il-loro-stipendio",
+   "titolo": "Gratteri: “Il 90% dei minorenni detenuti è analfabeta”. E ai genitori: lasciate lavorare i docenti e aumentiamo il loro stipendio",
+   "abstract": "Il 90% dei minorenni detenuti è analfabeta. È il dato richiamato dal procuratore della Repubblica Nicola Gratteri, intervenuto a Matera nella serata finale della quarta edizione di Matera Fiction, al Cineteatro Gerardo Guerrieri. Per il magistrato la prima difesa contro il…",
+   "data": "2026-11-05",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Nicola Gratteri",
+    "scuole in carcere"
+   ],
+   "id": "95a1f6fa0339",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
