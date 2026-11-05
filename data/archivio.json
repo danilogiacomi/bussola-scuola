@@ -1,39 +1,58 @@
 {
- "aggiornato": "2026-11-05T16:14:08+00:00",
+ "aggiornato": "2026-11-05T22:41:28+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-05T16:14:08+00:00",
-   "ultimo_ok": "2026-11-05T16:14:08+00:00"
+   "controllato": "2026-11-05T22:41:28+00:00",
+   "ultimo_ok": "2026-11-05T22:41:28+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-05T16:14:08+00:00",
-   "ultimo_ok": "2026-11-05T16:14:08+00:00"
+   "controllato": "2026-11-05T22:41:28+00:00",
+   "ultimo_ok": "2026-11-05T22:41:28+00:00"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-05T16:14:08+00:00",
+   "controllato": "2026-11-05T22:41:28+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-05T16:14:08+00:00",
-   "ultimo_ok": "2026-11-05T16:14:08+00:00"
+   "controllato": "2026-11-05T22:41:28+00:00",
+   "ultimo_ok": "2026-11-05T22:41:28+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-05T16:14:08+00:00",
-   "ultimo_ok": "2026-11-05T16:14:08+00:00"
+   "controllato": "2026-11-05T22:41:28+00:00",
+   "ultimo_ok": "2026-11-05T22:41:28+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/video-intimi-rubati-allamico-e-fatti-girare-a-scuola-due-ventiduenni-condannati-per-revenge-porn",
+   "titolo": "Video intimi rubati all’amico e fatti girare a scuola: due ventiduenni condannati per revenge porn",
+   "abstract": "Si è chiuso con due condanne il processo a due ventiduenni accusati di revenge porn, accesso abusivo a sistema informatico e detenzione di materiale pedopornografico. Secondo l’accusa, avrebbero sottratto dal telefono di un amico foto e video intimi che lo ritraevano con la…",
+   "data": "2026-11-05",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Revenge Porn"
+   ],
+   "id": "22ec076bf253",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/valditara-confronto-costruttivo-con-le-consulte-studentesche-rafforziamo-la-rappresentanza-democratica-e-il-dialogo-con-i-giovani/",
    "titolo": "Valditara: “Confronto costruttivo con le consulte studentesche. Rafforziamo la rappresentanza democratica e il dialogo con i giovani”",
@@ -69,6 +88,24 @@
    "sezioni": [
     "studenti",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studenti-in-piazza-per-listruzione-pubblica-oltre-4mila-persone-manifestano-ad-atene-e-nelle-altre-citta-greche/",
+   "titolo": "Studenti in piazza per l’istruzione pubblica, oltre 4mila persone manifestano ad Atene e nelle altre città greche",
+   "abstract": "Anche la Grecia travolta dalla protesta dei giovani. Più di duemila studenti e docenti hanno occupato l'area esterna di piazza Syntagma ad Atene, sfilando proprio davanti al parlamento ellenico. L'articolo Studenti in piazza per l’istruzione pubblica, oltre 4mila persone…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "7b542379f482",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
@@ -458,6 +495,23 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/gioco-dazzardo-schettini-vi-hanno-mai-parlato-di-questa-forma-bastarda-di-dipendenza-le-testimonianze-dei-giovani-sui-social/",
+   "titolo": "Gioco d’azzardo, Schettini: “Vi hanno mai parlato di questa forma bastarda di dipendenza?”. Le testimonianze dei giovani sui social",
+   "abstract": "Hanno iniziato quasi per gioco, online o con gli amici, e si sono ritrovati a rubare soldi in casa e a sentirsi sparire dal mondo. Vincenzo Schettini lascia la parola a loro in un video pubblicato sui social: alcuni ragazzi poco più grandi degli studenti a cui si rivolge…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "dda530cbc7ab",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/gender-nelle-scuole-la-linguista-vera-gheno-non-si-insegna-niente-del-genere-i-bambini-capiscono-presto-cosa-vogliono",
    "titolo": "Gender nelle scuole? La linguista Vera Gheno: “Non si insegna niente del genere. I bambini capiscono presto cosa vogliono”",
    "abstract": "“Non si insegna niente del genere a scuola, non si fanno lezioni sul gender”. La sociolinguista Vera Gheno risponde alle polemiche sulla presunta propaganda gender nelle scuole, nel corso di una video intervista a La Stampa, nel corso della quale ha presentato anche il suo nuovo…",
@@ -497,6 +551,26 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/fornero-pensioni-sussidio",
+   "titolo": "Fornero ai giovani: “Non immaginate la vostra vita in funzione della pensione, il sistema non regge per voi, è un sussidio”. Scoppia la polemica",
+   "abstract": "Si ritorna a parlare di pensioni e a farlo è Elsa Fornero. L’ex ministra del Lavoro del governo Monti, che nel 2011 firmò la controversa riforma che porta il suo nome, è intervenuta oggi all’evento di Starting Finance di fronte a una folta platea di giovani, lanciando un suo…",
+   "data": "2026-11-05",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "elsa Fornero",
+    "pensione"
+   ],
+   "id": "7359d6e23605",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "riforme",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -541,6 +615,25 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/denatalita-colpa-dei-trentenni-bamboccioni-o-della-precarieta-studenti-e-lavoratori-nuovamente-uniti",
+   "titolo": "Denatalità: colpa dei trentenni “bamboccioni”? o della precarietà? Studenti e lavoratori nuovamente uniti",
+   "abstract": "C’è qualcosa di diverso nelle agitazioni studentesche e sociali di questa fine 2026. Le decine e decine di scuole e università occupate (con danno alla già ferita pubblica istruzione) vedono da parte studentesca rivendicazioni più ampie del solito, non ristrette all’immediato…",
+   "data": "2026-11-05",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "denatalità",
+    "Studenti"
+   ],
+   "id": "1a35f54df806",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2490-del-30-ottobre-2026",
    "titolo": "Decreto Direttoriale n. 2490 del 30 ottobre 2026",
    "abstract": "Assegnazione fondi a favore degli UU.SS.RR., a titolo di anticipo, per il finanziamento dei servizi di istruzione ospedaliera e domiciliare, A.S. 2026/2027. Decreto di assegnazione fondi a favore degli UU.SS.RR., a titolo di anticipo, di euro 1.029.407,00…",
@@ -573,6 +666,80 @@
     "inclusione"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2324-del-14-ottobre-2026",
+   "titolo": "Decreto Direttoriale n. 2324 del 14 ottobre 2026",
+   "abstract": "",
+   "data": "2026-11-05",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "3f01042db9fc",
+   "raccolto": "2026-11-05",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dal-2027-google-spegne-lia-negli-account-degli-studenti-americani-le-scuole-che-la-rifiutano-del-tutto-perdono-anche-il-motore-di-ricerca/",
+   "titolo": "Dal 2027 Google spegne l’IA negli account degli studenti americani: le scuole che la rifiutano del tutto perdono anche il motore di ricerca",
+   "abstract": "Le scuole americane potranno decidere se lasciare l’intelligenza artificiale di Google negli account dei propri studenti oppure tenerla fuori. Chi sceglie di spegnerla del tutto, però, dovrà fare a meno anche di Google Search. L'articolo Dal 2027 Google spegne l’IA negli account…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "46089f49d69b",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/come-si-racconta-leuropa-agli-studenti-giochi-dibattiti-e-giochi-di-ruolo-le-proposte-gratuite-del-parlamento-europeo-per-la-scuola/",
+   "titolo": "Come si racconta l’Europa agli studenti? Giochi, dibattiti e giochi di ruolo: le proposte gratuite del Parlamento europeo per la scuola",
+   "abstract": "Giochi, puzzle, dibattiti, giochi di ruolo e piccoli progetti di ricerca per raccontare l’Europa ai ragazzi senza annoiarli. Il Parlamento europeo mette a disposizione degli insegnanti una raccolta di risorse didattiche gratuite, in tutte le 24 lingue dell’Unione, pensata per…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "60381f11e905",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/colloqui-scuola-famiglia-individuali-quellora-in-piu-ogni-settimana-non-e-prevista-nel-contratto-scuola",
+   "titolo": "Colloqui scuola-famiglia individuali, quell’ora in più ogni settimana non è prevista nel contratto scuola",
+   "abstract": "Una docente di un noto Liceo di una città della Puglia ci chiede:”Nel mio Liceo i docenti hanno la diciannovesima ora di servizio settimanale. Ogni settimana infatti un’ora di servizio è disposta dal dirigente scolastico per ricevere le famiglie per i colloqui individuali…",
+   "data": "2026-11-05",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Colloqui Scuola-Famiglia",
+    "incontri scuola-famiglia"
+   ],
+   "id": "91771f132b53",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/collegi-universitari-di-merito-aperte-le-domande-per-il-riconoscimento-ministeriale-2026-scadenza-18-dicembre/",
