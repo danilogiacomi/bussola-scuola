@@ -1,38 +1,56 @@
 {
- "aggiornato": "2026-11-05T15:37:12+00:00",
+ "aggiornato": "2026-11-05T16:07:07+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-05T15:37:12+00:00",
-   "ultimo_ok": "2026-11-05T15:37:12+00:00"
+   "controllato": "2026-11-05T16:07:07+00:00",
+   "ultimo_ok": "2026-11-05T16:07:07+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-05T15:37:12+00:00",
-   "ultimo_ok": "2026-11-05T15:37:12+00:00"
+   "controllato": "2026-11-05T16:07:07+00:00",
+   "ultimo_ok": "2026-11-05T16:07:07+00:00"
   },
   "indire": {
    "esito": "ok",
-   "voci": 40,
-   "controllato": "2026-11-05T15:37:12+00:00",
-   "ultimo_ok": "2026-11-05T15:37:12+00:00"
+   "voci": 0,
+   "controllato": "2026-11-05T16:07:07+00:00",
+   "ultimo_ok": "2026-11-05T16:07:07+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 18,
-   "controllato": "2026-11-05T15:37:12+00:00",
-   "ultimo_ok": "2026-11-05T15:37:12+00:00"
+   "voci": 28,
+   "controllato": "2026-11-05T16:07:07+00:00",
+   "ultimo_ok": "2026-11-05T16:07:07+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-05T15:37:12+00:00",
-   "ultimo_ok": "2026-11-05T15:37:12+00:00"
+   "controllato": "2026-11-05T16:07:07+00:00",
+   "ultimo_ok": "2026-11-05T16:07:07+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/valditara-confronto-costruttivo-con-le-consulte-studentesche-rafforziamo-la-rappresentanza-democratica-e-il-dialogo-con-i-giovani/",
+   "titolo": "Valditara: “Confronto costruttivo con le consulte studentesche. Rafforziamo la rappresentanza democratica e il dialogo con i giovani”",
+   "abstract": "Il Ministro dell’Istruzione e del Merito, Giuseppe Valditara, ha incontrato a Roma i rappresentanti delle Consulte provinciali studentesche per fare il punto sulle principali priorità del sistema scolastico, a partire dalla sicurezza degli edifici e dal rafforzamento della…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "5b35414c0452",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/tetto-agli-alunni-stranieri-nel-decreto-scuola-discriminatorio-lue-chiarisce-nessuna-azione-intrapresa-nei-confronti-dellitalia",
    "titolo": "Tetto agli alunni stranieri nel decreto scuola discriminatorio? L’Ue chiarisce: “Nessuna azione intrapresa nei confronti dell’Italia”",
@@ -73,6 +91,25 @@
     "studenti"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/specializzati-sostegno-indire-risultanti-nei-concorsi-superiori-del-10-rispetto-al-tfa-ordinario-lesperienza-paga/",
+   "titolo": "Specializzati sostegno Indire: risultanti nei concorsi superiori del 10% rispetto al TFA ordinario. L’esperienza paga?",
+   "abstract": "Specializzazione Sostegno, percorso Indire promosso. Risultati nei concorsi superiori del 10% rispetto al TFA ordinario. 30.000 nuovi docenti specializzati per le attività didattiche di sostegno in due anni tramite il percorso Indire è un dato che il Ministro dell'Istruzione e…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti",
+    "specializzazione sostegno"
+   ],
+   "id": "73ef27c46f5d",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "personale",
+    "inclusione"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.mim.gov.it/web/guest/-/scuola-valditara-confronto-costruttivo-con-le-consulte-studentesche-rafforziamo-la-rappresentanza-democratica-e-il-dialogo-con-i-giovani-",
@@ -194,6 +231,23 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/pnrr-il-ministro-foti-superato-il-target-su-its-academy-40mila-iscritti-priorita-a-divario-competenze/",
+   "titolo": "PNRR, il Ministro Foti: “Superato il target su Its Academy, 40mila iscritti. Priorità a divario competenze”",
+   "abstract": "Il settore degli Its Academy rappresenta una leva strategica fondamentale per ridurre il divario tra la domanda delle imprese e l'offerta di competenze disponibili sul mercato del lavoro, richiedendo un constante adeguamento del sistema educativo. L'articolo PNRR, il Ministro…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "4154ab75367c",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.mim.gov.it/web/guest/-/nota-prot-n-199172-del-5-novembre-2026",
    "titolo": "Nota prot. n. 199172 del 5 novembre 2026",
    "abstract": "Emanata la nota concernente i termini e le modalità di presentazione delle domande di partecipazione dei candidati interni ed esterni all'esame di maturità per l'anno scolastico 2026/2027.",
@@ -287,6 +341,23 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/manifestazioni-in-francia-liceo-incendiato-vicino-a-tolosa/",
+   "titolo": "Manifestazioni in Francia, liceo incendiato vicino a Tolosa",
+   "abstract": "Momenti di tensione in Francia, dove un liceo nei pressi di Tolosa è stato incendiato durante le manifestazioni di oggi. L'articolo Manifestazioni in Francia, liceo incendiato vicino a Tolosa sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "804e2bb7a202",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/maltrattamenti-allasilo-arrestata-direttrice-di-un-asilo-nido-ha-strattonato-schiaffeggiato-e-lanciato-a-terra-i-bambini",
    "titolo": "Maltrattamenti all’asilo, arrestata direttrice: ha strattonato, schiaffeggiato e lanciato a terra i bambini",
    "abstract": "Brutto episodio nel milanese: la direttrice 55enne di un asilo nido lombardo è stata arrestata dai Carabinieri in “flagranza differita” dopo le denunce dei genitori per maltrattamenti sugli alunni. Lo riporta Il Corriere della Sera. I casi di violenze sui piccoli, documentati…",
@@ -303,6 +374,27 @@
     "studenti"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/mad-for-science-2026-concorso-nazionale-gratuito-per-licei-e-istituti-tecnici-candidature-entro-il-26-novembre/",
+   "titolo": "Mad for Science 2026, concorso nazionale gratuito per licei e istituti tecnici: candidature entro il 26 novembre",
+   "abstract": "La Fondazione Diasorin ETS promuove il concorso nazionale gratuito \"Mad for Science\", riconosciuto dal Ministero dell'Istruzione e del Merito come iniziativa per la valorizzazione delle eccellenze degli studenti delle scuole secondarie di secondo grado. L'articolo Mad for…",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Stem"
+   ],
+   "id": "b01d7e749060",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/libri-scolatici-e-universitari-digitali-scontati-del-50-norma-stralciata-anarpe-favorevole/",
@@ -322,6 +414,25 @@
     "studenti",
     "personale",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/governo-e-ministero-in-affanno-sui-problemi-della-scuola-ma-valditara-c-sono-certi-di-essere-sulla-strada-giusta",
+   "titolo": "Governo e Ministero in affanno sui problemi della scuola, ma Valditara & C. sono certi di essere sulla strada giusta",
+   "abstract": "Sembra che davvero prima o poi tutti i nodi vengano pettine perché gli ultimi mesi dell’ “era Valditara” si preannunciano molto complicati non solo per il ministro dell’Istruzione ma per l’intero Governo.Per quanto riguarda la scuola la vicenda della legge di bilancio sembra…",
+   "data": "2026-11-05",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Legge di Bilancio 2027",
+    "Riforma scolastica"
+   ],
+   "id": "a85a83bfd4f3",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "riforme"
    ],
    "superiori": false
   },
@@ -439,6 +550,24 @@
    "sezioni": [
     "norme",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/collegi-universitari-di-merito-aperte-le-domande-per-il-riconoscimento-ministeriale-2026-scadenza-18-dicembre/",
+   "titolo": "Collegi universitari di merito, aperte le domande per il riconoscimento ministeriale 2026. Scadenza 18 dicembre",
+   "abstract": "È aperta la procedura per il riconoscimento dei Collegi universitari di merito per l'anno 2026. L'articolo Collegi universitari di merito, aperte le domande per il riconoscimento ministeriale 2026. Scadenza 18 dicembre sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-05",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti",
+    "Università"
+   ],
+   "id": "938efab9f860",
+   "raccolto": "2026-11-05",
+   "sezioni": [
+    "studenti"
    ],
    "superiori": false
   },
