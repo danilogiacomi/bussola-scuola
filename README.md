@@ -41,6 +41,11 @@ La prima raccolta legge gli abstract delle pagine del MIM 60 alla volta. Per leg
 
 Il workflow `.github/workflows/aggiorna-e-pubblica.yml` parte ogni 3 ore, a ogni push su `main` e a mano dalla scheda Actions. Raccoglie le notizie, salva l'archivio nel repository e pubblica il sito su GitHub Pages.
 
+Note:
+
+- Il sito di INDIRE non risponde ai server di GitHub Actions, quindi in automatico quella fonte risulta in errore. Le notizie INDIRE si possono aggiungere lanciando `scripts/aggiorna.py` in locale e facendo il push di `data/archivio.json`.
+- Se il salvataggio dell'archivio non riesce, il sito viene pubblicato lo stesso e le notizie mancanti tornano al giro successivo.
+
 Una tantum, nelle impostazioni del repository: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 
 ## Manutenzione

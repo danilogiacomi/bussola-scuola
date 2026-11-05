@@ -37,16 +37,25 @@ jobs:
         run: python scripts/aggiorna.py
 
       - name: Salva l'archivio aggiornato
+        # Se il salvataggio non riesce si pubblica comunque il sito:
+        # le notizie mancanti verranno riprese al giro successivo.
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/archivio.json
           if git diff --cached --quiet; then
             echo "Nessuna novità."
-          else
-            git commit -m "Aggiorna le notizie"
-            git push
+            exit 0
           fi
+          git commit -m "Aggiorna le notizie"
+          for tentativo in 1 2 3; do
+            git push && exit 0
+            echo "Push non riuscito (tentativo $tentativo), riprovo tra 20 secondi."
+            sleep 20
+            git pull --rebase
+          done
+          exit 1
 
       - name: Configura GitHub Pages
         id: pages
