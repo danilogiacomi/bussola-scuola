@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+{% from "_scheda.html" import scheda with context %}
+{% block titolo %}Ultime notizie{% endblock %}
+{% block contenuto %}
+<div class="intro">
+  <h1>Le ultime notizie sulla scuola</h1>
+  <p class="intro-testo">Notizie e atti del Ministero dell'Istruzione e del Merito, della Gazzetta Ufficiale e della stampa specializzata, raccolti in un unico posto e aggiornati più volte al giorno. Ogni riquadro porta alla pagina originale.</p>
+</div>
+
+{% if in_evidenza %}
+<section class="evidenza" aria-labelledby="titolo-evidenza">
+  <div class="sezione-intestazione">
+    <h2 id="titolo-evidenza">In evidenza per la scuola superiore</h2>
+    <a class="link-freccia" href="{{ base }}regole.html">Le regole in vigore per la scuola superiore</a>
+  </div>
+  <div class="griglia">
+    {% for n in in_evidenza %}{{ scheda(n) }}{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="sezioni-panoramica" aria-labelledby="titolo-sezioni">
+  <h2 id="titolo-sezioni">Sezioni</h2>
+  <ul class="elenco-sezioni">
+    {% for s in elenco_sezioni %}
+    <li>
+      <a href="?sezione={{ s.id }}#notizie" data-sezione="{{ s.id }}">
+        <span class="elenco-sezioni-nome">{{ s.titolo }}</span>
+        <span class="elenco-sezioni-conteggio">{{ s.conteggio }} <span class="sr-only">notizie</span></span>
+        <span class="elenco-sezioni-descrizione">{{ s.descrizione }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="notizie" class="notizie" aria-labelledby="titolo-notizie" tabindex="-1">
+  <h2 id="titolo-notizie">Tutte le notizie</h2>
+
+  <form class="filtri" id="filtri" role="search" aria-label="Filtra le notizie" hidden>
+    <div class="filtri-riga">
+      <div class="campo campo-ricerca">
+        <label for="filtro-testo">Cerca nelle notizie</label>
+        <input type="search" id="filtro-testo" name="q" autocomplete="off" placeholder="Es. maturità, voto in condotta">
+      </div>
+      <div class="campo">
+        <label for="filtro-sezione">Sezione</label>
+        <select id="filtro-sezione" name="sezione">
+          <option value="">Tutte le sezioni</option>
+          {% for s in elenco_sezioni %}<option value="{{ s.id }}">{{ s.titolo }}</option>{% endfor %}
+        </select>
+      </div>
+      <div class="campo">
+        <label for="filtro-fonte">Fonte</label>
+        <select id="filtro-fonte" name="fonte">
+          <option value="">Tutte le fonti</option>
+          {% for id, f in fonti.items() %}<option value="{{ id }}">{{ f.nome }}</option>{% endfor %}
+        </select>
+      </div>
+    </div>
+    <div class="filtri-riga filtri-opzioni">
+      <div class="spunta">
+        <input type="checkbox" id="filtro-superiori" name="superiori" value="1">
+        <label for="filtro-superiori">Solo scuola superiore</label>
+      </div>
+      <div class="spunta">
+        <input type="checkbox" id="filtro-ufficiali" name="ufficiali" value="1">
+        <label for="filtro-ufficiali">Solo fonti ufficiali</label>
+      </div>
+      <button type="reset" class="pulsante pulsante-secondario">Azzera filtri</button>
+    </div>
+  </form>
+
+  <p class="conteggio" id="conteggio" role="status" aria-live="polite">Le {{ ultime | length }} notizie più recenti.</p>
+
+  <div class="griglia" id="elenco-notizie">
+    {% for n in ultime %}{{ scheda(n) }}{% endfor %}
+  </div>
+  <p class="altro-contenitore"><button type="button" class="pulsante" id="mostra-altre" hidden>Mostra altre notizie</button></p>
+  <noscript><p class="avviso">Senza JavaScript vedi solo le notizie più recenti: attivalo per cercare e filtrare tutto l'archivio.</p></noscript>
+</section>
+{% endblock %}
+{% block script %}
+<script>window.BUSSOLA = {{ config_js | tojson }};</script>
+<script src="{{ base }}assets/app.js?v={{ versione }}" defer></script>
+{% endblock %}

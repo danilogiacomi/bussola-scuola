@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block titolo %}{% endblock %} · {{ sito.nome }}</title>
+  <meta name="description" content="{% block descrizione %}{{ sito.descrizione }}{% endblock %}">
+  <meta name="theme-color" content="#1e6b42">
+  <link rel="icon" href="{{ base }}assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ base }}assets/style.css?v={{ versione }}">
+</head>
+<body>
+  <a class="salta" href="#contenuto">Vai al contenuto principale</a>
+
+  <header class="testata">
+    <div class="contenitore testata-interno">
+      <a class="marchio" href="{{ base }}">
+        <svg class="marchio-icona" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+          <circle cx="16" cy="16" r="14" fill="none" stroke="currentColor" stroke-width="2.5"/>
+          <path d="M16 6 L20 16 L16 26 L12 16 Z" fill="currentColor"/>
+        </svg>
+        <span>
+          <span class="marchio-nome">{{ sito.nome }}</span>
+          <span class="marchio-sottotitolo">{{ sito.sottotitolo }}</span>
+        </span>
+      </a>
+    </div>
+    <nav class="navigazione" aria-label="Navigazione principale">
+      <ul class="contenitore">
+        {% for voce in menu %}
+        <li><a href="{{ base }}{{ voce.href }}"{% if voce.id == pagina %} aria-current="page"{% endif %}>{{ voce.titolo }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main id="contenuto" class="contenitore" tabindex="-1">
+    {% block contenuto %}{% endblock %}
+  </main>
+
+  <footer class="piede">
+    <div class="contenitore">
+      <p>{{ sito.nome }} è un aggregatore indipendente e non è un sito del Ministero dell'Istruzione e del Merito. Titoli e sintesi appartengono alle rispettive fonti: per il testo completo e ufficiale segui sempre il link alla pagina originale.</p>
+      <p>Ultimo aggiornamento: <time datetime="{{ aggiornato_iso }}">{{ aggiornato_testo }}</time>. <a href="{{ base }}fonti.html">Fonti e metodo</a>.</p>
+    </div>
+  </footer>
+  {% block script %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,15 @@
+{# Una scheda notizia. Lo stesso markup è riprodotto da static/app.js. #}
+{% macro scheda(n, livello=3) -%}
+<article class="scheda{% if fonti[n.fonte].ufficiale %} scheda-ufficiale{% endif %}">
+  <p class="scheda-meta">
+    <span class="etichetta-fonte{% if fonti[n.fonte].ufficiale %} ufficiale{% endif %}">{{ fonti[n.fonte].breve }}{% if fonti[n.fonte].ufficiale %}<span class="sr-only"> (fonte ufficiale)</span>{% endif %}</span>
+    <time datetime="{{ n.data }}">{{ n.data | data_it }}</time>
+  </p>
+  <h{{ livello }} class="scheda-titolo"><a href="{{ n.url }}" rel="noopener">{{ n.titolo }}<span class="sr-only"> (apre il sito {{ fonti[n.fonte].breve }})</span></a></h{{ livello }}>
+  {% if n.abstract %}<p class="scheda-abstract">{{ n.abstract }}</p>{% endif %}
+  <ul class="scheda-tag" aria-label="Sezioni">
+    {% if n.superiori %}<li class="tag-superiori">Scuola superiore</li>{% endif %}
+    {% for s in n.sezioni %}<li>{{ sezioni[s].titolo }}</li>{% endfor %}
+  </ul>
+</article>
+{%- endmacro %}

@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block titolo %}Fonti e metodo{% endblock %}
+{% block contenuto %}
+<div class="intro">
+  <h1>Fonti e metodo</h1>
+  <p class="intro-testo">Da dove vengono le notizie, come vengono ordinate e quanto spesso vengono aggiornate.</p>
+</div>
+
+<section class="testo" aria-labelledby="titolo-fonti">
+  <h2 id="titolo-fonti">Le fonti</h2>
+  <ul class="elenco-fonti">
+    {% for id, f in fonti.items() %}
+    <li>
+      <h3><a href="{{ f.sito }}" rel="noopener">{{ f.nome }}</a>
+        <span class="etichetta-fonte{% if f.ufficiale %} ufficiale{% endif %}">{{ 'Fonte ufficiale' if f.ufficiale else 'Stampa specializzata' }}</span></h3>
+      <p>{{ f.descrizione }}</p>
+      {% set st = stato_fonti.get(id, {}) %}
+      <p class="dettaglio">
+        {% if st.ultimo_ok %}Ultima lettura riuscita: <time datetime="{{ st.ultimo_ok }}">{{ st.ultimo_ok | dataora_it }}</time>.{% endif %}
+        {% if st.esito == 'errore' %} L'ultimo tentativo non è riuscito: le notizie già raccolte restano disponibili.{% endif %}
+      </p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="testo" aria-labelledby="titolo-metodo">
+  <h2 id="titolo-metodo">Come funziona</h2>
+  <ul>
+    <li>Il sito si aggiorna da solo più volte al giorno. Le notizie restano in archivio per circa un anno, anche quando escono dalle pagine delle fonti.</li>
+    <li>Per il Ministero leggiamo le pagine delle notizie e della normativa; per la Gazzetta Ufficiale teniamo solo gli atti del Ministero o che riguardano la scuola.</li>
+    <li>Dalla stampa specializzata prendiamo solo gli articoli su esami, riforme, studenti e scuola superiore, per non riempire il sito di notizie sul personale.</li>
+    <li>Le sezioni sono assegnate in automatico in base alle parole del titolo e della sintesi: una notizia può stare in più sezioni e qualche assegnazione può essere imprecisa.</li>
+    <li>L'etichetta <strong>Scuola superiore</strong> indica le notizie che riguardano licei, istituti tecnici e professionali, maturità o scuola-lavoro.</li>
+    <li>Le schede della pagina <a href="{{ base }}regole.html">Regole per la scuola superiore</a> sono scritte e verificate a mano sui testi ufficiali.</li>
+  </ul>
+</section>
+
+<section class="testo" aria-labelledby="titolo-sezioni-elenco">
+  <h2 id="titolo-sezioni-elenco">Le sezioni</h2>
+  <dl class="elenco-definizioni">
+    {% for s in elenco_sezioni %}<dt>{{ s.titolo }}</dt><dd>{{ s.descrizione }}</dd>{% endfor %}
+  </dl>
+</section>
+{% endblock %}

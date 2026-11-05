@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% from "_scheda.html" import scheda with context %}
+{% block titolo %}Regole per la scuola superiore{% endblock %}
+{% block descrizione %}Le principali regole introdotte per la scuola secondaria di secondo grado: maturità, condotta, riforme, orientamento e altro, con i link ai testi ufficiali.{% endblock %}
+{% block contenuto %}
+<div class="intro">
+  <h1>Regole per la scuola superiore</h1>
+  <p class="intro-testo">Le principali novità normative per licei, istituti tecnici e istituti professionali, spiegate in breve e collegate al testo ufficiale.</p>
+  {% if regole.nota %}<p class="avviso">{{ regole.nota }}</p>{% endif %}
+  {% if regole.aggiornato %}<p class="dettaglio">Schede verificate il <time datetime="{{ regole.aggiornato }}">{{ regole.aggiornato | data_it }}</time>.</p>{% endif %}
+</div>
+
+{% if regole.temi %}
+<nav class="indice" aria-labelledby="titolo-indice">
+  <h2 id="titolo-indice">Temi</h2>
+  <ul>
+    {% for tema in regole.temi %}<li><a href="#{{ tema.id }}">{{ tema.titolo }}</a></li>{% endfor %}
+  </ul>
+</nav>
+
+{% for tema in regole.temi %}
+<section class="tema" id="{{ tema.id }}" aria-labelledby="titolo-{{ tema.id }}">
+  <h2 id="titolo-{{ tema.id }}">{{ tema.titolo }}</h2>
+  <div class="griglia griglia-regole">
+    {% for r in tema.regole %}
+    <article class="scheda scheda-regola">
+      <p class="scheda-meta">
+        <span class="stato stato-{{ r.stato | replace(' ', '-') }}">{{ r.stato | capitalize }}</span>
+        {% if r.decorrenza %}<span>{{ r.decorrenza }}</span>{% endif %}
+      </p>
+      <h3 class="scheda-titolo">{{ r.titolo }}</h3>
+      <p class="scheda-abstract">{{ r.sintesi }}</p>
+      <dl class="riferimenti">
+        {% if r.riferimento %}<dt>Riferimento</dt><dd>{{ r.riferimento }}{% if r.data %}, <time datetime="{{ r.data }}">{{ r.data | data_it }}</time>{% endif %}</dd>{% endif %}
+      </dl>
+      <p class="scheda-link"><a href="{{ r.fonte_url }}" rel="noopener">Leggi il testo ufficiale<span class="sr-only">: {{ r.titolo }}</span></a> <span class="dettaglio">({{ r.fonte_nome }})</span></p>
+    </article>
+    {% endfor %}
+  </div>
+  <p class="torna-su"><a href="#contenuto">Torna all'inizio</a></p>
+</section>
+{% endfor %}
+{% else %}
+<p class="avviso">Le schede sulle regole sono in preparazione.</p>
+{% endif %}
+
+{% if atti_superiori %}
+<section class="tema" aria-labelledby="titolo-atti">
+  <div class="sezione-intestazione">
+    <h2 id="titolo-atti">Ultimi atti e notizie ufficiali sulla scuola superiore</h2>
+    <a class="link-freccia" href="{{ base }}?superiori=1&amp;ufficiali=1#notizie">Vedi tutti</a>
+  </div>
+  <p>Raccolti in automatico dal sito del Ministero e dalla Gazzetta Ufficiale.</p>
+  <div class="griglia">
+    {% for n in atti_superiori %}{{ scheda(n) }}{% endfor %}
+  </div>
+</section>
+{% endif %}
+{% endblock %}
