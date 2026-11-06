@@ -1,39 +1,318 @@
 {
- "aggiornato": "2026-11-05T22:41:28+00:00",
+ "aggiornato": "2026-11-06T12:57:58+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-05T22:41:28+00:00",
-   "ultimo_ok": "2026-11-05T22:41:28+00:00"
+   "controllato": "2026-11-06T12:57:58+00:00",
+   "ultimo_ok": "2026-11-06T12:57:58+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-05T22:41:28+00:00",
-   "ultimo_ok": "2026-11-05T22:41:28+00:00"
+   "controllato": "2026-11-06T12:57:58+00:00",
+   "ultimo_ok": "2026-11-06T12:57:58+00:00"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-05T22:41:28+00:00",
+   "controllato": "2026-11-06T12:57:58+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-05T22:41:28+00:00",
-   "ultimo_ok": "2026-11-05T22:41:28+00:00"
+   "voci": 24,
+   "controllato": "2026-11-06T12:57:58+00:00",
+   "ultimo_ok": "2026-11-06T12:57:58+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-05T22:41:28+00:00",
-   "ultimo_ok": "2026-11-05T22:41:28+00:00"
+   "voci": 30,
+   "controllato": "2026-11-06T12:57:58+00:00",
+   "ultimo_ok": "2026-11-06T12:57:58+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/vincenzo-schettini-a-orizzonte-scuolabasta-con-gli-oggetti-investiamo-sugli-insegnanti-intervista/",
+   "titolo": "Vincenzo Schettini a Orizzonte Scuola:“Basta con gli oggetti, investiamo sugli insegnanti”. [INTERVISTA]",
+   "abstract": "Vincenzo Schettini, ospite della rubrica “I Protagonisti” di Orizzonte Scuola, presenta il libro La scuola che verrà, pubblicato da Mondadori. Dalla valorizzazione dei docenti alle nuove metodologie didattiche, dall'intelligenza artificiale al rapporto con gli studenti, il…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "1b599fca410d",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/un-alunno-di-12-anni-scoppia-a-piangere-davanti-alla-docente-di-sostegno-e-racconta-le-violenze-in-casa-la-sua-segnalazione-porta-alla-condanna-dei-genitori/",
+   "titolo": "Un alunno di 12 anni scoppia a piangere davanti alla docente di sostegno e racconta le violenze in casa: la sua segnalazione porta alla condanna dei genitori",
+   "abstract": "Un’insegnante di sostegno ha capito in pochi minuti, il giorno della festa del papà, che un suo alunno di 12 anni viveva un incubo in casa. L'articolo Un alunno di 12 anni scoppia a piangere davanti alla docente di sostegno e racconta le violenze in casa: la sua segnalazione…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "0d56d3333af0",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-in-ospedale-e-istruzione-domiciliare-2026-27-cambiano-i-finanziamenti-e-i-requisiti-per-docenti-e-famiglie",
+   "titolo": "Scuola in ospedale e istruzione domiciliare 2026/27: cambiano i finanziamenti e i requisiti per docenti e famiglie",
+   "abstract": "Il Ministero dell’Istruzione e del Merito ha emanato i provvedimenti direttoriali che sbloccano le risorse per la Scuola in Ospedale (SIO) e per l’Istruzione Domiciliare (ID) per l’anno scolastico 2026/2027. Queste risorse sono destinate a tutelare il diritto all’apprendimento e…",
+   "data": "2026-11-06",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Docenti",
+    "istruzione domiciliare",
+    "scuola in ospedale"
+   ],
+   "id": "dba4643f72ad",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/mensa-scolastica-la-famiglia-non-ha-pagato-38-euro-bimba-di-9-anni-esclusa-la-scuola-chiama-i-genitori-per-venirla-a-prendere",
+   "titolo": "Mensa scolastica, la famiglia non ha pagato 38 euro, bimba di 9 anni esclusa: la scuola chiama i genitori per venirla a prendere",
+   "abstract": "Una bimba di nove anni appartenente, secondo le prime informazioni, ad famiglia disagiata di Taranto, è stata esclusa dalla mensa scolastica a causa di un presunto debito pregresso di 12 euro. Lo riporta Il Corriere della Sera. È quanto contesta con una formale diffida inviata…",
+   "data": "2026-11-06",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Mense scolastiche"
+   ],
+   "id": "4fa5a879da37",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/maturita-2027-gli-adempimenti-dei-dirigenti-scolastici-controlli-sulle-domande-verifiche-e-comunicazioni-agli-usr",
+   "titolo": "Maturità 2027, gli adempimenti dei dirigenti scolastici: controlli sulle domande, verifiche e comunicazioni agli USR",
+   "abstract": "Con la nota prot. n. 199172 del 5 novembre 2026, il Ministero dell’Istruzione e del Merito ha fornito le indicazioni per la presentazione delle domande di partecipazione all’esame di maturità 2027, precisando anche gli adempimenti a carico dei dirigenti scolastici e dei…",
+   "data": "2026-11-06",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "maturità 2027"
+   ],
+   "id": "74b5bbc91e3d",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "esami",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/maturita-2027-candidati-esterni-domande-dal-12-novembre-al-14-dicembre-requisiti-e-modalita",
+   "titolo": "Maturità 2027, candidati esterni: domande dal 12 novembre al 14 dicembre. Requisiti e modalità",
+   "abstract": "Il Ministero dell’Istruzione e del Merito, con la nota prot. n. 199172 del 5 novembre 2026, ha definito le modalità e i termini di presentazione delle domande di partecipazione all’esame di maturità 2027 per i candidati esterni. Le istanze potranno essere presentate dal 12…",
+   "data": "2026-11-06",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "maturità 2027"
+   ],
+   "id": "7d239e380d51",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/la-lezione-cambia-volto-tre-studenti-una-domanda-sulla-violenza-e-una-classe-che-impara-a-pensare-quando-il-digitale-e-lintelligenza-artificiale-restituiscono-agli-alunni-il-protagonismo-d/",
+   "titolo": "La lezione cambia volto: tre studenti, una domanda sulla violenza e una classe che impara a pensare. Quando il digitale e l’intelligenza artificiale restituiscono agli alunni il protagonismo dell’apprendimento",
+   "abstract": "“La violenza può essere considerata una manifestazione del pensiero oppure rappresenta una mortificazione della democrazia e dei diritti?”. È da questa domanda che prende forma un'esperienza educativa nella classe seconda C, indirizzo Informatica e Telecomunicazioni…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "6e917a65fa43",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/i-cobas-indicono-un-nuovo-sciopero-generale-il-20-novembre-giornata-internazionale-di-lotta-degli-studenti",
+   "titolo": "I COBAS indicono un nuovo Sciopero generale il 20 novembre, Giornata internazionale di lotta degli studenti",
+   "abstract": "Dopo la straordinaria giornata del 30 ottobre, quando lo sciopero indetto dai sindacati di base (COBAS, Usb, Adl, Clap, Sial, Cub) – e che tante strutture studentesche hanno fatto proprio – ha portato nelle piazze .di 70 città almeno un milione di persone, il governo ha…",
+   "data": "2026-11-06",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Cobas",
+    "Sciopero"
+   ],
+   "id": "99ede71fab6a",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ferie-non-godute-docenti-precari-e-risarcimenti-decidera-la-corte-ue-ganci-due-questioni-decisive-sullindennita-il-punto/",
+   "titolo": "Ferie non godute docenti precari e risarcimenti, deciderà la Corte UE. Ganci: “Due questioni decisive sull’indennità”. Il Punto",
+   "abstract": "A ricostruire la vicenda è stato l'avvocato Fabio Ganci , ospite di Diritto in Cattedra , la rubrica di Orizzonte Scuola TV condotta da Francesco Bunetto . Il legale ha analizzato l'ordinanza del Tribunale di Milano del 27 ottobre 2026, soffermandosi sul rapporto tra la…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti"
+   ],
+   "id": "c0d13a5f8163",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/erasmus-nelle-scuole-partono-piu-gli-insegnanti-la-mobilita-del-personale-sale-all81-quella-individuale-degli-studenti-scende-al-26-i-dati/",
+   "titolo": "Erasmus+, nelle scuole partono più gli insegnanti: la mobilità del personale sale all’81%, quella individuale degli studenti scende al 26%. I dati",
+   "abstract": "Quando si parla di scuole aperte al mondo, si pensa quasi sempre agli studenti con lo zaino in spalla. Quest’anno però a crescere più di tutti è la mobilità degli insegnanti. L'articolo Erasmus+, nelle scuole partono più gli insegnanti: la mobilità del personale sale all’81%…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "7fa9b3eee817",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2487-del-30-ottobre-2026",
+   "titolo": "Decreto Dipartimentale n. 2487 del 30 ottobre 2026",
+   "abstract": "",
+   "data": "2026-11-06",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "41e23fe60f39",
+   "raccolto": "2026-11-06",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/concorsi-docenti-2027-nuovi-bandi-solo-dove-mancano-candidati-cozzetto-anief-non-abbiamo-ancora-le-tempistiche-il-punto/",
+   "titolo": "Concorsi docenti 2027, nuovi bandi solo dove mancano candidati? Cozzetto (Anief): “Non abbiamo ancora le tempistiche”. Il Punto",
+   "abstract": "A parlarne è stata Chiara Cozzetto, segretaria nazionale Anief , intervenuta il 5 novembre a Question Time , la trasmissione di Orizzonte Scuola TV condotta da Francesco Bunetto . L'esponente sindacale ha illustrato le prospettive dei nuovi bandi, precisando che non sono ancora…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti"
+   ],
+   "id": "9124716dd568",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/come-appassionare-i-ragazzi-alla-lettura-il-progetto-scintille-rivolto-alle-scuole-superiori-una-guida-con-13-libri-proposti-da-salani",
+   "titolo": "Come appassionare i ragazzi alla lettura? Il progetto Scintille rivolto alle scuole superiori: una guida con 13 libri proposti da Salani",
+   "abstract": "Oggi tutti noi, ragazze e ragazzi compresi, viviamo immersi in un flusso continuo di informazioni, immagini e stimoli. Eppure raramente ci concediamo il tempo di soffermarci davvero su qualcosa che possa lasciare un segno. Un libro, se è quello giusto, può farlo. Può diventare…",
+   "data": "2026-11-06",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "La Tecnica consiglia",
+    "Letteratura",
+    "Scuole superiori"
+   ],
+   "id": "cafa293eced7",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/arriva-la-certificazione-informatica-sulluso-dellaia-e-lapprendistato-allestero-lue-presenta-le-competenze-per-rafforzare-i-sistemi-educativi-europei-si-punta-anche-su-competenze-di-base-e/",
+   "titolo": "Arriva la certificazione europea sull’uso dell’IA e l’apprendistato all’estero. L’UE presenta le competenze per le scuole europee: da quelle di base alla formazione dei docenti",
+   "abstract": "Un quindicenne europeo su tre incontra difficoltà nella lettura e nella matematica, mentre uno su quattro non raggiunge livelli adeguati nelle scienze. A questi risultati si aggiungono la carenza di insegnanti e la diffusione dell’intelligenza artificiale tra gli studenti, che…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "8bbe909cae55",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/alberto-pellai-e-la-lezione-di-pinocchio-chi-sono-oggi-lucignolo-e-il-gatto-e-la-volpe-e-perche-i-ragazzi-sono-stati-manipolati-sedotti-e-allontanati-dalla-crescita/",
+   "titolo": "Alberto Pellai e la lezione di Pinocchio: chi sono oggi Lucignolo e il gatto e la volpe, e perché i ragazzi sono stati “manipolati, sedotti e allontanati” dalla crescita",
+   "abstract": "Per raccontare cosa è successo ai ragazzi negli ultimi quindici anni, Alberto Pellai è partito da una storia che tutti conoscono: Pinocchio. L'articolo Alberto Pellai e la lezione di Pinocchio: chi sono oggi Lucignolo e il gatto e la volpe, e perché i ragazzi sono stati…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "96dfea577542",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/video-intimi-rubati-allamico-e-fatti-girare-a-scuola-due-ventiduenni-condannati-per-revenge-porn",
    "titolo": "Video intimi rubati all’amico e fatti girare a scuola: due ventiduenni condannati per revenge porn",
