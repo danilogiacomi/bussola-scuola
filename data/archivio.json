@@ -1,39 +1,60 @@
 {
- "aggiornato": "2026-11-06T12:57:58+00:00",
+ "aggiornato": "2026-11-06T20:27:28+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-06T12:57:58+00:00",
-   "ultimo_ok": "2026-11-06T12:57:58+00:00"
+   "controllato": "2026-11-06T20:27:28+00:00",
+   "ultimo_ok": "2026-11-06T20:27:28+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-06T12:57:58+00:00",
-   "ultimo_ok": "2026-11-06T12:57:58+00:00"
+   "controllato": "2026-11-06T20:27:28+00:00",
+   "ultimo_ok": "2026-11-06T20:27:28+00:00"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-06T12:57:58+00:00",
+   "controllato": "2026-11-06T20:27:28+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 24,
-   "controllato": "2026-11-06T12:57:58+00:00",
-   "ultimo_ok": "2026-11-06T12:57:58+00:00"
+   "voci": 28,
+   "controllato": "2026-11-06T20:27:28+00:00",
+   "ultimo_ok": "2026-11-06T20:27:28+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-06T12:57:58+00:00",
-   "ultimo_ok": "2026-11-06T12:57:58+00:00"
+   "controllato": "2026-11-06T20:27:28+00:00",
+   "ultimo_ok": "2026-11-06T20:27:28+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/sei-malata-fidati-di-me-cosi-lintelligenza-artificiale-dallaccount-della-scuola-ad-una-adolescente-che-pianificava-il-proprio-funerale/",
+   "titolo": "“Sei malata, fidati di me”, così l’Intelligenza Artificiale dall’account della scuola ad una adolescente che pianificava il proprio funerale",
+   "abstract": "Per mesi ha usato l'Intelligenza Artificiale per condividere i propri problemi psicologici, adesso la famiglia accusa l'aziende proprietaria dell'IA che era a disposizione della studentessa tramite l'account della scuola. L'articolo “Sei malata, fidati di me”, così…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "dcca2b7ea70d",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/vincenzo-schettini-a-orizzonte-scuolabasta-con-gli-oggetti-investiamo-sugli-insegnanti-intervista/",
    "titolo": "Vincenzo Schettini a Orizzonte Scuola:“Basta con gli oggetti, investiamo sugli insegnanti”. [INTERVISTA]",
@@ -72,6 +93,44 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/toxic-positivity-la-dittatura-della-felicita-perche-i-giovani-sentono-di-dover-essere-sempre-belli-vincenti-e-felici/",
+   "titolo": "Toxic positivity, la dittatura della felicità: perché i giovani sentono di dover essere sempre belli, vincenti e felici",
+   "abstract": "Essere felici sembra diventato un dovere. Non basta attraversare la giovinezza, imparare, sbagliare, cercare una strada: bisogna apparire entusiasti, attraenti, performanti, possibilmente sempre pronti a raccontare una nuova conquista. La tristezza disturba la narrazione, la…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "4534006b896f",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/tiktok-lue-contro-leffetto-tana-del-coniglio-lalgoritmo-propone-video-sempre-simili-anche-su-perdita-di-peso-e-salute-mentale-possibile-multa-fino-al-6/",
+   "titolo": "TikTok, l’Ue contro l’effetto “tana del coniglio”: l’algoritmo propone video sempre simili, anche su perdita di peso e salute mentale. Possibile multa fino al 6% del fatturato",
+   "abstract": "La Commissione europea mette sotto accusa il cuore di TikTok: il feed “Per te”, che propone video senza sosta in base ai gusti di chi scorre. L'articolo TikTok, l’Ue contro l’effetto “tana del coniglio”: l’algoritmo propone video sempre simili, anche su perdita di peso e salute…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "932d581596ee",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/scuola-in-ospedale-e-istruzione-domiciliare-2026-27-cambiano-i-finanziamenti-e-i-requisiti-per-docenti-e-famiglie",
    "titolo": "Scuola in ospedale e istruzione domiciliare 2026/27: cambiano i finanziamenti e i requisiti per docenti e famiglie",
    "abstract": "Il Ministero dell’Istruzione e del Merito ha emanato i provvedimenti direttoriali che sbloccano le risorse per la Scuola in Ospedale (SIO) e per l’Istruzione Domiciliare (ID) per l’anno scolastico 2026/2027. Queste risorse sono destinate a tutelare il diritto all’apprendimento e…",
@@ -89,6 +148,23 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/niente-scuola-ne-amici-per-piu-di-sei-mesi-e-la-condizione-di-oltre-50mila-studenti-italiani-hikikomori-i-dati/",
+   "titolo": "Niente scuola né amici per più di sei mesi: è la condizione di oltre 50mila studenti italiani hikikomori. I dati",
+   "abstract": "Niente scuola, niente amici, nessun incontro con il mondo di fuori, per mesi. È la condizione degli hikikomori, i ragazzi che scelgono di ritirarsi dalla vita sociale. L'articolo Niente scuola né amici per più di sei mesi: è la condizione di oltre 50mila studenti italiani…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "9cccb4f1da93",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti"
    ],
    "superiori": false
   },
@@ -149,6 +225,23 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/landini-cgil-non-e-vero-che-non-ci-sono-soldi-25-miliardi-per-la-scuola-e-la-sanita-da-chi-guadagna-oltre-2-milioni-di-euro/",
+   "titolo": "Landini (CGIL): “Non è vero che non ci sono soldi, 25 miliardi per la scuola e la sanità da chi guadagna oltre 2 milioni di euro”",
+   "abstract": "Un contributo di solidarietà dell'1% sui redditi superiori ai 2 milioni di euro, da cui ricavare 25 miliardi destinati in primo luogo alla scuola, oltre che a sanità, pubblico impiego e politiche industriali. L'articolo Landini (CGIL): “Non è vero che non ci sono soldi, 25…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "f211883da9c0",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.orizzontescuola.it/la-lezione-cambia-volto-tre-studenti-una-domanda-sulla-violenza-e-una-classe-che-impara-a-pensare-quando-il-digitale-e-lintelligenza-artificiale-restituiscono-agli-alunni-il-protagonismo-d/",
    "titolo": "La lezione cambia volto: tre studenti, una domanda sulla violenza e una classe che impara a pensare. Quando il digitale e l’intelligenza artificiale restituiscono agli alunni il protagonismo dell’apprendimento",
    "abstract": "“La violenza può essere considerata una manifestazione del pensiero oppure rappresenta una mortificazione della democrazia e dei diritti?”. È da questa domanda che prende forma un'esperienza educativa nella classe seconda C, indirizzo Informatica e Telecomunicazioni…",
@@ -159,6 +252,60 @@
     "Docenti"
    ],
    "id": "6e917a65fa43",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/italiano-latino-e-greco-con-4-matematica-con-5-alunna-con-disturbo-misto-delle-capacita-scolastiche-famiglia-fa-ricorso-al-tar-contro-la-bocciatura-ma-i-giudici-dicono-no-ecco-perche/",
+   "titolo": "Italiano, latino e greco con 4, matematica con 5, alunna con “disturbo misto delle capacità scolastiche”. Famiglia fa ricorso al TAR contro la bocciatura, ma i giudici dicono no: ecco perché",
+   "abstract": "Un anno di liceo classico concluso con cinque materie sotto la sufficienza e un ricorso al Tar. È la vicenda al centro della sentenza n.1359/2026, emessa, lo scorso 13 ottobre, dal Tribunale Amministrativo Regionale per la Lombardia, sezione staccata di Brescia, che ha respinto…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "e5f52917b1a6",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/insulti-al-corpo-docente-e-minacce-al-compagno-con-note-scritte-da-ben-7-prof-differenti-il-tar-conferma-la-sospensione-di-10-giorno-per-lo-studente-rappresentante-di-classe/",
+   "titolo": "Insulti ai professori e minacce a un compagno, note da 7 docenti differenti: il TAR conferma la sospensione di 10 giorni allo studente rappresentante",
+   "abstract": "Il Tar dell'Emilia Romagna ha rigettato il ricorso presentato dai genitori di un alunno contro il Ministero dell'Istruzione e del Merito e contro l'istituto superiore di Bologna frequentato dal figlio. L'articolo Insulti ai professori e minacce a un compagno, note da 7 docenti…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "3060a3c679e7",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ia-lautorita-ai-docenti-che-fine-sta-facendo-rispondono-benevento-e-rusconi-con-crescere-nelleta-dellintelligenza-artificiale-adolescenti-scuola-e-nuove-relazioni-soci",
+   "titolo": "IA, l’autorità dei docenti che fine sta facendo? Rispondono Benevento e Rusconi con “Crescere nell’età dell’intelligenza artificiale. Adolescenti, scuola e nuove relazioni sociali”",
+   "abstract": "Sta assumendo proporzioni sempre maggiori il dibattito sull’opportunità della scuola di introdurre l’intelligenza artificiale nei piani ordinari di formazione. Nel frattempo, però, è pacifico che gli studenti già la usino per studiare, per scrivere e per risolvere i loro…",
+   "data": "2026-11-06",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Intelligenza artificiale"
+   ],
+   "id": "2aa195c211ef",
    "raccolto": "2026-11-06",
    "sezioni": [
     "studenti",
@@ -184,6 +331,24 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/firenze-il-comune-stanzia-100mila-euro-per-tenere-aperte-le-scuole-anche-durante-le-feste-fino-a-10mila-euro-per-ogni-istituto-comprensivo-domande-entro-il-25-novembre/",
+   "titolo": "Firenze, il Comune stanzia 100mila euro per tenere aperte le scuole anche durante le feste: fino a 10mila euro per ogni istituto comprensivo, domande entro il 25 novembre",
+   "abstract": "A Firenze la scuola potrà restare un punto di ritrovo anche quando le lezioni si fermano. Il Comune ha stanziato 100mila euro per il progetto sperimentale “Scuole aperte”: laboratori, attività culturali, educative e sportive per gli alunni degli istituti comprensivi cittadini…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "6f8151bc100e",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -224,6 +389,91 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/dote-scuola-lombardia-2026-2027-fino-a-2-000-euro-per-le-rette-con-isee-fino-a-40mila-euro-domande-online-entro-il-10-dicembre/",
+   "titolo": "Dote Scuola Lombardia 2026/2027, fino a 2.000 euro per le rette con ISEE fino a 40mila euro: domande online entro il 10 dicembre",
+   "abstract": "Chi paga una retta per mandare i figli a scuola in Lombardia può chiedere una mano alla Regione. È aperto l’avviso Dote Scuola - componente Buono Scuola per l’anno scolastico 2026/2027: un contributo a fondo perduto, da 300 a 2.000 euro, che rimborsa una parte della retta…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "6dda3e7ffaea",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dipendenze-digitali-il-614-dei-bimbi-tra-0-e-6-anni-usa-lo-schermo-ogni-giorno-lavenia-genitori-che-non-sanno-parlare-ai-figli-senza-uno-schermo-di-mezzo/",
+   "titolo": "Dipendenze digitali, il 61,4% dei bimbi tra 0 e 6 anni usa lo schermo ogni giorno. Lavenia: “Genitori che non sanno parlare ai figli senza uno schermo di mezzo”",
+   "abstract": "Il 61,4% dei bambini tra zero e sei anni utilizza uno schermo ogni giorno e per il 41,5% il primo contatto con i dispositivi avviene tra i due e i tre anni. L'articolo Dipendenze digitali, il 61,4% dei bimbi tra 0 e 6 anni usa lo schermo ogni giorno. Lavenia: “Genitori che non…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "cadfe031e106",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-20524-del-4-novembre-2026",
+   "titolo": "Decreto Dirigenziale n. 20524 del 4 novembre 2026",
+   "abstract": "Determina di affidare, ai sensi dell'art. 50 comma 1, d.lgs. n. 36/2023, il servizio assicurativo relativo alla copertura Kasko per i rischi di danneggiamento dell'autoveicolo e a copertura dei rischi per gli infortuni per il personale dell'amministrazione centrale in missione…",
+   "data": "2026-11-06",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "6a47784eb4a1",
+   "raccolto": "2026-11-06",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-20500-del-3-novembre-2026",
+   "titolo": "Decreto Dirigenziale n. 20500 del 3 novembre 2026",
+   "abstract": "Determina di affidare, ai sensi dell'art. 50 comma 1, lett. b), d.lgs. n. 36/2023, il servizio di riproduzione stampe/copie in outsourcing per le esigenze degli uffici del Ministero dell'Istruzione e del Merito, sito in viale Trastevere 76/A, per il periodo dal 01/01/2027 al…",
+   "data": "2026-11-06",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "1d07a2b83e52",
+   "raccolto": "2026-11-06",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-47-del-14-ottobre-2026",
+   "titolo": "Decreto Direttoriale n. 47 del 14 ottobre 2026",
+   "abstract": "Decreto di approvazione contratto acquisto fornitura di toner, kit di manutenzione e ulteriori materiali di consumo",
+   "data": "2026-11-06",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "8b7bcb0ebde8",
+   "raccolto": "2026-11-06",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2487-del-30-ottobre-2026",
    "titolo": "Decreto Dipartimentale n. 2487 del 30 ottobre 2026",
    "abstract": "",
@@ -236,6 +486,24 @@
    "abstract_tentato": true,
    "sezioni": [
     "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/corri-libera-2026-attraverso-lo-sport-il-mim-promuove-la-cultura-del-rispetto-e-il-contrasto-alla-violenza-contro-le-donne-1",
+   "titolo": "Corri Libera 2026: attraverso lo sport il MIM promuove la cultura del rispetto e il contrasto alla violenza contro le donne",
+   "abstract": "Domenica 15 novembre 2026 torna a Roma “Corri Libera”, l’iniziativa di sensibilizzazione promossa in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne. La seconda edizione prevede una corsa di 5 chilometri, con partenza alle ore 10.00 dal…",
+   "data": "2026-11-06",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Notizia"
+   ],
+   "id": "86bc5c90a925",
+   "raccolto": "2026-11-06",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
    ],
    "superiori": false
   },
@@ -278,6 +546,39 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/cinema-e-arti-dal-mic-borse-di-studio-e-percorsi-formativi-in-memoria-delle-sei-vittime-italiane-di-crans-montana/",
+   "titolo": "Cinema e arti, dal MiC borse di studio e percorsi formativi in memoria delle sei vittime italiane di Crans-Montana",
+   "abstract": "Il Sottosegretario alla Cultura Lucia Borgonzoni ha siglato il protocollo d’intesa con la Fondazione Centro Sperimentale di Cinematografia e la Fondazione La Biennale di Venezia per l'istituzione di borse di studio e itinerari di sviluppo professionale in memoria delle sei…",
+   "data": "2026-11-06",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "f931e0dc936c",
+   "raccolto": "2026-11-06",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-100799-del-6-novembre-2026",
+   "titolo": "Avviso n. 100799 del 6 novembre 2026",
+   "abstract": "Avviso di interpello - Procedura di conferimento ad interim di un incarico dirigenziale di livello non generale - Ufficio VI della Direzione generale per l'edilizia scolastica, le risorse e il supporto alle istituzioni scolastiche del Dipartimento delle risorse, l'organizzazione…",
+   "data": "2026-11-06",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "d767cd037efd",
+   "raccolto": "2026-11-06",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/arriva-la-certificazione-informatica-sulluso-dellaia-e-lapprendistato-allestero-lue-presenta-le-competenze-per-rafforzare-i-sistemi-educativi-europei-si-punta-anche-su-competenze-di-base-e/",
    "titolo": "Arriva la certificazione europea sull’uso dell’IA e l’apprendistato all’estero. L’UE presenta le competenze per le scuole europee: da quelle di base alla formazione dei docenti",
    "abstract": "Un quindicenne europeo su tre incontra difficoltà nella lettura e nella matematica, mentre uno su quattro non raggiunge livelli adeguati nelle scienze. A questi risultati si aggiungono la carenza di insegnanti e la diffusione dell’intelligenza artificiale tra gli studenti, che…",
@@ -310,6 +611,24 @@
    "raccolto": "2026-11-06",
    "sezioni": [
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/-noisiamolescuole-in-provincia-di-bolzano-la-scuola-fa-squadra-con-nuove-palestre-e-campi-sportivi-aperti-anche-al-territorio",
+   "titolo": "#NoiSiamoLeScuole: in provincia di Bolzano la scuola fa squadra, con nuove palestre e campi sportivi aperti anche al territorio",
+   "abstract": "Il video racconto del Ministero dell’Istruzione e del Merito questa settimana è dedicato a tre interventi attivati dalla Provincia di Bolzano grazie ai fondi PNRR per rinnovare gli spazi dedicati al movimento e alla socialità collettiva, alla Scuola primaria “Stephan…",
+   "data": "2026-11-06",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "53f7c9fcff3a",
+   "raccolto": "2026-11-06",
+   "abstract_tentato": true,
+   "sezioni": [
+    "innovazione"
    ],
    "superiori": false
   },
