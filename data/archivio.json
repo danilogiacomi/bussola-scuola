@@ -1,37 +1,37 @@
 {
- "aggiornato": "2026-11-07T11:44:49+00:00",
+ "aggiornato": "2026-11-07T18:49:08+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-07T11:44:49+00:00",
-   "ultimo_ok": "2026-11-07T11:44:49+00:00"
+   "controllato": "2026-11-07T18:49:08+00:00",
+   "ultimo_ok": "2026-11-07T18:49:08+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-07T11:44:49+00:00",
+   "controllato": "2026-11-07T18:49:08+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-07T11:44:49+00:00",
+   "controllato": "2026-11-07T18:49:08+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 22,
-   "controllato": "2026-11-07T11:44:49+00:00",
-   "ultimo_ok": "2026-11-07T11:44:49+00:00"
+   "voci": 29,
+   "controllato": "2026-11-07T18:49:08+00:00",
+   "ultimo_ok": "2026-11-07T18:49:08+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-07T11:44:49+00:00",
-   "ultimo_ok": "2026-11-07T11:44:49+00:00"
+   "controllato": "2026-11-07T18:49:08+00:00",
+   "ultimo_ok": "2026-11-07T18:49:08+00:00"
   }
  },
  "notizie": [
@@ -73,6 +73,69 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/voti-contestati-cosa-deve-fare-un-docente-autonomia-professionale-criteri-di-valutazione-e-diritto-degli-studenti-a-capire-il-giudizio",
+   "titolo": "Voti contestati, cosa deve fare un docente? Autonomia professionale, criteri di valutazione e diritto degli studenti a capire il giudizio",
+   "abstract": "Basta inserire sul registro un 5 in una verifica di storia che repentinamente arriva una mail della famiglia che chiede spiegazioni, o di uno studente che non capisce dove abbia sbagliato continuando a contestare il voto. È una scena frequente, che di solito si verifica nelle…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Valutazione"
+   ],
+   "id": "3b239f0b4ba1",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/universita-montanari-gli-studenti-non-sono-clienti-sono-persone-petrucci-sui-precari-della-ricerca-riflessione-seria-e-non-piu-rinviabile/",
+   "titolo": "Università, Montanari: “Gli studenti non sono clienti, sono persone”, Petrucci sui precari della ricerca: “Riflessione seria e non più rinviabile”",
+   "abstract": "Il fegato di una comunità nazionale. Per Tomaso Montanari, rettore dell’Università per Stranieri di Siena, l’università è proprio questo: il luogo dove nascono idee nuove, si prepara il domani e si smontano le narrazioni di chi piega la cultura per seminare paura e segregazione…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti",
+    "Università"
+   ],
+   "id": "c431035762be",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/tagli-alla-scuola-nella-manovra-2027-fratoianni-avs-istruzione-e-ricerca-ai-margini-della-politica-della-destra",
+   "titolo": "Tagli alla scuola nella Manovra 2027, Fratoianni (Avs): “Istruzione e ricerca ai margini della politica della destra”",
+   "abstract": "“I tagli alla scuola pubblica ormai sono una costante per questo governo: la scuola, l’università , la ricerca sono ai margini della politica della destra”. Non usa mezzi termini Nicola Fratoianni, portavoce di Alleanza Verdi e Sinistra, parlando con i giornalisti a margine del…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Docenti",
+    "Studenti e genitori",
+    "Manovra",
+    "Proteste",
+    "Tagli"
+   ],
+   "id": "0672c5ba3341",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/studenti-milanesi-al-cenacolo-di-leonardo-da-vinci-con-sfera-ebbasta-dialogo-tra-musica-arte-e-inclusione-sociale",
    "titolo": "Studenti milanesi al “Cenacolo” di Leonardo da Vinci con Sfera Ebbasta: “Dialogo tra musica, arte e inclusione sociale”",
    "abstract": "Uno dei capolavori dell’arte di tutti i tempi e uno dei cantanti più discussi della scena italiana. Un accostamento sorprendente, che ha visto negli studenti dell’Istituto comprensivo Piazza Costa ‘Morandi’ di Cinisello Balsamo. Accade a Milano, dove il rapper Sfera Ebbasta…",
@@ -87,6 +150,42 @@
     "musica"
    ],
    "id": "00e5f59b6a74",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studenti-allestero-al-nord-il-66-delle-scuole-ha-ragazzi-in-mobilita-nel-sud-e-nelle-isole-il-44-il-nord-america-resta-la-meta-preferita/",
+   "titolo": "Studenti all’estero: al Nord il 66% delle scuole ha ragazzi in mobilità, nel Sud e nelle Isole il 44%. Il Nord America resta la meta preferita",
+   "abstract": "Più di una scuola superiore su due ha almeno uno studente che sta passando un periodo di studio all’estero. Si tratta del 56% degli istituti, un punto in più rispetto al 2025. L'articolo Studenti all’estero: al Nord il 66% delle scuole ha ragazzi in mobilità, nel Sud e nelle…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "d8783ad7823a",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sfera-ebbasta-incontra-gli-studenti-davanti-allultima-cena-di-leonardo-al-cenacolo-vinciano-di-milano-un-dialogo-tra-musica-arte-e-inclusione/",
+   "titolo": "Sfera Ebbasta incontra gli studenti davanti all’Ultima Cena di Leonardo: al Cenacolo Vinciano di Milano un dialogo tra musica, arte e inclusione",
+   "abstract": "Giovedì 5 novembre, per un gruppo di studenti di Cinisello Balsamo, la lezione si è spostata in un posto speciale: le sale del Cenacolo Vinciano di Milano, davanti all’Ultima Cena di Leonardo da Vinci. L'articolo Sfera Ebbasta incontra gli studenti davanti all’Ultima Cena di…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "f012e1ba86d7",
    "raccolto": "2026-11-07",
    "sezioni": [
     "studenti",
@@ -110,6 +209,42 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/rav-pdm-e-ptof-2026-2027-la-nota-ministeriale-del-22-ottobre-cambia-le-procedure-di-aggiornamento-scheda-con-manuale-operativo-e-32-modelli-da-scaricare/",
+   "titolo": "RAV, PdM e PTOF 2026/2027: la nota ministeriale del 22 ottobre cambia le procedure di aggiornamento. Scheda con manuale operativo e 32 modelli da scaricare",
+   "abstract": "La nota della Direzione generale per gli ordinamenti scolastici, la formazione del personale scolastico e la valutazione del sistema nazionale di istruzione, prot. n. 188974 del 22 ottobre 2026, disciplina le operazioni di aggiornamento dei documenti strategici nell’anno…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "45b91e7bb174",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/niente-smartphone-prima-dei-14-anni-e-social-prima-dei-16-novara-torna-allattacco-tutti-gli-stati-europei-si-stanno-organizzando-per-mettere-delle-regole-in-italia-no/",
+   "titolo": "Niente smartphone prima dei 14 anni e social prima dei 16, Novara torna all’attacco: “Tutti gli Stati europei si stanno organizzando per mettere delle regole. In Italia no”",
+   "abstract": "Ai più giovani la legge vieta di comprare alcolici e sigarette, ma non pone alcun limite all’uso di un telefono tutto loro o di un profilo social. È questa, per il pedagogista Daniele Novara, l’anomalia italiana. L'articolo Niente smartphone prima dei 14 anni e social prima dei…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "8a7679ca6a20",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "studenti"
    ],
    "superiori": false
   },
@@ -244,6 +379,25 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/empoli-gli-studenti-chiudono-loccupazione-e-puliscono-le-aule-tra-le-richieste-anche-uneducazione-civica-piu-legata-allattualita/",
+   "titolo": "Empoli, gli studenti chiudono l’occupazione e puliscono le aule. Tra le richieste anche un’educazione civica più legata all’attualità",
+   "abstract": "Aule pulite, nessun danno e una lista di problemi da risolvere. Si è chiusa così, oggi, dopo 5 giorni, l’occupazione di un liceo di Empoli. Gli studenti hanno riconsegnato la scuola in ordine, dopo aver sistemato loro stessi gli spazi, come riporta l’ANSA. L'articolo Empoli, gli…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "b0e8371143d4",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.orizzontescuola.it/educazione-civica-sei-concorsi-con-senato-e-camera-per-lanno-2026-27-prima-scadenza-il-10-novembre-lultima-il-28-gennaio-destinatari-e-cosa-fare/",
    "titolo": "Educazione civica, sei concorsi con Senato e Camera per l’anno 2026/27: prima scadenza il 10 novembre, l’ultima il 28 gennaio. Destinatari e cosa fare",
    "abstract": "Scrivere una legge, scoprire come lavora il Senato, raccontare la nascita della Costituzione. Anche per l’anno scolastico 2026/2027 il Ministero dell’Istruzione e del Merito, il Senato e la Camera dei Deputati propongono alle scuole statali e paritarie sei progetti e concorsi di…",
@@ -296,6 +450,24 @@
     "armi a scuola"
    ],
    "id": "4841d46a8ebd",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/bullismo-e-cyberbullismo-il-codacons-chiede-al-ministero-una-verifica-nazionale-nelle-scuole-tanasi-il-bullismo-non-e-una-ragazzata/",
+   "titolo": "Bullismo e cyberbullismo, il Codacons chiede al ministero una verifica nazionale nelle scuole. Tanasi: “Il bullismo non è una ragazzata”",
+   "abstract": "Il Codacons chiede al ministero dell’Istruzione e del Merito di avviare una ricognizione nazionale sull’applicazione, nelle scuole, delle norme contro bullismo e cyberbullismo. L'articolo Bullismo e cyberbullismo, il Codacons chiede al ministero una verifica nazionale nelle…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Bullismo Cyberbullismo Didattica"
+   ],
+   "id": "34531b4e03fc",
    "raccolto": "2026-11-07",
    "sezioni": [
     "studenti"
