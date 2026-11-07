@@ -1,39 +1,365 @@
 {
- "aggiornato": "2026-11-06T20:27:28+00:00",
+ "aggiornato": "2026-11-07T11:44:49+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-06T20:27:28+00:00",
-   "ultimo_ok": "2026-11-06T20:27:28+00:00"
+   "controllato": "2026-11-07T11:44:49+00:00",
+   "ultimo_ok": "2026-11-07T11:44:49+00:00"
   },
   "gu": {
-   "esito": "ok",
+   "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-06T20:27:28+00:00",
-   "ultimo_ok": "2026-11-06T20:27:28+00:00"
+   "controllato": "2026-11-07T11:44:49+00:00",
+   "ultimo_ok": "2026-11-06T20:27:28+00:00",
+   "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-06T20:27:28+00:00",
+   "controllato": "2026-11-07T11:44:49+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-06T20:27:28+00:00",
-   "ultimo_ok": "2026-11-06T20:27:28+00:00"
+   "voci": 22,
+   "controllato": "2026-11-07T11:44:49+00:00",
+   "ultimo_ok": "2026-11-07T11:44:49+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-06T20:27:28+00:00",
-   "ultimo_ok": "2026-11-06T20:27:28+00:00"
+   "controllato": "2026-11-07T11:44:49+00:00",
+   "ultimo_ok": "2026-11-07T11:44:49+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/pistole-puntate-contro-la-nostra-faccia-la-denuncia-degli-studenti-dopo-la-tentata-occupazione",
+   "titolo": "“Pistole puntate contro la nostra faccia”, la denuncia degli studenti dopo la tentata occupazione",
+   "abstract": "Forti tensioni all’Istituto agrario di Firenze, dove gli studenti che nei giorni scorsi hanno tentato di occupare la scuola hanno denunciato di “pistole puntate contro la nostra faccia” da parte dei carabinieri. A riferire la notizia è Rai News. “Secondo quanto ricostruito…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori"
+   ],
+   "id": "7fd6a6b20887",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/a-12-anni-costretto-ad-alzarsi-allalba-per-spalare-il-letame-dalla-stalla-di-famiglia-studente-salvato-da-un-docente-genitori-condannati",
+   "titolo": "“A 12 anni costretto ad alzarsi all’alba per spalare il letame dalla stalla di famiglia”: studente salvato da un docente, genitori condannati",
+   "abstract": "Tutto è iniziato con il quesito di un docente in occasione della Festa del papà. Una domanda innocente sul regalo che uno studente di 12 anni avrebbe voluto fare al babbo, che ha scoperchiato un vero e proprio vaso di pandora. Accade in provincia di Treviso, dove la mamma e il…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Violenza"
+   ],
+   "id": "1b3d1d8c8568",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studenti-milanesi-al-cenacolo-di-leonardo-da-vinci-con-sfera-ebbasta-dialogo-tra-musica-arte-e-inclusione-sociale",
+   "titolo": "Studenti milanesi al “Cenacolo” di Leonardo da Vinci con Sfera Ebbasta: “Dialogo tra musica, arte e inclusione sociale”",
+   "abstract": "Uno dei capolavori dell’arte di tutti i tempi e uno dei cantanti più discussi della scena italiana. Un accostamento sorprendente, che ha visto negli studenti dell’Istituto comprensivo Piazza Costa ‘Morandi’ di Cinisello Balsamo. Accade a Milano, dove il rapper Sfera Ebbasta…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Arte",
+    "Milano",
+    "musica"
+   ],
+   "id": "00e5f59b6a74",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-finlandese-quali-metodologie-sei-ore-di-lezioni-seduti-sono-efficaci",
+   "titolo": "Scuola finlandese, quali metodologie? Sei ore di lezioni seduti sono efficaci?",
+   "abstract": "Le lezioni troppo frammentate, i continui cambi di attività e gli ambienti poco flessibili possono rendere difficile mantenere alta l’attenzione degli studenti. Ma è possibile organizzare la scuola in modo diverso, ripensando tempi, spazi e metodologie? Il modello finlandese…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Finlandia"
+   ],
+   "id": "6c7f0eb153bf",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/matematica-scienze-e-italiano-si-imparano-anche-nei-boschi-e-nei-parchi-il-progetto-che-cambia-il-modo-di-insegnare-e-valutare-gli-studenti-intervista/",
+   "titolo": "Matematica, scienze e italiano si imparano anche nei boschi e nei parchi: il progetto che cambia il modo di insegnare e valutare gli studenti. INTERVISTA",
+   "abstract": "Si scrive 6.1.Fuoriclasse! ma si legge Sei un/una Fuoriclasse! , è il progetto in partenza nell’IC Ernesto Monaci di Soriano nel Cimino (VT) che nasce dall’idea di mettere in pratica l’Outdoor Education. Una proposta nata dall’idea della Professoressa Monica Lecchini…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "5ba95c858836",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/manovra-2027-i-bonus-per-le-famiglie-paritarie-con-isee-fino-a-30mila-euro-bonus-mamme-con-reddito-fino-a-40mila-congedo-all80-e-100-euro-lanno-ai-nuovi-nati/",
+   "titolo": "Manovra 2027, i bonus per le famiglie: paritarie con ISEE fino a 30mila euro, bonus mamme con reddito fino a 40mila, congedo all’80% e 100 euro l’anno ai nuovi nati",
+   "abstract": "Più mesi di congedo pagati all’80%, cento euro l’anno per ogni bambino che nasce, bonus mamme potenziato. L'articolo Manovra 2027, i bonus per le famiglie: paritarie con ISEE fino a 30mila euro, bonus mamme con reddito fino a 40mila, congedo all’80% e 100 euro l’anno ai nuovi…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "e362fca582af",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/lite-tra-ragazzi-davanti-a-una-scuola-media-un-14enne-estrae-un-coltello-denunciato-succede-a-biella/",
+   "titolo": "Lite tra ragazzi davanti a una scuola media: un 14enne estrae un coltello, denunciato. Succede a Biella",
+   "abstract": "Una lite fra ragazzini davanti ai cancelli di una scuola media di Biella, poi la paura: uno di loro ha tirato fuori un coltello. A dividere i ragazzi sono stati alcuni genitori che aspettavano i figli, finché è arrivata una volante della polizia. L'articolo Lite tra ragazzi…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "66f0ce598e82",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/indicazioni-nazionali-primo-ciclo-lettura-a-scuola-come-evitare-che-per-gli-studenti-sia-un-obbligo-e-niente-piu",
+   "titolo": "Indicazioni nazionali primo ciclo, lettura a scuola: come evitare che per gli studenti sia un obbligo e niente più?",
+   "abstract": "La lettura è fondamentale per la crescita degli studenti, ma come evitare che venga percepita soltanto come un obbligo scolastico? Coinvolgere bambini e ragazzi richiede testi stimolanti, attività creative e modalità capaci di valorizzare linguaggi diversi. I docenti sono…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Libri",
+    "Nuove Indicazioni Nazionali primo ciclo"
+   ],
+   "id": "d5f210f87103",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/indicazioni-nazionali-per-il-curricolo-della-scuola-dellinfanzia-e-del-primo-ciclo-distruzione-cosa-sta-cambiando",
+   "titolo": "Indicazioni nazionali per il curricolo della scuola dell’infanzia e del primo ciclo d’istruzione: cosa sta cambiando?",
+   "abstract": "Rivedere il curricolo di istituto alla luce delle nuove Indicazioni nazionali è un passaggio che coinvolge tutta la comunità scolastica. I dirigenti devono saper coordinare questo processo, individuare le priorità e fornire ai docenti riferimenti chiari per evitare una revisione…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Nuove Indicazioni Nazionali primo ciclo"
+   ],
+   "id": "9b6fa2f7d7a1",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/grammatica-valenziale-scuola-primaria-il-metodo-che-parte-dal-verbo-e-va-oltre-gli-esercizi-ripetitivi",
+   "titolo": "Grammatica valenziale scuola primaria: il metodo che parte dal verbo e va oltre gli esercizi ripetitivi",
+   "abstract": "Quanti alunni imparano le regole grammaticali senza riuscire poi ad applicarle? Alla primaria serve un metodo che vada oltre gli esercizi ripetitivi. La grammatica valenziale parte dal verbo e aiuta i bambini a comprendere davvero come si costruisce una frase. Vai al corso Cos’è…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Didattica",
+    "Grammatica valenziale"
+   ],
+   "id": "ed7763497e29",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ferie-docenti-precari-basta-una-circolare-del-dirigente-per-perdere-lindennita-non-esattamente-ganci-deve-spiegare-anche-le-conseguenze-il-punto/",
+   "titolo": "Ferie docenti precari, basta una circolare del dirigente per perdere l’indennità? Non esattamente, Ganci: “Deve spiegare anche le conseguenze”. Il Punto",
+   "abstract": "La questione è stata affrontata durante Diritto in Cattedra , la trasmissione di Orizzonte Scuola TV condotta da Francesco Bunetto , dedicata alle ferie non godute dei supplenti con contratto fino al 30 giugno. Ganci ha esaminato gli obblighi informativi dei dirigenti scolastici…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti"
+   ],
+   "id": "e9013429bddf",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/educazione-civica-sei-concorsi-con-senato-e-camera-per-lanno-2026-27-prima-scadenza-il-10-novembre-lultima-il-28-gennaio-destinatari-e-cosa-fare/",
+   "titolo": "Educazione civica, sei concorsi con Senato e Camera per l’anno 2026/27: prima scadenza il 10 novembre, l’ultima il 28 gennaio. Destinatari e cosa fare",
+   "abstract": "Scrivere una legge, scoprire come lavora il Senato, raccontare la nascita della Costituzione. Anche per l’anno scolastico 2026/2027 il Ministero dell’Istruzione e del Merito, il Senato e la Camera dei Deputati propongono alle scuole statali e paritarie sei progetti e concorsi di…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "89d122a32a4f",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/condizionatori-in-classe-in-sicilia-domande-al-via-il-10-novembre-stanziati-20-milioni-turano-dalle-parole-ai-fatti",
+   "titolo": "Condizionatori in classe, in Sicilia domande al via il 10 novembre. Stanziati 20 milioni, Turano: “Dalle parole ai fatti”",
+   "abstract": "Da martedì 10 novembre i Comuni, le Città metropolitane e i Liberi consorzi della Sicilia potranno richiedere, in qualità di proprietari di edifici scolastici, il contributo straordinario della Regione per installare i condizionatori nelle classi. Lo prevede la circolare…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "allerta caldo",
+    "aria condizionata",
+    "Sicilia"
+   ],
+   "id": "bdd865519f40",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/coltelli-a-scuola-ancora-un-caso-a-biella-studente-estrae-larma-dopo-una-lite-fuori-dallistituto-arriva-la-polizia",
+   "titolo": "Coltelli a scuola, ancora un caso a Biella: studente estrae l’arma dopo una lite fuori dall’istituto, arriva la polizia",
+   "abstract": "Le lame continuano a scintillare in classe e fuori dalle scuola. Stavolta, per fortuna, la situazione è stata risolta prima di degenerare. Avviene a Biella, dove nelle scorse ore – scrive il quotidiano online Il Biellese -. “uno studente, al culmine di una lite con un altro…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "aggressione studenti",
+    "armi a scuola"
+   ],
+   "id": "4841d46a8ebd",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bimba-esclusa-dalla-mensa-per-un-debito-di-38-euro-il-cnddu-ferma-censura-serve-un-fondo-comunale-di-garanzia",
+   "titolo": "Bimba esclusa dalla mensa per un debito di 38 euro, il Cnddu: “Ferma censura, serve un fondo comunale di garanzia”",
+   "abstract": "“Ferma censura” per un vicenda che “non può essere liquidata come un inconveniente burocratico“. Non usa mezzi termini l Coordinamento Nazionale Docenti della disciplina dei Diritti Umani (Cnddu) per commentare la vicenda della bambina di nove anni che, a Taranto, non ha potuto…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "diritti umani",
+    "Mensa scolastica"
+   ],
+   "id": "4eca9cf933e2",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/afghanistan-il-53-dei-bambini-e-fuori-dalla-scuola-primaria-e-a-26-milioni-di-ragazze-sono-negate-le-superiori-il-rapporto-unesco-unicef/",
+   "titolo": "Afghanistan, il 53% dei bambini è fuori dalla scuola primaria e a 2,6 milioni di ragazze sono negate le superiori. Il rapporto Unesco-Unicef",
+   "abstract": "In Afghanistan il 53% dei bambini in età da scuola primaria è escluso dall’istruzione formale, e più si sale, peggio va: restano fuori il 67% dei ragazzi in età da scuola media e il 79% di quelli in età da superiori. L'articolo Afghanistan, il 53% dei bambini è fuori dalla…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "de251a594193",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/adulting-diventare-grandi-in-un-mondo-che-cambia-le-regole-i-giovani-cercano-una-bussola-ma-gli-adulti-sanno-ancora-indicare-la-strada/",
+   "titolo": "Adulting, diventare grandi in un mondo che cambia le regole: i giovani cercano una bussola, ma gli adulti sanno ancora indicare la strada?",
+   "abstract": "Diventare adulti, un tempo, sembrava avere una sequenza riconoscibile: terminare gli studi, trovare un lavoro, conquistare un reddito, uscire dalla casa dei genitori, costruire relazioni e assumere responsabilità. Oggi quella sequenza è meno lineare. I passaggi possono…",
+   "data": "2026-11-07",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "35f28784d451",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/sei-malata-fidati-di-me-cosi-lintelligenza-artificiale-dallaccount-della-scuola-ad-una-adolescente-che-pianificava-il-proprio-funerale/",
    "titolo": "“Sei malata, fidati di me”, così l’Intelligenza Artificiale dall’account della scuola ad una adolescente che pianificava il proprio funerale",
