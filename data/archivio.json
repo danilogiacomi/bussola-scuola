@@ -1,37 +1,37 @@
 {
- "aggiornato": "2026-11-07T18:49:08+00:00",
+ "aggiornato": "2026-11-07T23:38:40+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-07T18:49:08+00:00",
-   "ultimo_ok": "2026-11-07T18:49:08+00:00"
+   "controllato": "2026-11-07T23:38:40+00:00",
+   "ultimo_ok": "2026-11-07T23:38:40+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-07T18:49:08+00:00",
+   "controllato": "2026-11-07T23:38:40+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-07T18:49:08+00:00",
+   "controllato": "2026-11-07T23:38:40+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-07T18:49:08+00:00",
-   "ultimo_ok": "2026-11-07T18:49:08+00:00"
+   "controllato": "2026-11-07T23:38:40+00:00",
+   "ultimo_ok": "2026-11-07T23:38:40+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-07T18:49:08+00:00",
-   "ultimo_ok": "2026-11-07T18:49:08+00:00"
+   "voci": 29,
+   "controllato": "2026-11-07T23:38:40+00:00",
+   "ultimo_ok": "2026-11-07T23:38:40+00:00"
   }
  },
  "notizie": [
@@ -416,6 +416,29 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/docenti-aggrediti-da-studenti-violenti-i-presidi-non-sanzionano-per-non-compromettere-la-reputazione-dellistituto-la-denuncia-dun-prof-in-servizio-a-torino",
+   "titolo": "Docenti aggrediti da studenti violenti, i presidi non sanzionano per non rovinare la reputazione dell’istituto: la denuncia d’un prof",
+   "abstract": "Le aggressioni degli studenti verso i loro docenti si svolgono troppo spesso “nell’indifferenza assoluta dei dirigenti scolastici“, che tenderebbero a “nascondere la polvere sotto il tappeto per non compromettere la reputazione dell’istituto”. Ma “una scuola che non riesce a…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti aggrediti",
+    "Studenti e genitori",
+    "Dirigenti scolastici",
+    "docenti aggrediti",
+    "Sanzioni disciplinari",
+    "Studenti violenti"
+   ],
+   "id": "4d47a33f830d",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/condizionatori-in-classe-in-sicilia-domande-al-via-il-10-novembre-stanziati-20-milioni-turano-dalle-parole-ai-fatti",
    "titolo": "Condizionatori in classe, in Sicilia domande al via il 10 novembre. Stanziati 20 milioni, Turano: “Dalle parole ai fatti”",
    "abstract": "Da martedì 10 novembre i Comuni, le Città metropolitane e i Liberi consorzi della Sicilia potranno richiedere, in qualità di proprietari di edifici scolastici, il contributo straordinario della Regione per installare i condizionatori nelle classi. Lo prevede la circolare…",
@@ -529,6 +552,27 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/a-scuola-ce-troppa-cultura-militare-che-si-esprime-con-ordine-disciplina-e-obbedienza-per-vendola-si-e-leducazione-civica-rovesciata",
+   "titolo": "A scuola c’è troppa cultura militare che si esprime con ordine, disciplina e obbedienza: per Vendola (Si) è l’educazione civica “rovesciata”",
+   "abstract": "Si costruisce una scuola che mette al centro l’ordine, la disciplina, l’obbedienza. Si prepara un clima: un clima in cui visitare una fiera delle armi, salire su un carro armato, ammirare le più sofisticate tecnologie di sterminio sembra una sorta di educazione civica…",
+   "data": "2026-11-07",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica",
+    "Educazione civica",
+    "Militare",
+    "Sinistra"
+   ],
+   "id": "f8c867c7d4d0",
+   "raccolto": "2026-11-07",
+   "sezioni": [
+    "riforme",
+    "innovazione"
    ],
    "superiori": false
   },
