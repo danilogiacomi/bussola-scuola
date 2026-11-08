@@ -1,37 +1,37 @@
 {
- "aggiornato": "2026-11-08T18:50:15+00:00",
+ "aggiornato": "2026-11-08T23:44:02+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-08T18:50:15+00:00",
-   "ultimo_ok": "2026-11-08T18:50:15+00:00"
+   "controllato": "2026-11-08T23:44:02+00:00",
+   "ultimo_ok": "2026-11-08T23:44:02+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-08T18:50:15+00:00",
+   "controllato": "2026-11-08T23:44:02+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-08T18:50:15+00:00",
+   "controllato": "2026-11-08T23:44:02+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-08T18:50:15+00:00",
-   "ultimo_ok": "2026-11-08T18:50:15+00:00"
+   "voci": 30,
+   "controllato": "2026-11-08T23:44:02+00:00",
+   "ultimo_ok": "2026-11-08T23:44:02+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-08T18:50:15+00:00",
-   "ultimo_ok": "2026-11-08T18:50:15+00:00"
+   "controllato": "2026-11-08T23:44:02+00:00",
+   "ultimo_ok": "2026-11-08T23:44:02+00:00"
   }
  },
  "notizie": [
@@ -76,6 +76,26 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/voti-da-4-a-5-in-cinque-materie-e-6-in-condotta-la-famiglia-ricorre-ma-i-giudici-confermano-la-bocciatura-dellalunna-valutazione-dei-docenti-e-stata-corretta/",
+   "titolo": "Voti da 4 a 5 in cinque materie e 6 in condotta, la famiglia ricorre, ma i giudici confermano la bocciatura dell’alunna: “Valutazione dei docenti è stata corretta”",
+   "abstract": "Una bocciatura all'esame di terza media finisce davanti ai giudici e ne esce confermata. È la vicenda raccontata nella sentenza 1378/2026 del Tar della Lombardia, sezione staccata di Brescia, che ha respinto il ricorso presentato dai genitori di una studentessa non ammessa…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "9b42f830be6e",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/studenti-in-crisi-ma-la-colpa-puo-essere-solo-dei-docenti-il-corso-gratuito-di-action-aid-e-il-progetto-concreto",
    "titolo": "Studenti in crisi: ma la colpa può essere solo dei docenti? Il corso gratuito di Action Aid e il progetto concreto",
    "abstract": "Si chiede sempre alla scuola di contrastare dispersione e disuguaglianze, ma troppo spesso si lascia ai docenti il compito di affrontare problemi che vanno ben oltre la didattica. Come promuovere il benessere degli studenti senza trasformare gli insegnanti negli unici…",
@@ -92,6 +112,31 @@
     "studenti",
     "personale",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studenti-e-docenti-insieme-in-piazza-a-torino-corteo-pacifista-contro-carovita-dilagante-e-scuole-coi-tetti-che-crollano-la-protesta-continuera",
+   "titolo": "Studenti e docenti insieme in piazza a Torino, corteo pacifista contro carovita dilagante e scuole coi tetti che crollano: la protesta continuerà",
+   "abstract": "Si è concluso il corteo pacifico contro il carovita, il caro carburanti e contro il riarmo svolto a Torino e al quale hanno partecipato studenti, docenti, lavoratori, agricoltori e famiglie. In piazza Crispi, scrivono le agenzie di stampa, sono confluiti alcune migliaia di…",
+   "data": "2026-11-08",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Personale della scuola",
+    "Politica scolastica",
+    "Studenti e genitori",
+    "carovita",
+    "Crollo scuole",
+    "Manifestazioni",
+    "Proteste",
+    "Studenti"
+   ],
+   "id": "9eb7b9880520",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
@@ -187,6 +232,26 @@
     "personale"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/le-donne-della-costituente-progetto-indire-e-camera-dei-deputati-per-le-scuole-superiori-iscrizioni-entro-il-30-novembre/",
+   "titolo": "Le donne della Costituente, progetto INDIRE e Camera dei deputati per le scuole superiori: iscrizioni entro il 30 novembre",
+   "abstract": "Sono aperte fino al 30 novembre 2026 le iscrizioni al progetto nazionale \"Le donne della Costituente. Fonti, ricerca e cittadinanza attiva\", promosso da INDIRE in collaborazione con la Camera dei deputati. L'articolo Le donne della Costituente, progetto INDIRE e Camera dei…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Educazione civica"
+   ],
+   "id": "e1352755ae47",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-la-usa-l89-dei-ragazzi-dai-9-ai-16-anni-ma-solo-il-25-dei-docenti-nella-didattica-i-dati/",
