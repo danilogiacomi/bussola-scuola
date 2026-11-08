@@ -1,40 +1,80 @@
 {
- "aggiornato": "2026-11-08T11:56:52+00:00",
+ "aggiornato": "2026-11-08T18:50:15+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-08T11:56:52+00:00",
-   "ultimo_ok": "2026-11-08T11:56:52+00:00"
+   "controllato": "2026-11-08T18:50:15+00:00",
+   "ultimo_ok": "2026-11-08T18:50:15+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-08T11:56:52+00:00",
+   "controllato": "2026-11-08T18:50:15+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-08T11:56:52+00:00",
+   "controllato": "2026-11-08T18:50:15+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-08T11:56:52+00:00",
-   "ultimo_ok": "2026-11-08T11:56:52+00:00"
+   "voci": 29,
+   "controllato": "2026-11-08T18:50:15+00:00",
+   "ultimo_ok": "2026-11-08T18:50:15+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-08T11:56:52+00:00",
-   "ultimo_ok": "2026-11-08T11:56:52+00:00"
+   "controllato": "2026-11-08T18:50:15+00:00",
+   "ultimo_ok": "2026-11-08T18:50:15+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/posso-avere-whatsapp-non-e-un-social-come-un-altro-le-differenze-e-il-monitoraggio-delle-chat-i-consigli-di-alberto-pellai/",
+   "titolo": "“Posso avere WhatsApp?”, non è un social come un altro. Le differenze e il monitoraggio delle chat: i consigli di Alberto Pellai",
+   "abstract": "Di fronte al primo smartphone, all'ingresso nella chat di classe e alla richiesta di usare WhatsApp che ogni genitore prima o poi si sente rivolgere le perplessità in famiglia sono molte. È necessario applicare le stesse restrizioni previste per gli altri social network? Come ci…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "62f76bf3ed2b",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/basta-giustificarli-per-ogni-cosa-noi-andiamo-a-lavorare-ci-alziamo-laviamo-stiriamo-andiamo-a-fare-la-spesa-la-provocazione-di-nattie-dr-gaspari-sulle-responsabilita-dei-figli/",
+   "titolo": "“Basta giustificarli per ogni cosa, noi andiamo a lavorare, ci alziamo, laviamo, stiriamo, andiamo a fare la spesa”: la provocazione di Nattié Dr. Gaspari sulle responsabilità dei figli",
+   "abstract": "Nel dibattito educativo contemporaneo, uno dei temi più accesi riguarda il sottile confine tra la comprensione genitoriale e l'iperprotezione. A sollevare una riflessione diretta su questo tema è la formatrice e terapeuta Nattié Dr. Gaspari, che mette in discussione la tendenza…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "16c6f57a7f2d",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/studenti-in-crisi-ma-la-colpa-puo-essere-solo-dei-docenti-il-corso-gratuito-di-action-aid-e-il-progetto-concreto",
    "titolo": "Studenti in crisi: ma la colpa può essere solo dei docenti? Il corso gratuito di Action Aid e il progetto concreto",
@@ -75,6 +115,44 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/personale-ata-e-alunni-con-disabilita-grave-anief-chiede-organici-legati-ai-bisogni-assistenziali-e-piu-spazio-al-nuovo-operatore-scolastico/",
+   "titolo": "Personale ATA e alunni con disabilità grave, ANIEF chiede organici legati ai bisogni assistenziali e più spazio al nuovo operatore scolastico",
+   "abstract": "Nel Question Time del 4 novembre 2026 su Orizzonte Scuola, condotto da Andrea Carlino con la partecipazione di Cristina Dal Pino (ANIEF), è stato affrontato anche il tema degli organici ATA nelle scuole frequentate da alunni con disabilità grave e del possibile ruolo del nuovo…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA"
+   ],
+   "id": "daf427515d3b",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/permessi-diritto-allo-studio-2027-in-lombardia-domanda-con-riserva-per-i-percorsi-abilitanti-ancora-non-attivati/",
+   "titolo": "Permessi diritto allo studio 2027, in Lombardia domanda con riserva per i percorsi abilitanti ancora non attivati",
+   "abstract": "Anche quest'anno l'USR Lombardia precisa le modalità di presentazione con riserva della domanda per la fruizione dei permessi per diritto allo studio nell'anno solare 2027 da parte dei docenti interessati ai percorsi abilitanti ex DPCM 4 agosto 2023, il cui ritardo…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "diritto allo studio"
+   ],
+   "id": "97483e93538b",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/mantenimento-dei-figli-e-aiuto-dei-nonni-cosa-stabilisce-la-cassazione-se-lex-partner-non-versa-lassegno/",
    "titolo": "Mantenimento dei figli e aiuto dei nonni: cosa stabilisce la Cassazione se l’ex partner non versa l’assegno",
    "abstract": "L'ordinanza della Corte di Cassazione (28166/2026), emanata lo scorso 30 ottobre, fa chiarezza su un tema che tocca da vicino molte famiglie separate: quando e come l'obbligo di mantenere i figli si estende ai nonni. L'articolo Mantenimento dei figli e aiuto dei nonni: cosa…",
@@ -106,6 +184,44 @@
    "raccolto": "2026-11-08",
    "sezioni": [
     "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-la-usa-l89-dei-ragazzi-dai-9-ai-16-anni-ma-solo-il-25-dei-docenti-nella-didattica-i-dati/",
+   "titolo": "Intelligenza artificiale a scuola, la usa l’89% dei ragazzi dai 9 ai 16 anni ma solo il 25% dei docenti nella didattica. I dati",
+   "abstract": "Nove ragazzi su dieci usano l’IA generativa, mentre tra gli insegnanti solo uno su quattro la porta nella didattica. È il quadro dell’intelligenza artificiale a scuola che emerge dalla Relazione 2026 del CNEL sui servizi pubblici, che dedica appunto un capitolo all’IA nel…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "c0b0683c1b09",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ferie-non-godute-docenti-precari-vale-fino-tra-i-1000-e-i-1200-euro-lanno-fino-a-dieci-anni-per-chiedere-lindennita-ganci-dipende/",
+   "titolo": "Ferie non godute docenti precari, vale fino tra i 1000 e i 1200 euro l’anno. Fino a dieci anni per chiedere l’indennità? Ganci: “Dipende”",
+   "abstract": "A spiegare quali verifiche effettuare è stato l'avvocato Fabio Ganci , ospite di Diritto in Cattedra , la rubrica di Orizzonte Scuola TV condotta da Francesco Bunetto . Il legale ha affrontato il tema della prescrizione, dei possibili importi e dei documenti necessari per…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti"
+   ],
+   "id": "34607ef731c9",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "riforme",
     "personale"
    ],
    "superiori": false
