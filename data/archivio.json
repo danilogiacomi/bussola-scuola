@@ -1,40 +1,170 @@
 {
- "aggiornato": "2026-11-07T23:38:40+00:00",
+ "aggiornato": "2026-11-08T11:56:52+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-07T23:38:40+00:00",
-   "ultimo_ok": "2026-11-07T23:38:40+00:00"
+   "controllato": "2026-11-08T11:56:52+00:00",
+   "ultimo_ok": "2026-11-08T11:56:52+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-07T23:38:40+00:00",
+   "controllato": "2026-11-08T11:56:52+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-07T23:38:40+00:00",
+   "controllato": "2026-11-08T11:56:52+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-07T23:38:40+00:00",
-   "ultimo_ok": "2026-11-07T23:38:40+00:00"
+   "voci": 28,
+   "controllato": "2026-11-08T11:56:52+00:00",
+   "ultimo_ok": "2026-11-08T11:56:52+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-07T23:38:40+00:00",
-   "ultimo_ok": "2026-11-07T23:38:40+00:00"
+   "controllato": "2026-11-08T11:56:52+00:00",
+   "ultimo_ok": "2026-11-08T11:56:52+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/studenti-in-crisi-ma-la-colpa-puo-essere-solo-dei-docenti-il-corso-gratuito-di-action-aid-e-il-progetto-concreto",
+   "titolo": "Studenti in crisi: ma la colpa può essere solo dei docenti? Il corso gratuito di Action Aid e il progetto concreto",
+   "abstract": "Si chiede sempre alla scuola di contrastare dispersione e disuguaglianze, ma troppo spesso si lascia ai docenti il compito di affrontare problemi che vanno ben oltre la didattica. Come promuovere il benessere degli studenti senza trasformare gli insegnanti negli unici…",
+   "data": "2026-11-08",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Orientamento"
+   ],
+   "id": "6a5548fe9b8b",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/pn-21-27-scuola-tanti-progetti-negli-istituti-come-farli-conoscere-al-meglio-al-pubblico",
+   "titolo": "Pn 21-27 scuola, tanti progetti negli istituti: come farli conoscere al meglio al pubblico?",
+   "abstract": "I progetti finanziati nell’ambito del Programma Nazionale “Scuola e Competenze” 2021-2027 rappresentano un’importante opportunità per gli istituti scolastici. L’obiettivo è realizzare attività innovative, percorsi formativi e iniziative rivolte a studenti, docenti e comunità…",
+   "data": "2026-11-08",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "PON"
+   ],
+   "id": "ca64a4ed5d2d",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/mantenimento-dei-figli-e-aiuto-dei-nonni-cosa-stabilisce-la-cassazione-se-lex-partner-non-versa-lassegno/",
+   "titolo": "Mantenimento dei figli e aiuto dei nonni: cosa stabilisce la Cassazione se l’ex partner non versa l’assegno",
+   "abstract": "L'ordinanza della Corte di Cassazione (28166/2026), emanata lo scorso 30 ottobre, fa chiarezza su un tema che tocca da vicino molte famiglie separate: quando e come l'obbligo di mantenere i figli si estende ai nonni. L'articolo Mantenimento dei figli e aiuto dei nonni: cosa…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "d549992795b4",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/le-note-disciplinari-funzionano-uno-degli-strumenti-piu-inutili-perche-la-sanzione-collettiva-non-funziona-come-deterrente/",
+   "titolo": "Le note disciplinari funzionano? “Uno degli strumenti più inutili”: perché la sanzione collettiva non funziona come deterrente",
+   "abstract": "Nel dibattito continuo sulle strategie educative e sulla gestione del gruppo classe, la figura della nota collettiva torna spesso al centro delle polemiche. Attraverso il suo profilo Instagram, la docente nota come @la_prof_del_professionale propone un'analisi schietta e…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "6c16a315133e",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/escape-room-a-scuola-come-trasformare-gli-studenti-da-spettatori-passivi-a-protagonisti-dellapprendimento",
+   "titolo": "Escape room a scuola, come trasformare gli studenti da spettatori passivi a protagonisti dell’apprendimento",
+   "abstract": "Mantenere alta l’attenzione degli studenti, stimolare la partecipazione e favorire la collaborazione non è sempre semplice. Le lezioni frontali, da sole, rischiano di lasciare poco spazio all’iniziativa dei ragazzi. Ma cosa succederebbe se fossero proprio loro a dover trovare…",
+   "data": "2026-11-08",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Didattica"
+   ],
+   "id": "8888383b851e",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/crollo-delle-competenze-in-terza-media-il-mezzogiorno-paga-il-prezzo-piu-alto-i-dati-del-rapporto-bes-dellistat/",
+   "titolo": "Crollo delle competenze in terza media, il Mezzogiorno paga il prezzo più alto. I dati del rapporto BES dell’ISTAT",
+   "abstract": "I dati ufficiali forniti dall'ISTAT, tramite il Rapporto Bes 2026, indicano un progressivo deterioramento delle competenze alfabetiche e numeriche degli studenti della terza classe della scuola secondaria di primo grado nell'era post-pandemica. L'articolo Crollo delle competenze…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "0d95d0c14fad",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/concorso-larte-come-veicolo-di-verita-giuridica-e-sociale-per-i-licei-artistici-domande-entro-il-28-gennaio-le-opere-vincitrici-a-castel-santangelo/",
+   "titolo": "Concorso “L’Arte come veicolo di verità giuridica e sociale” per i Licei artistici: domande entro il 28 gennaio. Le opere vincitrici a Castel Sant’Angelo",
+   "abstract": "Il Ministero dell'Istruzione e del Merito, con una nota del 5 novembre 2026, ha annunciato il concorso nazionale “L'Arte come veicolo di verità giuridica e sociale”, rivolto agli studenti dei Licei artistici statali e paritari. L'articolo Concorso “L’Arte come veicolo di verità…",
+   "data": "2026-11-08",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "a55fb97a2382",
+   "raccolto": "2026-11-08",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.tecnicadellascuola.it/pistole-puntate-contro-la-nostra-faccia-la-denuncia-degli-studenti-dopo-la-tentata-occupazione",
    "titolo": "“Pistole puntate contro la nostra faccia”, la denuncia degli studenti dopo la tentata occupazione",
@@ -9701,24 +9831,6 @@
    "raccolto": "2026-11-05",
    "sezioni": [
     "personale"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/giornata-internazionale-per-la-riduzione-del-rischio-dei-disastri-naturali-arriva-il-terzo-numero-del-fumetto-l-attimo-decisivo-",
-   "titolo": "Giornata internazionale per la riduzione del rischio dei disastri naturali: arriva il terzo numero del fumetto “L’attimo decisivo”",
-   "abstract": "“La goccia” questo il titolo del terzo numero del fumetto dedicato alle studentesse e agli studenti per sensibilizzarli al rischio alluvione, alle crisi idriche e alle buone pratiche di protezione civile. A partire dal 6 ottobre, il fumetto sarà disponibile nella sezione online…",
-   "data": "2025-10-03",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Scuola"
-   ],
-   "id": "7a4afa31bb61",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "studenti"
    ],
    "superiori": false,
    "abstract_tentato": true
