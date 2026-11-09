@@ -1,37 +1,37 @@
 {
- "aggiornato": "2026-11-09T13:55:19+00:00",
+ "aggiornato": "2026-11-09T23:26:59+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-09T13:55:19+00:00",
-   "ultimo_ok": "2026-11-09T13:55:19+00:00"
+   "controllato": "2026-11-09T23:26:59+00:00",
+   "ultimo_ok": "2026-11-09T23:26:59+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-09T13:55:19+00:00",
+   "controllato": "2026-11-09T23:26:59+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-09T13:55:19+00:00",
+   "controllato": "2026-11-09T23:26:59+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 27,
-   "controllato": "2026-11-09T13:55:19+00:00",
-   "ultimo_ok": "2026-11-09T13:55:19+00:00"
+   "voci": 29,
+   "controllato": "2026-11-09T23:26:59+00:00",
+   "ultimo_ok": "2026-11-09T23:26:59+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-09T13:55:19+00:00",
-   "ultimo_ok": "2026-11-09T13:55:19+00:00"
+   "voci": 29,
+   "controllato": "2026-11-09T23:26:59+00:00",
+   "ultimo_ok": "2026-11-09T23:26:59+00:00"
   }
  },
  "notizie": [
@@ -51,6 +51,62 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/fratelli-ditalia-con-un-manuale-di-storia-rivolto-alla-scuola-superiore-contenuti-ideologici-contro-il-governo/",
+   "titolo": "“Il governo Meloni come l’erede del regime mussoliniano”, Fratelli d’Italia contro un manuale rivolto alla scuola superiore: “Leso il diritto alla libertà di giudizio”",
+   "abstract": "Un manuale di storia destinato alle scuole secondarie di secondo grado è finito al centro di una polemica a Roma, a causa della ricostruzione riservata all'esecutivo guidato da Giorgia Meloni. L'articolo “Il governo Meloni come l’erede del regime mussoliniano”, Fratelli d’Italia…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "cb5f91c2596b",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/valditara-integrazione-significa-condividere-valori-e-lingua/",
+   "titolo": "Valditara: “Integrazione passa dalla lingua, potenziare la formazione per gli studenti stranieri. Se a casa si parla un’altra lingua, le competenze calano in modo drammatico”",
+   "abstract": "Il ministro dell’Istruzione e del Merito, Giuseppe Valditara, è intervenuto a Varese in occasione del convegno “Connecting to the Future”, organizzato dal Ministero in collaborazione con la Camera di Commercio locale per fare il punto sulla riforma scolastica e sul percorso 4+2…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "d3abc4579773",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/valditara-gli-stranieri-che-non-parlano-litaliano-compromettono-lapprendimento-di-tutta-la-classe-invieremo-nostri-docenti-nei-loro-paesi-prima-che-arrivino-in-italia",
+   "titolo": "Valditara: gli stranieri che non parlano l’italiano compromettono l’apprendimento di tutta la classe, invieremo il modello ITS nei loro Paesi prima che arrivino in Italia",
+   "abstract": "“L’integrazione è qualcosa di più rispetto all’inclusione: significa fare in modo che lo studente condivida i valori fondamentali della società in cui vive e conosca bene la nostra lingua”. A dirlo è stato il ministro dell’Istruzione, Giuseppe Valditara, intervenendo a Busto…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Politica scolastica",
+    "Studenti e genitori"
+   ],
+   "id": "f98d729c153a",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "inclusione"
    ],
    "superiori": false
   },
@@ -108,6 +164,24 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/spreco-alimentare-valditara-domani-a-milano-firma-un-protocollo-con-il-banco-alimentare-iniziative-nelle-scuole-per-studenti-docenti-e-famiglie/",
+   "titolo": "Spreco alimentare, Valditara domani a Milano firma un protocollo con il Banco Alimentare: iniziative nelle scuole per studenti, docenti e famiglie",
+   "abstract": "Sabato 14 novembre si terrà la 30esima Giornata nazionale della Colletta alimentare, e il ministro dell’Istruzione e del Merito Giuseppe Valditara chiederà agli studenti di partecipare. L'articolo Spreco alimentare, Valditara domani a Milano firma un protocollo con il Banco…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "f0081e005f29",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/sparatoria-a-cracovia-in-piazza-cerano-anche-34-studenti-italiani-tutti-illesi-e-rientrati-in-pullman-la-docente-esperienza-traumatica/",
    "titolo": "Sparatoria a Cracovia, in piazza c’erano anche 34 studenti italiani: tutti illesi e rientrati in pullman. La docente: “Esperienza traumatica”",
    "abstract": "È morto questa mattina in ospedale il giovane che sabato 7 novembre ha aperto il fuoco sulla folla in piazza del Mercato a Cracovia, uccidendo 6 persone. Quel pomeriggio, nella piazza, c’erano anche 34 studenti di un liceo in provincia di Roma, in viaggio con tre docenti. Sono…",
@@ -122,6 +196,23 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sparatoria-cracovia-in-piazza-34-studenti-italiani-in-gita-la-loro-prof-momenti-concitati-venti-ore-di-viaggio-per-tornare-a-casa",
+   "titolo": "Sparatoria Cracovia, in piazza 34 studenti italiani in gita. La loro prof: “Momenti concitati”, venti ore di viaggio per tornare a casa",
+   "abstract": "La gestione delle uscite didattiche e dei viaggi d’istruzione rappresenta uno dei compiti più delicati per il personale docente e dirigenziale, specialmente di fronte a imprevisti drammatici. Questo il caso di un liceo laziale che si è trovato in viaggio a Cracovia, in Polonia…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità"
+   ],
+   "id": "b55c36d4a627",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
    ],
    "superiori": true
   },
@@ -142,6 +233,42 @@
    "raccolto": "2026-11-09",
    "sezioni": [
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/riforma-42-valditara-e-il-futuro-dellistruzione-tecnica-e-professionale-il-percorso-quinquennale-sara-progressivamente-superato/",
+   "titolo": "Riforma 4+2, Valditara: “È il futuro dell’istruzione tecnica e professionale”. Il percorso quinquennale sarà progressivamente superato",
+   "abstract": "Il modello 4+2 rappresenta il futuro dell'istruzione tecnica e professionale italiana. Lo ha dichiarato il ministro dell'Istruzione e del Merito, Giuseppe Valditara, intervenendo all'evento Connecting to the Future, a Busto Arsizio. L'articolo Riforma 4+2, Valditara: “È il…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "e6d8e93817d3",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/registro-elettronico-il-docente-non-e-obbligato-a-usare-lo-smartphone-personale-se-manca-un-computer-in-classe-pillole-di-question-time/",
+   "titolo": "Registro elettronico, il docente non è obbligato a usare lo smartphone personale se manca un computer in classe. Pillole di Question Time",
+   "abstract": "Nel Question Time di Orizzonte Scuola, condotto da Francesco Bunetto con la partecipazione di Giuseppe Semeraro, esperto di normativa scolastica, è stato affrontato anche il problema della compilazione del registro elettronico quando in aula non è disponibile un computer…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "registro elettronico"
+   ],
+   "id": "ae2d4bfa570a",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "personale"
    ],
    "superiori": false
   },
@@ -187,6 +314,23 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/programma-itaca-2027-28-domande-entro-il-10-novembre-borse-di-studio-inps-fino-a-15mila-euro-per-studiare-allestero/",
+   "titolo": "Programma Itaca 2027/28, domande entro il 10 novembre. Borse di studio INPS fino a 15mila euro per studiare all’estero",
+   "abstract": "Scade domani, martedì 10 novembre 2026, alle ore 12, il termine per presentare domanda per il Programma Itaca 2027/2028 dell'INPS. L'articolo Programma Itaca 2027/28, domande entro il 10 novembre. Borse di studio INPS fino a 15mila euro per studiare all’estero sembra essere il…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "25f4fea8667a",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/pidocchi-a-scuola-quasi-20-milioni-spesi-in-un-anno-dalle-famiglie-e-142mila-confezioni-vendute-a-settembre-cosa-funziona-e-cosa-e-inutile/",
    "titolo": "Pidocchi a scuola, quasi 20 milioni spesi in un anno dalle famiglie e 142mila confezioni vendute a settembre. Cosa funziona e cosa è inutile",
    "abstract": "Una confezione costa in media 20 euro, e un’applicazione sola raramente basta: per liberarsi dei pidocchi il trattamento va ripetuto dopo una settimana. L'articolo Pidocchi a scuola, quasi 20 milioni spesi in un anno dalle famiglie e 142mila confezioni vendute a settembre. Cosa…",
@@ -197,6 +341,24 @@
     "Genitori"
    ],
    "id": "2eb8b3ea5f63",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/mense-scolastiche-il-divario-nord-sud-almeno-quattro-cereali-al-mese-nell833-dei-menu-del-nord-al-sud-e-nelle-isole-solo-nel-25/",
+   "titolo": "Mense scolastiche, il divario Nord-Sud: almeno quattro cereali al mese nell’83,3% dei menù del Nord, al Sud e nelle Isole solo nel 25%",
+   "abstract": "Al Nord l’83,3% dei menù scolastici propone almeno quattro cereali diversi nel corso del mese; al Sud e nelle Isole la quota si ferma al 25%. L'articolo Mense scolastiche, il divario Nord-Sud: almeno quattro cereali al mese nell’83,3% dei menù del Nord, al Sud e nelle Isole solo…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "92404c93cff6",
    "raccolto": "2026-11-09",
    "sezioni": [
     "studenti"
@@ -223,6 +385,41 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/mattarella-e-i-118mila-studenti-albanesi-nelle-scuole-radici-cultura-e-lingua-non-pregiudicano-affatto-lintegrazione-nella-vita-di-una-nuova-comunita/",
+   "titolo": "Mattarella e i 118mila studenti albanesi nelle scuole: radici, cultura e lingua “non pregiudicano affatto l’integrazione nella vita di una nuova comunità”",
+   "abstract": "Anche la scuola è uno dei luoghi in cui la cultura arbëreshë resta viva. Il presidente della Repubblica Sergio Mattarella lo ha ricordato oggi, 9 novembre, al Quirinale, durante l’incontro con il presidente dell’Albania Bajram Begaj e con una delegazione di sindaci dei Comuni…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "4bdd77dd6b91",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/manovra-udu-e-rete-degli-studenti-medi-scuole-e-universita-non-sono-un-bancomat-con-cui-fare-cassa-pronti-emendamenti-da-6-miliardi-per-i-giovani/",
+   "titolo": "Manovra, Udu e Rete degli Studenti Medi: “Scuole e università non sono un bancomat con cui fare cassa”. Pronti emendamenti da 6 miliardi per i giovani",
+   "abstract": "Sei miliardi di euro, cioè un quarto dell’intera legge di bilancio. È la cifra che Unione degli Universitari e Rete degli Studenti Medi chiedono di spostare su giovani e istruzione, nello stesso giorno dell’audizione in Commissione Bilancio. L'articolo Manovra, Udu e Rete degli…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti",
+    "Legge di bilancio"
+   ],
+   "id": "01edcd3aec36",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/manovra-lupi-noi-moderati-le-risorse-risparmiate-siano-investite-nella-scuola-stessa-per-pagare-di-piu-gli-insegnanti-e-per-migliorare-la-qualita-dellistruzione/",
    "titolo": "Manovra, Lupi (Noi Moderati): “Le risorse risparmiate siano investite nella scuola stessa, per pagare di più gli insegnanti e per migliorare la qualità dell’Istruzione”",
    "abstract": "I soldi risparmiati sulla scuola devono restare alla scuola. È la richiesta del presidente di Noi Moderati, Maurizio Lupi, in una dichiarazione riportata dall’ANSA. L'articolo Manovra, Lupi (Noi Moderati): “Le risorse risparmiate siano investite nella scuola stessa, per pagare…",
@@ -239,6 +436,44 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/muro-di-berlino-valditara-il-9-novembre-1989-crollo-il-simbolo-del-comunismo-nessuna-indulgenza-verso-le-nostalgie-totalitarie-",
+   "titolo": "MURO DI BERLINO, VALDITARA: \"IL 9 NOVEMBRE 1989 CROLLÒ IL SIMBOLO DEL COMUNISMO. NESSUNA INDULGENZA VERSO LE NOSTALGIE TOTALITARIE\"",
+   "abstract": "“Il 9 novembre di 37 anni fa crollava il simbolo della dittatura comunista”. Così il Ministro dell’Istruzione e del Merito, Giuseppe Valditara, ricorda la caduta del Muro di Berlino. “Fu la sconfitta storica di un’ideologia fondata sulla repressione e sulla violenza, che soffocò…",
+   "data": "2026-11-09",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "31fb4010a6c3",
+   "raccolto": "2026-11-09",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/mimeraviglia-riaperte-le-iscrizioni-al-corso-sullintelligenza-artificiale-per-aa-dsga-e-dirigenti-gia-rilasciati-oltre-2-500-diplomi-nota/",
+   "titolo": "MIMeraviglIA, riaperte le iscrizioni al corso sull’intelligenza artificiale per AA, DSGA e dirigenti. Già rilasciati oltre 2.500 diplomi. NOTA",
+   "abstract": "Il Ministero dell'Istruzione e del Merito, con nota del 9 novembre, ha fornito le indicazioni sulla riapertura delle iscrizioni a MIMeraviglIA , il percorso di formazione sull'utilizzo dell'intelligenza artificiale nelle attività amministrative delle scuole. L'iniziativa è…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Scuole"
+   ],
+   "id": "1b2c8dc75813",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -323,6 +558,62 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/filiera-42-in-veneto-autorizzate-20-scuole-per-il-2027-28-lelenco-accordi-di-rete-entro-il-15-dicembre/",
+   "titolo": "Filiera 4+2, in Veneto autorizzate 20 scuole per il 2027/28: l’elenco. Accordi di rete entro il 15 dicembre",
+   "abstract": "Sono 20 i percorsi quadriennali della filiera formativa tecnologico-professionale (4+2) autorizzati in Veneto per l'anno scolastico 2027/2028. L'articolo Filiera 4+2, in Veneto autorizzate 20 scuole per il 2027/28: l’elenco. Accordi di rete entro il 15 dicembre sembra essere il…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "aa0ea59d0dbd",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/educazione-finanziaria-eventi-online-gratuiti-a-novembre-per-studenti-e-docenti-le-iniziative-del-museo-del-risparmio/",
+   "titolo": "Educazione finanziaria, eventi online gratuiti a novembre per studenti e docenti: le iniziative del Museo del Risparmio",
+   "abstract": "Il Museo del Risparmio organizza, nel mese di novembre, una serie di incontri formativi online gratuiti rivolti agli studenti delle scuole primarie e secondarie di primo e secondo grado e ai docenti. L'articolo Educazione finanziaria, eventi online gratuiti a novembre per…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti",
+    "Educazione finanziaria"
+   ],
+   "id": "917143b49683",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/docenti-infanzia-e-primaria-turni-stipendi-e-programmazione-il-lavoro-oltre-le-ore-di-lezione-question-time-con-noemi-ranieri-live-giovedi-12-novembre-alle-16-00/",
+   "titolo": "Docenti infanzia e primaria, turni, stipendi e programmazione: il lavoro oltre le ore di lezione. QUESTION TIME con Noemi Ranieri. LIVE giovedì 12 novembre alle 16.00",
+   "abstract": "Il lavoro degli insegnanti della scuola dell’infanzia e primaria non si esaurisce con le ore trascorse in classe. Turni, programmazione didattica, riunioni, rapporti con le famiglie e attività organizzative scandiscono giornate che spesso proseguono anche dopo la fine delle…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Chiedilo a Lalla"
+   ],
+   "id": "e81414081312",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/diritto-allo-studio-delle-alunne-e-degli-alunni-adottati-guida-normativa-pedagogica-e-operativa-con-6-allegati-da-scaricare/",
    "titolo": "Diritto allo studio delle alunne e degli alunni adottati. Guida normativa, pedagogica e operativa. Con 6 allegati da scaricare",
    "abstract": "La guida ricostruisce il diritto allo studio delle alunne e degli alunni che sono stati adottati, dalle garanzie costituzionali e dalla disciplina dell’adozione alle Linee di indirizzo ministeriali del 2023. Offre a dirigenti scolastici, DSGA, personale di segreteria, insegnanti…",
@@ -379,6 +670,26 @@
     "riforme",
     "personale",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/corri-libera-il-15-novembre-a-roma-la-corsa-contro-la-violenza-sulle-donne-percorso-di-5-km-dal-colosseo-ai-fori-imperiali-iscrizioni-aperte/",
+   "titolo": "Corri Libera, il 15 novembre a Roma la corsa contro la violenza sulle donne: percorso di 5 km dal Colosseo ai Fori Imperiali. Iscrizioni aperte",
+   "abstract": "Domenica 15 novembre torna a Roma “Corri Libera”, la manifestazione sportiva promossa per sensibilizzare sul contrasto alla violenza contro le donne. L'articolo Corri Libera, il 15 novembre a Roma la corsa contro la violenza sulle donne: percorso di 5 km dal Colosseo ai Fori…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "576cd0355b6b",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
@@ -440,6 +751,25 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/caro-vita-docenti-fuori-sede-il-cnddu-propone-un-contributo-per-gli-affitti-fondo-casa-per-il-personale-scolastico/",
+   "titolo": "Caro vita docenti fuori sede, il CNDDU propone un contributo per gli affitti: fondo casa per il personale scolastico",
+   "abstract": "La spinta dell’inflazione e il rialzo continuo dei prezzi continuano a pesare sulle tasche degli italiani. L'ultima indagine condotta da Confesercenti e Ipsos mostra come oltre il 90% delle famiglie abbia ormai ridotto la spesa quotidiana o cambiato abitudini per fare quadrare i…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "51d97a59fc6e",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/career-readiness-il-futuro-non-si-aspetta-si-costruisce-perche-tanti-giovani-sognano-un-lavoro-senza-conoscere-la-strada-per-raggiungerlo/",
    "titolo": "Career readiness, il futuro non si aspetta, si costruisce: perché tanti giovani sognano un lavoro senza conoscere la strada per raggiungerlo",
    "abstract": "Chiediamo a un adolescente che cosa voglia fare da grande e spesso riceviamo il nome di una professione, un’immagine di successo, talvolta una risposta esitante. Raramente chiediamo la domanda successiva, quella che trasforma un desiderio in un progetto: quali competenze…",
@@ -454,6 +784,24 @@
    "raccolto": "2026-11-09",
    "sezioni": [
     "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/bocciatura-valida-anche-con-docenti-esterni-allesame-il-tar-respinge-il-ricorso-di-una-studentessa-ecco-cosa-hanno-detto-i-giudici/",
+   "titolo": "Bocciatura valida anche con docenti esterni all’esame, il TAR respinge il ricorso di una studentessa: ecco cosa hanno detto i giudici",
+   "abstract": "La decisione dell'istituto scolastico è legittima: la bocciatura disposta al termine degli esami di riparazione resta valida anche se alle prove estive assistono professori che non fanno parte del consiglio di classe, purché la valutazione finale della materia sia effettuata dal…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Nessuna categoria"
+   ],
+   "id": "64f83e8cb6f8",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
     "personale"
    ],
    "superiori": false
@@ -496,6 +844,43 @@
     "personale"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/bambina-di-9-anni-esclusa-dalla-mensa-scolastica-per-un-debito-tra-12-e-38-euro-dopo-la-diffida-dei-genitori-e-stata-riammessa/",
+   "titolo": "Bambina di 9 anni esclusa dalla mensa scolastica per un debito tra 12 e 38 euro: dopo la diffida dei genitori è stata riammessa",
+   "abstract": "12 euro secondo la famiglia, 38 secondo il Comune. Su quella differenza si è giocata la storia di un’alunna di 9 anni di un istituto pugliese, rimasta fuori dalla mensa scolastica dal 2 novembre. L'articolo Bambina di 9 anni esclusa dalla mensa scolastica per un debito tra 12 e…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "5e48ee65c891",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/a-cosa-servono-le-materie-scolastiche-oltre-a-insegnare-nozioni-linvalsi-spiega-quali-competenze-sviluppano-negli-studenti/",
+   "titolo": "A cosa servono le materie scolastiche oltre a insegnare nozioni? L’Invalsi spiega quali competenze sviluppano negli studenti",
+   "abstract": "Le discipline scolastiche non servono soltanto ad acquisire conoscenze, ma contribuiscono a sviluppare competenze fondamentali per affrontare la vita quotidiana e costruire il proprio futuro. L'articolo A cosa servono le materie scolastiche oltre a insegnare nozioni? L’Invalsi…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "91dda29cb7e9",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "esami",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.orizzontescuola.it/90-anni-e-170-ex-alunni-a-tavola-per-festeggiarlo-al-professore-una-laurea-per-gioco-in-decenza-della-docenza/",
