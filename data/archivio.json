@@ -1,40 +1,519 @@
 {
- "aggiornato": "2026-11-08T23:44:02+00:00",
+ "aggiornato": "2026-11-09T13:55:19+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-08T23:44:02+00:00",
-   "ultimo_ok": "2026-11-08T23:44:02+00:00"
+   "controllato": "2026-11-09T13:55:19+00:00",
+   "ultimo_ok": "2026-11-09T13:55:19+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-08T23:44:02+00:00",
+   "controllato": "2026-11-09T13:55:19+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-08T23:44:02+00:00",
+   "controllato": "2026-11-09T13:55:19+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-08T23:44:02+00:00",
-   "ultimo_ok": "2026-11-08T23:44:02+00:00"
+   "voci": 27,
+   "controllato": "2026-11-09T13:55:19+00:00",
+   "ultimo_ok": "2026-11-09T13:55:19+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-08T23:44:02+00:00",
-   "ultimo_ok": "2026-11-08T23:44:02+00:00"
+   "voci": 28,
+   "controllato": "2026-11-09T13:55:19+00:00",
+   "ultimo_ok": "2026-11-09T13:55:19+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/riprova-devi-esercitarti-di-piu-bambini-che-faticano-a-leggere-scrivere-o-fare-i-calcoli-perche-aumentare-gli-esercizi-non-e-sempre-la-soluzione/",
+   "titolo": "“Riprova, devi esercitarti di più”. Bambini che faticano a leggere, scrivere o fare i calcoli: perché aumentare gli esercizi non è sempre la soluzione",
+   "abstract": "Quando un alunno incontra un ostacolo nel proprio percorso scolastico, la risposta più immediata che si tende a dare è quella di raddoppiare gli sforzi: studiare di più, svolgere più esercizi, ripetere lo stesso compito fino a quando non riesce. Tuttavia, accumulare lavoro non…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "a84328a285ae",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/tagli-scuola-belpietro-5mila-insegnanti-in-meno-non-cambieranno-la-qualita-dellistruzione-castellana-gilda-esterrefatto-video",
+   "titolo": "Tagli scuola, Belpietro: “5mila insegnanti in meno non cambieranno la qualità dell’istruzione”. Castellana (Gilda): “Esterrefatto” – VIDEO",
+   "abstract": "Il giornalista Maurizio Belpietro di nuovo nella bufera. Nella puntata del programma di Retequattro 4 di sera del 2 novembre, si è parlato di scuola, e soprattutto dei tagli di docenti e Ata previsti in Manovra. “Gli studenti sono diminuiti per effetto della demografia, da otto…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Legge di Bilancio 2027"
+   ],
+   "id": "b2efb3a460dd",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studentessa-trasferita-dufficio-dal-liceo-quadriennale-a-quello-quinquennale-dopo-due-anni-la-scuola-puo-correggere-un-errore-dopo-due-anni/",
+   "titolo": "Studentessa trasferita d’ufficio dal liceo quadriennale a quello quinquennale dopo due anni: la scuola può correggere un errore dopo due anni?",
+   "abstract": "Il Consiglio di Stato nella sentenza in commento quale la n°. 07403/2026 ha trattato il caso di una scuola che ha revocato d'ufficio l'iscrizione di uno studente a un liceo quadriennale sperimentale per spostarlo al corso quinquennale, così statuendo l'illegittimità dell'operato…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "ae16d30af57d",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studente-bocciato-la-famiglia-fa-ricorso-prospettando-pdp-non-rispettato-ma-il-tar-dice-no-la-personalizzazione-didattica-non-cancella-gli-obiettivi-minimi-dellindirizzo/",
+   "titolo": "Studente bocciato, la famiglia fa ricorso prospettando PdP non rispettato, ma il TAR dice no: la personalizzazione didattica non cancella gli obiettivi minimi dell’indirizzo",
+   "abstract": "I genitori di un alunno iscritto a una scuola superiore hanno presentato un ricorso al TAR per annullare la bocciatura decretata dal Consiglio di classe al termine dello scrutinio di fine anno. L'articolo Studente bocciato, la famiglia fa ricorso prospettando PdP non rispettato…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "c085195f2ae5",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sparatoria-a-cracovia-in-piazza-cerano-anche-34-studenti-italiani-tutti-illesi-e-rientrati-in-pullman-la-docente-esperienza-traumatica/",
+   "titolo": "Sparatoria a Cracovia, in piazza c’erano anche 34 studenti italiani: tutti illesi e rientrati in pullman. La docente: “Esperienza traumatica”",
+   "abstract": "È morto questa mattina in ospedale il giovane che sabato 7 novembre ha aperto il fuoco sulla folla in piazza del Mercato a Cracovia, uccidendo 6 persone. Quel pomeriggio, nella piazza, c’erano anche 34 studenti di un liceo in provincia di Roma, in viaggio con tre docenti. Sono…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "a6e8a8f58638",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-primaria-la-bocciatura-anche-se-disposta-in-casi-eccezionali-e-legittima-se-i-150-giorni-di-assenza-rendono-impossibile-valutare-lalunno",
+   "titolo": "Scuola primaria, la bocciatura – anche se disposta in casi eccezionali – è legittima se i 150 giorni di assenza rendono impossibile valutare l’alunno",
+   "abstract": "Nella scuola primaria la non ammissione alla classe successiva rappresenta una misura del tutto eccezionale, regolata da norme rigorose e dall’obbligo di un’articolata motivazione da parte del consiglio di classe. Tuttavia, l’eccezionalità della bocciatura non può trasformarsi…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Scuola primaria",
+    "Tar"
+   ],
+   "id": "4f47f8db8ee7",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/prove-invalsi-2027-iscrizioni-scuole-al-via-dall11-novembre-le-novita-sulle-competenze-digitali/",
+   "titolo": "Prove INVALSI 2027, iscrizioni scuole al via dall’11 novembre. Le novità sulle competenze digitali",
+   "abstract": "Da mercoledì 11 novembre si aprono le iscrizioni alle prove INVALSI 2027. La data è contenuta nella lettera del presidente, Roberto Ricci, indirizzata ai dirigenti scolastici. L'articolo Prove INVALSI 2027, iscrizioni scuole al via dall’11 novembre. Le novità sulle competenze…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole",
+    "invalsi"
+   ],
+   "id": "d987b6be84ff",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "esami",
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/programmi-allestero-intercultura-domande-entro-il-10-novembre-piu-di-1-000-borse-di-studio-in-palio",
+   "titolo": "Programmi all’estero Intercultura, domande entro il 10 novembre: più di 1.000 borse di studio in palio",
+   "abstract": "Sono aperte dal 1° settembre le iscrizioni online per il nuovo concorso di Intercultura, la storica associazione che da oltre 70 anni promuove il dialogo interculturale e l’educazione alla pace attraverso la mobilità studentesca. Fino al 10 novembre, gli studenti delle scuole…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Estero",
+    "Intercultura"
+   ],
+   "id": "e48935a96c12",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/pidocchi-a-scuola-quasi-20-milioni-spesi-in-un-anno-dalle-famiglie-e-142mila-confezioni-vendute-a-settembre-cosa-funziona-e-cosa-e-inutile/",
+   "titolo": "Pidocchi a scuola, quasi 20 milioni spesi in un anno dalle famiglie e 142mila confezioni vendute a settembre. Cosa funziona e cosa è inutile",
+   "abstract": "Una confezione costa in media 20 euro, e un’applicazione sola raramente basta: per liberarsi dei pidocchi il trattamento va ripetuto dopo una settimana. L'articolo Pidocchi a scuola, quasi 20 milioni spesi in un anno dalle famiglie e 142mila confezioni vendute a settembre. Cosa…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "2eb8b3ea5f63",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/mense-scolastica-si-ai-prodotti-bio-ma-la-maggioranza-punta-su-cibi-processati-e-piatti-pronti-refezione-al-top-a-parma-e-cremona-i-dati/",
+   "titolo": "Mense scolastica, sì ai prodotti bio, ma la maggioranza punta su cibi processati e piatti pronti. Refezione al top a Parma e Cremona. I dati",
+   "abstract": "La qualità dei menù scolastici italiani compie passi avanti sul fronte della biodiversità e dell'agricoltura pulita, pur scontrandosi con resistenze strutturali legate alla diffusione di alimenti industriali e alla dispersione delle risorse. L'articolo Mense scolastica, sì ai…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "a0582f81ef8e",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/manovra-lupi-noi-moderati-le-risorse-risparmiate-siano-investite-nella-scuola-stessa-per-pagare-di-piu-gli-insegnanti-e-per-migliorare-la-qualita-dellistruzione/",
+   "titolo": "Manovra, Lupi (Noi Moderati): “Le risorse risparmiate siano investite nella scuola stessa, per pagare di più gli insegnanti e per migliorare la qualità dell’Istruzione”",
+   "abstract": "I soldi risparmiati sulla scuola devono restare alla scuola. È la richiesta del presidente di Noi Moderati, Maurizio Lupi, in una dichiarazione riportata dall’ANSA. L'articolo Manovra, Lupi (Noi Moderati): “Le risorse risparmiate siano investite nella scuola stessa, per pagare…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Legge di bilancio"
+   ],
+   "id": "4044f613de8d",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/linclusione-e-un-diritto-non-una-concessione",
+   "titolo": "L’inclusione è un diritto, non una concessione",
+   "abstract": "Dall’avvocato Lelio Mancino riceviamo questa riflessione che volentieri pubblichiamo La piena inclusione degli alunni con disabilità non può dipendere dal luogo di residenza, dalle disponibilità finanziarie del singolo Comune o dall’efficienza delle amministrazioni locali. È…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Assegnazione docenti",
+    "inclusione"
+   ],
+   "id": "7dc2f3d71ef9",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/intelligenza-artificiale-e-cittadinanza-digitale-la-seconda-puntata-di-educazione-civica-con-susanna-sancassani-diretta-23-novembre-ore-11-iscrivi-la-classe",
+   "titolo": "Intelligenza Artificiale e Cittadinanza digitale: la seconda puntata di Educazione Civica con Susanna Sancassani – DIRETTA 23 novembre ore 11, ISCRIVI LA CLASSE",
+   "abstract": "Che cosa cambia, per uno studente, quando l’intelligenza artificiale diventa uno strumento quotidiano di studio? E come si impara a giudicare una risposta che sembra convincente? Da queste domande può partire il dialogo di Susanna Sancassani con le studentesse e gli studenti…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Educazione civica"
+   ],
+   "id": "5366f5a30953",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/insulti-ai-prof-e-minacce-di-morte-al-compagno-il-tar-conferma-la-sospensione-la-sanzione-a-scuola-ha-valore-educativo",
+   "titolo": "Insulti ai prof e minacce di morte al compagno, il TAR conferma la sospensione: la sanzione a scuola ha valore educativo",
+   "abstract": "Il Tribunale Amministrativo Regionale per l’Emilia-Romagna (Sezione Prima) ha respinto integralmente il ricorso presentato dai genitori di uno studente iscritto a un Istituto di Istruzione Superiore di Bologna. La vicenda giudiziaria prendeva le mosse dal provvedimento con cui…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bullismo",
+    "Tar"
+   ],
+   "id": "d9763a38c18f",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/il-prof-compie-novantanni-170-ex-alunni-si-ritrovano-per-festeggiarlo-durante-i-compiti-usciva-dallaula-tanto-non-sapete-copiare",
+   "titolo": "Il prof compie novant’anni, 170 ex alunni si ritrovano per festeggiarlo. Durante i compiti usciva dall’aula: “Tanto non sapete copiare”",
+   "abstract": "Una bella storia che dimostra quanto può essere forte il legame tra docenti e studenti, anche a distanza di anni, a distanza di chilometri, anche quando le proprie storie individuali smettono di essere intrecciate. Come riporta Il Corriere della Sera, 170 ex alunni di un liceo…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Compiti in classe"
+   ],
+   "id": "7686a4130109",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/diritto-allo-studio-delle-alunne-e-degli-alunni-adottati-guida-normativa-pedagogica-e-operativa-con-6-allegati-da-scaricare/",
+   "titolo": "Diritto allo studio delle alunne e degli alunni adottati. Guida normativa, pedagogica e operativa. Con 6 allegati da scaricare",
+   "abstract": "La guida ricostruisce il diritto allo studio delle alunne e degli alunni che sono stati adottati, dalle garanzie costituzionali e dalla disciplina dell’adozione alle Linee di indirizzo ministeriali del 2023. Offre a dirigenti scolastici, DSGA, personale di segreteria, insegnanti…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola",
+    "noadv"
+   ],
+   "id": "f9572d8e00d1",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/diritto-allo-studio-2027-permessi-150-ore-docenti-e-ata-scadenza-15-novembre-percorsi-abilitanti-e-terzo-ciclo-indire-si-puo-presentare-domanda-con-riserva/",
+   "titolo": "Diritto allo studio 2027, permessi 150 ore docenti e ATA: scadenza 15 novembre. Percorsi abilitanti e terzo ciclo Indire si può presentare domanda con riserva?",
+   "abstract": "Domanda per diritto allo studio anno solare 2027: la scadenza ministeriale è il 15 novembre (quest'anno è domenica), anche se qualche Ufficio Scolastico potrebbe anticipare. Chi può presentare domanda, per quante ore, per quali corsi. E’ bene comunque fare riferimento al sito…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Guide",
+    "diritto allo studio",
+    "noadv",
+    "Speciali"
+   ],
+   "id": "dc6dccb99199",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-2026-al-voto-in-commissione-gli-emendamenti-dalle-assunzioni-da-gps-su-posti-residui-ai-nuovi-corsi-sostegno-per-chi-ha-3-anni-di-servizio-settimana-importante/",
+   "titolo": "Decreto Scuola 2026, al voto in Commissione gli emendamenti. Dalle assunzioni da GPS su posti residui ai nuovi corsi sostegno per chi ha 3 anni di servizio. Settimana importante",
+   "abstract": "Dal 10 novembre la VII Commissione Istruzione e Cultura al Senato voterà gli emendamenti accantonati nella fase di valutazione. Dopo il voto il testo andrà in Aula. L'articolo Decreto Scuola 2026, al voto in Commissione gli emendamenti. Dalle assunzioni da GPS su posti residui…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Decreto Scuola"
+   ],
+   "id": "5f1f87ce50b3",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/come-lavoriamo-sullautostima-degli-studenti-lezioni-frontali-al-minimo-e-niente-compiti-a-casa-la-scuola-si-fa-a-scuola-non-a-casa-intervista-alla-professoressa-caterina-cassese/",
+   "titolo": "Come lavoriamo sull’autostima degli studenti: “Lezioni frontali al minimo e niente compiti a casa. La scuola si fa a scuola, non a casa”. INTERVISTA alla Professoressa Caterina Cassese",
+   "abstract": "“ Una scuola davvero efficace – è questo il pensiero innovativo cui si ispira la nostra sperimentazione – non è quella che chiede a tutti di arrivare allo stesso modo, ma è quella che non lascia indietro nessuno, è una scuola che accoglie e valorizza le fragilità”. E ancora: “La…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "ad3d89ee71f1",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/caterina-balivo-mia-figlia-fino-a-tredici-anni-non-avra-il-cellulare-sono-molto-rigida-sui-social-in-casa-abbiamo-un-telefono-fisso",
+   "titolo": "Caterina Balivo: “Mia figlia fino a tredici anni non avrà il cellulare. Sono molto rigida sui social, in casa abbiamo un telefono fisso”",
+   "abstract": "La conduttrice Caterina Balivo, mamma di due figli, uno di quattordici e una nove anni, è tornata a parlare del modo in cui educa i figli, soprattutto in merito all’uso degli smartphone, in una intervista a Il Messaggero. “Sono molto rigida sui social, e sull’uso del telefonino…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Cellulari",
+    "Social"
+   ],
+   "id": "690622b5ab62",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/caterina-balivo-e-lo-smartphone-ai-figli-niente-cellulare-fino-a-13-anni-e-solo-unora-di-youtube-e-tiktok-spero-capisca-che-lo-faccio-per-lui/",
+   "titolo": "Caterina Balivo e lo smartphone ai figli: niente cellulare fino a 13 anni e solo un’ora di YouTube e TikTok: “Spero capisca che lo faccio per lui”",
+   "abstract": "Un telefono fisso in casa, con l’agenda cartacea dei numeri accanto, e nessun cellulare prima dei 13 anni. L'articolo Caterina Balivo e lo smartphone ai figli: niente cellulare fino a 13 anni e solo un’ora di YouTube e TikTok: “Spero capisca che lo faccio per lui” sembra essere…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "4d18c8320b19",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/career-readiness-il-futuro-non-si-aspetta-si-costruisce-perche-tanti-giovani-sognano-un-lavoro-senza-conoscere-la-strada-per-raggiungerlo/",
+   "titolo": "Career readiness, il futuro non si aspetta, si costruisce: perché tanti giovani sognano un lavoro senza conoscere la strada per raggiungerlo",
+   "abstract": "Chiediamo a un adolescente che cosa voglia fare da grande e spesso riceviamo il nome di una professione, un’immagine di successo, talvolta una risposta esitante. Raramente chiediamo la domanda successiva, quella che trasforma un desiderio in un progetto: quali competenze…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "adf8be454e2b",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/castellana-gilda-esterrefatto-dalle-parole-di-belpietro-sui-tagli-alla-scuola-a-rischio-continuita-didattica-vigilanza-e-piccoli-presidi/",
+   "titolo": "Belpietro: “5.000 insegnanti in meno non cambieranno la qualità dell’istruzione in questo paese”. Castellana (Gilda) “esterrefatto” replica: tagli che toccano docenti, Ata e famiglie",
+   "abstract": "Meno studenti, più insegnanti: per Maurizio Belpietro basta questo dato a ridimensionare l’allarme sui tagli alla scuola previsti dalla manovra. Il coordinatore nazionale della Federazione Gilda-Unams, Vito Carlo Castellana, la vede in tutt’altro modo. L'articolo Belpietro…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "c8c77eee5950",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bando-itaca-di-inps-1-500-borse-di-studio-per-studiare-allestero-scadenza-10-novembre-2026",
+   "titolo": "Bando ITACA di INPS, 1.500 borse di studio per studiare all’estero: scadenza 10 novembre 2026",
+   "abstract": "L’INPS ha pubblicato il bando di concorso del Programma Itaca per l’anno scolastico 2027/2028, mettendo a disposizione 1.500 borse di studio per sostenere percorsi scolastici all’estero dedicati agli studenti delle scuole secondarie di secondo grado. L’iniziativa offre…",
+   "data": "2026-11-09",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Borse di studio",
+    "Borse di studio Inps",
+    "Estero"
+   ],
+   "id": "8bc4607a8c05",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/90-anni-e-170-ex-alunni-a-tavola-per-festeggiarlo-al-professore-una-laurea-per-gioco-in-decenza-della-docenza/",
+   "titolo": "90 anni e 170 ex alunni a tavola per festeggiarlo: al professore una laurea per gioco in “Decenza della docenza”",
+   "abstract": "C’è chi è partito dalla Francia, chi dalla Spagna, chi dal Lussemburgo. Chi non poteva esserci, perché vive a Long Island o in Australia, ha mandato un messaggio. L'articolo 90 anni e 170 ex alunni a tavola per festeggiarlo: al professore una laurea per gioco in “Decenza della…",
+   "data": "2026-11-09",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "ccc9815e8006",
+   "raccolto": "2026-11-09",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/posso-avere-whatsapp-non-e-un-social-come-un-altro-le-differenze-e-il-monitoraggio-delle-chat-i-consigli-di-alberto-pellai/",
    "titolo": "“Posso avere WhatsApp?”, non è un social come un altro. Le differenze e il monitoraggio delle chat: i consigli di Alberto Pellai",
