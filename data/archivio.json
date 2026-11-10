@@ -1,40 +1,417 @@
 {
- "aggiornato": "2026-11-09T23:26:59+00:00",
+ "aggiornato": "2026-11-10T13:29:07+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-09T23:26:59+00:00",
-   "ultimo_ok": "2026-11-09T23:26:59+00:00"
+   "controllato": "2026-11-10T13:29:07+00:00",
+   "ultimo_ok": "2026-11-10T13:29:07+00:00"
   },
   "gu": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-09T23:26:59+00:00",
+   "controllato": "2026-11-10T13:29:07+00:00",
    "ultimo_ok": "2026-11-06T20:27:28+00:00",
    "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-09T23:26:59+00:00",
+   "controllato": "2026-11-10T13:29:07+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-09T23:26:59+00:00",
-   "ultimo_ok": "2026-11-09T23:26:59+00:00"
+   "voci": 27,
+   "controllato": "2026-11-10T13:29:07+00:00",
+   "ultimo_ok": "2026-11-10T13:29:07+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-09T23:26:59+00:00",
-   "ultimo_ok": "2026-11-09T23:26:59+00:00"
+   "voci": 30,
+   "controllato": "2026-11-10T13:29:07+00:00",
+   "ultimo_ok": "2026-11-10T13:29:07+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/valditara-agli-studenti-stop-ai-compiti-fuori-orario-insulti-dai-docenti-segnalare-subito-al-dirigente-per-avviare-procedura-disciplinare/",
+   "titolo": "Valditara agli studenti: “Stop ai compiti fuori orario. Insulti dai docenti? Segnalare subito al dirigente per avviare procedura disciplinare",
+   "abstract": "Le sanzioni disciplinari per i professori che inviano compiti a casa fuori orario o che rivolgono espressioni ingiuriose agli alunni, il contrasto alle occupazioni a tutela del diritto allo studio e la difesa del nuovo modello formativo 4+2. L'articolo Valditara agli studenti…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "be27c5411f8d",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/trame-del-tempo-3",
+   "titolo": "Trame del tempo 3, Frassinetti sul testo scolastico secondo cui il Governo Meloni ha una “base fascista”: è fazioso, va ritirato",
+   "abstract": "Sta facendo rumore il manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad avere una…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Fascismo",
+    "Paola Frassinetti"
+   ],
+   "id": "3be769d4a74f",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-finlandese-meno-ore-piu-apprendimento-organizzare-la-scuola-in-modo-diverso-e-possibile-diretta-giovedi-12-novembre-ore-1700",
+   "titolo": "Scuola finlandese, meno ore, più apprendimento? Organizzare la scuola in modo diverso è possibile? DIRETTA giovedì 12 novembre ore 17,00",
+   "abstract": "Le lezioni troppo frammentate, i continui cambi di attività e gli ambienti poco flessibili possono rendere difficile mantenere alta l’attenzione degli studenti. Ma è possibile organizzare la scuola in modo diverso, ripensando tempi, spazi e metodologie? Il modello finlandese…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "apprendimento",
+    "Finlandia",
+    "Metodologia didattica"
+   ],
+   "id": "a1bada3c7beb",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scadenza-10-novembre-2026-candidatura-per-iniziative-su-orientamento-dispersione-ed-educazione-civica/",
+   "titolo": "Scadenza 10 novembre 2026: candidatura per iniziative su orientamento, dispersione ed educazione civica",
+   "abstract": "Entro le ore 23:59 scade il termine per presentare la manifestazione di interesse al Ministero. L'articolo Scadenza 10 novembre 2026: candidatura per iniziative su orientamento, dispersione ed educazione civica sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole",
+    "Scadenze"
+   ],
+   "id": "ed05940bafa2",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/programma-itaca-2027-28-domande-entro-le-ore-12-del-10-novembre/",
+   "titolo": "Programma Itaca 2027/28, domande entro le ore 12 del 10 novembre",
+   "abstract": "Il bando offre 1.500 borse di studio agli studenti delle scuole superiori per frequentare un periodo scolastico all’estero. L'articolo Programma Itaca 2027/28, domande entro le ore 12 del 10 novembre sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Scadenze"
+   ],
+   "id": "b8f178425b4f",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/non-basta-fare-rumore-per-giulia-la-scuola-deve-insegnare-a-riconoscere-la-violenza-prima-che-diventi-femminicidio-dalla-proiezione-di-se-domani-non-torno-con-gli-studenti-del-serale-a-u/",
+   "titolo": "Non basta fare rumore per Giulia: la scuola deve insegnare a riconoscere la violenza prima che diventi femminicidio: Dalla proiezione di “Se domani non torno” con gli studenti del serale a una responsabilità educativa che riguarda famiglie, uomini, istituzioni e società",
+   "abstract": "Ieri sera, 5 novembre, ero all’Empire di Partinico insieme agli studenti della quarta e della quinta S SIA del corso serale dell’Istituto «Carlo Alberto Dalla Chiesa». Abbiamo assistito a «Se domani non torno», il film di Paola Randi ispirato a «Cara Giulia», il libro di Gino…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "5f8a71cac3d6",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/manovra-2027-tagli-alla-scuola-lex-ministro-bianchi-il-calo-degli-alunni-non-giustifica-la-riduzione-dei-posti/",
+   "titolo": "Manovra 2027, tagli alla scuola. L’ex ministro Bianchi: “Il calo degli alunni non giustifica la riduzione dei posti”",
+   "abstract": "L'ex ministro dell'Istruzione Patrizio Bianchi interviene sul disegno di legge di bilancio che prevede quasi 5mila posti in meno per i docenti e oltre 2mila per il personale Ata dall'anno scolastico 2027-2028, e sul tetto del 30% di alunni stranieri per classe introdotto dal…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "de9cb8c6e5de",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/lintelligenza-artificiale-entra-nelle-segreterie-scolastiche-riaprono-le-iscrizioni-al-corso-mimeraviglia-16-ore-di-formazione-gratuita",
+   "titolo": "L’Intelligenza Artificiale entra nelle segreterie scolastiche, riaprono le iscrizioni al corso “MIMeraviglIA”: 16 ore di formazione gratuita",
+   "abstract": "L’innovazione tecnologica segna un nuovo traguardo negli uffici delle scuole italiane. Come reso noto dalla circolare ufficiale diramata dal Ministero dell’Istruzione e del Merito sono state riaperte le iscrizioni a MIMeraviglIA, il percorso di formazione incentrato…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Intelligenza artificiale"
+   ],
+   "id": "71a890bd5345",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/legalita-a-scuola-la-regione-siciliana-finanzia-53-progetti-con-oltre-370-mila-euro-studenti-in-visita-al-museo-del-presente-falcone-e-borsellino-di-palermo/",
+   "titolo": "Legalità a scuola, la Regione Siciliana finanzia 53 progetti con oltre 370 mila euro: studenti in visita al Museo del Presente Falcone e Borsellino di Palermo",
+   "abstract": "Sono 53 le scuole statali siciliane che riceveranno un contributo dalla Regione per i loro progetti sulla cultura della legalità. Al centro c’è il Museo del Presente Giovanni Falcone e Paolo Borsellino di Palermo, dove gli studenti andranno in visita. L'articolo Legalità a…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "51748bd84118",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/il-prof-compie-novantanni-170-ex-alunni-si-ritrovano-gramellini-alzava-il-voto-per-quieto-vivere-si-atteggiava-ad-amico-per-consenso-no",
+   "titolo": "Il prof compie novant’anni, 170 ex alunni si ritrovano. Gramellini: “Alzava il voto per quieto vivere? Si atteggiava ad amico per consenso? No”",
+   "abstract": "Ieri abbiamo raccontato la bella storia relativa ai 170 ex alunni di un liceo di Milano che si sono ritrovati per i novant’anni del loro prof di latino e greco, in pensione da trent’anni. Per festeggiarlo si sono riunite ben dodici classi, con ex alunni provienienti dalla…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Didattica",
+    "Massimo Gramellini"
+   ],
+   "id": "22615fb202a6",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/il-prof-90enne-sorpreso-dagli-ex-alunni-basta-uninflessione-di-disprezzo-nella-voce-e-un-15enne-torna-al-banco-con-lidea-di-valere-tre",
+   "titolo": "Il prof 90enne sorpreso dagli ex alunni: “Basta un’inflessione di disprezzo nella voce e un 15enne torna al banco con l’idea di valere tre”",
+   "abstract": "Ieri abbiamo raccontato la bella storia relativa ai 170 ex alunni di un liceo di Milano che si sono ritrovati per i novant’anni del loro prof di latino e greco, in pensione da trent’anni. Per festeggiarlo si sono riunite ben dodici classi, con ex alunni provienienti dalla…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Didattica",
+    "Voti a scuola"
+   ],
+   "id": "d49f57dfffff",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/il-mezzogiorno-perdera-700-mila-under-15-entro-il-2040-lappello-svimez-non-adattare-al-ribasso-lofferta-scolastica-investire-su-tempo-pieno-e-integrazione/",
+   "titolo": "Il Mezzogiorno perderà 700 mila under 15 entro il 2040. L’appello Svimez: non adattare al ribasso l’offerta scolastica, investire su tempo pieno e integrazione",
+   "abstract": "Tra il 2026 e il 2040 il Mezzogiorno perderà oltre un quarto dei suoi bambini: gli under 15 passeranno da 2,4 a 1,7 milioni, con un calo del 26%. In Italia la riduzione attesa è di circa il 15%, nell’Unione europea dell’11%. L'articolo Il Mezzogiorno perderà 700 mila under 15…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "c4b58d2f96f5",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/il-governo-meloni-ha-una-base-dichiaratamente-fascista-ce-scritto-in-un-manuale-di-storia-per-le-superiori-per-valditara-e-fdi-e-fazioso-e-va-ritirato",
+   "titolo": "Il Governo Meloni ha una “base dichiaratamente fascista”, c’è scritto in un manuale di storia per le superiori: per Valditara e FdI è fazioso e va ritirato",
+   "abstract": "Sta facendo rumore il manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad avere una…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Fascismo",
+    "Fratelli D'Italia",
+    "Giuseppe Valditara",
+    "Governo Meloni",
+    "Storia"
+   ],
+   "id": "dfb3838d4817",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/falcone-e-borsellino-la-regione-siciliana-finanzia-53-progetti-presentati-dalle-scuole-per-promuovere-la-legalita",
+   "titolo": "Falcone e Borsellino, la Regione Siciliana finanzia 53 progetti presentati dalle scuole per promuovere la legalità",
+   "abstract": "La Regione Siciliana ha finanziato 53 progetti presentati dalle scuole siciliane con l’obiettivo di promuovere la cultura della legalità tra gli studenti. L’iniziativa offre ai più giovani l’opportunità di approfondire l’opera e l’impegno dei giudici Giovanni Falcone e Paolo…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Legalità",
+    "Sicilia"
+   ],
+   "id": "674e2af90196",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/discarico-inventariale-5-documenti-gia-pronti-alluso-da-scaricare-2/",
+   "titolo": "Discarico inventariale: 5 documenti già pronti all’uso, da scaricare",
+   "abstract": "Documenti Word già pronti da usare: Costituzione Commissione Tecnica Commissione valutazione beni inventario Proposta DSGA Decreto DS Elenco materiale da scaricare Scaricali Riservato agli abbonati Se non sei ancora abbonato, scegli tra le 6 opzioni Puoi ricevere gli…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "4d6c78fec8c8",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-20885-del-09-novembre-2026",
+   "titolo": "Decreto Dirigenziale n. 20885 del 09 novembre 2026",
+   "abstract": "Determina di affidare, ai sensi dell'art. 50 comma 1, lett. b), d.lgs. n. 36/2023, il servizio di fornitura di nr. 35 sedute operative, nr. 15 sedute direzionali e nr. 30 sedute ospiti presso la sede del Ministero dell'Istruzione e del Merito, sito in viale Trastevere 76/A…",
+   "data": "2026-11-10",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "fef4b556f224",
+   "raccolto": "2026-11-10",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1468-del-09-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 1468 del 09 novembre 2026",
+   "abstract": "DGRUF - Decreto Direttoriale n. 1468 del 09 novembre 2026 Avvio della procedura di affidamento diretto, ai sensi dell'articolo 50, comma 1, lettera b), del decreto legislativo 31 marzo 2023, n. 36, mediante lo strumento dell'Ordine diretto di acquisto (ODA) sul Mercato…",
+   "data": "2026-11-10",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "41d4f7dcf53b",
+   "raccolto": "2026-11-10",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/competenze-digitali-invalsi-oltre-9-studenti-su-10-raggiungono-il-livello-atteso-piu-difficolta-nella-creazione-di-contenuti/",
+   "titolo": "Competenze digitali, Invalsi: oltre 9 studenti su 10 raggiungono il livello atteso. Più difficoltà nella creazione di contenuti",
+   "abstract": "Gli studenti italiani mostrano buoni livelli di competenza digitale, ma utilizzare quotidianamente smartphone, social network e applicazioni non significa necessariamente saper produrre contenuti o valutare criticamente le informazioni. L'articolo Competenze digitali, Invalsi…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti",
+    "Competenze digitali"
+   ],
+   "id": "c50e030c2b51",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "esami",
+    "riforme",
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/cinque-insufficienze-alle-medie-bocciatura-legittima-le-presunte-carenze-di-comunicazione-con-la-famiglia-non-regalano-la-promozione",
+   "titolo": "Cinque insufficienze alle medie, bocciatura legittima: le presunte carenze di comunicazione con la famiglia non regalano la promozione",
+   "abstract": "Il Tribunale Amministrativo Regionale per la Lombardia, sezione staccata di Brescia (Sezione Seconda), ha pronunciato una sentenza in materia di valutazione scolastica (n. 01378/2026) che riafferma con nettezza i confini della discrezionalità tecnica dei docenti e la natura…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Tar"
+   ],
+   "id": "fc72782a1b61",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-839-del-9-novembre-2026",
+   "titolo": "Avviso n. 839 del 9 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-10",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "655b17c2b4b5",
+   "raccolto": "2026-11-10",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/riprova-devi-esercitarti-di-piu-bambini-che-faticano-a-leggere-scrivere-o-fare-i-calcoli-perche-aumentare-gli-esercizi-non-e-sempre-la-soluzione/",
    "titolo": "“Riprova, devi esercitarti di più”. Bambini che faticano a leggere, scrivere o fare i calcoli: perché aumentare gli esercizi non è sempre la soluzione",
