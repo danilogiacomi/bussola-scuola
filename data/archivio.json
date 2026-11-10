@@ -1,40 +1,81 @@
 {
- "aggiornato": "2026-11-10T13:29:07+00:00",
+ "aggiornato": "2026-11-10T20:49:58+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 415,
-   "controllato": "2026-11-10T13:29:07+00:00",
-   "ultimo_ok": "2026-11-10T13:29:07+00:00"
+   "controllato": "2026-11-10T20:49:58+00:00",
+   "ultimo_ok": "2026-11-10T20:49:58+00:00"
   },
   "gu": {
-   "esito": "errore",
+   "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-10T13:29:07+00:00",
-   "ultimo_ok": "2026-11-06T20:27:28+00:00",
-   "messaggio": "object has no attribute 'title'"
+   "controllato": "2026-11-10T20:49:58+00:00",
+   "ultimo_ok": "2026-11-10T20:49:58+00:00"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-10T13:29:07+00:00",
+   "controllato": "2026-11-10T20:49:58+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 27,
-   "controllato": "2026-11-10T13:29:07+00:00",
-   "ultimo_ok": "2026-11-10T13:29:07+00:00"
+   "voci": 25,
+   "controllato": "2026-11-10T20:49:58+00:00",
+   "ultimo_ok": "2026-11-10T20:49:58+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-10T13:29:07+00:00",
-   "ultimo_ok": "2026-11-10T13:29:07+00:00"
+   "voci": 29,
+   "controllato": "2026-11-10T20:49:58+00:00",
+   "ultimo_ok": "2026-11-10T20:49:58+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/tagli-sanguinosi-alla-scuola-pubblica-meloni-e-valditara-hanno-tradito-conte-e-i-deputati-m5s-incontrano-sindacati-e-studenti",
+   "titolo": "“Tagli sanguinosi alla scuola pubblica, Meloni e Valditara hanno tradito”: Conte e i deputati M5s incontrano sindacati e studenti",
+   "abstract": "“L’incontro di questa mattina con rappresentanze studentesche e dei sindacati della scuola è stato molto proficuo. Ringraziamo i rappresentanti di Cgil, Cisl, Snals, Anief, Gilda, Rete Nazionale istituti tecnici, UdS e Rete Studenti Medi per la loro disponibilità e per il loro…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Giuseppe Conte",
+    "Governo Meloni",
+    "Manovra",
+    "Movimento 5 Stelle",
+    "Tagli"
+   ],
+   "id": "88570a071001",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/alla-pensione-si-pensa-allinizio-della-vita-linps-insegna-ai-ragazzi-a-difendersi-dallo-sfruttamento",
+   "titolo": "“Alla pensione si pensa all’inizio della vita”, l’Inps insegna ai ragazzi a difendersi dallo sfruttamento",
+   "abstract": "Inps, Inl, Usr Sicilia e Regione Siciliana hanno presentato oggi a Palermo, in una nota congiunta, un protocollo d’intesa per portare nelle scuole formazione su legalità nel lavoro, educazione previdenziale e sicurezza. L’incontro si è tenuto all’istituto tecnico “Vittorio…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Inps",
+    "Sicilia"
+   ],
+   "id": "ce126887cb2b",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.orizzontescuola.it/valditara-agli-studenti-stop-ai-compiti-fuori-orario-insulti-dai-docenti-segnalare-subito-al-dirigente-per-avviare-procedura-disciplinare/",
    "titolo": "Valditara agli studenti: “Stop ai compiti fuori orario. Insulti dai docenti? Segnalare subito al dirigente per avviare procedura disciplinare",
@@ -55,6 +96,24 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/un-alunno-sviene-in-classe-un-genitore-minaccia-una-denuncia-scoppia-una-rissa-il-manuale-dei-casi-pratici-per-docenti-e-dirigenti-con-240-situazioni-concrete-cosa-fare-cosa-evitare-e-quali-resp/",
+   "titolo": "Un alunno sviene in classe, un genitore minaccia una denuncia, scoppia una rissa: il manuale dei casi pratici per docenti e Dirigenti, con 240 situazioni concrete, cosa fare, cosa evitare e quali responsabilità assumersi",
+   "abstract": "Se scoppia una rissa o un ragazzo denuncia episodi di bullismo? Come deve comportarsi il docente? Quali sono i suoi obblighi e come può tutelarsi? Il Manuale dei casi pratici del docente, di Antonio Fundarò, offre risposte operative a 240 situazioni che possono verificarsi nella…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Plus"
+   ],
+   "id": "e0c3b583aef0",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/trame-del-tempo-3",
    "titolo": "Trame del tempo 3, Frassinetti sul testo scolastico secondo cui il Governo Meloni ha una “base fascista”: è fazioso, va ritirato",
    "abstract": "Sta facendo rumore il manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad avere una…",
@@ -72,6 +131,47 @@
     "altro"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/testi-scolastici-piccolotti-avs-valditara-ricordi-che-il-libro-di-stato-e-finito-con-il-fascismo-focus-anche-sulle-residenze-universitarie",
+   "titolo": "Testi scolastici, Piccolotti (Avs): “Valditara ricordi che il libro di Stato è finito con il fascismo”. Focus anche sulle residenze universitarie",
+   "abstract": "No alla censura dei libri di testo per le scuole e occhi puntati sui posti letto delle residenze universitarie. È la sintesi degli interventi odierni di Elisabetta Piccolotti, parlamentare di Alleanza Verdi e Sinistra e membro della Commissione Cultura alla Camera dei Deputati…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Docenti",
+    "Studenti e genitori",
+    "Giuseppe Valditara",
+    "Libri di testo"
+   ],
+   "id": "59b30926d635",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-in-rivolta-contro-la-preside-in-centinaia-in-piazza-chiedono-la-rimozione-della-dirigente",
+   "titolo": "Scuola in rivolta contro la preside: in centinaia in piazza chiedono la rimozione della dirigente",
+   "abstract": "Una protesta contro la dirigente scolastica di un istituto comprensivo del Friuli è arrivata in piazza. Circa 350 persone, tra insegnanti, personale Ata, rappresentanti sindacali e genitori con i figli, hanno partecipato alla manifestazione, organizzata dopo che il tentativo di…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "manifestazione"
+   ],
+   "id": "cbfd084c05cb",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.tecnicadellascuola.it/scuola-finlandese-meno-ore-piu-apprendimento-organizzare-la-scuola-in-modo-diverso-e-possibile-diretta-giovedi-12-novembre-ore-1700",
@@ -133,6 +233,23 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/polemiche-su-libro-di-testo-valditara-diritto-di-critica-e-di-valutazione-nessuna-censura-opposizione-attacco-alla-liberta-di-insegnamento/",
+   "titolo": "Polemiche su libro di testo, Valditara: “Diritto di critica e di valutazione, nessuna censura. Opposizione: “Attacco alla libertà di insegnamento”",
+   "abstract": "Si accende il dibattito politico sul tema dei libri di testo e della libertà di insegnamento nelle scuole. Un confronto aperto dalle parole del Ministro dell'Istruzione e del Merito, Giuseppe Valditara, e subito seguito dalle prese di posizione polemiche di diversi esponenti…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "27e713661b08",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/non-basta-fare-rumore-per-giulia-la-scuola-deve-insegnare-a-riconoscere-la-violenza-prima-che-diventi-femminicidio-dalla-proiezione-di-se-domani-non-torno-con-gli-studenti-del-serale-a-u/",
    "titolo": "Non basta fare rumore per Giulia: la scuola deve insegnare a riconoscere la violenza prima che diventi femminicidio: Dalla proiezione di “Se domani non torno” con gli studenti del serale a una responsabilità educativa che riguarda famiglie, uomini, istituzioni e società",
    "abstract": "Ieri sera, 5 novembre, ero all’Empire di Partinico insieme agli studenti della quarta e della quinta S SIA del corso serale dell’Istituto «Carlo Alberto Dalla Chiesa». Abbiamo assistito a «Se domani non torno», il film di Paola Randi ispirato a «Cara Giulia», il libro di Gino…",
@@ -143,6 +260,25 @@
     "Cronaca"
    ],
    "id": "5f8a71cac3d6",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/mense-scolastiche-ecco-dove-i-menu-sono-migliori-parma-conquista-il-primo-posto-napoli-ultima-i-dati/",
+   "titolo": "Mense scolastiche, ecco dove i menù sono migliori: Parma conquista il primo posto, Napoli ultima. I dati",
+   "abstract": "Cosa trovano nel piatto i bambini quando si siedono a tavola nella mensa scolastica? A questa domanda prova a rispondere Foodinsider, osservatorio indipendente sulla ristorazione scolastica, che con l’11° Rating dei menù scolastici ha letto da cima a fondo i menù invernali delle…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "6d14ae007ee8",
    "raccolto": "2026-11-10",
    "sezioni": [
     "studenti"
@@ -167,6 +303,24 @@
     "inclusione"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/m5s-incontra-sindacati-e-studenti-istruzione-al-centro-del-nostro-programma-meloni-e-valditara-hanno-tradito-il-settore/",
+   "titolo": "M5S incontra sindacati e studenti: “Istruzione al centro del nostro programma, Meloni e Valditara hanno tradito il settore”",
+   "abstract": "\"L'incontro di questa mattina con rappresentanze studentesche e dei sindacati della scuola è stato molto proficuo. Ringraziamo i rappresentanti di CGIL, CISL, SNALS, ANIEF, Gilda, Rete Nazionale istituti tecnici, UdS e Rete Studenti Medi per la loro disponibilità e per il loro…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "0395f1360f58",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.tecnicadellascuola.it/lintelligenza-artificiale-entra-nelle-segreterie-scolastiche-riaprono-le-iscrizioni-al-corso-mimeraviglia-16-ore-di-formazione-gratuita",
@@ -202,6 +356,25 @@
    "raccolto": "2026-11-10",
    "sezioni": [
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/intelligenza-artificiale-nelle-pa-pubblicate-le-linee-guida-agid-riguardano-anche-le-scuole",
+   "titolo": "Intelligenza artificiale nelle PA. Pubblicate le Linee guida AgID, riguardano anche le scuole",
+   "abstract": "L’AgID ha pubblicato ieri, 10 novembre, con la determinazione n. 169 del 9 novembre 2026, le Linee Guida per l’adozione di IA nella Pubblica Amministrazione. Il documento costituisce un quadro operativo per introdurre l’IA nei servizi pubblici in modo sicuro, trasparente e…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Intelligenza artificiale"
+   ],
+   "id": "8da419edcde8",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "riforme",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -284,6 +457,28 @@
    "superiori": true
   },
   {
+   "url": "https://www.tecnicadellascuola.it/governo-meloni-con-base-dichiaratamente-fascista-valditara-chiede-il-ritiro-del-testo-per-manzi-pd-decidono-i-prof-gelmini-e-delmastro-difendono-il-ministro",
+   "titolo": "Governo Meloni “dichiaratamente fascista”, Valditara vuole il ritiro del testo: per Manzi (Pd) prevarica i docenti, Gelmini e Delmastro con il Ministro",
+   "abstract": "Si moltiplicano le polemiche per il manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Politica scolastica",
+    "Giuseppe Valditara",
+    "Governo Meloni",
+    "Irene Manzi (Pd)",
+    "Storia"
+   ],
+   "id": "aa0d5b17cb28",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/falcone-e-borsellino-la-regione-siciliana-finanzia-53-progetti-presentati-dalle-scuole-per-promuovere-la-legalita",
    "titolo": "Falcone e Borsellino, la Regione Siciliana finanzia 53 progetti presentati dalle scuole per promuovere la legalità",
    "abstract": "La Regione Siciliana ha finanziato 53 progetti presentati dalle scuole siciliane con l’obiettivo di promuovere la cultura della legalità tra gli studenti. L’iniziativa offre ai più giovani l’opportunità di approfondire l’opera e l’impegno dei giudici Giovanni Falcone e Paolo…",
@@ -296,6 +491,59 @@
     "Sicilia"
    ],
    "id": "674e2af90196",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/enrico-galiano-spiega-perche-le-diagnosi-di-dsa-sono-aumentate-una-volta-non-cerano-neanche-tutti-questi-casi-di-diabete-e-poi-abbiamo-imparato-a-misurare-la-glicemia/",
+   "titolo": "Enrico Galiano spiega perché le diagnosi di DSA sono aumentate: “Una volta non c’erano neanche tutti questi casi di diabete, e poi abbiamo imparato a misurare la glicemia”",
+   "abstract": "I disturbi specifici dell’apprendimento non sono comparsi all’improvviso. Per decenni sono rimasti senza un nome, e chi ne soffriva veniva giudicato senza che nessuno capisse cosa stesse succedendo. Su questo punto Enrico Galiano costruisce la sua risposta a un reel molto…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "7fee8ea40c7a",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/emergenza-miopia-nei-bambini-entro-il-2050-potrebbero-essere-miopi-oltre-740-milioni-di-giovani-in-italia-stimati-gia-piu-di-2-milioni-i-consigli-degli-esperti/",
+   "titolo": "Emergenza miopia nei bambini, entro il 2050 potrebbero essere miopi oltre 740 milioni di giovani. In Italia stimati già più di 2 milioni: i consigli degli esperti",
+   "abstract": "Oggi, nel mondo, un bambino o un ragazzo su tre fatica a vedere bene da lontano. L'articolo Emergenza miopia nei bambini, entro il 2050 potrebbero essere miopi oltre 740 milioni di giovani. In Italia stimati già più di 2 milioni: i consigli degli esperti sembra essere il primo…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "7e1e6665da4f",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/docente-non-distratto-e-urto-involontario-la-famiglia-chiede-20mila-euro-per-linfortunio-a-scuola-ma-perde-la-causa-e-ne-deve-10mila-alla-scuola/",
+   "titolo": "Docente non distratto e urto involontario: la famiglia chiede 20mila euro per l’infortunio a scuola, ma perde la causa e ne deve 10mila",
+   "abstract": "Quando due studenti si scontrano durante una partita di pallavolo in palestra, la responsabilità e le relative spese non cadono automaticamente sulle spalle della scuola. L'articolo Docente non distratto e urto involontario: la famiglia chiede 20mila euro per l’infortunio a…",
+   "data": "2026-11-10",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "7ff7230f554d",
    "raccolto": "2026-11-10",
    "sezioni": [
     "studenti"
@@ -349,6 +597,26 @@
    "abstract_tentato": true,
    "sezioni": [
     "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/compiti-di-sera-sul-registro-elettronico-valditara-il-docente-rischia-la-sanzione-e-i-dirigenti-devono-verificare",
+   "titolo": "Compiti di sera sul registro elettronico, Valditara: “Il docente rischia la sanzione e i dirigenti devono verificare”",
+   "abstract": "Il ministro dell’Istruzione e del Merito Giuseppe Valditara è tornato sul tema dei compiti assegnati la sera tramite registro elettronico, rispondendo alle domande degli studenti raccolte da Skuola.net nel format “Il Ministro risponde”, portate a Viale Trastevere dal direttore…",
+   "data": "2026-11-10",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Giuseppe Valditara",
+    "Registro elettronico"
+   ],
+   "id": "61a6c72eea21",
+   "raccolto": "2026-11-10",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
