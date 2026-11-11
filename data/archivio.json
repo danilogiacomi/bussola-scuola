@@ -1,39 +1,407 @@
 {
- "aggiornato": "2026-11-10T20:49:58+00:00",
+ "aggiornato": "2026-11-11T12:44:17+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
-   "voci": 415,
-   "controllato": "2026-11-10T20:49:58+00:00",
-   "ultimo_ok": "2026-11-10T20:49:58+00:00"
+   "voci": 406,
+   "controllato": "2026-11-11T12:44:17+00:00",
+   "ultimo_ok": "2026-11-11T12:44:17+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-10T20:49:58+00:00",
-   "ultimo_ok": "2026-11-10T20:49:58+00:00"
+   "controllato": "2026-11-11T12:44:17+00:00",
+   "ultimo_ok": "2026-11-11T12:44:17+00:00"
   },
   "indire": {
    "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-10T20:49:58+00:00",
+   "controllato": "2026-11-11T12:44:17+00:00",
    "ultimo_ok": "2026-11-05T16:07:07+00:00",
    "messaggio": "feed non raggiungibile (ConnectTimeout)"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 25,
-   "controllato": "2026-11-10T20:49:58+00:00",
-   "ultimo_ok": "2026-11-10T20:49:58+00:00"
+   "voci": 28,
+   "controllato": "2026-11-11T12:44:17+00:00",
+   "ultimo_ok": "2026-11-11T12:44:17+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-10T20:49:58+00:00",
-   "ultimo_ok": "2026-11-10T20:49:58+00:00"
+   "voci": 28,
+   "controllato": "2026-11-11T12:44:17+00:00",
+   "ultimo_ok": "2026-11-11T12:44:17+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/valditara-sulla-riforma-42-ce-un-grande-interesse-verso-questo-percorso-fortemente-innovativo/",
+   "titolo": "Valditara sulla riforma 4+2: “Abituiamo i giovani a innovare, a fare ricerca, a sperimentare. Esporteremo il modello”",
+   "abstract": "Aiutare tanti giovani a trovare lavoro più in fretta, e un lavoro che offra prospettive solide di carriera e di successo professionale. Così il ministro dell’Istruzione Giuseppe Valditara ha descritto la riforma 4+2 dell’istruzione tecnico-professionale, di cui ha illustrato le…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "4ad38fd5bd5d",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/trame-del-tempo-lautore-greppi-se-un-partito-si-offende-se-un-testo-lo-chiama-liberticida-e-poi-invoca-misure-liberticide-per-chi-scrive-e-corretto",
+   "titolo": "Trame del tempo, l’autore Greppi: “Se un partito si offende se un testo lo chiama liberticida e poi invoca misure liberticide per chi scrive è corretto”",
+   "abstract": "Continua a fare rumore il manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad avere…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Fascismo"
+   ],
+   "id": "0d5648bbbea7",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/trame-del-tempo-laterza-un-ministro-non-puo-scegliere-se-adottare-o-meno-un-testo-valditara-si-tenga-il-suo-libro-ma-non-sia-intollerante",
+   "titolo": "Trame del tempo, Laterza: “Un ministro non può scegliere se adottare o meno un testo”. Valditara: “Si tenga il suo libro, ma non sia intollerante”",
+   "abstract": "Continua a fare rumore il manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad avere…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Fascismo",
+    "Giuseppe Valditara"
+   ],
+   "id": "3e87a65436a9",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/tetto-alunni-stranieri-valditara-tira-dritto-nessuna-discriminazione-dallopposizione-solo-strumentalizzazioni-anche-dallue-ce-fastidio-per-chi-tira-le-istituzioni-per-la-giacchetta/",
+   "titolo": "Tetto alunni stranieri, Valditara tira dritto: “Nessuna discriminazione, dall’opposizione solo strumentalizzazioni. Anche dall’UE c’è fastidio per chi tira le istituzioni per la giacchetta”",
+   "abstract": "\"Il governo va avanti senza esitazioni. Il problema non esiste\". Il Ministro dell'Istruzione e del Merito, Giuseppe Valditara, smonta le polemiche sollevate dalle opposizioni sul tetto agli alunni stranieri nelle classi italiane e chiarisce con forza la posizione dell'esecutivo…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "c85fd70f1875",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/tetto-agli-alunni-stranieri-nel-decreto-scuola-discriminatorio-secondo-lue-valditara-speculazione-politica-montata-ad-arte",
+   "titolo": "Tetto agli alunni stranieri nel decreto scuola discriminatorio secondo l’Ue? Valditara: “Speculazione politica montata ad arte”",
+   "abstract": "Il decreto scuola, di cui al momento prosegue l’iter al Senato, che introduce il tetto del 30% di studenti stranieri nelle classi, è finito in questi giorni sotto l’attenzione della Commissione europea. A riferirlo è stata la vicepresidente dell’esecutivo Ue, Roxana Mînzatu…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "decreto legge scuola 2026",
+    "Giuseppe Valditara"
+   ],
+   "id": "81f430bb9df2",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/meno-nati-e-alunni-non-significa-per-forza-ridurre-scuole-e-insegnanti-altola-svimez-non-adattare-al-ribasso-lofferta-scolastica-al-degiovanimento",
+   "titolo": "Meno nati e alunni non significa per forza ridurre scuole e insegnanti, altolà Svimez: non adattare l’offerta scolastica al degiovanimento",
+   "abstract": "“La scuola è un presidio di cittadinanza: rafforzarla significa rendere i territori più attrattivi per le famiglie”: a sostenerlo è la Svimez, che ha di recente pubblicato il rapporto Svimez 2026 ‘L’economia e la società del Mezzogiorno’. Dal 2026 al 2040 – ricorda…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Politica scolastica",
+    "Alunni",
+    "Svimez"
+   ],
+   "id": "bab48d666d5d",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/manovra-sicilia-fondi-per-giovani-famiglie-e-scuole-30-mila-euro-ai-laureati-che-restano-nellisola/",
+   "titolo": "Manovra Sicilia, fondi per giovani, famiglie e scuole: 30 mila euro ai laureati che restano nell’Isola",
+   "abstract": "La Regione Siciliana punta su giovani, famiglie e istruzione con una serie di interventi inseriti nel disegno di legge di Stabilità da 1,7 miliardi di euro, approvato dalla giunta Schifani. Tra le misure figurano incentivi economici per i laureati che scelgono di rimanere…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Politica scolastica"
+   ],
+   "id": "6734983d70ad",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/laboratori-nelle-scuole-del-friuli-per-i-50-anni-dal-terremoto-del-1976-il-mim-cerca-istituti-di-riferimento-fino-a-150mila-euro-candidature-entro-il-16-novembre/",
+   "titolo": "Laboratori nelle scuole del Friuli per i 50 anni dal terremoto del 1976: il MIM cerca istituti di riferimento. Fino a 150mila euro, candidature entro il 16 novembre",
+   "abstract": "Il Ministero dell’Istruzione e del Merito cerca una o più scuole statali del Friuli Venezia Giulia a cui affidare l’organizzazione di laboratori didattici per gli studenti della primaria e della secondaria della regione. L'articolo Laboratori nelle scuole del Friuli per i 50…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "b118cda4fe38",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/la-ricreazione-emotiva-a-scuola-15-minuti-per-raccontare-ansie-paure-e-problemi-personali-gli-studenti-per-noi-e-importantissimo-ti-vogliamo-bene-intervista-ad-edoardo-picone/",
+   "titolo": "La ricreazione emotiva, a scuola 15 minuti per raccontare ansie, paure e problemi personali. Gli studenti: “Per noi è importantissimo, ti vogliamo bene”. INTERVISTA ad Edoardo Picone",
+   "abstract": "Nasce “Ricreazione Emotiva”, un progetto che dedica quindici minuti alla settimana all'ascolto degli studenti, attraverso la scrittura anonima e il confronto sulle emozioni. Ospite della rubrica I Protagonisti di Orizzonte Scuola, l'ideatore Edoardo Picone racconta le prime…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "d0c65ba33a89",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/genitori-favorevoli-alle-occupazioni-delle-scuole-giusto-che-ragionino-con-la-propria-testa/",
+   "titolo": "Genitori favorevoli alle occupazioni delle scuole: “Giusto che ragionino con la propria testa”",
+   "abstract": "Un gruppo di genitori di un liceo di Roma prende posizione a sostegno degli studenti impegnati nelle mobilitazioni e rivendica il valore educativo della partecipazione giovanile. Lo fa attraverso una lettera aperta, riportata dall'ANSA il 10 novembre, che nasce dalla volontà di…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "a98618c08516",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/francia-la-protesta-dei-liceali-tra-cortei-e-violenze-245-feriti-tra-il-personale-dellistruzione-geffray-una-violenza-inaudita/",
+   "titolo": "Francia, la protesta dei liceali tra cortei e violenze: 245 feriti tra il personale dell’Istruzione. Geffray: “Una violenza inaudita”",
+   "abstract": "Una consigliera regionale dell’Île-de-France stava cercando di mediare per far ripartire le lezioni davanti a un liceo di Chelles, alle porte di Parigi, quando è stata colpita da una bottiglia contenente benzina. L'articolo Francia, la protesta dei liceali tra cortei e violenze…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "eae35a771906",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-170-i-lavori-rallentano-si-discute-ancora-nella-maggioranza-sul-tetto-agli-alunni-stranieri-e-sulle-nuove-norme-del-pei",
+   "titolo": "Decreto scuola 170: i lavori rallentano. Si discute ancora nella maggioranza sul tetto agli alunni stranieri e sulle nuove norme del PEI",
+   "abstract": "Si preannunciano complicate le ultime battute per la conversione in legge del decreto scuola 170 di fine settembre che introduce tra l’altro il tetto agli alunni stranieri nelle classi, il divieto di velo integrale e modifiche importanti al meccanismo di approvazione e di…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità"
+   ],
+   "id": "dab4f16a04bf",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/daniele-novara-e-gli-errori-dei-genitori-uno-degli-sbagli-principali-e-mettersi-a-fare-lamico-del-figlio-ponendosi-alla-pari-cercando-confidenza-e-intimita/",
+   "titolo": "Daniele Novara e gli errori dei genitori: “Uno degli sbagli principali è mettersi a fare l’amico del figlio, ponendosi alla pari, cercando confidenza e intimità”",
+   "abstract": "Lunghe prediche, discussioni a non finire, battibecchi su tutto. Per Daniele Novara sono proprio le troppe parole a rovinare spesso il rapporto con i figli. L'articolo Daniele Novara e gli errori dei genitori: “Uno degli sbagli principali è mettersi a fare l’amico del figlio…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "e272920fb298",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cybersicurezza-e-intelligenza-artificiale-dal-mur-12-milioni-di-euro-a-universita-ed-enti-di-ricerca-finanziati-38-progetti-pubblicata-la-graduatoria/",
+   "titolo": "Cybersicurezza e intelligenza artificiale, dal MUR 12 milioni di euro a università ed enti di ricerca: finanziati 38 progetti, pubblicata la graduatoria",
+   "abstract": "Sono 38 i progetti di università ed enti di ricerca che riceveranno un finanziamento dal Ministero dell’Università e della Ricerca per rafforzare le competenze su sicurezza informatica e intelligenza artificiale. La somma complessiva è di 12 milioni di euro. L'articolo…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti",
+    "Università"
+   ],
+   "id": "be4a649cd0dd",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarmi-bomba-nelle-scuole-il-giorno-piu-lungo-dei-genitori-quando-una-mail-spezza-la-sicurezza-nelle-aule-dei-nostri-figli/",
+   "titolo": "Allarmi bomba nelle scuole, il giorno più lungo dei genitori: quando una mail spezza la sicurezza nelle aule dei nostri figli",
+   "abstract": "Un messaggio di poche righe notificato sui telefoni dei genitori, poco dopo le 10:00, ha fatto scattare l'evacuazione immediata di decine di istituti scolastici da Nord a Sud, trasformando una normale mattinata di lezione in un'emergenza logistica e psicologica per migliaia di…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "29412770e3fc",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarmi-bomba-in-oltre-100-scuole-nuova-ondata-di-mail-minatorie-in-tutta-italia-evacuazioni-da-nord-a-sud/",
+   "titolo": "Allarmi bomba in oltre 300 scuole, nuova ondata di mail minatorie in tutta Italia: evacuazioni da Nord a Sud. Valditara: “Rischio concreto inesistente”. Vertice alle 16. IN AGGIORNAMENTO",
+   "abstract": "Una mail con oggetto “Avviso di pericolo” è arrivata stamattina, mercoledì 11 novembre, nelle caselle di posta di molte scuole italiane, e in diverse città studenti e personale sono stati fatti uscire dalle aule. L'articolo Allarmi bomba in oltre 300 scuole, nuova ondata di mail…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "96ff96cf98dd",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-scuole-meloni",
+   "titolo": "Allarme bomba scuole, 300 casi: Meloni convoca riunione urgente a Palazzo Chigi",
+   "abstract": "Un allarme bomba è stato inviato via mail a centinaia di scuole questa mattina. La polizia ha comunicato di procedere con calma e liberare gli edifici, come riporta il ‘Corriere della Sera’. Così gli studenti hanno lasciato le proprie aule e fatto ritorno nelle proprie…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Giorgia Meloni"
+   ],
+   "id": "24fd7a6b44dd",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-nelle-scuole-di-roma-edifici-evacuati-la-polizia-invita-a-lasciare-gli-istituti",
+   "titolo": "Allarme bomba nelle scuole di tutta Italia, edifici evacuati. Il messaggio tramite mail: “Metteremo in atto un genocidio contro gli italiani” – IL PDF INVIATO ALLE SCUOLE",
+   "abstract": "Un allarme bomba è stato inviato via mail a centinaia di scuole questa mattina. La polizia ha comunicato di procedere con calma e liberare gli edifici, come riporta il ‘Corriere della Sera’. Così gli studenti hanno lasciato le proprie aule e fatto ritorno nelle proprie…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Roma"
+   ],
+   "id": "5c969d7063c9",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/accorpare-due-classi-con-40-45-alunni-per-coprire-unassenza-grosso-problema-di-colpa-in-organizzando-il-punto-di-de-martino/",
+   "titolo": "Accorpare due classi con 40-45 alunni per coprire un’assenza: “Grosso problema di colpa in organizzando”. Il Punto di De Martino",
+   "abstract": "È legittimo unire due classi, arrivando a 40 o 45 alunni, per fronteggiare l’assenza di un docente? L'articolo Accorpare due classi con 40-45 alunni per coprire un’assenza: “Grosso problema di colpa in organizzando”. Il Punto di De Martino sembra essere il primo su Orizzonte…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "57550426bb8c",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/a-29-anni-e-la-preside-piu-giovane-ditalia-rimettere-gli-insegnanti-al-centro-creerebbe-un-ambiente-sano-giovani-grande-difficolta-ad-accettare-lerrore/",
+   "titolo": "A 29 anni è la preside più giovane d’Italia: “Rimettere gli insegnanti al centro creerebbe un ambiente sano. Giovani? Grande difficoltà ad accettare l’errore”",
+   "abstract": "I ragazzi di oggi faticano a fare pace con gli sbagli. È la fragilità che una preside di 29 anni vede più spesso negli studenti. È la dirigente scolastica più giovane d’Italia, e da pochi giorni guida il liceo classico europeo di un istituto paritario di Roma. L'articolo A 29…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "9667b0466a44",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.tecnicadellascuola.it/tagli-sanguinosi-alla-scuola-pubblica-meloni-e-valditara-hanno-tradito-conte-e-i-deputati-m5s-incontrano-sindacati-e-studenti",
    "titolo": "“Tagli sanguinosi alla scuola pubblica, Meloni e Valditara hanno tradito”: Conte e i deputati M5s incontrano sindacati e studenti",
