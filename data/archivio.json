@@ -1,39 +1,99 @@
 {
- "aggiornato": "2026-11-11T12:44:17+00:00",
+ "aggiornato": "2026-11-11T21:26:13+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-11T12:44:17+00:00",
-   "ultimo_ok": "2026-11-11T12:44:17+00:00"
+   "controllato": "2026-11-11T21:26:13+00:00",
+   "ultimo_ok": "2026-11-11T21:26:13+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-11T12:44:17+00:00",
-   "ultimo_ok": "2026-11-11T12:44:17+00:00"
+   "controllato": "2026-11-11T21:26:13+00:00",
+   "ultimo_ok": "2026-11-11T21:26:13+00:00"
   },
   "indire": {
-   "esito": "errore",
-   "voci": 0,
-   "controllato": "2026-11-11T12:44:17+00:00",
-   "ultimo_ok": "2026-11-05T16:07:07+00:00",
-   "messaggio": "feed non raggiungibile (ConnectTimeout)"
+   "esito": "ok",
+   "voci": 40,
+   "controllato": "2026-11-11T21:26:13+00:00",
+   "ultimo_ok": "2026-11-11T21:26:13+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-11T12:44:17+00:00",
-   "ultimo_ok": "2026-11-11T12:44:17+00:00"
+   "controllato": "2026-11-11T21:26:13+00:00",
+   "ultimo_ok": "2026-11-11T21:26:13+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-11T12:44:17+00:00",
-   "ultimo_ok": "2026-11-11T12:44:17+00:00"
+   "voci": 29,
+   "controllato": "2026-11-11T21:26:13+00:00",
+   "ultimo_ok": "2026-11-11T21:26:13+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.indire.it/2026/11/11/la-scuola-per-la-parita-e-il-rispetto-esperienze-ricerche-e-prospettive-il-convegno-nazionale-indire/",
+   "titolo": "“La scuola per la parità e il rispetto: esperienze, ricerche e prospettive”, il convegno nazionale INDIRE",
+   "abstract": "La scuola è, dopo la famiglia, il primo luogo in cui bambine e bambini, ragazze e ragazzi imparano a confrontarsi con gli altri, a riconoscere le differenze, a costruire un’idea di sé e del proprio posto nel mondo. Proprio per questo la scuola ha una responsabilità particolare…",
+   "data": "2026-11-11",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "cittadinanza attiva",
+    "inclusione",
+    "eventi",
+    "slider"
+   ],
+   "id": "fc256f677162",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/voto-in-condotta-abbassato-senza-alcuna-motivazione-il-tar-accoglie-il-ricorso-dei-genitori-di-un-alunno-ecco-cosa-hanno-detto-i-giudici/",
+   "titolo": "Voto in condotta abbassato senza “alcuna motivazione”, il TAR accoglie il ricorso dei genitori di un alunno: ecco cosa hanno detto i giudici",
+   "abstract": "Un voto in condotta abbassato all’improvviso alla fine dell'anno scolastico, senza che nel registro figurino note, sanzioni disciplinari o segnalazioni alle famiglie, costituisce un atto illegittimo perché privo di motivazione e di un'adeguata istruttoria. L'articolo Voto in…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "487f0224a9cd",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/voto-in-condotta-abbassato-da-9-a-8-studente-penalizzato-sui-crediti-il-tar-annulla-il-taglio-perche-manca-la-motivazione",
+   "titolo": "Voto in condotta abbassato da 9 a 8, studente penalizzato sui crediti: il TAR annulla il “taglio” perché manca la motivazione",
+   "abstract": "L’attribuzione del voto di comportamento al termine dell’anno scolastico è diventata uno degli snodi decisivi per il percorso e il punteggio di maturità degli studenti. Con l’introduzione della Legge 1° ottobre 2024, n. 150, l’assegnazione del valore massimo nell’ambito della…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "crediti scolastici",
+    "Tar",
+    "Voto in condotta"
+   ],
+   "id": "d3f1704c884d",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "esami",
+    "riforme",
+    "studenti"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.orizzontescuola.it/valditara-sulla-riforma-42-ce-un-grande-interesse-verso-questo-percorso-fortemente-innovativo/",
    "titolo": "Valditara sulla riforma 4+2: “Abituiamo i giovani a innovare, a fare ricerca, a sperimentare. Esporteremo il modello”",
@@ -127,6 +187,114 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/riforma-4-2-ecco-i-percorsi-autorizzati-per-il-2027-28-aggiornato/",
+   "titolo": "Riforma 4 + 2, ecco in quali scuole sono autorizzati i percorsi per il 2027/28 [AGGIORNATO]",
+   "abstract": "Percorsi quadriennali di filiera tecnologico-professionale autorizzati ex. Decreto Ministeriale 4 novembre 2025, n.221 per l'anno scolastico 2027/28. L'articolo Riforma 4 + 2, ecco in quali scuole sono autorizzati i percorsi per il 2027/28 [AGGIORNATO] sembra essere il primo su…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole",
+    "Riforme"
+   ],
+   "id": "8aa7be45b69f",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/11/pi%c2%b7enne-il-podcast-di-indire-per-il-pn-scuola-webinar-il-19-novembre-alle-15/",
+   "titolo": "Pi·Enne, il podcast di INDIRE per il PN Scuola: webinar il 19 novembre alle 15",
+   "abstract": "Prosegue il percorso di accompagnamento di INDIRE dedicato al Programma Nazionale “Scuola e competenze” 2021-2027 con un webinar rivolto a Dirigenti Scolastici, docenti e personale interessato a conoscere Pi·Enne. È il podcast che raccoglie e valorizza le esperienze delle scuole…",
+   "data": "2026-11-11",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "PN Scuola e Competenze 21 – 27"
+   ],
+   "id": "1f0cf2e09c75",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/pensioni-2027-aumenti-gia-nel-cedolino-di-gennaio-anche-per-gli-assegni-piu-alti-inps-eventuali-conguagli-successivi/",
+   "titolo": "Pensioni 2027, aumenti già nel cedolino di gennaio anche per gli assegni più alti. INPS: eventuali conguagli successivi",
+   "abstract": "Gli aumenti delle pensioni legati alla rivalutazione annuale saranno applicati già dal cedolino di gennaio 2027. L'articolo Pensioni 2027, aumenti già nel cedolino di gennaio anche per gli assegni più alti. INPS: eventuali conguagli successivi sembra essere il primo su Orizzonte…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Pensioni",
+    "Inps"
+   ],
+   "id": "b14eb811b250",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/pensioni-2027-aumenti-gia-da-gennaio-la-rivalutazione-sara-subito-nel-cedolino",
+   "titolo": "Pensioni 2027, aumenti già da gennaio: la rivalutazione sarà subito nel cedolino",
+   "abstract": "L’INPS conferma l’applicazione della perequazione fin dalla prima rata dell’anno, anche per gli assegni superiori a quattro volte il trattamento minimo. Eventuali differenze saranno recuperate con successivi conguagli. Gli aumenti delle pensioni previsti per il 2027 saranno…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Inps",
+    "Pensioni"
+   ],
+   "id": "79ef878f66b4",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/paolo-crepet-ai-genitori-smettete-di-proteggere-i-figli-da-ogni-urto-finche-metti-un-materasso-tra-la-sua-testa-e-la-credenza-non-cresceranno-bene/",
+   "titolo": "Paolo Crepet ai genitori: smettete di proteggere i figli da ogni urto. “Finché metti un materasso tra la sua testa e la credenza non cresceranno bene”",
+   "abstract": "Lasciare che un bambino che gattona vada a sbattere contro la credenza della cucina può sembrare una provocazione, ma per Paolo Crepet è un diritto. L'articolo Paolo Crepet ai genitori: smettete di proteggere i figli da ogni urto. “Finché metti un materasso tra la sua testa e la…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "4f5cd209ef4c",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/musei-e-biblioteche-a-misura-di-famiglia-ok-del-parlamento-agli-spazi-allattamento-e-cura-dei-neonati-fondo-da-300mila-euro-per-il-2027/",
+   "titolo": "Musei e biblioteche a misura di famiglia: ok del Parlamento agli spazi allattamento e cura dei neonati. Fondo da 300mila euro per il 2027",
+   "abstract": "La cultura apre le porte alle famiglie con neonati, trasformando musei e biblioteche in spazi a misura di genitori e bambini. Il disegno di legge (a prima firma della deputata Nicole Matteoni, esponente di Fratelli d'Italia) dedicato all’istituzione di aree attrezzate per…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "7701971d24e0",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/meno-nati-e-alunni-non-significa-per-forza-ridurre-scuole-e-insegnanti-altola-svimez-non-adattare-al-ribasso-lofferta-scolastica-al-degiovanimento",
    "titolo": "Meno nati e alunni non significa per forza ridurre scuole e insegnanti, altolà Svimez: non adattare l’offerta scolastica al degiovanimento",
    "abstract": "“La scuola è un presidio di cittadinanza: rafforzarla significa rendere i territori più attrattivi per le famiglie”: a sostenerlo è la Svimez, che ha di recente pubblicato il rapporto Svimez 2026 ‘L’economia e la società del Mezzogiorno’. Dal 2026 al 2040 – ricorda…",
@@ -166,6 +334,24 @@
    "superiori": false
   },
   {
+   "url": "https://www.mim.gov.it/web/guest/-/mim-domani-scuole-aperte-regolarmente",
+   "titolo": "MIM: domani scuole aperte regolarmente",
+   "abstract": "Il Ministero dell’Istruzione e del Merito comunica che domani, giovedì 12 novembre 2026, le scuole saranno aperte e le attività didattiche si svolgeranno regolarmente.",
+   "data": "2026-11-11",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Notizia"
+   ],
+   "id": "cd678f604669",
+   "raccolto": "2026-11-11",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/laboratori-nelle-scuole-del-friuli-per-i-50-anni-dal-terremoto-del-1976-il-mim-cerca-istituti-di-riferimento-fino-a-150mila-euro-candidature-entro-il-16-novembre/",
    "titolo": "Laboratori nelle scuole del Friuli per i 50 anni dal terremoto del 1976: il MIM cerca istituti di riferimento. Fino a 150mila euro, candidature entro il 16 novembre",
    "abstract": "Il Ministero dell’Istruzione e del Merito cerca una o più scuole statali del Friuli Venezia Giulia a cui affidare l’organizzazione di laboratori didattici per gli studenti della primaria e della secondaria della regione. L'articolo Laboratori nelle scuole del Friuli per i 50…",
@@ -194,6 +380,25 @@
     "Cronaca"
    ],
    "id": "d0c65ba33a89",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/la-media-superiore-al-6-non-basta-se-i-debiti-non-vengono-recuperati-il-tar-boccia-il-ricorso-della-studentessa",
+   "titolo": "La media superiore al 6 non basta se i debiti non vengono recuperati: il TAR boccia il ricorso della studentessa",
+   "abstract": "Il TAR Lombardia conferma la non ammissione alla classe terza per un’alunna che non ha superato gli esami di recupero estivi, decretando che la media aritmetica complessiva non compensa l’insufficienza nelle singole discipline. La vicenda trae origine dal provvedimento emesso il…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Tar"
+   ],
+   "id": "0de1a39964a0",
    "raccolto": "2026-11-11",
    "sezioni": [
     "studenti"
@@ -239,6 +444,45 @@
    "superiori": true
   },
   {
+   "url": "https://www.tecnicadellascuola.it/dote-scuola-lombardia-2026-2027-fino-a-2-000-euro-per-le-rette-scolastiche-domande-entro-il-10-dicembre",
+   "titolo": "Dote Scuola Lombardia 2026/2027, fino a 2.000 euro per le rette scolastiche: domande entro il 10 dicembre",
+   "abstract": "La Regione Lombardia ha aperto le domande per la Dote Scuola – componente Buono Scuola 2026/2027, il contributo economico destinato alle famiglie per sostenere parte delle spese relative alle rette di frequenza scolastica. Per l’iniziativa sono disponibili 28 milioni di euro…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Lombardia",
+    "Scadenze 2026"
+   ],
+   "id": "29c46cae008d",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/didattica-digitale-il-mim-cerca-scuole-per-organizzare-iniziative-formative-nazionali-e-internazionali-candidature-entro-il-18-novembre-avviso/",
+   "titolo": "Didattica digitale, il MIM cerca scuole per organizzare iniziative formative nazionali e internazionali: candidature entro il 18 novembre. Avviso",
+   "abstract": "Il Ministero dell'Istruzione e del Merito ha pubblicato l'avviso n. 272255 dell'11 novembre per individuare scuole di riferimento nella realizzazione di iniziative nazionali e internazionali di formazione rivolte a studenti e docenti, dedicate alla didattica digitale e allo…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole",
+    "PNRR"
+   ],
+   "id": "7e32f7aa8ec1",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/decreto-scuola-170-i-lavori-rallentano-si-discute-ancora-nella-maggioranza-sul-tetto-agli-alunni-stranieri-e-sulle-nuove-norme-del-pei",
    "titolo": "Decreto scuola 170: i lavori rallentano. Si discute ancora nella maggioranza sul tetto agli alunni stranieri e sulle nuove norme del PEI",
    "abstract": "Si preannunciano complicate le ultime battute per la conversione in legge del decreto scuola 170 di fine settembre che introduce tra l’altro il tetto agli alunni stranieri nelle classi, il divieto di velo integrale e modifiche importanti al meccanismo di approvazione e di…",
@@ -253,6 +497,23 @@
    "sezioni": [
     "studenti",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-200-del-9-ottobre-2026",
+   "titolo": "Decreto Ministeriale n. 200 del 9 ottobre 2026",
+   "abstract": "Decreto di assegnazione delle risorse di cui all'art. 32-bis del decreto-legge 30 settembre 2003, n. 269 (c.d. Fondo protezione civile) e di rettifica degli interventi di adeguamento strutturale e antisismico degli edifici del sistema scolastico, nonché di costruzione di nuovi…",
+   "data": "2026-11-11",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "3e25fe79aa3f",
+   "raccolto": "2026-11-11",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -274,6 +535,25 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/dad-disposta-dai-dirigenti-durante-le-occupazioni-a-scuola-la-cub-sur-imposizione-priva-di-base-giuridica",
+   "titolo": "DAD disposta dai dirigenti durante le occupazioni a scuola, la CUB SUR: “Imposizione priva di base giuridica”",
+   "abstract": "Nelle ultime settimane, in diverse scuole superiori di Torino occupate dagli studenti, alcune dirigenze hanno sospeso le lezioni in presenza e disposto la didattica a distanza per tutte le classi. Sulla vicenda interviene la CUB SUR che, insieme alla FLC CGIL, ha presentato una…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "dad",
+    "Occupazione"
+   ],
+   "id": "0727d0372102",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.orizzontescuola.it/cybersicurezza-e-intelligenza-artificiale-dal-mur-12-milioni-di-euro-a-universita-ed-enti-di-ricerca-finanziati-38-progetti-pubblicata-la-graduatoria/",
    "titolo": "Cybersicurezza e intelligenza artificiale, dal MUR 12 milioni di euro a università ed enti di ricerca: finanziati 38 progetti, pubblicata la graduatoria",
    "abstract": "Sono 38 i progetti di università ed enti di ricerca che riceveranno un finanziamento dal Ministero dell’Università e della Ricerca per rafforzare le competenze su sicurezza informatica e intelligenza artificiale. La somma complessiva è di 12 milioni di euro. L'articolo…",
@@ -290,6 +570,43 @@
    "sezioni": [
     "studenti",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/cosa-fare-dopo-la-terza-media-la-scelta-e-difficile-e-importante-e-spesso-non-e-cosi-libera-come-si-pensa",
+   "titolo": "Cosa fare dopo la “terza media”? La scelta è difficile e importante e spesso non è così “libera” come si pensa",
+   "abstract": "Il rendimento scolastico non basta a determinare il futuro degli studenti. Una ricerca condotta nelle scuole dell’area milanese mostra che, soprattutto tra i più brillanti, l’origine familiare può influenzare le aspirazioni e le scelte. A tredici anni ragazze e ragazzi sono…",
+   "data": "2026-11-11",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Orientamento"
+   ],
+   "id": "c2fe2b65467e",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/comparto-e-area-istruzione-e-ricerca-settore-scuola-dati-definitivi-di-adesione-allo-sciopero-del-30-ottobre-2026-",
+   "titolo": "Comparto e Area Istruzione e Ricerca - settore scuola: dati definitivi di adesione allo sciopero del 30 ottobre 2026.",
+   "abstract": "Comparto e Area Istruzione e Ricerca - settore scuola: dati definitivi di adesione allo sciopero dell'intera giornata del 30 ottobre 2026. Varie sigle sindacali.",
+   "data": "2026-11-11",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola"
+   ],
+   "id": "37d9e5fa24bb",
+   "raccolto": "2026-11-11",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
    ],
    "superiori": false
   },
@@ -366,6 +683,42 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/allarme-bomba-a-scuola-leffetto-inatteso-studenti-in-crisi-senza-cellulare-lavenia-per-alcuni-e-un-vero-e-proprio-ansiolitico/",
+   "titolo": "Allarme bomba a scuola, l’effetto inatteso: studenti in crisi senza cellulare. Lavenia: “Per alcuni è un vero e proprio ansiolitico”",
+   "abstract": "Le aule si sono svuotate, ma i telefoni sono rimasti dentro. Fra gli effetti dell’allarme bomba di oggi nelle scuole ce n’è uno che riguarda da vicino i ragazzi: tanti studenti, usciti per le evacuazioni, si sono ritrovati senza cellulare e senza sapere quando l’avrebbero…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "da9a60669791",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarme-bomba-a-scuola-alcuni-insegnanti-ai-bimbi-labbiamo-posta-come-una-prova-di-evacuazione-loro-sono-abituati/",
+   "titolo": "Allarme bomba a scuola, alcuni insegnanti: “Ai bimbi l’abbiamo posta come una prova di evacuazione, loro sono abituati”",
+   "abstract": "Per tanti alunni di due scuole milanesi la giornata è finita con un pranzo di classe in zona, insieme ai genitori. Fra i bambini c’era chi festeggiava la scuola chiusa e chi si chiedeva se sarebbe rimasto “in vacanza” anche nei giorni successivi. L'articolo Allarme bomba a…",
+   "data": "2026-11-11",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "f05a9271a06c",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/accorpare-due-classi-con-40-45-alunni-per-coprire-unassenza-grosso-problema-di-colpa-in-organizzando-il-punto-di-de-martino/",
    "titolo": "Accorpare due classi con 40-45 alunni per coprire un’assenza: “Grosso problema di colpa in organizzando”. Il Punto di De Martino",
    "abstract": "È legittimo unire due classi, arrivando a 40 o 45 alunni, per fronteggiare l’assenza di un docente? L'articolo Accorpare due classi con 40-45 alunni per coprire un’assenza: “Grosso problema di colpa in organizzando”. Il Punto di De Martino sembra essere il primo su Orizzonte…",
@@ -401,6 +754,61 @@
     "inclusione"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/10/venerdi-20-novembre-un-webinar-su-outdoor-education-e-benessere/",
+   "titolo": "Venerdì 20 novembre un webinar su Outdoor education e benessere",
+   "abstract": "Proseguono gli appuntamenti online del ciclo «Formarsi e confrontarsi con le Avanguardie educative»con un incontro dedicato ai temi dell’Outdoor education & learning dal titolo “Stare bene fuori, stare bene a scuola: Outdoor education e benessere, che si terrà venerdì 20…",
+   "data": "2026-11-10",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "avanguardie educative"
+   ],
+   "id": "ef655178ebb9",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/10/pn-scuola-e-competenze-2021-2027-un-webinar-indire-sullinclusione-al-liceo-mengaroni-libri-tattili-per-una-scuola-accessibile-a-tutti/",
+   "titolo": "PN Scuola e Competenze 2021-2027, webinar sull’inclusione: al Liceo Mengaroni libri tattili per una scuola accessibile a tutti",
+   "abstract": "Il gruppo di lavoro INDIRE per il PN “Scuola e Competenze” 2021-2027 organizza per martedì 24 novembre, dalle 15 alle 16, il webinar “Fare inclusione a scuola: laboratori e pratiche didattiche nel PN Scuola e Competenze 2021-2027”. L’incontro è dedicato all’inclusione come leva…",
+   "data": "2026-11-10",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "PN Scuola e Competenze 21 – 27"
+   ],
+   "id": "15b795328778",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/10/indire-al-iii-convegno-scientifico-internazionale-lettura-ad-alta-voce-condivisa/",
+   "titolo": "INDIRE al III Convegno Scientifico Internazionale “Lettura ad Alta Voce Condivisa”",
+   "abstract": "Il 2, 3 e 4 dicembre 2026 si terrà tra Roma e Perugia il III Convegno Scientifico Internazionale “Lettura ad Alta Voce Condivisa”, evento scientifico internazionale sulla lettura ad alta voce condivisa, organizzato da Nausika con il supporto di Fondazione per la Scuola e…",
+   "data": "2026-11-10",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "Leggereforte!"
+   ],
+   "id": "e5605bc40408",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.tecnicadellascuola.it/tagli-sanguinosi-alla-scuola-pubblica-meloni-e-valditara-hanno-tradito-conte-e-i-deputati-m5s-incontrano-sindacati-e-studenti",
@@ -1045,6 +1453,99 @@
    "abstract_tentato": true,
    "sezioni": [
     "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/09/gli-spazi-nella-scuola-secondaria-di-i-grado-montessori/",
+   "titolo": "Gli Spazi nella Scuola Secondaria di I grado Montessori",
+   "abstract": "Il percorso INDIRE con l’IC Massa di Milano esplora come riprogettare gli spazi della secondaria di primo grado secondo la didattica Montessori. Attraverso la progettazione partecipata, docenti e studenti ridefiniscono lo spazio come risorsa educativa per favorire autonomia…",
+   "data": "2026-11-09",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "Biblioteca dell'Innovazione"
+   ],
+   "id": "da1e14bc8470",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/09/festival-della-cultura-tecnica-webinar-sul-volume-genere-e-lavoro-tra-didattica-della-storia-e-public-history/",
+   "titolo": "Festival della Cultura Tecnica, webinar sul volume “Genere e lavoro tra didattica della storia e public history”",
+   "abstract": "In occasione del Festival della Cultura Tecnica, promosso e coordinato dalla Città metropolitana di Bologna fino al prossimo 12 dicembre, INDIRE, in collaborazione con Udi e il Museo del Patrimonio Industriale di Bologna, organizza, il 13 novembre alle ore 17,30, un webinar di…",
+   "data": "2026-11-09",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio"
+   ],
+   "id": "3ac22faefe83",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/09/arredi-didattici-innovativi-il-10-novembre-un-webinar-indire-dedicato-agli-enti-territoriali/",
+   "titolo": "Arredi didattici innovativi: il 10 novembre un webinar INDIRE dedicato agli enti territoriali",
+   "abstract": "Prosegue il ciclo di incontri online promossi da INDIRE nell’ambito delle attività di accompagnamento al Programma Nazionale Scuola e Competenze 2021-2027. Il prossimo appuntamento sarà dedicato all’Avviso FESR ENTI 22871 “Arredi Didattici Innovativi”, che finanzia interventi…",
+   "data": "2026-11-09",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "arredi scolastici"
+   ],
+   "id": "953c66c5901f",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/09/percorso-di-educazione-teatrale-la-scena-educativa-come-laboratorio-teatrale-al-via-le-iscrizioni/",
+   "titolo": "Al via le iscrizioni al percorso “La scena educativa come laboratorio teatrale”",
+   "abstract": "Sono aperte, fino al prossimo 25 novembre, le iscrizioni al corso “La scena educativa come laboratorio teatrale. Il baule degli attrezzi teatrali nella didattica quotidiana” organizzato in collaborazione da INDIRE e A.R.T.I. (Associazione delle Reti Teatrali Italiane). La scena…",
+   "data": "2026-11-09",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "teatro-educazione"
+   ],
+   "id": "51dcdfd4f747",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/09/a-genova-un-seminario-di-formazione-per-un-uso-critico-dellai-a-scuola/",
+   "titolo": "A Genova, un seminario di formazione per un uso critico dell’AI a scuola",
+   "abstract": "Martedì 17 novembre (16:00-18:00) si svolge a Genova il seminario nazionale di formazione “Intelligenza, intelligenze. Apprendere con l’IA”. L’evento, promosso da DiSal, Salone Orientamenti in collaborazione con USR Liguria, sarà incentrato sull’approccio critico…",
+   "data": "2026-11-09",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola",
+    "IA"
+   ],
+   "id": "62f836c602ef",
+   "raccolto": "2026-11-11",
+   "sezioni": [
+    "innovazione"
    ],
    "superiori": false
   },
