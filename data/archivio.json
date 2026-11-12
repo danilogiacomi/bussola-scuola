@@ -1,38 +1,727 @@
 {
- "aggiornato": "2026-11-11T21:26:13+00:00",
+ "aggiornato": "2026-11-12T13:47:41+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-11T21:26:13+00:00",
-   "ultimo_ok": "2026-11-11T21:26:13+00:00"
+   "controllato": "2026-11-12T13:47:41+00:00",
+   "ultimo_ok": "2026-11-12T13:47:41+00:00"
   },
   "gu": {
    "esito": "ok",
-   "voci": 0,
-   "controllato": "2026-11-11T21:26:13+00:00",
-   "ultimo_ok": "2026-11-11T21:26:13+00:00"
+   "voci": 1,
+   "controllato": "2026-11-12T13:47:41+00:00",
+   "ultimo_ok": "2026-11-12T13:47:41+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-11T21:26:13+00:00",
-   "ultimo_ok": "2026-11-11T21:26:13+00:00"
+   "controllato": "2026-11-12T13:47:41+00:00",
+   "ultimo_ok": "2026-11-12T13:47:41+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-11T21:26:13+00:00",
-   "ultimo_ok": "2026-11-11T21:26:13+00:00"
+   "voci": 24,
+   "controllato": "2026-11-12T13:47:41+00:00",
+   "ultimo_ok": "2026-11-12T13:47:41+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-11T21:26:13+00:00",
-   "ultimo_ok": "2026-11-11T21:26:13+00:00"
+   "voci": 30,
+   "controllato": "2026-11-12T13:47:41+00:00",
+   "ultimo_ok": "2026-11-12T13:47:41+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/save-the-children-solo-il-40-delle-classi-offre-il-tempo-pieno-e-3-alunni-su-5-fruiscono-di-una-mensa-scolastica-grandi-divari-tra-nord-e-sud",
+   "titolo": "Save the Children: solo il 40% delle classi offre il tempo pieno, e 3 alunni su 5 fruiscono di una mensa scolastica. Grandi divari tra Nord e Sud",
+   "abstract": "In vista della Giornata Mondiale dell’Infanzia (20 novembre), Save the Children diffonde la XVII edizione dell’Atlante dell’infanzia a rischio in Italia, intitolata “Scuola liberatutti”. Il rapporto restituisce la fotografia di una scuola pubblica che perde studenti e presìdi…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Mensa scolastica",
+    "Save the Children",
+    "tempo pieno"
+   ],
+   "id": "7fbebcf906a6",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/save-the-children-quasi-un-quarto-degli-insegnanti-e-precario-specie-al-centro-nord-eta-media-dei-docenti-48-anni-il-77-e-donna",
+   "titolo": "Save the Children: quasi un quarto degli insegnanti è precario (specie al Centro-Nord). Età media dei docenti 48 anni, il 77% è donna",
+   "abstract": "In vista della Giornata Mondiale dell’Infanzia (20 novembre), Save the Children diffonde la XVII edizione dell’Atlante dell’infanzia a rischio in Italia, intitolata “Scuola liberatutti”. Il rapporto restituisce la fotografia di una scuola pubblica che perde studenti e presìdi…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Docenti precari",
+    "Save the Children"
+   ],
+   "id": "9c56032a9b29",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/save-the-children-in-dieci-anni-chiuse-1-571-sedi-scolastiche-in-3-mila-comuni-a-rischio-lunica-primaria-aumentano-pluriclassi-e-accorpamenti-di-istituti-il-rapporto",
+   "titolo": "Save the Children, in dieci anni chiuse 1.571 sedi scolastiche, in 3 mila Comuni a rischio l’unica primaria. Aumentano pluriclassi e accorpamenti di istituti: il rapporto",
+   "abstract": "In vista della Giornata Mondiale dell’Infanzia (20 novembre), Save the Children diffonde la XVII edizione dell’Atlante dell’infanzia a rischio in Italia, intitolata “Scuola liberatutti”. Il rapporto restituisce la fotografia di una scuola pubblica che perde studenti e presìdi…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Save the Children",
+    "Scuole"
+   ],
+   "id": "0a4d76780b83",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/save-the-children-calo-demografico-impietoso-in-dieci-anni-388mila-studenti-in-meno-entro-il-2036-un-quinto-di-alunni-sparira-dalle-scuole",
+   "titolo": "Save the Children, calo demografico impietoso: in dieci anni 388mila studenti in meno: Entro il 2036 un quinto di alunni sparirà dalle scuole",
+   "abstract": "In vista della Giornata Mondiale dell’Infanzia (20 novembre), Save the Children diffonde la XVII edizione dell’Atlante dell’infanzia a rischio in Italia, intitolata “Scuola liberatutti”. Il rapporto restituisce la fotografia di una scuola pubblica che perde studenti e presìdi…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "calo demografico",
+    "Save the Children"
+   ],
+   "id": "0a5f0c2b8677",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/nuovo-allarme-bomba-in-una-scuola-una-mail-annuncia-una-strage-alle-1050-scuola-evacuata-e-tutte-le-classi-mandate-a-casa-per-prudenza/",
+   "titolo": "Nuovo allarme bomba a Palermo, una mail annuncia una strage alle 10:50",
+   "abstract": "Lezioni finite prima del previsto e ragazzi rimandati a casa. Questa mattina i genitori degli studenti di un liceo classico hanno ricevuto un avviso dalla scuola: “tutte le classi vengono licenziate in data odierna”. L'articolo Nuovo allarme bomba a Palermo, una mail annuncia…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "c47bc5fc107a",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/mikhail-andropov-chi-e",
+   "titolo": "Mikhail Andropov, chi è? L’account mail da cui è partito l’allarme bomba nelle scuole è di una studentessa del Taiwan",
+   "abstract": "Ieri, 11 novembre, è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "e2ff82e4192a",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/maturita-2027-candidati-esterni-attiva-la-piattaforma-per-presentare-domanda-dal-12-novembre-al-14-dicembre-2026",
+   "titolo": "Maturità 2027, candidati esterni: attiva la piattaforma per presentare domanda dal 12 novembre al 14 dicembre 2026",
+   "abstract": "Il Ministero dell’Istruzione e del Merito, con la nota prot. n. 199172 del 5 novembre 2026, ha definito le modalità e i termini di presentazione delle domande di partecipazione all’esame di maturità 2027 per i candidati esterni. Le istanze potranno essere presentate dal 12…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Candidati esterni",
+    "Maturità"
+   ],
+   "id": "d457cfc85099",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/mail-massive-alle-scuole",
+   "titolo": "Mail massive alle scuole",
+   "abstract": "",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Notizia"
+   ],
+   "id": "7f0032ef7c2f",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/madre-invitata-ad-assistere-alle-lezioni-e-certificato-di-disabilita-arrivato-dopo-lo-scrutinio-il-tar-conferma-la-bocciatura",
+   "titolo": "Madre invitata ad assistere alle lezioni e certificato di disabilità arrivato dopo lo scrutinio: il TAR conferma la bocciatura",
+   "abstract": "Il Tribunale Amministrativo Regionale per la Puglia, Sezione Seconda, con la sentenza n. 01016 del 12 settembre 2026, ha respinto definitivamente il ricorso presentato dal genitore di uno studente di un Istituto Comprensivo pugliese contro l’esito di non ammissione alla classe…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "disabilità",
+    "Tar"
+   ],
+   "id": "d406af6e9a73",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/12/lunedi-30-novembre-il-webinar-per-conoscere-selfie-lo-strumento-per-le-scuole-della-ce/",
+   "titolo": "Lunedì 30 novembre il webinar per conoscere “SELFIE”, lo strumento per le scuole della CE",
+   "abstract": "Lunedì 30 novembre EUN (European Schoolnet) organizza il webinar “SELFIE Decision-Makers Seminar”. L’incontro ha l’obiettivo di presentare ai Ministeri dell’Istruzione (MdI) e alle organizzazioni competenti le potenzialità dell’utilizzo di SELFIE, lo strumento strategico…",
+   "data": "2026-11-12",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Europa",
+    "eun"
+   ],
+   "id": "2c2daf952ddd",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libriamoci-2027-ugo-foscolo-ispira-il-tema-delle-giornate-di-lettura-nelle-scuole-dal-15-al-20-febbraio-iscrizioni-dal-14-dicembre/",
+   "titolo": "Libriamoci 2027, Ugo Foscolo ispira il tema delle giornate di lettura nelle scuole dal 15 al 20 febbraio: iscrizioni dal 14 dicembre",
+   "abstract": "Dal 15 al 20 febbraio 2027 torna “Libriamoci. Giornate di lettura nelle scuole”, la campagna nazionale dedicata alla promozione della lettura ad alta voce tra gli studenti di ogni ordine e grado. L'articolo Libriamoci 2027, Ugo Foscolo ispira il tema delle giornate di lettura…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "67695031f2a8",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-nelle-scuole-via-libera-del-garante-privacy-al-decreto-mim-accessi-pseudonimizzati-per-gli-studenti-e-nuove-regole-per-i-docenti/",
+   "titolo": "Intelligenza artificiale nelle scuole, via libera del Garante Privacy al decreto MIM: accessi pseudonimizzati per gli studenti e nuove regole per i docenti. PARERE",
+   "abstract": "Il Garante per la protezione dei dati personali ha espresso parere favorevole allo schema di decreto del Ministero dell'Istruzione e del Merito sull'utilizzo dell'intelligenza artificiale nelle scuole. L'articolo Intelligenza artificiale nelle scuole, via libera del Garante…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole",
+    "Intelligenza artificiale",
+    "privacy"
+   ],
+   "id": "f33e360a4b39",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/12/indire-a-campus-iscol-2026-progettare-gli-ambienti-di-apprendimento-costruire-comunita/",
+   "titolo": "INDIRE a Campus Iscol@ 2026: progettare gli ambienti di apprendimento, costruire comunità",
+   "abstract": "Dal 16 al 18 novembre 2026, nell’Ex Manifattura Tabacchi di Cagliari, si terrà Campus Iscol@ – Progettare la scuola, costruire comunità, l’iniziativa alla quale parteciperà INDIRE con panel, laboratori, workshop e talk dedicati alla qualità degli spazi educativi, all’innovazione…",
+   "data": "2026-11-12",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "arredi scolastici",
+    "architetture scolastiche"
+   ],
+   "id": "7a7c4f08ca10",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/12/giacomo-e-velia-matteotti-memoria-liberta-e-impegno-civile-workshop-conclusivo-del-progetto-indire-e-fondazione-turati/",
+   "titolo": "Giacomo e Velia Matteotti: memoria, libertà e impegno civile. Workshop conclusivo del progetto INDIRE e Fondazione Turati",
+   "abstract": "Venerdì 27 novembre 2026, nella sede di INDIRE, via Buonarroti 10 a Firenze, si terrà il workshop conclusivo del progetto “Giacomo e Velia. Ideali di libertà, giustizia sociale, pace nelle carte Matteotti della Fondazione di studi storici Filippo Turati”, promosso da INDIRE e…",
+   "data": "2026-11-12",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio"
+   ],
+   "id": "cba07d887285",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/462848-2/",
+   "titolo": "Filiera tecnologico-professionale 2027/28, autorizzati quattro percorsi quadriennali in Molise",
+   "abstract": "L'USR per il Molise ha autorizzato quattro percorsi quadriennali della filiera formativa tecnologico-professionale, che potranno essere attivati a partire dall'anno scolastico 2027/2028. L'articolo Filiera tecnologico-professionale 2027/28, autorizzati quattro percorsi…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "7376ebb97b35",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-207-del-20-ottobre-2026",
+   "titolo": "Decreto Ministeriale n. 207 del 20 ottobre 2026",
+   "abstract": "",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "f8bd6a5ea548",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-206-del-20-ottobre-2026",
+   "titolo": "Decreto Ministeriale n. 206 del 20 ottobre 2026",
+   "abstract": "",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "cde2ede5cc9e",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2602-del-12-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 2602 del 12 novembre 2026",
+   "abstract": "Avviso di accreditamento tramite la piattaforma ex art. 4 d.lgs. 60/2017 Avviso per l'accreditamento ai fini della partecipazione al Sistema coordinato per la promozione dei temi della creatività a.s. 2027-2028. L'avviso disciplina la procedura di accreditamento dei soggetti…",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "e58a2b1838b2",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2548-del-6-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 2548 del 6 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "9e03450ef2ac",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2547-del-6-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 2547 del 6 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "9b349a37c9cc",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/12/dal-foro-di-cesare-alla-val-di-chiana-con-umbricii-ludus-un-videogioco-in-latino/",
+   "titolo": "Dal Foro di Cesare alla Val di Chiana con Umbricii Ludus, un videogioco in latino",
+   "abstract": "Come studiare i siti archeologici del proprio territorio quando non è possibile visitarli? Da questa domanda, durante il lockdown, è partito un progetto nelle ore di storia del biennio dei Licei Poliziani di Montepulciano (Siena). Il percorso, sviluppato nell’arco di più anni…",
+   "data": "2026-11-12",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "Biblioteca dell'Innovazione"
+   ],
+   "id": "8b4c035c1ebc",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/comparto-e-area-istruzione-e-ricerca-settore-scuola-azioni-di-sciopero-previste-per-l-intera-giornata-del-20-novembre-2026",
+   "titolo": "Comparto e Area Istruzione e Ricerca - settore scuola: azioni di sciopero previste per l'intera giornata del 20 novembre 2026",
+   "abstract": "Comparto e Area Istruzione e Ricerca - settore scuola: azioni di sciopero previste per l'intera giornata del 20 novembre 2026 proclamate da: USB P.I., Confederazione CGIL, con adesione di FLC CGIL, SISA, S.I.D.L., Federazione Gilda Unams, CLAP, Confederazione COBAS, Sial Cobas…",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola"
+   ],
+   "id": "e6f5b959b77e",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bambino-con-autismo-intimidito-dalle-maestre-con-un-accendino-parte-la-denuncia-dei-genitori",
+   "titolo": "Bambino con autismo intimidito dalle maestre con un accendino: parte la denuncia dei genitori",
+   "abstract": "Una coppia ha consegnato ai carabinieri quattro ore di audio registrate nella felpa del figlio, con fotografie di lividi e escoriazioni. La denuncia ipotizza maltrattamenti su minore in una scuola dell’infanzia dell’area nord di Napoli. I segni sul corpo e il rifiuto della…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "autismo"
+   ],
+   "id": "938c738f7f0c",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-64-del-12-novembre-2026",
+   "titolo": "Avviso n. 64 del 12 novembre 2026",
+   "abstract": "Comparto e Area Istruzione e Ricerca - settore scuola: azioni di sciopero previste per l'intera giornata del 20 novembre 2026. Comparto e Area Istruzione e Ricerca - settore scuola: azioni di sciopero previste per l'intera giornata del 20 novembre 2026 proclamate da: USB P.I…",
+   "data": "2026-11-12",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "68982781f5c4",
+   "raccolto": "2026-11-12",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/assemblee-studentesche-di-classe-e-distituto-diritti-limiti-convocazioni-e-organizzazione-nella-scuola-secondaria-di-secondo-grado/",
+   "titolo": "Assemblee studentesche di classe e d’istituto: diritti, limiti, convocazioni e organizzazione nella scuola secondaria di secondo grado",
+   "abstract": "Le assemblee studentesche rappresentano un diritto di partecipazione democratica e una componente della vita scolastica, non una semplice interruzione delle lezioni. L’articolo ricostruisce la disciplina delle assemblee di classe e d’istituto, distinguendo le prerogative degli…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "6dd71f895c07",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/amaurys-perez-racconta-la-nuova-vita-da-insegnante-di-sostegno-quando-entro-ogni-giorno-nella-scuola-e-come-se-lo-facessi-per-me-non-per-loro/",
+   "titolo": "Amaurys Pérez racconta la nuova vita da insegnante di sostegno: “Quando entro ogni giorno nella scuola è come se lo facessi per me, non per loro”",
+   "abstract": "Amaurys Pérez è diventato insegnante di sostegno e a Domenica In ha raccontato come vive questa nuova vita. Più che parlare di quello che dà ai suoi alunni, ha scelto di parlare di quello che riceve: “Quando entro ogni giorno nella scuola è come se lo facessi per me, non per…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "d8a451bd7def",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarmi-bomba-il-docente-e-scrittore-raimo-gli-studenti-se-vogliono-saltare-la-verifica-hanno-una-prodigiosa-arma-in-piu",
+   "titolo": "Allarmi bomba, il docente e scrittore Raimo: “Gli studenti se vogliono saltare la verifica hanno una prodigiosa arma in più”",
+   "abstract": "Sugli allarmi bomba che nelle ultime ore hanno interessato migliaia di istituti – per fortuna senza conseguenze – arriva anche l’intervento di Christian Raimo, docente, scrittore e giornalista. “Le segreterie di circa seimila scuole italiane, su poco più di 7.400 statali, quindi…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Christian Raimo",
+    "Sicurezza a scuola"
+   ],
+   "id": "a27df8aae726",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarmi-bomba-nelle-scuole-come-parlarne-con-bambini-e-ragazzi-la-psicologa-non-sovraccaricare-bambini-e-ragazzi-delle-ansie-degli-adulti/",
+   "titolo": "Allarmi bomba nelle scuole, come parlarne con bambini e ragazzi. La psicologa: “Non sovraccaricare bambini e ragazzi delle ansie degli adulti”",
+   "abstract": "Ascoltarli, prima di tutto. E non riversare su di loro i timori dei grandi. Dopo gli allarmi bomba che tra ieri e oggi hanno toccato migliaia di istituti scolastici, Maria Antonietta Gulino, presidente dell’Ordine degli Psicologi della Toscana e del Consiglio nazionale, indica…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori"
+   ],
+   "id": "c5f0888d17af",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarmi-bomba-nelle-scuole-francesi-a-marsiglia-evacuati-700-studenti-artificieri-e-cani-antiesplosivo-sul-posto/",
+   "titolo": "Allarmi bomba nelle scuole francesi: a Marsiglia evacuati 700 studenti, artificieri e cani antiesplosivo sul posto",
+   "abstract": "Dopo l’Italia, gli allarmi bomba arrivano anche nelle scuole francesi, ma in misura molto più ridotta. Giovedì 12 novembre alcuni istituti sono stati evacuati in diverse zone del Paese, il giorno dopo le minacce che hanno colpito migliaia di scuole italiane e molte altre nel…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "33f571552001",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-dirigente-non-dispone-levacuazione-alunni-in-protesta-meglio-leccesso-di-prudenza-o-evitare-gli-allarmismi",
+   "titolo": "Allarme bomba: dirigente non dispone l’evacuazione, alunni in protesta. Meglio l’eccesso di prudenza o evitare gli allarmismi?",
+   "abstract": "Ieri, 11 novembre, è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "f05d3d114e77",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarme-bomba-come-hanno-reagito-gli-studenti-il-38-e-rimasto-calmo-il-32-si-e-preoccupato-per-il-18-e-stato-spaventoso-il-sondaggio/",
+   "titolo": "Allarme bomba, come hanno reagito gli studenti? Il 38% è rimasto calmo, il 32% si è preoccupato, per il 18% è stato spaventoso. Il sondaggio",
+   "abstract": "Durante l’allarme molti hanno mantenuto la calma, ma oggi la sensazione più diffusa è l’insicurezza. È quanto emerge da un sondaggio di Skuola.net sull’ondata di allarmi bomba nelle scuole. Il portale ha interpellato circa 1.000 alunni delle scuole di ogni ordine e grado nelle…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "45b72f4b9dbf",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-galiano-chi-prende-in-giro-i-ds-per-aver-evacuato-se-fosse-successo-qualcosa-avrebbe-chiesto-perche-non-avete-evacuato",
+   "titolo": "Allarme bomba, Galiano: “Chi prende in giro i ds per aver evacuato se fosse successo qualcosa avrebbe chiesto ‘perché non avete evacuato?'”",
+   "abstract": "Ieri, 11 novembre, è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "enrico galiano"
+   ],
+   "id": "30c5dc09345b",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-scuole-presto-protocollo-operativo-no-a-evacuazioni-degli-edifici-dopo-la-ricezione-di-mail-senza-elementi-concreti",
+   "titolo": "Allarme bomba scuole, presto protocollo operativo: no a evacuazioni degli edifici dopo la ricezione di mail senza elementi concreti",
+   "abstract": "Ieri, 11 novembre, è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "38017b7ca636",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-scuole-valditara-nessun-pericolo-il-governo-dara-indicazioni-ai-dirigenti-tagli-stiamo-lavorando-per-eliminarli",
+   "titolo": "Allarme bomba scuole, Valditara: “Nessun pericolo, il Governo darà indicazioni ai dirigenti. Tagli? Stiamo lavorando per eliminarli”",
+   "abstract": "Ieri, 11 novembre, è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Giuseppe Valditara"
+   ],
+   "id": "b94e131d3114",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-scuole-meloni-ringrazio-docenti-e-dirigenti-non-permetteremo-a-una-mail-di-decidere-il-calendario-scolastico",
+   "titolo": "Allarme bomba scuole, Meloni: “Ringrazio docenti e dirigenti. Non permetteremo a una mail di decidere il calendario scolastico”",
+   "abstract": "Ieri, 11 novembre, è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Giorgia Meloni"
+   ],
+   "id": "d9014ef09fb2",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-palermo",
+   "titolo": "Allarme bomba Palermo, nuova mail con minacce: “Strage degli alunni e del personale alle ore 10:50”",
+   "abstract": "Nuova mail e nuovo allarme bomba in un istituto superiore a Palermo, il liceo classico Umberto, che questa mattina, 12 novembre, è stato evacuato. Lo riporta Ansa. Ai genitori è stato inviato un avviso: “Poiché stamattina è pervenuto alla posta elettronica della scuola un…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Sicilia"
+   ],
+   "id": "09b4fe9d9c86",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/12/abitare-il-disaccordo-paths-alla-giornata-mondiale-della-filosofia-del-19-novembre/",
+   "titolo": "Abitare il disaccordo: il 19 novembre PATHS partecipa alla Giornata mondiale della filosofia",
+   "abstract": "Come trasformare il disaccordo in un’occasione per imparare a pensare insieme? È la domanda al centro del contributo di INDIRE alla Giornata mondiale della filosofia, in programma online giovedì 19 novembre 2026, dalle 14 alle 18. L’iniziativa, dal titolo «Pensare e agire…",
+   "data": "2026-11-12",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "paths"
+   ],
+   "id": "10a0db7527c2",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/11/26A05911/SG",
+   "titolo": "Presidenza del consiglio dei ministri – Commissario straordinario per l'attuazione degli interventi pubblici nell'area dei campi flegrei – Ordinanza 2 ottobre 2026",
+   "abstract": "Ulteriori disposizioni attuative per la realizzazione dell'intervento «Interventi di riqualificazione sismica della Scuola primaria e dell'infanzia G. Marconi del Circolo didattico 1 G. Marconi - CUP G85E25000130001 di cui all'articolo 1, comma 1, dell'ordinanza n. 3 del 21…",
+   "data": "2026-11-11",
+   "fonte": "gu",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "ba10982fe701",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "esami",
+    "norme"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.indire.it/2026/11/11/la-scuola-per-la-parita-e-il-rispetto-esperienze-ricerche-e-prospettive-il-convegno-nazionale-indire/",
    "titolo": "“La scuola per la parità e il rispetto: esperienze, ricerche e prospettive”, il convegno nazionale INDIRE",
