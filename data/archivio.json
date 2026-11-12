@@ -1,38 +1,91 @@
 {
- "aggiornato": "2026-11-12T13:47:41+00:00",
+ "aggiornato": "2026-11-12T21:28:59+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-12T13:47:41+00:00",
-   "ultimo_ok": "2026-11-12T13:47:41+00:00"
+   "controllato": "2026-11-12T21:28:59+00:00",
+   "ultimo_ok": "2026-11-12T21:28:59+00:00"
   },
   "gu": {
    "esito": "ok",
-   "voci": 1,
-   "controllato": "2026-11-12T13:47:41+00:00",
-   "ultimo_ok": "2026-11-12T13:47:41+00:00"
+   "voci": 0,
+   "controllato": "2026-11-12T21:28:59+00:00",
+   "ultimo_ok": "2026-11-12T21:28:59+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-12T13:47:41+00:00",
-   "ultimo_ok": "2026-11-12T13:47:41+00:00"
+   "controllato": "2026-11-12T21:28:59+00:00",
+   "ultimo_ok": "2026-11-12T21:28:59+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 24,
-   "controllato": "2026-11-12T13:47:41+00:00",
-   "ultimo_ok": "2026-11-12T13:47:41+00:00"
+   "voci": 30,
+   "controllato": "2026-11-12T21:28:59+00:00",
+   "ultimo_ok": "2026-11-12T21:28:59+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-12T13:47:41+00:00",
-   "ultimo_ok": "2026-11-12T13:47:41+00:00"
+   "voci": 29,
+   "controllato": "2026-11-12T21:28:59+00:00",
+   "ultimo_ok": "2026-11-12T21:28:59+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.indire.it/2026/11/12/leggere-forte-una-rilettura-della-fata-turchina-di-pinocchio-domani-a-pistoia/",
+   "titolo": "“Leggere: Forte”, una rilettura della Fata Turchina di Pinocchio domani a Pistoia",
+   "abstract": "Il progetto multidisciplinare curato da Carla Beatrice Lomi e Eleonora Santanni, organizzato sotto l’egida di FIDAPA BPW Italy sezione di Pistoia, è dedicato all’approfondimento e interpretazione critica del grande capolavoro di Carlo Collodi “Le avventure di Pinocchio”…",
+   "data": "2026-11-12",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio"
+   ],
+   "id": "76075bbe63f5",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ugl-istruzione-propone-un-fondo-nazionale-unico-per-la-scuola-risorse-aggiuntive-e-un-osservatorio-al-ministero-cuzzupi-il-calo-degli-studenti-non-riduca-le-opportunita/",
+   "titolo": "UGL Istruzione propone un Fondo Nazionale Unico per la Scuola: risorse aggiuntive e un Osservatorio al ministero. Cuzzupi: “Il calo degli studenti non riduca le opportunità”",
+   "abstract": "Un fondo nazionale per dare alle scuole risorse in più e mettere ordine nei finanziamenti che già esistono. È la proposta della Federazione Nazionale UGL Istruzione. L'articolo UGL Istruzione propone un Fondo Nazionale Unico per la Scuola: risorse aggiuntive e un Osservatorio al…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "896c332344bb",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sostegno-scolastico-tre-ordinanze-confermano-le-ore-di-assistenza-indicate-dal-glo-federazione-osservatorio-182-prima-i-diritti-degli-studenti-poi-le-esigenze-di-bilancio/",
+   "titolo": "Sostegno scolastico, tre ordinanze confermano le ore di assistenza indicate dal GLO. Federazione Osservatorio 182: “Prima i diritti degli studenti, poi le esigenze di bilancio”",
+   "abstract": "Dopo i decreti d’urgenza di metà ottobre, i Tribunali di Busto Arsizio e di Napoli Nord, con ordinanze del 6 e del 9 novembre 2026, hanno confermato l’obbligo del Ministero dell’Istruzione e del Merito di assegnare a due alunni con disabilità tutte le ore di sostegno indicate…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "5b2beae9c277",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/save-the-children-solo-il-40-delle-classi-offre-il-tempo-pieno-e-3-alunni-su-5-fruiscono-di-una-mensa-scolastica-grandi-divari-tra-nord-e-sud",
    "titolo": "Save the Children: solo il 40% delle classi offre il tempo pieno, e 3 alunni su 5 fruiscono di una mensa scolastica. Grandi divari tra Nord e Sud",
@@ -105,6 +158,65 @@
     "Save the Children"
    ],
    "id": "0a5f0c2b8677",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/save-the-children-2-edifici-su-3-privi-dellagibilita-un-insegnante-di-sostegno-ogni-14-alunni-con-disabilita-il-78-specializzato-e-il-58-lo-ha-cambiato",
+   "titolo": "Save the Children, 2 edifici su 3 privi dell’agibilità. Un insegnante di sostegno ogni 1,4 alunni con disabilità (il 78% specializzato). E il 58% lo ha cambiato",
+   "abstract": "In vista della Giornata Mondiale dell’Infanzia (20 novembre), Save the Children diffonde la XVII edizione dell’Atlante dell’infanzia a rischio in Italia, intitolata “Scuola liberatutti”. Il rapporto restituisce la fotografia di una scuola pubblica che perde studenti e presìdi…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "disabilità",
+    "Docenti di sostegno",
+    "Save the Children"
+   ],
+   "id": "3482464e69b9",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ragazza-di-15-anni-si-toglie-la-vita-gettandosi-dal-quinto-piano-ipotesi-istigazione-al-suicidio-da-parte-dei-coetanei",
+   "titolo": "Ragazza di 15 anni si toglie la vita gettandosi dal quinto piano. Ipotesi istigazione al suicidio da parte dei coetanei",
+   "abstract": "Tragedia a Roma, una ragazza di 15 anni si è gettata dal quinto piano di un palazzo nella zona Nord della Capitale ed è morta. L’episodio, come riporta il ‘Corriere della Sera’ sarebbe avvenuto mercoledì 11 novembre, verso l’ora di pranzo. Dietro il gesto potrebbe nascondersi…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Bullismo",
+    "Suicidio"
+   ],
+   "id": "011eecbe1fac",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/privacy-dei-minori-il-garante-censura-il-ministero-della-giustizia-dati-personali-visibili-nel-22-dei-provvedimenti-esaminati/",
+   "titolo": "Privacy dei minori, il Garante censura il Ministero della Giustizia: dati personali visibili nel 22% dei provvedimenti esaminati",
+   "abstract": "Il Garante per la protezione dei dati personali ha dichiarato illecito il trattamento di dati effettuato dal Ministero della Giustizia per la pubblicazione online di provvedimenti giudiziari relativi a minori contenenti informazioni che ne consentivano l'identificazione…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "privacy"
+   ],
+   "id": "5033e02644d8",
    "raccolto": "2026-11-12",
    "sezioni": [
     "studenti"
@@ -300,6 +412,24 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/genitori-e-insegnanti-la-necessita-inderogabile-di-ricostruire-il-patto-educativo-lettera/",
+   "titolo": "Genitori e insegnanti: la necessità inderogabile di ricostruire il patto educativo. Lettera",
+   "abstract": "Inviato da Valentina Puccini - La missione educativa della scuola e degli insegnanti è da sempre la pietra miliare della società. Già Quintiliano ribadiva l’importanza di guidare ed educare i bambini con rigore fin da piccoli, ammonendo che è più facile rompere che correggere…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Lettere in redazione"
+   ],
+   "id": "5a421ccf6319",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/462848-2/",
    "titolo": "Filiera tecnologico-professionale 2027/28, autorizzati quattro percorsi quadriennali in Molise",
    "abstract": "L'USR per il Molise ha autorizzato quattro percorsi quadriennali della filiera formativa tecnologico-professionale, che potranno essere attivati a partire dall'anno scolastico 2027/2028. L'articolo Filiera tecnologico-professionale 2027/28, autorizzati quattro percorsi…",
@@ -314,6 +444,46 @@
    "sezioni": [
     "riforme",
     "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/educazione-stradale-a-scuola-aperte-le-iscrizioni-ai-progetti-edustrada-2026-27/",
+   "titolo": "Educazione stradale a scuola, aperte le iscrizioni ai progetti EDUSTRADA 2026/27",
+   "abstract": "Al via le iscrizioni ai progetti di educazione e sicurezza stradale destinati alle scuole del primo e del secondo ciclo di istruzione. L'articolo Educazione stradale a scuola, aperte le iscrizioni ai progetti EDUSTRADA 2026/27 sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "educazione stradale"
+   ],
+   "id": "74401d5f76e1",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-assunzioni-da-gps-martedi-17-novembre-il-voto-decisivo-approvate-le-prime-novita-su-pei-specializzazione-sul-sostegno-studenti-e-istituti-tecnici/",
+   "titolo": "Decreto Scuola, assunzioni da GPS su posti residui (mini doppio canale): martedì 17 il voto decisivo. Approvate le prime novità su PEI, specializzazione sul sostegno, studenti e istituti tecnici",
+   "abstract": "Prosegue al Senato l’iter di conversione in legge del decreto-legge 30 settembre 2026, n. 170 (cosiddetto Decreto Scuola), atteso al traguardo definitivo entro la scadenza costituzionale del 29 novembre. L'articolo Decreto Scuola, assunzioni da GPS su posti residui (mini doppio…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica",
+    "Decreto Scuola"
+   ],
+   "id": "6cded637b1b8",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale",
+    "inclusione"
    ],
    "superiori": true
   },
@@ -435,6 +605,25 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/borse-di-studio-universitarie-via-libera-al-riparto-di-8458-milioni-per-il-2026-2027-bernini-il-diritto-allo-studio-non-puo-restare-un-principio-scritto-sulla-carta/",
+   "titolo": "Borse di studio universitarie, via libera al riparto di 845,8 milioni per il 2026/2027. Bernini: “Il diritto allo studio non può restare un principio scritto sulla carta”",
+   "abstract": "845,8 milioni di euro per le borse di studio universitarie dell’anno accademico 2026/2027. Lo comunica il Ministero dell’Università e della Ricerca, che in una nota del 12 novembre annuncia il via libera della Conferenza Stato-Regioni al riparto. L'articolo Borse di studio…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti",
+    "Università"
+   ],
+   "id": "e42ec262feef",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/bambino-con-autismo-intimidito-dalle-maestre-con-un-accendino-parte-la-denuncia-dei-genitori",
    "titolo": "Bambino con autismo intimidito dalle maestre con un accendino: parte la denuncia dei genitori",
    "abstract": "Una coppia ha consegnato ai carabinieri quattro ore di audio registrate nella felpa del figlio, con fotografie di lividi e escoriazioni. La denuncia ipotizza maltrattamenti su minore in una scuola dell’infanzia dell’area nord di Napoli. I segni sul corpo e il rifiuto della…",
@@ -517,6 +706,61 @@
     "Sicurezza a scuola"
    ],
    "id": "a27df8aae726",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/vertice-a-palazzo-chigi-sugli-allarmi-bomba-nelle-scuole-al-tavolo-meloni-vicepremier-ministri-e-leader-dellopposizione-in-aggiornamento/",
+   "titolo": "Allarmi bomba, finito il vertice a Palazzo Chigi. Le opposizioni: pronti a collaborare, ma “nessuna delega in bianco”. Meloni: “Colloquio franco e produttivo”",
+   "abstract": "Si è svolto a Palazzo Chigi l’incontro tra la presidente del Consiglio Giorgia Meloni e i leader dell’opposizione, convocato dopo l’ondata di allarmi bomba che ieri ha investito le scuole di tutta Italia. L'articolo Allarmi bomba, finito il vertice a Palazzo Chigi. Le…",
+   "data": "2026-11-12",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "b3182575ad58",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarmi-bomba-trentino-e-alto-adige-risparmiati-ecco-perche",
+   "titolo": "Allarmi bomba, Trentino e Alto Adige risparmiati: ecco perché",
+   "abstract": "Mentre migliaia di studenti in tutta Italia tornavano a casa tra evacuazioni e controlli, nelle scuole di Trentino e Alto Adige la giornata è proseguita senza sorprese. Le due Province hanno monitorato la situazione fino a tarda sera e hanno confermato che nessun istituto è…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Alto Adige",
+    "Trentino"
+   ],
+   "id": "ec5eb558d4f9",
+   "raccolto": "2026-11-12",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarmi-bomba-nelle-scuole-per-un-alunno-su-due-e-una-tattica-per-destabilizzare",
+   "titolo": "Allarmi bomba nelle scuole, per un alunno su due è una tattica per destabilizzare",
+   "abstract": "Un sondaggio di Skuola.net, condotto su circa 1.000 studenti di tutti i livelli scolastici nelle ore successive alle prime evacuazioni di massa, restituisce l’immagine di una generazione che non si lascia travolgere dal panico e riconosce il bluff, ma che non nasconde un disagio…",
+   "data": "2026-11-12",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "9d86f60a4f33",
    "raccolto": "2026-11-12",
    "sezioni": [
     "studenti"
