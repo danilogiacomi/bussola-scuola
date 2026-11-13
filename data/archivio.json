@@ -1,38 +1,576 @@
 {
- "aggiornato": "2026-11-12T21:28:59+00:00",
+ "aggiornato": "2026-11-13T13:08:23+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-12T21:28:59+00:00",
-   "ultimo_ok": "2026-11-12T21:28:59+00:00"
+   "controllato": "2026-11-13T13:08:23+00:00",
+   "ultimo_ok": "2026-11-13T13:08:23+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-12T21:28:59+00:00",
-   "ultimo_ok": "2026-11-12T21:28:59+00:00"
+   "controllato": "2026-11-13T13:08:23+00:00",
+   "ultimo_ok": "2026-11-13T13:08:23+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-12T21:28:59+00:00",
-   "ultimo_ok": "2026-11-12T21:28:59+00:00"
+   "controllato": "2026-11-13T13:08:23+00:00",
+   "ultimo_ok": "2026-11-13T13:08:23+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-12T21:28:59+00:00",
-   "ultimo_ok": "2026-11-12T21:28:59+00:00"
+   "voci": 27,
+   "controllato": "2026-11-13T13:08:23+00:00",
+   "ultimo_ok": "2026-11-13T13:08:23+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-12T21:28:59+00:00",
-   "ultimo_ok": "2026-11-12T21:28:59+00:00"
+   "controllato": "2026-11-13T13:08:23+00:00",
+   "ultimo_ok": "2026-11-13T13:08:23+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/leggere-il-mondo-la-guida-per-la-scuola-superiore-consigli-di-lettura-attivita-didattiche-e-un-nuovo-kit-per-i-docenti",
+   "titolo": "“Leggere il mondo”, la guida per la scuola superiore: consigli di lettura, attività didattiche e un nuovo kit per i docenti",
+   "abstract": "È giunta alla sua quinta edizione la guida Leggere il mondo, ricca, come sempre, di consigli di lettura pensati per docenti, educatrici, educatori, famiglie, librai, bibliotecari e per tutte le persone che accompagnano ragazze e ragazzi della scuola secondaria di secondo grado…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Attività didattiche"
+   ],
+   "id": "1f967570801c",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuole-occupate-a-roma-studente-con-disabilta-bloccato-fuori-da-due-persone-incappucciate-sasso-futuro-nazionale-nessuna-tolleranza",
+   "titolo": "Scuole occupate, a Roma studente con disabiltà bloccato fuori da due persone incappucciate. Sasso (Futuro Nazionale): nessuna tolleranza",
+   "abstract": "Voleva recarsi a scuola come tutti gli altri giorni, ma a causa dell’occupazione in corso da parte degli studenti gli è stato impedito. È la vicenda di un ragazzo con disabilità che nelle scorse ore è rimasto fuori dall’istituto superiore Einstein-Bachelet di Roma, occupato da…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "disabilità",
+    "Occupazione",
+    "studenti disabili"
+   ],
+   "id": "a495afc377e9",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/scuola-il-mim-ha-ospitato-il-meeting-autunnale-della-european-agency-for-special-needs-and-inclusive-education-easnie-al-centro-il-confronto-europeo-s",
+   "titolo": "Scuola, il MIM ha ospitato il meeting autunnale della European Agency for Special Needs and Inclusive Education (EASNIE): al centro il confronto europeo sull’inclusione",
+   "abstract": "Il Ministero dell’Istruzione e del Merito ha ospitato, in data 12 novembre, il meeting autunnale della European Agency for Special Needs and Inclusive Education (EASNIE), organismo europeo che supporta gli Stati membri nello sviluppo di politiche e pratiche a favore…",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola"
+   ],
+   "id": "73f0bfdcdc12",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scuola-occupata-studenti-con-disabilita-lasciati-fuori-e-pulmino-bloccato-sasso-fnv-un-atto-delinquenziale-interrogazione-a-piantedosi-e-valditara/",
+   "titolo": "Scuola occupata, studenti con disabilità lasciati fuori e pulmino bloccato. Sasso (FnV): “Un atto delinquenziale”, interrogazione a Piantedosi e Valditara",
+   "abstract": "In un istituto superiore di Roma, occupato da lunedì, agli studenti con disabilità è stato impedito di entrare. A dirlo è Rossano Sasso, deputato di Futuro Nazionale con Vannacci, che porterà il caso in Parlamento con un’interrogazione a due ministri: a quello dell’Interno…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "f64a5aa90ae4",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/quando-il-10-perfetto-non-basta-per-il-tar-la-lode-a-scuola-non-e-un-automatismo-matematico-ecco-perche/",
+   "titolo": "Quando il 10 in tutte le materie non basta, per il TAR la lode a scuola non è un automatismo matematico: legittimo negarla se mancano l’unanimità e una condotta irreprensibile",
+   "abstract": "Una pagella immacolata, il massimo dei punteggi alle prove Invalsi e una sfilza di 10 su 10 tra scritti e colloquio finale: sulla carta, tutti gli ingredienti per chiudere le scuole medie con la lode c’erano. L'articolo Quando il 10 in tutte le materie non basta, per il TAR la…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "5fbd5a5aab0c",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "esami",
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/nuovi-scuolabus-la-regione-siciliana-stanzia-un-milione-per-acquistarli-gli-obiettivi-della-misura",
+   "titolo": "Nuovi scuolabus, la Regione Siciliana stanzia un milione per acquistarli: gli obiettivi della misura",
+   "abstract": "La Regione Siciliana ha approvato uno stanziamento di un milione di euro per l’acquisto di nuovi scuolabus. L’iniziativa ha lo scopo di potenziare i servizi nei piccoli comuni, abbattere le disuguaglianze territoriali e assicurare agli studenti un tragitto casa-scuola più…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "scuolabus",
+    "Sicilia"
+   ],
+   "id": "59ebe779fe5d",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/nuovi-giochi-della-gioventu-2026-27-cambiano-le-regole-di-partecipazione-per-anticipatari-e-studenti-in-ritardo-scolastico-precisazioni-mim-sul-progetto-tecnico/",
+   "titolo": "Nuovi Giochi della Gioventù 2026/27, cambiano le regole di partecipazione per anticipatari e studenti in ritardo scolastico: precisazioni MIM sul Progetto tecnico",
+   "abstract": "Nuove indicazioni sulla partecipazione degli studenti ai Giochi della Gioventù 2026/2027. Il Ministero dell'Istruzione e del Merito ha fornito alcuni chiarimenti relativi agli alunni anticipatari, agli studenti in ritardo scolastico e agli alunni con disabilità. L'articolo Nuovi…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Sport"
+   ],
+   "id": "5c187e29713d",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/medicina-bernini-arriveremo-a-30mila-posti-semestre-aperto-anche-nelle-universita-private-allo-studio-la-reciprocita/",
+   "titolo": "Medicina, Bernini: “Arriveremo a 30mila posti”. Semestre aperto anche nelle università private, allo studio la reciprocità",
+   "abstract": "Portare a 30mila i posti disponibili per l'accesso a Medicina ed estendere il sistema del semestre aperto anche alle università private. Sono gli obiettivi annunciati dalla ministra dell'Università e della Ricerca, Anna Maria Bernini, durante un'intervista al format “10 Domande”…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti",
+    "Università"
+   ],
+   "id": "678cbfb0c2a3",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-capasso-cnr-vietarne-luso-agli-studenti-la-scuola-deve-insegnare-a-fare-domande-che-le-macchine-non-possono-fare/",
+   "titolo": "Intelligenza artificiale, Capasso (CNR): “Vietarne l’uso agli studenti? La scuola deve insegnare a fare domande che le macchine non possono fare”",
+   "abstract": "Il direttore del Dipartimento di Scienze Umane e Sociali, Patrimonio Culturale del CNR, Salvatore Capasso, intervistato da Orizzonte Scuola agli Stati generali della scuola digitale, riflette sul rapporto tra progresso tecnologico e progresso umano. L'articolo Intelligenza…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "89233c84c680",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/incendio-in-un-laboratorio-durante-la-lezione-scuola-evacuata-per-precauzione-studenti-docenti-e-personale-usciti-in-sicurezza-nessun-ferito/",
+   "titolo": "Incendio in un laboratorio durante la lezione, scuola evacuata per precauzione: studenti, docenti e personale usciti in sicurezza, nessun ferito",
+   "abstract": "Momenti di apprensione in un istituto di Torino. Durante una lezione è scoppiato un incendio in uno dei laboratori e la scuola è stata evacuata per precauzione: studenti, docenti e personale sono usciti in sicurezza, e non risultano feriti né persone coinvolte. A renderlo noto è…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "691a57a748ea",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/13/il-modello-42-al-parlamento-europeo/",
+   "titolo": "Il modello 4+2 al Parlamento Europeo",
+   "abstract": "Mercoledì 11 novembre l’Italia ha presentato al Parlamento Europeo una delle sue eccellenze formative: i percorsi della filiera tecnologico professionale (4+2). Una delegazione guidata dal Ministro Giuseppe Valditara e dal Vice Presidente di Confindustria per l’Education e…",
+   "data": "2026-11-13",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "modello 4+2",
+    "filiera formativa tecnologico-professionale",
+    "formazione terziaria professionalizzante"
+   ],
+   "id": "6a2156c0b73e",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/il-planetario-fisso-di-zafferana-etnea-il-piu-grande-in-sicilia-ecco-come-coniugare-apprendimento-e-divertimento",
+   "titolo": "Il Planetario fisso di Zafferana Etnea, il più grande in Sicilia: ecco come coniugare apprendimento e divertimento",
+   "abstract": "Novembre è uno dei mesi in cui nelle scuole si comincia a pensare alle gite scolastiche: scegliere la destinazione, trovare un’attività che sappia incuriosire gli studenti e, soprattutto, individuare un’esperienza che abbia anche un valore didattico. Non sempre, però, è facile…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "La Tecnica consiglia",
+    "Gite scolastiche",
+    "Sicilia"
+   ],
+   "id": "20359c153432",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/friendship-recession-la-solitudine-affollata-dei-giovani-mille-contatti-pochi-legami-e-il-bisogno-di-tornare-a-incontrarsi/",
+   "titolo": "Friendship recession, la solitudine affollata dei giovani: mille contatti, pochi legami e il bisogno di tornare a incontrarsi",
+   "abstract": "Non sempre la solitudine si presenta come una stanza vuota. Può abitare un telefono pieno di notifiche, un pomeriggio attraversato da messaggi, un gruppo numeroso in cui nessuno trova il coraggio di dire come sta davvero. La domanda, per la scuola e per gli adulti, non è quanti…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "d393650e34ef",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/finta-bomba-vicino-a-una-scuola-denunciato-un-ex-studente-di-22-anni-per-procurato-allarme/",
+   "titolo": "Finta bomba vicino a una scuola: denunciato un ex studente di 22 anni per procurato allarme",
+   "abstract": "Un ragazzo di 22 anni, ex studente di un istituto tecnico, a Roma, è stato denunciato per procurato allarme. Ieri sera aveva lasciato un finto ordigno in una cabina elettrica vicino alla scuola, insieme a una lettera che annunciava una bomba nell’edificio. La notizia è stata…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "6925effc61a9",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/falsi-allarmi-bomba-nelle-scuole-quanto-sono-costati-le-ore-di-lavoro-perse-dai-genitori-andati-a-riprendere-i-figli-valgono-fino-a-9-milioni-i-dati/",
+   "titolo": "Falsi allarmi bomba nelle scuole, quanto sono costati? Le ore di lavoro perse dai genitori andati a riprendere i figli valgono fino a 9 milioni. I dati",
+   "abstract": "Una mattina di lezioni interrotta, i genitori che lasciano il lavoro per andare a prendere i figli, le forze dell’ordine chiamate a controllare gli edifici. Le minacce arrivate a centinaia di scuole l’11 novembre hanno avuto anche un costo, e il Centro Studi Unimpresa ha provato…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori"
+   ],
+   "id": "72f98b829ea2",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/docenti-infanzia-e-primaria-le-sole-comunicazioni-con-i-genitori-superano-le-416-ore-annuali-gli-impegni-richiedono-molto-piu-tempo-delle-ore-contrattualizzate-il-punto-di-noemi-ranieri-uil/",
+   "titolo": "Docenti Infanzia e Primaria: “Le sole comunicazioni con i genitori superano le 416 ore annuali. Gli impegni richiedono molto più tempo delle ore contrattualizzate”. Il Punto di Noemi Ranieri (UIL)",
+   "abstract": "Venticinque ore settimanali di insegnamento nella scuola dell'infanzia, ventidue ore di lezione e due di programmazione nella primaria. Sono i riferimenti contrattuali più conosciuti, ma non esauriscono il lavoro degli insegnanti. Preparazione delle attività, documentazione…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "e1cf807e64d7",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/dieci-in-tutte-le-materie-e-prove-invalsi-perfette-ma-niente-lode-il-tar-boccia-il-ricorso-dei-genitori-a-pesare-il-comportamento-non-sempre-irreprensibile",
+   "titolo": "Dieci in tutte le materie e prove Invalsi perfette, ma niente lode: il TAR boccia il ricorso dei genitori. A pesare il comportamento non sempre irreprensibile",
+   "abstract": "Avere la media del dieci, ottenere il massimo dei voti alle prove Invalsi e conseguire 10/10 in tutti gli scritti e al colloquio finale non garantisce automaticamente il diritto alla lode. Lo ha stabilito il Tribunale Amministrativo Regionale per l’Abruzzo (Sezione Prima) con la…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Promozione",
+    "Tar"
+   ],
+   "id": "8d9b94e24df2",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-2151-del-30-luglio-2025",
+   "titolo": "Decreto Dirigenziale n. 2151 del 30 luglio 2025",
+   "abstract": "",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "26faab2336f9",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-1539-del-17-giugno-2025",
+   "titolo": "Decreto Dirigenziale n. 1539 del 17 giugno 2025",
+   "abstract": "Seminario di orientamento e formazione per gli assistenti di lingua straniera in Italia nell'ambito del Programma di scambio di Assistenti di Lingua - a.s. 2025-2026.",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "6e54b7973223",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3150-del-22-ottobre-2025",
+   "titolo": "Decreto Dipartimentale n. 3150 del 22 ottobre 2025",
+   "abstract": "Pagamento degli assistenti di lingue straniere per l'anno scolastico 2025/2026.",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "5473a53d43e8",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2313-del-07-agosto-2025",
+   "titolo": "Decreto Dipartimentale n. 2313 del 07 agosto 2025",
+   "abstract": "Pagamento acconto seminario di orientamento e formazione per gli assistenti di lingua straniera in Italia nell'ambito del Programma di scambio di Assistenti di Lingua - a.s. 2025-2026",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "a9bb6fea9dfe",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2102-del-30-luglio-2025",
+   "titolo": "Decreto Dipartimentale n. 2102 del 30 luglio 2025",
+   "abstract": "Convenzione per l'organizzazione e la realizzazione del seminario di orientamento e formazione per gli assistenti di lingua straniera in Italia nell'ambito del Programma di scambio di Assistenti di Lingua - a.s. 2025-2026",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "ced0a0f1d028",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cellulare-dello-studente-il-docente-puo-cercarlo-nello-zaino-i-rischi-spiegati-da-de-martino/",
+   "titolo": "Cellulare dello studente: il docente può cercarlo nello zaino? I rischi spiegati da De Martino",
+   "abstract": "Uno studente sta utilizzando lo smartphone durante la lezione, magari per scattare fotografie o realizzare un video di nascosto. Fino a che punto può arrivare il docente per fermarlo? Può sottrargli fisicamente il telefono? Può aprire lo zaino per cercarlo? L'articolo Cellulare…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "9d9d7b6795a5",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bullismo-unalunna-la-mia-docente-mi-ha-salvato-la-vita-la-prof-dedico-le-mie-ore-buche-agli-studenti-intervista",
+   "titolo": "Bullismo, un’alunna: “La mia docente mi ha salvato la vita”. La prof: “Dedico le mie ore buche agli studenti” – INTERVISTA",
+   "abstract": "Un docente può salvare la vita degli studenti? Sì, letteralmente. Lo dimostra la storia di Stefania Maria Pia Ferro, oggi laureata con lode in Ingegneria informatica, di Caltanissetta: vittima di bullismo da studentessa a scuola, ha ricevuto sostegno tangibile dalla sua…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Bullismo"
+   ],
+   "id": "7997ecd32e82",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarmi-bomba-nelle-scuole-la-psicoterapeuta-non-bisogna-minimizzare-la-paura-ne-alimentarla-ma-dare-agli-studenti-gli-strumenti-per-comprenderla-e-gestirla/",
+   "titolo": "Allarmi bomba nelle scuole, la psicoterapeuta: “Non bisogna minimizzare la paura né alimentarla, ma dare agli studenti gli strumenti per comprenderla e gestirla”",
+   "abstract": "Gli allarmi bomba di questi giorni non vanno archiviati con il ritorno alla normalità, perché il loro impatto psicologico su ragazzi e ragazze non va sottovalutato. L'articolo Allarmi bomba nelle scuole, la psicoterapeuta: “Non bisogna minimizzare la paura né alimentarla, ma…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "f90b2cac01d3",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-uomo-mascherato-mette-finto-ordigno-con-lettera-minatoria-davanti-la-scuola-e-un-ex-alunno-che-voleva-vendicarsi-dei-docenti",
+   "titolo": "Allarme bomba, uomo mascherato mette finto ordigno con lettera minatoria davanti la scuola: è un ex alunno che voleva vendicarsi dei docenti",
+   "abstract": "L’11 novembre è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "b07ff19e32e8",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-scuole-secondo-giorno-evacuate-77-scuole-su-3778-altro-tavolo-tecnico-a-palazzo-chigi-il-13-novembre",
+   "titolo": "Allarme bomba, secondo giorno: evacuate 77 scuole su 3778, altro tavolo tecnico a Palazzo Chigi il 13 novembre",
+   "abstract": "L’11 novembre è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "2469cb1af424",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-ce-paura-dirigente-romana-chiede-a-valditara-ronde-attorno-allistituto-alunna-sviene-a-scuola-nel-catanese",
+   "titolo": "Allarme bomba, c’è paura: dirigente romana chiede a Valditara ronde attorno all’istituto, alunna sviene a scuola nel catanese",
+   "abstract": "L’11 novembre è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "malore"
+   ],
+   "id": "82385b9e08ad",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/15enne-si-toglie-la-vita-indagini-per-bullismo-era-in-un-percorso-di-transizione-di-genere-rete-degli-studenti-carriera-alias-in-ogni-scuola/",
+   "titolo": "15enne si toglie la vita, indagini per bullismo. Era in un percorso di transizione di genere. Rete degli Studenti: “Carriera alias in ogni scuola”",
+   "abstract": "La Procura di Roma ha aperto un’indagine per istigazione al suicidio sulla morte di una ragazza di 15 anni, avvenuta l’11 novembre. Per ora, come rende noto l'Adnkronos, il fascicolo è contro ignoti. L'articolo 15enne si toglie la vita, indagini per bullismo. Era in un percorso…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "3642e88ed4e1",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.indire.it/2026/11/12/leggere-forte-una-rilettura-della-fata-turchina-di-pinocchio-domani-a-pistoia/",
    "titolo": "“Leggere: Forte”, una rilettura della Fata Turchina di Pinocchio domani a Pistoia",
@@ -13305,24 +13843,6 @@
    "sezioni": [
     "personale",
     "inclusione"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/concorso-pubblico-per-titoli-ed-esami-per-l-assunzione-a-tempo-indeterminato-di-n-145-dirigenti-tecnici-di-seconda-fascia-con-funzioni-ispettive--1",
-   "titolo": "Concorso pubblico, per titoli ed esami, per l'assunzione a tempo indeterminato di n. 145 dirigenti tecnici di seconda fascia con funzioni ispettive.",
-   "abstract": "Si avvisano i candidati che sul portale InPA e sulla piattaforma reclutamento, nella sezione info bando relativa a \" Concorso pubblico, per titoli ed esami, per l’assunzione a tempo indeterminato di n. 145 dirigenti tecnici per le esigenze dell’Amministrazione centrale e…",
-   "data": "2025-10-08",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Ministero"
-   ],
-   "id": "036ebf4243dc",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "personale"
    ],
    "superiori": false,
    "abstract_tentato": true
