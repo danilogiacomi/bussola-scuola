@@ -1,35 +1,35 @@
 {
- "aggiornato": "2026-11-13T13:08:23+00:00",
+ "aggiornato": "2026-11-13T20:54:19+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-13T13:08:23+00:00",
-   "ultimo_ok": "2026-11-13T13:08:23+00:00"
+   "controllato": "2026-11-13T20:54:19+00:00",
+   "ultimo_ok": "2026-11-13T20:54:19+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-13T13:08:23+00:00",
-   "ultimo_ok": "2026-11-13T13:08:23+00:00"
+   "controllato": "2026-11-13T20:54:19+00:00",
+   "ultimo_ok": "2026-11-13T20:54:19+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-13T13:08:23+00:00",
-   "ultimo_ok": "2026-11-13T13:08:23+00:00"
+   "controllato": "2026-11-13T20:54:19+00:00",
+   "ultimo_ok": "2026-11-13T20:54:19+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 27,
-   "controllato": "2026-11-13T13:08:23+00:00",
-   "ultimo_ok": "2026-11-13T13:08:23+00:00"
+   "voci": 24,
+   "controllato": "2026-11-13T20:54:19+00:00",
+   "ultimo_ok": "2026-11-13T20:54:19+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-13T13:08:23+00:00",
-   "ultimo_ok": "2026-11-13T13:08:23+00:00"
+   "voci": 30,
+   "controllato": "2026-11-13T20:54:19+00:00",
+   "ultimo_ok": "2026-11-13T20:54:19+00:00"
   }
  },
  "notizie": [
@@ -51,6 +51,46 @@
     "personale"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/valditara-abbiamo-mobilitato-21-miliardi-complessivi-destinati-alla-sicilia-agli-its-dellisola-953-milioni-per-contrastare-lemigrazione-giovanile/",
+   "titolo": "Valditara: “Abbiamo mobilitato 2,1 miliardi complessivi destinati alla Sicilia”. Agli Its dell’isola 95,3 milioni per contrastare l’emigrazione giovanile",
+   "abstract": "Più formazione tecnica per trattenere i giovani nell’isola. Il ministro dell’Istruzione e del Merito Giuseppe Valditara indica negli Its Academy una delle strade per frenare l’emigrazione giovanile dalla Sicilia, dove a questi percorsi sono andati 95,3 milioni di euro. Lo ha…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "ab01645d2f8d",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studenti-violenti-e-docenti-nel-mirino-cosa-puo-fare-la-scuola-lo-psicologo-musolino-a-logos-guarda-il-video",
+   "titolo": "Studenti violenti e docenti nel mirino: cosa può fare la scuola? Lo psicologo Musolino a “Logos” – GUARDA IL VIDEO",
+   "abstract": "L’inizio dell’anno scolastico 2026/27 è stato contrassegnato da diversi episodi di violenza messi in atto dagli studenti, che spesso hanno visto come vittime i docenti. Casi inquietanti che si sono verificati anche in altri Paesi – a partire da Francia e Polonia, dove si è…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "docenti aggrediti",
+    "psicologia",
+    "Studenti violenti",
+    "violenza a scuola"
+   ],
+   "id": "f582f7d9394b",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.tecnicadellascuola.it/scuole-occupate-a-roma-studente-con-disabilta-bloccato-fuori-da-due-persone-incappucciate-sasso-futuro-nazionale-nessuna-tolleranza",
@@ -169,6 +209,22 @@
    "superiori": false
   },
   {
+   "url": "https://www.mim.gov.it/web/guest/-/nota-n-5327-del-12-novembre-2026",
+   "titolo": "Nota n. 5327 del 12 novembre 2026",
+   "abstract": "Offerta formativa in materia di Educazione e sicurezza stradale per l’Anno Scolastico 2026/2027",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "2ea2bd781365",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/medicina-bernini-arriveremo-a-30mila-posti-semestre-aperto-anche-nelle-universita-private-allo-studio-la-reciprocita/",
    "titolo": "Medicina, Bernini: “Arriveremo a 30mila posti”. Semestre aperto anche nelle università private, allo studio la reciprocità",
    "abstract": "Portare a 30mila i posti disponibili per l'accesso a Medicina ed estendere il sistema del semestre aperto anche alle università private. Sono gli obiettivi annunciati dalla ministra dell'Università e della Ricerca, Anna Maria Bernini, durante un'intervista al format “10 Domande”…",
@@ -186,6 +242,47 @@
     "innovazione"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/mail-minatorie-alle-scuole-e-intelligenza-artificiale-che-fare-il-23-novembre-dalle-11-alle-12-educazione-civica-in-diretta-con-susanna-sancassani",
+   "titolo": "Mail minatorie alle scuole e intelligenza artificiale: che fare? Il 23 novembre, dalle 11 alle 12, Educazione Civica in diretta con Susanna Sancassani",
+   "abstract": "Lunedì 23 novembre, dalle 11.00 alle 12.00, Susanna Sancassani sarà ospite di Educazione Civica in diretta, il progetto gratuito di Tecnica della Scuola rivolto alle classi delle secondarie di secondo grado. L’incontro, Io e il mio compagno di banco chiamato Intelligenza…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Educazione civica",
+    "Intelligenza artificiale",
+    "mail"
+   ],
+   "id": "d7d1428c76fd",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/la-docente-entra-in-classe-e-sproloquia-con-gli-alunni-contro-un-altro-docente-della-classe-parole-pesanti-e-rischio-sanzione",
+   "titolo": "La docente entra in classe e sproloquia con gli alunni contro un altro docente della classe. Parole pesanti e rischio sanzione",
+   "abstract": "“Cari ragazzi il docente XXX andrebbe licenziato in tronco, non è idoneo a svolgere la funzione di educatore, utilizza metodi mafiosi!” Sono le parole choc di una docente di scienze di un noto Liceo calabrese che entra in classe e si lascia andare ad uno sfogo smodato e…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Responsabilità",
+    "sanzioni disciplinari docenti"
+   ],
+   "id": "7e6b7c3e81cb",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/intelligenza-artificiale-capasso-cnr-vietarne-luso-agli-studenti-la-scuola-deve-insegnare-a-fare-domande-che-le-macchine-non-possono-fare/",
@@ -321,6 +418,44 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/davenia-soltanto-il-20-degli-insegnanti-lavora-ancora-con-autentica-passione-per-lo-scrittore-la-scuola-va-ripensata-dalle-fondamenta-a-partire-dal-reclutamento/",
+   "titolo": "D’Avenia: “Soltanto il 20% degli insegnanti lavora ancora con autentica passione”. Per lo scrittore la scuola va ripensata dalle fondamenta, a partire dal reclutamento",
+   "abstract": "Per rimettere in piedi la scuola servirebbe un progetto di lungo periodo, che parta da come vengono scelti gli insegnanti. È la proposta di Alessandro D’Avenia, scrittore e docente da ventisei anni, in un’intervista rilasciata a HuffPost in occasione dell’uscita del romanzo Dove…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "af279690daf4",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/davenia-scuola-impoverita-prima-di-recuperare-gli-studenti-recuperiamo-gli-insegnanti-che-aspettano-solo-la-pensione",
+   "titolo": "D’Avenia: “Scuola impoverita. Prima di recuperare gli studenti, recuperiamo gli insegnanti che aspettano solo la pensione”",
+   "abstract": "Scrittore e insegnante da ventisei anni, Alessandro D’Avenia affronta in un’intervista a HuffPost, a partire dal romanzo Dove finiscono gli anni (Mondadori), il tema della crisi della scuola. Il punto di partenza è la condizione di chi oggi sta in cattedra: prima degli studenti…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Alessandro D'Avenia"
+   ],
+   "id": "97402ed5ce34",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/docenti-infanzia-e-primaria-le-sole-comunicazioni-con-i-genitori-superano-le-416-ore-annuali-gli-impegni-richiedono-molto-piu-tempo-delle-ore-contrattualizzate-il-punto-di-noemi-ranieri-uil/",
    "titolo": "Docenti Infanzia e Primaria: “Le sole comunicazioni con i genitori superano le 416 ore annuali. Gli impegni richiedono molto più tempo delle ore contrattualizzate”. Il Punto di Noemi Ranieri (UIL)",
    "abstract": "Venticinque ore settimanali di insegnamento nella scuola dell'infanzia, ventidue ore di lezione e due di programmazione nella primaria. Sono i riferimenti contrattuali più conosciuti, ma non esauriscono il lavoro degli insegnanti. Preparazione delle attività, documentazione…",
@@ -359,6 +494,54 @@
    "superiori": false
   },
   {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-598-del-24-marzo-2025",
+   "titolo": "Decreto direttoriale n. 598 del 24 marzo 2025",
+   "abstract": "Decreto di pagamento a titolo di acconto in favore di INDIRE per la gestione della procedura amministrativa di scambio di assistenti di lingue straniere per l'a.s. 2025/2026",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "51392ce3ce9a",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-293-del-12-febbraio-2025",
+   "titolo": "Decreto direttoriale n. 293 del 12 febbraio 2025",
+   "abstract": "Decreto di affidamento a INDIRE della gestione della procedura amministrativa di scambio di assistenti di lingue straniere per l'a.s. 2025/2026",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "97a0125b9e04",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1099-del-14-maggio-2025",
+   "titolo": "Decreto direttoriale n. 1099 del 14 maggio 2025",
+   "abstract": "Assistenti di lingue straniere per l'anno scolastico 2025/2026",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "23d6b966d6a5",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-2151-del-30-luglio-2025",
    "titolo": "Decreto Dirigenziale n. 2151 del 30 luglio 2025",
    "abstract": "",
@@ -388,6 +571,56 @@
    "sezioni": [
     "norme",
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2313-del-07-agosto-2025",
+   "titolo": "Decreto Direttoriale n. 2313 del 07 agosto 2025",
+   "abstract": "Decreto di pagamento a titolo di acconto in favore di INDIRE per la realizzazione del Seminario di accoglienza, orientamento e formazione per gli assistenti di lingua straniera in Italia - a.s. 2025-2026.",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "1d76d8634d25",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2151-del-30-luglio-2025",
+   "titolo": "Decreto Direttoriale n. 2151 del 30 luglio 2025",
+   "abstract": "Decreto di impegno seminario di orientamento e formazione per gli assistenti di lingua straniera in Italia nell'ambito del Programma di scambio di Assistenti di Lingua - a.s. 2025-2026",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "80b5713fb8f9",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-3278-del-3-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 3278 del 3 novembre 2026",
+   "abstract": "Decreto d'impegno degli assistenti di lingue straniere per l'anno scolastico 2025/2026",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "0c02a04283e8",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
    ],
    "superiori": false
   },
@@ -442,6 +675,43 @@
    "superiori": false
   },
   {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-165-del-30-ottobre-2026",
+   "titolo": "Decreto Dipartimentale n. 165 del 30 ottobre 2026",
+   "abstract": "Decreto dip. integrazione del nuovo Comitato Unico di Garanzia per le pari opportunità, la valorizzazione del benessere di chi lavora e contro le discriminazioni del MIM",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "8b650739bc84",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/comportamenti-problema-e-bisogni-educativi-comprendere-prima-di-intervenire-2/",
+   "titolo": "Comportamenti, problema e bisogni educativi: Comprendere prima di intervenire",
+   "abstract": "In ogni scuola esistono situazioni nelle quali il comportamento di uno studente mette alla prova la capacità degli adulti di comprendere e intervenire. Un bambino che si alza continuamente dal banco, un adolescente che reagisce con aggressività a un richiamo, un alunno che…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "f3fe79bb5031",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/cellulare-dello-studente-il-docente-puo-cercarlo-nello-zaino-i-rischi-spiegati-da-de-martino/",
    "titolo": "Cellulare dello studente: il docente può cercarlo nello zaino? I rischi spiegati da De Martino",
    "abstract": "Uno studente sta utilizzando lo smartphone durante la lezione, magari per scattare fotografie o realizzare un video di nascosto. Fino a che punto può arrivare il docente per fermarlo? Può sottrargli fisicamente il telefono? Può aprire lo zaino per cercarlo? L'articolo Cellulare…",
@@ -475,6 +745,24 @@
    "sezioni": [
     "studenti",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-5878-del-13-novembre-2026",
+   "titolo": "Avviso n. 5878 del 13 novembre 2026",
+   "abstract": "AVVISO PUBBLICO - Procedura di Avviso pubblico finalizzata alla individuazione di una istituzione scolastica per l'organizzazione di percorsi formativi rivolti ai dirigenti scolastici e ai docenti delle scuole secondarie di primo e secondo grado, secondo le Linee Guida del…",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "6cdf6b651e03",
+   "raccolto": "2026-11-13",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "riforme",
+    "personale"
    ],
    "superiori": false
   },
@@ -551,6 +839,23 @@
    "raccolto": "2026-11-13",
    "sezioni": [
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/danno-erariale-a-scuola-100mila-euro-di-danno-allimmagine-e-20-dello-stipendio-restituito-da-un-docente-dopo-una-condanna-penale/",
+   "titolo": "Abusa di un’alunna dodicenne, insegnante dovrà risarcire la scuola con oltre 105mila euro. Il danno all’immagine costa 100mila euro",
+   "abstract": "Il rapporto tra la pubblica amministrazione e i propri dipendenti si basa su precisi vincoli di correttezza e responsabilità che, se violati, producono effetti su più livelli giudiziari. Accanto alle sanzioni previste dal codice penale, l’ordinamento italiano prevede infatti un…",
+   "data": "2026-11-13",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "564ac7c508a2",
+   "raccolto": "2026-11-13",
+   "sezioni": [
+    "riforme"
    ],
    "superiori": false
   },
