@@ -1,38 +1,405 @@
 {
- "aggiornato": "2026-11-13T20:54:19+00:00",
+ "aggiornato": "2026-11-14T12:12:31+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-13T20:54:19+00:00",
-   "ultimo_ok": "2026-11-13T20:54:19+00:00"
+   "controllato": "2026-11-14T12:12:31+00:00",
+   "ultimo_ok": "2026-11-14T12:12:31+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-13T20:54:19+00:00",
-   "ultimo_ok": "2026-11-13T20:54:19+00:00"
+   "controllato": "2026-11-14T12:12:31+00:00",
+   "ultimo_ok": "2026-11-14T12:12:31+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-13T20:54:19+00:00",
-   "ultimo_ok": "2026-11-13T20:54:19+00:00"
+   "controllato": "2026-11-14T12:12:31+00:00",
+   "ultimo_ok": "2026-11-14T12:12:31+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 24,
-   "controllato": "2026-11-13T20:54:19+00:00",
-   "ultimo_ok": "2026-11-13T20:54:19+00:00"
+   "controllato": "2026-11-14T12:12:31+00:00",
+   "ultimo_ok": "2026-11-14T12:12:31+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-13T20:54:19+00:00",
-   "ultimo_ok": "2026-11-13T20:54:19+00:00"
+   "controllato": "2026-11-14T12:12:31+00:00",
+   "ultimo_ok": "2026-11-14T12:12:31+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/io-vittima-di-bullismo-ecco-come-la-mia-professoressa-mi-ha-salvato-la-vita-la-storia-di-stefania-e-della-professoressa-intilla/",
+   "titolo": "“Io, vittima di bullismo: ecco come la mia professoressa mi ha salvato la vita”. La storia di Stefania e della professoressa Intilla",
+   "abstract": "Da Caltanissetta la testimonianza di Stefania Maria Pia Ferro, oggi laureata con lode in Ingegneria informatica, che racconta il ruolo decisivo avuto nella sua vita dalla docente Pamela Lucrezia Intilla: \"Non mi ha soltanto insegnato, mi ha ascoltata quando avevo più bisogno di…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti"
+   ],
+   "id": "36acd56e5584",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/gli-insegnanti-non-possono-fare-il-lavoro-dei-genitori-lo-sfogo-virale-di-una-maestra-riaccende-il-dibattito-sulla-scuola/",
+   "titolo": "“Gli insegnanti non possono fare il lavoro dei genitori”: lo sfogo virale di una maestra riaccende il dibattito sulla scuola",
+   "abstract": "La lettera aperta di una maestra in pensione, che sul web ha scelto di firmarsi semplicemente come Lisa, ha innescato un dibattito acceso sul confine tra i compiti della scuola e le responsabilità delle famiglie. Il suo sfogo, rilanciato sui social dalla pagina youreducation.it…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "c5583a5ebdcb",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sospensione-delle-lezioni-a-natale-i-docenti-con-supplenza-al-30-giugno-sono-automaticamente-in-ferie/",
+   "titolo": "Sospensione delle lezioni a Natale, i docenti con supplenza al 30 giugno sono automaticamente in ferie?",
+   "abstract": "Nella puntata di Diritto in Cattedra del 9 ottobre 2026 su Orizzonte Scuola, condotta da Francesco Bunetto con la partecipazione dell’avvocato Walter Miceli (ANIEF), è stato affrontato anche il tema della monetizzazione delle ferie non godute dai docenti precari. L'articolo…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "ferie"
+   ],
+   "id": "e9ce7f3e1185",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-leducazione-civica-e-patrimonio-storico-artistico-paesaggistico-giornate-fai-con-formazione-per-docenti-e-studenti-ne-parla-la-direttrice-culturale-daniela-bruno-video",
+   "titolo": "Scuola, l’educazione civica è patrimonio storico, artistico, paesaggistico: giornate FAI con formazione per docenti e studenti. Ne parla la direttrice culturale Daniela Bruno – VIDEO",
+   "abstract": "Dal 23 al 28 novembre tornano le Giornate FAI per le scuole, con oltre 200 luoghi eccezionalmente aperti alle “Classi Amiche FAI” e visite guidate dagli stessi studenti, in un esempio di educazione tra pari. Il progetto FAI – che potremmo definire storico visto che quest’anno si…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "ambiente",
+    "Educazione civica",
+    "Formazione",
+    "giornate fai"
+   ],
+   "id": "d3a68f6a8ce0",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scuola-e-futuro-bardi-impara-digitale-serve-una-scuola-fatta-dagli-studenti-e-con-gli-studenti-non-solo-per-loro-non-basta-aggiornarsi-sulla-tecnologia-va-ripensata-tutta-la-didattica-vide/",
+   "titolo": "Scuola e futuro, Bardi (Impara Digitale): “Serve una scuola fatta dagli studenti e con gli studenti, non solo per loro. Non basta aggiornarsi sulla tecnologia, va ripensata tutta la didattica” (VIDEO)",
+   "abstract": "Ai microfoni di Orizzonte Scuola, intervistata dal vice-direttore editoriale Antonio Fundarò, è intervenuta Dianora Bardi, presidente del Centro Studi “Impara Digitale”, in occasione della decima edizione degli Stati Generali della Scuola Digitale. L'articolo Scuola e futuro…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Stati generali scuola digitale"
+   ],
+   "id": "7261c98e153b",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/quiet-ambition-la-rivoluzione-silenziosa-dei-giovani-che-non-vogliono-diventare-famosi-il-valore-di-una-vita-normale-nellepoca-della-visibilita/",
+   "titolo": "Quiet ambition, la rivoluzione silenziosa dei giovani che non vogliono diventare famosi: il valore di una vita normale nell’epoca della visibilità",
+   "abstract": "Ci sono giovani che non desiderano diventare famosi. Non inseguono necessariamente un pubblico, non trasformano ogni traguardo in un contenuto, non misurano ogni giornata attraverso la quantità di approvazione ricevuta. Studiano, lavorano, aiutano un familiare, si prendono cura…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "d1c70ec7a212",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/problemi-di-matematica-come-coinvolgere-gli-studenti-dalla-lezione-frontale-al-laboratorio",
+   "titolo": "Problemi di matematica, come coinvolgere gli studenti? Dalla lezione frontale al laboratorio",
+   "abstract": "Insegnare matematica non significa soltanto spiegare regole e proporre esercizi da svolgere individualmente. Per coinvolgere davvero gli studenti, soprattutto quando si confrontano con problemi complessi o non abituali, può essere utile cambiare approccio e trasformare la…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Matematica"
+   ],
+   "id": "000aae28a838",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-dal-23-ottobre-2026-cosa-devono-fare-dirigenti-e-dsga-con-8-documenti-pronti-alluso/",
+   "titolo": "Intelligenza artificiale a scuola dal 23 ottobre 2026, cosa devono fare Dirigenti e DSGA. Con 8 documenti pronti all’uso",
+   "abstract": "Il 23 ottobre 2026 è entrato in vigore il decreto legislativo 7 ottobre 2026, n. 179, pubblicato nella Gazzetta Ufficiale, Serie generale, n. 234 dell’8 ottobre. Il provvedimento adegua l’ordinamento italiano al regolamento (UE) 2024/1689 sull’intelligenza artificiale (AI Act) e…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "09352a32b4d9",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/indicazioni-nazionali-2026-come-le-hanno-recepite-docenti-e-dirigenti-il-corso",
+   "titolo": "Indicazioni nazionali 2026, come le hanno recepite docenti e dirigenti? Il corso",
+   "abstract": "Le nuove Indicazioni nazionali mettono i dirigenti davanti a una questione tutt’altro che semplice: come trasformare le novità in un progetto educativo unitario? Tra revisione del curricolo, coordinamento dei docenti e aggiornamento della progettazione, serve una preparazione…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Nuove Indicazioni Nazionali primo ciclo"
+   ],
+   "id": "a67427476a45",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/inps-nuovo-assistente-virtuale-per-le-prestazioni-welfare-informazioni-anche-sulle-borse-di-studio-del-programma-itaca/",
+   "titolo": "INPS, nuovo assistente virtuale per le prestazioni welfare: informazioni anche sulle borse di studio del Programma ITACA",
+   "abstract": "L'INPS amplia i servizi di assistenza digitale dedicati ai dipendenti pubblici e alle loro famiglie. Dal 12 novembre, l'assistente virtuale del credito e del welfare è disponibile anche sul Portale prestazioni welfare, con informazioni su Home Care Premium, Long Term Care e…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Inps"
+   ],
+   "id": "7a54f58cad4c",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/grammatica-valenziale-scuola-primaria-esempi-come-evitare-di-riempire-la-testa-degli-alunni-di-sole-nozioni",
+   "titolo": "Grammatica valenziale scuola primaria, esempi: come evitare di riempire la testa degli alunni di sole nozioni?",
+   "abstract": "Imparare la grammatica non significa riempire la testa dei bambini di definizioni da ripetere. Alla primaria occorre un approccio che stimoli curiosità e ragionamento. La grammatica valenziale permette di scoprire la lingua partendo da ciò che dà senso alla frase: il verbo. Vai…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Didattica",
+    "Grammatica valenziale"
+   ],
+   "id": "7222974add1c",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/come-diventare-insegnante-requisiti-abilitazione-concorsi-graduatorie-le-book-con-tutte-le-informazioni-da-conoscere",
+   "titolo": "Come diventare insegnante? Requisiti, abilitazione, concorsi, graduatorie: l’e-book con tutte le informazioni da conoscere",
+   "abstract": "Navigare nel sistema scolastico italiano richiede orientamento e strumenti pratici per affrontare ogni fase del percorso lavorativo. L’ebook “Come diventare docente? Guida completa”, aggiornato a novembre 2026, si propone come una guida fondamentale per accompagnare sia chi…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Come diventare insegnante"
+   ],
+   "id": "4bcd789d4829",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/carta-del-docente-ancora-escluse-le-supplenze-brevi-anche-se-terminano-lultimo-giorno-di-lezione-pillole-di-question-time/",
+   "titolo": "Carta del Docente: ancora escluse le supplenze brevi, anche se terminano l’ultimo giorno di lezione. Pillole di Question Time",
+   "abstract": "Nella puntata di Diritto in Cattedra del 9 ottobre 2026 su Orizzonte Scuola, condotta da Francesco Bunetto con la partecipazione dell’avvocato Walter Miceli (ANIEF), è stato affrontato anche il tema della Carta del Docente per il personale precario con supplenze di durata…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Bonus 500 euro",
+    "supplenze"
+   ],
+   "id": "78c7c11aec17",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ccnl-funzioni-locali-2025-27-noipa-arretrati-a-novembre-e-aumenti-stipendiali-da-dicembre/",
+   "titolo": "CCNL Funzioni Locali 2025/27, NoiPA: arretrati a novembre e aumenti stipendiali da dicembre",
+   "abstract": "NoiPA ha comunicato gli aggiornamenti economici previsti dal nuovo CCNL del comparto Funzioni Locali per il triennio 2025-27, sottoscritto all'ARAN il 28 ottobre. L'articolo CCNL Funzioni Locali 2025/27, NoiPA: arretrati a novembre e aumenti stipendiali da dicembre sembra essere…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "3f57833502e7",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bocciatura-dopo-gli-esami-di-recupero-anche-una-sola-insufficienza-impedisce-la-promozione-il-tar-da-ragione-ai-prof",
+   "titolo": "Bocciatura dopo gli esami di recupero, anche una sola insufficienza impedisce la promozione: il TAR dà ragione ai prof",
+   "abstract": "Il mancato recupero anche di una sola insufficienza, dopo la sospensione del giudizio, impedisce l’ammissione alla classe successiva. Non è sufficiente richiamare il rendimento complessivo dello studente o la media dei voti conseguiti durante l’anno scolastico. Lo ha ribadito il…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Tar"
+   ],
+   "id": "e118325df87e",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/assemblee-studentesche-regolamento-e-documenti-operativi-17-modelli-da-scaricare/",
+   "titolo": "Assemblee studentesche: regolamento e documenti operativi. 17 modelli da scaricare",
+   "abstract": "Assemblee studentesche: regolamento aggiornato e 16 modelli operativi da scaricare Due strumenti per la gestione delle assemblee studentesche nella scuola secondaria di secondo grado: 16 modelli operativi: documenti pronti da personalizzare per richieste, verbali, comunicazioni…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "98f75e20b602",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarme-bomba-dambrosio-evacuare-o-non-evacuare-non-e-una-scelta-che-si-gioca-a-dadi-e-una-scelta-di-responsabilita/",
+   "titolo": "Allarme bomba, D’Ambrosio: “Evacuare o non evacuare non è una scelta che si gioca a dadi. È una scelta di responsabilità”",
+   "abstract": "Di fronte alle recenti minacce arrivate tramite posta elettronica agli istituti scolastici, le reazioni dei dirigenti si sono divise tra chi ha disposto l'uscita immediata degli studenti e chi ha scelto di proseguire regolarmente le lezioni. Una spaccatura che ha subito…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Didattica",
+    "Dirigenti scolastici",
+    "Docenti"
+   ],
+   "id": "0c442630e15b",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-a-scuola-ordigno-sospetto-con-un-biglietto-in-un-bagno-istituto-evacuato-ancora-emulazione",
+   "titolo": "Allarme bomba a scuola, ordigno sospetto con un biglietto in un bagno: istituto evacuato. Ancora emulazione?",
+   "abstract": "L’11 novembre è stata una giornata campale: un allarme bomba via mail è stato inviato a circa 6mila scuole in tutta Italia. Inutile dire che si è seminato il panico: i genitori sono stati chiamati per andare a prendersi i figli, sono partiti controlli in tutti gli istituti…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "c4afeec60a3b",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/educazione-finanziaria-al-via-i-corsi-di-formazione-per-i-docenti-il-protocollo-consob-mim-aiuta-i-giovani-a-evitare-truffe-e-gestire-i-soldi-in-modo-consapevole",
+   "titolo": "Educazione finanziaria, al via corsi di formazione per docenti: protocollo Consob-Mim aiuta i giovani a evitare truffe e gestire i soldi in modo consapevole",
+   "abstract": "L’educazione finanziaria deve entrare nelle scuole e a portarla devono essere gli insegnanti: è questo il primo obiettivo del Protocollo d’Intesa firmato nel mese di ottobre dal presidente della Consob, Guido Stazi, e dal ministro dell’Istruzione e del Merito, Giuseppe…",
+   "data": "2026-11-13",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "educazione finanziaria"
+   ],
+   "id": "bfc29675ee0d",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/leggere-il-mondo-la-guida-per-la-scuola-superiore-consigli-di-lettura-attivita-didattiche-e-un-nuovo-kit-per-i-docenti",
    "titolo": "“Leggere il mondo”, la guida per la scuola superiore: consigli di lettura, attività didattiche e un nuovo kit per i docenti",
