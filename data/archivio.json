@@ -1,35 +1,35 @@
 {
- "aggiornato": "2026-11-14T12:12:31+00:00",
+ "aggiornato": "2026-11-14T19:11:29+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-14T12:12:31+00:00",
-   "ultimo_ok": "2026-11-14T12:12:31+00:00"
+   "controllato": "2026-11-14T19:11:29+00:00",
+   "ultimo_ok": "2026-11-14T19:11:29+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-14T12:12:31+00:00",
-   "ultimo_ok": "2026-11-14T12:12:31+00:00"
+   "controllato": "2026-11-14T19:11:29+00:00",
+   "ultimo_ok": "2026-11-14T19:11:29+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-14T12:12:31+00:00",
-   "ultimo_ok": "2026-11-14T12:12:31+00:00"
+   "controllato": "2026-11-14T19:11:29+00:00",
+   "ultimo_ok": "2026-11-14T19:11:29+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 24,
-   "controllato": "2026-11-14T12:12:31+00:00",
-   "ultimo_ok": "2026-11-14T12:12:31+00:00"
+   "voci": 28,
+   "controllato": "2026-11-14T19:11:29+00:00",
+   "ultimo_ok": "2026-11-14T19:11:29+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-14T12:12:31+00:00",
-   "ultimo_ok": "2026-11-14T12:12:31+00:00"
+   "controllato": "2026-11-14T19:11:29+00:00",
+   "ultimo_ok": "2026-11-14T19:11:29+00:00"
   }
  },
  "notizie": [
@@ -64,6 +64,83 @@
     "Genitori"
    ],
    "id": "c5583a5ebdcb",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/valutazione-studenti-modalita-scrutini-e-organi-collegiali-la-guida-aggiornata-con-3-modelli-da-scaricare/",
+   "titolo": "Valutazione studenti: modalità, scrutini e organi collegiali. La guida aggiornata con 3 modelli da scaricare",
+   "abstract": "La valutazione scolastica è insieme attività pedagogica, espressione dell’autonomia professionale dei docenti e decisione collegiale soggetta a regole procedurali. Questa guida ricostruisce il quadro applicabile nell’anno scolastico 2026/2027, distingue la disciplina della…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "1358f71d885f",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/tagli-scuola-manzi-pd-a-meloni-e-valditara-da-loro-solo-un-video-li-aspettiamo-al-varco-meno-studenti-occasione-per-eliminare-le-classi-pollaio",
+   "titolo": "Tagli scuola, Manzi (Pd) a Meloni e Valditara: da loro solo un video, li aspettiamo al varco. Meno studenti occasione per eliminare le classi pollaio",
+   "abstract": "Come abbiamo scritto ieri, il Governo Meloni ha convocato a Palazzo Chigi i sindacati per venerdì 13 novembre. Di cosa si è discusso? Dei 7.000 posti che la scuola perderà, di cui quasi 5.000 docenti dell’organico di potenziamento e oltre 2.000 Ata, come indicato nel ddl di…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Irene Manzi (Pd)",
+    "Legge di Bilancio 2027"
+   ],
+   "id": "ebf8bfb7b618",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/tagli-agli-organici-manzi-pd-dal-governo-solo-un-video-vogliamo-impegni-scritti-nella-manovra-il-calo-degli-studenti-serva-a-ridurre-il-numero-di-alunni-per-classe/",
+   "titolo": "Tagli agli organici, Manzi (Pd): “Dal Governo solo un video, vogliamo impegni scritti nella Manovra. Il calo degli studenti serva a ridurre il numero di alunni per classe”",
+   "abstract": "Il ritiro dei tagli agli organici di docenti e personale ATA dalla Manovra 2027 non basta al Partito democratico. L'articolo Tagli agli organici, Manzi (Pd): “Dal Governo solo un video, vogliamo impegni scritti nella Manovra. Il calo degli studenti serva a ridurre il numero di…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "1c4d6eef4a9d",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/suicidio-15enne-bullizzato-il-papa-di-paolo-mendico-i-docenti-devono-essere-preparati-non-fare-questo-mestiere-per-lo-stipendio",
+   "titolo": "Suicidio 15enne bullizzato, il papà di Paolo Mendico: “I docenti devono essere preparati, non fare questo mestiere per lo stipendio”",
+   "abstract": "Un altro suicidio, ancora una volta con lo spettro del bullismo: a togliersi la vita, lo scorso mercoledì 11 novembre, un quindicenne di Roma, che aveva deciso di intraprendere un percorso di transizione per diventare un ragazzo, tanto da essere chiamato col nome di elezione…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Bullismo",
+    "Suicidio"
+   ],
+   "id": "3da0e23d3309",
    "raccolto": "2026-11-14",
    "sezioni": [
     "studenti",
@@ -133,6 +210,26 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-borsa-di-studio-dello-studente-medio-libri-e-trasporti-gratuiti-coosa-chiede-la-rete-degli-studenti-medi",
+   "titolo": "Sciopero 20 novembre: borsa di studio dello studente medio, libri e trasporti gratuiti, cosa chiede la Rete degli Studenti Medi",
+   "abstract": "Il 14 novembre si è svolto a Roma, davanti a Montecitorio, un presidio promosso dalla Rete degli Studenti Medi nell’ambito di una mobilitazione nazionale che da settimane vede occupazioni e manifestazioni da nord a sud d’Italia. Gli studenti della cosiddetta “Generazione fuori…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Rete degli studenti medi",
+    "Sciopero"
+   ],
+   "id": "b0a582f4ff81",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/quiet-ambition-la-rivoluzione-silenziosa-dei-giovani-che-non-vogliono-diventare-famosi-il-valore-di-una-vita-normale-nellepoca-della-visibilita/",
    "titolo": "Quiet ambition, la rivoluzione silenziosa dei giovani che non vogliono diventare famosi: il valore di una vita normale nell’epoca della visibilità",
    "abstract": "Ci sono giovani che non desiderano diventare famosi. Non inseguono necessariamente un pubblico, non trasformano ogni traguardo in un contenuto, non misurano ogni giornata attraverso la quantità di approvazione ricevuta. Studiano, lavorano, aiutano un familiare, si prendono cura…",
@@ -168,6 +265,106 @@
    "sezioni": [
     "studenti",
     "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/privacy-online-arriva-il-portale-europeo-per-bambini-e-ragazzi-giochi-video-e-quiz-per-imparare-a-proteggere-i-dati-personali/",
+   "titolo": "Privacy online, arriva il portale europeo per bambini e ragazzi: giochi, video e quiz per imparare a proteggere i dati personali",
+   "abstract": "Giochi interattivi, video, quiz e materiali educativi per aiutare bambini e ragazzi a riconoscere i rischi della rete e proteggere i propri dati personali. L'articolo Privacy online, arriva il portale europeo per bambini e ragazzi: giochi, video e quiz per imparare a proteggere…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Educazione civica",
+    "privacy"
+   ],
+   "id": "cabcfccddb4e",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ponte-dellimmacolata-2026-lezioni-sospese-anche-il-7-dicembre-in-molte-regioni-il-calendario-scolastico/",
+   "titolo": "Ponte dell’Immacolata 2026, lezioni sospese anche il 7 dicembre in molte Regioni: il calendario scolastico",
+   "abstract": "Arriva il ponte dell'Immacolata. Quest'anno l'8 dicembre cade di martedì, consentendo agli studenti che non frequentano il sabato di avere quattro giorni consecutivi di stop dalla scuola. Un assaggio prima della pausa ben più lunga per le vacanze di Natale. L'articolo Ponte…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti",
+    "calendario scolastico"
+   ],
+   "id": "7cacf985c88d",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/occupazioni-scolastiche-guida-48-modelli-per-i-dirigenti-dalle-circolari-alle-denunce-dalla-sicurezza-alle-sanzioni-norme-responsabilita-e-diritto-al-dissenso/",
+   "titolo": "Occupazioni scolastiche, guida + 48 modelli per i dirigenti: dalle circolari alle denunce, dalla sicurezza alle sanzioni. Norme, responsabilità e diritto al dissenso",
+   "abstract": "Ogni autunno, davanti ai cancelli di molte scuole secondarie, tornano striscioni, assemblee straordinarie, proposte di autogestione e occupazioni. La domanda pubblica si concentra spesso su una contrapposizione impropria: gli studenti esercitano un diritto o commettono un reato?…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola",
+    "noadv"
+   ],
+   "id": "142d0f92e035",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/losservazione-in-classe-nei-primi-mesi-di-scuola-conoscere-la-classe-riconoscere-i-bisogni-e-costruire-relazioni-educative-attraverso-losservazione-sistematica/",
+   "titolo": "L’osservazione in classe nei primi mesi di scuola: Conoscere la classe, riconoscere i bisogni e costruire relazioni educative attraverso l’osservazione sistematica",
+   "abstract": "Nei primi mesi dell’anno scolastico ogni classe racconta qualcosa di sé. Lo fa attraverso le parole degli studenti, i silenzi, le domande, i comportamenti durante le attività e le modalità con cui i ragazzi entrano in relazione. Sono segnali che spesso precedono qualsiasi prova…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "29b120ae4a49",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/lesercizio-dei-diritti-di-accesso-accesso-documentale-accesso-civico-semplice-accesso-civico-generalizzato-una-guida-normativa-con-14-documenti-da-scaricare/",
+   "titolo": "L’esercizio dei diritti di accesso: accesso documentale, accesso civico semplice, accesso civico generalizzato. Una guida normativa. Con 14 documenti da scaricare",
+   "abstract": "La dottrina ha evidenziato che la disciplina vigente nel nostro ordinamento in materia di accesso può essere qualificata come un sistema “a triplo binario” che si sostanzia nelle seguenti tipologie: accesso procedimentale ai sensi della legge n. 241 del 1990 e s.m.i.; l’accesso…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "0c4070f86e3d",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
     "innovazione"
    ],
    "superiori": false
@@ -250,6 +447,64 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/fratini-iss-la-scuola-non-sia-una-prigionia-di-voti-e-nozioni-ridiamo-ai-ragazzi-la-meraviglia-dellimparare-video/",
+   "titolo": "Fratini (ISS): “La scuola non sia una prigionia di voti e nozioni, ridiamo ai ragazzi la meraviglia dell’imparare” (VIDEO)",
+   "abstract": "L'iperconnessione e l'esposizione continua al giudizio sui social network stanno lasciando segni profondi sull'equilibrio emotivo dei più giovani, alimentando ansia e difficoltà relazionali. Come possono intervenire gli insegnanti per proteggere e guidare gli studenti?…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Stati generali scuola digitale"
+   ],
+   "id": "0be5a16050b2",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/emergenze-a-scuola-e-reazioni-emotive-piu-che-dire-bisogna-essere-disposti-ad-ascoltare-lanalisi-di-matteo-lancini/",
+   "titolo": "Emergenze a scuola e reazioni emotive: “Più che dire, bisogna essere disposti ad ascoltare”. L’analisi di Matteo Lancini",
+   "abstract": "I recenti allarmi bomba che hanno interessato numerosi istituti scolastici italiani hanno inevitabilmente generato paura, sconcerto e interrogativi tra gli studenti più giovani. Sulla gestione emotiva di questi episodi è intervenuto lo psicoterapeuta Matteo Lancini, ospite nello…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "82b3d2e039b2",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-170-al-senato-si-chiude-in-settimana-approvato-un-emendamento-della-lega-che-consente-alle-scuole-di-realizzare-progetti-in-materia-di-costituzione-su-pei-e-alunni-stranieri-il-decr",
+   "titolo": "Decreto scuola 170: al Senato si chiude in settimana. Approvato un emendamento della Lega che consente alle scuole di realizzare progetti in materia di Costituzione. Su PEI e alunni stranieri il Decreto non cambia",
+   "abstract": "Si concluderà quasi certamente in settimana il percorso per l’approvazione del decreto legge 170 che, come abbiamo scritto più volte, introduce misure importanti sul tema della redazione del PEI e sul “tetto” per il numero di alunni stranieri.Su queste due questioni l’esame in…",
+   "data": "2026-11-14",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "decreto legge scuola 2026"
+   ],
+   "id": "e28548653e9c",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/come-diventare-insegnante-requisiti-abilitazione-concorsi-graduatorie-le-book-con-tutte-le-informazioni-da-conoscere",
    "titolo": "Come diventare insegnante? Requisiti, abilitazione, concorsi, graduatorie: l’e-book con tutte le informazioni da conoscere",
    "abstract": "Navigare nel sistema scolastico italiano richiede orientamento e strumenti pratici per affrontare ogni fase del percorso lavorativo. L’ebook “Come diventare docente? Guida completa”, aggiornato a novembre 2026, si propone come una guida fondamentale per accompagnare sia chi…",
@@ -265,6 +520,25 @@
    "sezioni": [
     "studenti",
     "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cellulare-in-classe-lancini-smonta-i-divieti-non-e-educazione-gli-adulti-stanno-tutto-il-giorno-sui-social-e-poi-fanno-la-morale-ai-ragazzi-video/",
+   "titolo": "Cellulare in classe, Lancini smonta i divieti: “Non è educazione. Gli adulti stanno tutto il giorno sui social e poi fanno la morale ai ragazzi” (VIDEO)",
+   "abstract": "Spesso gli adulti invocano divieti e restrizioni tecnologiche per i ragazzi mentre restano per primi incollati agli schermi, perdendo così autorevolezza e capacità di ascolto. L'articolo Cellulare in classe, Lancini smonta i divieti: “Non è educazione. Gli adulti stanno tutto il…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Stati generali scuola digitale"
+   ],
+   "id": "e9ae1d94068c",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "riforme",
     "innovazione"
    ],
    "superiori": false
@@ -341,6 +615,25 @@
     "altro"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarmi-bomba-nelle-scuole-come-parlarne-a-bambini-e-adolescenti-novara-non-trasferire-le-paure-degli-adulti/",
+   "titolo": "Allarmi bomba nelle scuole, come parlarne a bambini e adolescenti? Novara: “Non trasferire le paure degli adulti”",
+   "abstract": "Come spiegare ai bambini e agli adolescenti gli allarmi bomba che hanno interessato numerose scuole? L'articolo Allarmi bomba nelle scuole, come parlarne a bambini e adolescenti? Novara: “Non trasferire le paure degli adulti” sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "285f9756906c",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.orizzontescuola.it/allarme-bomba-dambrosio-evacuare-o-non-evacuare-non-e-una-scelta-che-si-gioca-a-dadi-e-una-scelta-di-responsabilita/",
