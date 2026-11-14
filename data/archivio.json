@@ -1,35 +1,35 @@
 {
- "aggiornato": "2026-11-14T19:11:29+00:00",
+ "aggiornato": "2026-11-14T23:55:32+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-14T19:11:29+00:00",
-   "ultimo_ok": "2026-11-14T19:11:29+00:00"
+   "controllato": "2026-11-14T23:55:32+00:00",
+   "ultimo_ok": "2026-11-14T23:55:32+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-14T19:11:29+00:00",
-   "ultimo_ok": "2026-11-14T19:11:29+00:00"
+   "controllato": "2026-11-14T23:55:32+00:00",
+   "ultimo_ok": "2026-11-14T23:55:32+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-14T19:11:29+00:00",
-   "ultimo_ok": "2026-11-14T19:11:29+00:00"
+   "controllato": "2026-11-14T23:55:32+00:00",
+   "ultimo_ok": "2026-11-14T23:55:32+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-14T19:11:29+00:00",
-   "ultimo_ok": "2026-11-14T19:11:29+00:00"
+   "voci": 29,
+   "controllato": "2026-11-14T23:55:32+00:00",
+   "ultimo_ok": "2026-11-14T23:55:32+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-14T19:11:29+00:00",
-   "ultimo_ok": "2026-11-14T19:11:29+00:00"
+   "controllato": "2026-11-14T23:55:32+00:00",
+   "ultimo_ok": "2026-11-14T23:55:32+00:00"
   }
  },
  "notizie": [
@@ -463,6 +463,26 @@
     "studenti",
     "personale",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/emergenze-a-scuola-e-responsabilita-legali-chi-decide-e-cosa-rischiano-dirigenti-e-docenti-lanalisi-dellavvocato-de-martino/",
+   "titolo": "Emergenze a scuola e responsabilità legali: chi decide e cosa rischiano dirigenti e docenti. L’analisi dell’avvocato De Martino",
+   "abstract": "Le recenti minacce di ordigni inviate via email a migliaia di istituti italiani hanno sollevato numerosi interrogativi su chi debba gestire l’emergenza a scuola e quali siano le responsabilità legali di dirigenti e insegnanti. A fare chiarezza sul quadro normativo è intervenuto…",
+   "data": "2026-11-14",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti scolastici",
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "d6eb02421b94",
+   "raccolto": "2026-11-14",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
