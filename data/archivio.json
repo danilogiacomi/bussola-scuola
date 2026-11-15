@@ -1,38 +1,77 @@
 {
- "aggiornato": "2026-11-15T19:47:07+00:00",
+ "aggiornato": "2026-11-15T23:58:27+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-15T19:47:07+00:00",
-   "ultimo_ok": "2026-11-15T19:47:07+00:00"
+   "controllato": "2026-11-15T23:58:27+00:00",
+   "ultimo_ok": "2026-11-15T23:58:27+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-15T19:47:07+00:00",
-   "ultimo_ok": "2026-11-15T19:47:07+00:00"
+   "controllato": "2026-11-15T23:58:27+00:00",
+   "ultimo_ok": "2026-11-15T23:58:27+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-15T19:47:07+00:00",
-   "ultimo_ok": "2026-11-15T19:47:07+00:00"
+   "controllato": "2026-11-15T23:58:27+00:00",
+   "ultimo_ok": "2026-11-15T23:58:27+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 27,
-   "controllato": "2026-11-15T19:47:07+00:00",
-   "ultimo_ok": "2026-11-15T19:47:07+00:00"
+   "voci": 28,
+   "controllato": "2026-11-15T23:58:27+00:00",
+   "ultimo_ok": "2026-11-15T23:58:27+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-15T19:47:07+00:00",
-   "ultimo_ok": "2026-11-15T19:47:07+00:00"
+   "controllato": "2026-11-15T23:58:27+00:00",
+   "ultimo_ok": "2026-11-15T23:58:27+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/racchette-in-classe-sempre-piu-adesioni-cosi-si-spingono-i-giovani-a-praticare-tennis-padel-pickleball-beach-tennis-e-tennistavolo",
+   "titolo": "“Racchette in classe”, sempre più adesioni: così si spingono i giovani a praticare tennis, padel, pickleball, beach tennis e tennistavolo",
+   "abstract": "Sono numeri di tutto rispetto quelli del progetto “Racchette in classe”, svoltosi nei giorni scorsi in Piemonte: hanno aderito 800 scuole primarie e secondarie di primo e secondo grado, hanno partecipato, a vario titolo, oltre 110.000 studenti solo piemontesi, nella giornata…",
+   "data": "2026-11-15",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Giovani",
+    "Sport",
+    "tennis"
+   ],
+   "id": "c33b298959de",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/mamma-vado-a-manifestare-adolescenti-e-proteste-di-piazza-come-educare-i-giovani-al-dissenso-consapevole-responsabile-e-sicuro-i-consigli-di-maria-beatrice-alonzi/",
+   "titolo": "“Mamma, vado a manifestare”, adolescenti e proteste di piazza: come educare i giovani al dissenso consapevole, responsabile e sicuro. I consigli di Maria Beatrice Alonzi",
+   "abstract": "La comunicazione di un figlio quindicenne che annuncia di voler partecipare a una manifestazione genera quasi istintivamente timore nei genitori. Il primo impulso è spesso quello di scoraggiarlo attraverso lo scetticismo, ma come evidenzia la scrittrice ed esperta di…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "5a1a1fe03dea",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/validation-seeking-il-bisogno-di-piacere-a-tutti-quando-i-giovani-confondono-il-riconoscimento-con-il-proprio-valore/",
    "titolo": "Validation seeking, il bisogno di piacere a tutti: quando i giovani confondono il riconoscimento con il proprio valore",
@@ -181,6 +220,25 @@
     "Studenti"
    ],
    "id": "af8fba4e89fd",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-frontoni-smettiamo-di-subire-lia-creata-da-altri-la-scuola-costruisca-i-propri-agenti-intelligenti-docenti-e-studenti-diventino-creatori-non-semplici-utilizzat/",
+   "titolo": "Intelligenza Artificiale, Frontoni: “Smettiamo di subire l’IA creata da altri, la scuola costruisca i propri agenti intelligenti. Docenti e studenti diventino creatori, non semplici utilizzatori” (VIDEO)",
+   "abstract": "Il mondo della scuola è chiamato a un cambio di paradigma radicale nel rapporto con le nuove tecnologie. Non basta più subire o impiegare passivamente software progettati altrove: docenti e studenti devono assumere un ruolo attivo, sfruttando la possibilità di programmare le…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "82fdada3bbc4",
    "raccolto": "2026-11-15",
    "sezioni": [
     "studenti",
@@ -386,6 +444,23 @@
     "personale"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/15enne-tenta-di-colpire-un-compagno-con-un-taglierino-davanti-ad-un-liceo-un-insegnante-evita-il-peggio/",
+   "titolo": "15enne tenta di colpire un compagno con un taglierino davanti ad un liceo, un insegnante evita il peggio",
+   "abstract": "Una lite tra due studenti minorenni è degenerata in un'aggressione con un taglierino nei pressi del liceo scientifico, in provincia di Como. L'episodio risale al 6 novembre e si è verificato nel parcheggio esterno all'istituto, dopo la conclusione delle lezioni. L'articolo…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "bfee89016bed",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/io-vittima-di-bullismo-ecco-come-la-mia-professoressa-mi-ha-salvato-la-vita-la-storia-di-stefania-e-della-professoressa-intilla/",
