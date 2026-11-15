@@ -1,38 +1,58 @@
 {
- "aggiornato": "2026-11-15T12:45:25+00:00",
+ "aggiornato": "2026-11-15T19:47:07+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-15T12:45:25+00:00",
-   "ultimo_ok": "2026-11-15T12:45:25+00:00"
+   "controllato": "2026-11-15T19:47:07+00:00",
+   "ultimo_ok": "2026-11-15T19:47:07+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-15T12:45:25+00:00",
-   "ultimo_ok": "2026-11-15T12:45:25+00:00"
+   "controllato": "2026-11-15T19:47:07+00:00",
+   "ultimo_ok": "2026-11-15T19:47:07+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-15T12:45:25+00:00",
-   "ultimo_ok": "2026-11-15T12:45:25+00:00"
+   "controllato": "2026-11-15T19:47:07+00:00",
+   "ultimo_ok": "2026-11-15T19:47:07+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-15T12:45:25+00:00",
-   "ultimo_ok": "2026-11-15T12:45:25+00:00"
+   "voci": 27,
+   "controllato": "2026-11-15T19:47:07+00:00",
+   "ultimo_ok": "2026-11-15T19:47:07+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-15T12:45:25+00:00",
-   "ultimo_ok": "2026-11-15T12:45:25+00:00"
+   "controllato": "2026-11-15T19:47:07+00:00",
+   "ultimo_ok": "2026-11-15T19:47:07+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/validation-seeking-il-bisogno-di-piacere-a-tutti-quando-i-giovani-confondono-il-riconoscimento-con-il-proprio-valore/",
+   "titolo": "Validation seeking, il bisogno di piacere a tutti: quando i giovani confondono il riconoscimento con il proprio valore",
+   "abstract": "«Voglio diventare qualcuno». È una frase che attraversa generazioni e contiene una domanda più profonda di quanto sembri: qualcuno agli occhi di chi? Nella famiglia, nella classe, nel gruppo degli amici, nel lavoro, il desiderio di essere riconosciuti può sostenere la crescita…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Scuole"
+   ],
+   "id": "7c661bb945e3",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/studente-bocciato-anche-una-sola-insufficienza-non-recuperata-puo-portare-alla-non-ammissione-ecco-cosa-hanno-deciso-i-giudici-del-tar/",
    "titolo": "Studente bocciato, anche una sola insufficienza non recuperata può portare alla non ammissione: ecco cosa hanno deciso i giudici del TAR",
@@ -91,6 +111,24 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/ptof-2026-2027-volontariato-con-gli-anziani-competenze-digitali-studenti-caregiver-e-opportunita-del-d-lgs-29-2024-con-12-documenti-da-scaricare/",
+   "titolo": "PTOF 2026/2027: volontariato con gli anziani, competenze digitali, studenti caregiver e opportunità del D.lgs. 29/2024. Con 12 documenti da scaricare",
+   "abstract": "Il decreto legislativo n. 29/2024 apre uno spazio significativo per la progettazione educativa delle scuole: solidarietà intergenerazionale, volontariato, alfabetizzazione digitale delle persone anziane e riconoscimento del ruolo degli studenti che prestano assistenza familiare…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "dca51be4be46",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/maturita-2027-candidati-esterni-nei-licei-professionali-come-scegliere-il-codice-ateco-nella-domanda/",
    "titolo": "Maturità 2027, candidati esterni nei licei professionali: come scegliere il codice ATECO nella domanda",
    "abstract": "I candidati esterni che intendono sostenere l'Esame di Maturità 2027 in un liceo professionale devono individuare il codice ATECO corrispondente al percorso di studio scelto. L'articolo Maturità 2027, candidati esterni nei licei professionali: come scegliere il codice ATECO…",
@@ -108,6 +146,48 @@
     "studenti"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/la-scuola-si-cambia-ascoltando-la-gente-schlein-fa-autocritica-basta-sbandate-pd-vincera-le-elezioni-senza-piu-imporre-riforme-calate-dallalto",
+   "titolo": "La scuola si cambia ascoltando la gente, Schlein fa autocritica: basta “sbandate”, il Pd vincerà le elezioni senza più imporre riforme calate dall’alto",
+   "abstract": "“Sulla scuola dobbiamo fare autocritica anche rispetto ad alcune sbandate del passato e lo sappiamo. Siamo qui per ricostruire insieme, tramite l’ascolto e il dialogo”. A dirlo è stata Elly Schlein, segretaria del Partito democratico, nel corso dell’intervento di chiusura degli…",
+   "data": "2026-11-15",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Politica scolastica",
+    "Elly Schlein",
+    "Partito Democratico",
+    "Riforma scuola"
+   ],
+   "id": "0882fda7f07f",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-se-impara-da-se-stessa-rischia-il-collasso-lo-studio-che-punta-sulla-sorpresa/",
+   "titolo": "Intelligenza artificiale, se impara da sé stessa rischia il collasso: lo studio che punta sulla “sorpresa”",
+   "abstract": "Più contenuti scritti dalle macchine finiscono online, più cresce il rischio che le intelligenze artificiali vengano allenate su testi prodotti da altre intelligenze artificiali, o addirittura da loro stesse. L'articolo Intelligenza artificiale, se impara da sé stessa rischia il…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "af8fba4e89fd",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.tecnicadellascuola.it/indicazioni-nazionali-2025-cosa-viene-suggerito-in-merito-alla-lettura-a-scuola-il-corso",
@@ -131,6 +211,82 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/il-57-dei-ragazzi-si-sente-poco-ascoltato-e-il-62-rinuncia-a-confidarsi-solo-il-9-indica-un-docente-come-punto-di-riferimento/",
+   "titolo": "Il 57% dei ragazzi si sente poco ascoltato e il 62% rinuncia a confidarsi. Solo il 9% indica un docente come punto di riferimento",
+   "abstract": "Più della metà degli adolescenti si sente poco o per niente ascoltata dagli adulti e sei ragazzi su dieci rinunciano spesso a raccontare i propri problemi per paura che vengano sminuiti. L'articolo Il 57% dei ragazzi si sente poco ascoltato e il 62% rinuncia a confidarsi. Solo…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "0a97a04522ec",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/invalsi-il-presidente-ricci-la-valutazione-deve-tutelare-le-competenze-di-base-ma-anche-sostenere-le-inclinazioni-individuali-video/",
+   "titolo": "INVALSI, il presidente Ricci: “La valutazione deve tutelare le competenze di base ma anche sostenere le inclinazioni individuali” (VIDEO)",
+   "abstract": "Ripensare la valutazione scolastica affinché non sia soltanto una fotografia statica, ma uno strumento capace di accompagnare tanto chi fatica quanto chi eccelle. L'articolo INVALSI, il presidente Ricci: “La valutazione deve tutelare le competenze di base ma anche sostenere le…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Stati generali scuola digitale"
+   ],
+   "id": "df92799b26b4",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "esami",
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/giornate-fai-per-le-scuole-2026-dal-23-al-28-novembre-visite-esclusive-per-gli-studenti-in-oltre-250-luoghi-in-tutta-italia/",
+   "titolo": "Giornate FAI per le scuole 2026, dal 23 al 28 novembre visite esclusive per gli studenti in oltre 250 luoghi in tutta Italia",
+   "abstract": "Dal 23 al 28 novembre 2026 tornano le Giornate FAI per le scuole, l'iniziativa del Fondo per l'Ambiente Italiano dedicata agli studenti di ogni ordine e grado. L'articolo Giornate FAI per le scuole 2026, dal 23 al 28 novembre visite esclusive per gli studenti in oltre 250 luoghi…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "eac6b5d5bb00",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/figli-e-intelligenza-artificiale-il-30-dei-genitori-teme-che-i-ragazzi-si-rivolgano-allai-invece-che-a-loro-lindagine/",
+   "titolo": "Figli e intelligenza artificiale, il 30% dei genitori teme che i ragazzi si rivolgano all’AI invece che a loro. L’indagine",
+   "abstract": "Quando un figlio adolescente attraversa un momento difficile, a chi si rivolge? Per molti genitori la risposta potrebbe essere anche un chatbot. Il 30% si dice molto o completamente preoccupato che i ragazzi, davanti a una difficoltà personale o emotiva, cerchino l’intelligenza…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "441b360f2048",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/fake-news-cyberbullismo-e-intelligenza-artificiale-agli-stati-generali-della-scuola-digitale-la-sfida-delle-regole-condivise/",
    "titolo": "Fake news, cyberbullismo e intelligenza artificiale: agli Stati Generali della Scuola Digitale la sfida delle regole condivise",
    "abstract": "VARESE – La decima edizione degli Stati Generali della Scuola Digitale, in programma dal 12 al 14 novembre 2026, mette al centro una domanda che attraversa ogni aula: come educare persone capaci di abitare consapevolmente ambienti digitali sempre più complessi? Il tema scelto…",
@@ -146,6 +302,27 @@
    "sezioni": [
     "studenti",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/educare-alla-gentilezza-un-curricolo-delle-relazioni-dalla-scuola-dellinfanzia-alla-secondaria/",
+   "titolo": "Educare alla gentilezza: Un curricolo delle relazioni dalla scuola dell’infanzia alla secondaria",
+   "abstract": "Il 13 novembre, in occasione della Giornata mondiale della gentilezza, le scuole si animano di iniziative dedicate al rispetto, all'amicizia e alla solidarietà. I bambini realizzano cartelloni, gli studenti scrivono messaggi positivi e le classi partecipano ad attività che…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "92e0bd923e66",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
