@@ -1,38 +1,215 @@
 {
- "aggiornato": "2026-11-14T23:55:32+00:00",
+ "aggiornato": "2026-11-15T12:45:25+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-14T23:55:32+00:00",
-   "ultimo_ok": "2026-11-14T23:55:32+00:00"
+   "controllato": "2026-11-15T12:45:25+00:00",
+   "ultimo_ok": "2026-11-15T12:45:25+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-14T23:55:32+00:00",
-   "ultimo_ok": "2026-11-14T23:55:32+00:00"
+   "controllato": "2026-11-15T12:45:25+00:00",
+   "ultimo_ok": "2026-11-15T12:45:25+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-14T23:55:32+00:00",
-   "ultimo_ok": "2026-11-14T23:55:32+00:00"
+   "controllato": "2026-11-15T12:45:25+00:00",
+   "ultimo_ok": "2026-11-15T12:45:25+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-14T23:55:32+00:00",
-   "ultimo_ok": "2026-11-14T23:55:32+00:00"
+   "voci": 28,
+   "controllato": "2026-11-15T12:45:25+00:00",
+   "ultimo_ok": "2026-11-15T12:45:25+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-14T23:55:32+00:00",
-   "ultimo_ok": "2026-11-14T23:55:32+00:00"
+   "voci": 29,
+   "controllato": "2026-11-15T12:45:25+00:00",
+   "ultimo_ok": "2026-11-15T12:45:25+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/studente-bocciato-anche-una-sola-insufficienza-non-recuperata-puo-portare-alla-non-ammissione-ecco-cosa-hanno-deciso-i-giudici-del-tar/",
+   "titolo": "Studente bocciato, anche una sola insufficienza non recuperata può portare alla non ammissione: ecco cosa hanno deciso i giudici del TAR",
+   "abstract": "Arriva il verdetto sulla non ammissione alla classe successiva di una studentessa minorenne di un liceo classico lombardo, fermata dopo gli esami di recupero di fine estate dell’anno scolastico 2025/2026. L'articolo Studente bocciato, anche una sola insufficienza non recuperata…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "fa35198eafa4",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/smartphone-ia-e-attenzione-a-scuola-farroni-se-usati-in-modo-passivo-inibiscono-le-funzioni-cognitive-i-docenti-educhino-alluso-attivo-video/",
+   "titolo": "Smartphone, IA e attenzione a scuola. Farroni: “Se usati in modo passivo inibiscono le funzioni cognitive. I docenti educhino all’uso attivo” (VIDEO)",
+   "abstract": "Ospite ai microfoni di Orizzonte Scuola, Teresa Farroni, professore ordinario del Dipartimento di Psicologia dello Sviluppo e della Socializzazione all’Università di Padova, ha analizzato l’impatto delle nuove tecnologie — dagli smartphone all’intelligenza artificiale, fino alla…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Stati generali scuola digitale"
+   ],
+   "id": "61be4c2bb0cc",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/pn-21-27-progetti-scuole-come-diffonderli-le-soluzioni-offerte-dalla-tecnica-della-scuola",
+   "titolo": "Pn 21-27, progetti scuole: come diffonderli? Le soluzioni offerte dalla Tecnica della Scuola",
+   "abstract": "I progetti finanziati nell’ambito del Programma Nazionale “Scuola e Competenze” 2021-2027 rappresentano un’importante opportunità per gli istituti scolastici. L’obiettivo è realizzare attività innovative, percorsi formativi e iniziative rivolte a studenti, docenti e comunità…",
+   "data": "2026-11-15",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "PON"
+   ],
+   "id": "728570317323",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maturita-2027-candidati-esterni-nei-licei-professionali-come-scegliere-il-codice-ateco-nella-domanda/",
+   "titolo": "Maturità 2027, candidati esterni nei licei professionali: come scegliere il codice ATECO nella domanda",
+   "abstract": "I candidati esterni che intendono sostenere l'Esame di Maturità 2027 in un liceo professionale devono individuare il codice ATECO corrispondente al percorso di studio scelto. L'articolo Maturità 2027, candidati esterni nei licei professionali: come scegliere il codice ATECO…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti",
+    "esami di stato II grado"
+   ],
+   "id": "d14a39840785",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/indicazioni-nazionali-2025-cosa-viene-suggerito-in-merito-alla-lettura-a-scuola-il-corso",
+   "titolo": "Indicazioni nazionali 2025, cosa viene suggerito in merito alla lettura a scuola? Il corso",
+   "abstract": "Far appassionare gli studenti alla lettura è una sfida che richiede attenzione nella scelta dei libri e capacità di sperimentare nuove strategie didattiche. Come coinvolgere anche chi fatica ad avvicinarsi ai testi? Dalla lettura ad alta voce ai fumetti, fino alla poesia…",
+   "data": "2026-11-15",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Libri",
+    "Nuove Indicazioni Nazionali primo ciclo"
+   ],
+   "id": "fc8baece174c",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/fake-news-cyberbullismo-e-intelligenza-artificiale-agli-stati-generali-della-scuola-digitale-la-sfida-delle-regole-condivise/",
+   "titolo": "Fake news, cyberbullismo e intelligenza artificiale: agli Stati Generali della Scuola Digitale la sfida delle regole condivise",
+   "abstract": "VARESE – La decima edizione degli Stati Generali della Scuola Digitale, in programma dal 12 al 14 novembre 2026, mette al centro una domanda che attraversa ogni aula: come educare persone capaci di abitare consapevolmente ambienti digitali sempre più complessi? Il tema scelto…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica",
+    "Stati generali scuola digitale"
+   ],
+   "id": "e718fcf801d8",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bocciatura-annullata-a-studente-con-dsa-la-scuola-non-aveva-aggiornato-il-pdp-dopo-laggravamento-dei-disturbi",
+   "titolo": "Bocciatura annullata a studente con DSA, la scuola non aveva aggiornato il PDP dopo l’aggravamento dei disturbi",
+   "abstract": "Uno studente con disturbi specifici dell’apprendimento (DSA) non può essere valutato senza che la scuola abbia prima predisposto e applicato le misure compensative e dispensative adeguate alle sue effettive condizioni. Se i disturbi si aggravano, inoltre, il Piano didattico…",
+   "data": "2026-11-15",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "DSA",
+    "Tar"
+   ],
+   "id": "0b6711e799c1",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/arrivata-a-cavallo-in-un-villaggio-senza-luce-ne-telefono-ha-insegnato-38-anni-e-ottenuto-un-ponte-e-una-scuola-nuova-la-storia-di-una-maestra/",
+   "titolo": "Arrivata a cavallo in un villaggio senza luce né telefono, ha insegnato 38 anni e ottenuto un ponte e una scuola nuova: la storia di una maestra",
+   "abstract": "Karina Guzmán ha insegnato per 38 anni a El Albardón, una piccola comunità rurale nel sud della provincia argentina di Santiago del Estero. Ha cominciato con tre alunni in un ranch prestato. L'articolo Arrivata a cavallo in un villaggio senza luce né telefono, ha insegnato 38…",
+   "data": "2026-11-15",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "8d532722ca62",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-e-la-direttiva-del-ministero-dellinterno-il-dirigente-scolastico-deve-informare-la-rls-della-scuola",
+   "titolo": "Allarme bomba e la direttiva del Ministero dell’interno, il dirigente scolastico deve informare la RLS della scuola",
+   "abstract": "Dopo che nei giorni scorsi le scuole di tutta Italia sono state prese di mira, attraverso un’azione di swatting, con degli allarmi bomba, creando, tre le altre reazioni, notevole tensione e in diversi casi anche l’evacuazione prudenziale degli studenti dagli edifici scolastici…",
+   "data": "2026-11-15",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Dirigenti",
+    "Docenti",
+    "allarme bomba",
+    "Ata",
+    "Dirigenti scolastici",
+    "RLS"
+   ],
+   "id": "217a80bf9fd9",
+   "raccolto": "2026-11-15",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/io-vittima-di-bullismo-ecco-come-la-mia-professoressa-mi-ha-salvato-la-vita-la-storia-di-stefania-e-della-professoressa-intilla/",
    "titolo": "“Io, vittima di bullismo: ecco come la mia professoressa mi ha salvato la vita”. La storia di Stefania e della professoressa Intilla",
@@ -14809,25 +14986,6 @@
    "sezioni": [
     "studenti",
     "innovazione"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/scuola-oggi-alle-14-00-aperte-le-candidature-per-i-concorsi-ordinari-oltre-58mila-posti-disponibili-tra-infanzia-primaria-e-secondaria",
-   "titolo": "Scuola, oggi alle 14.00 aperte le candidature per i concorsi ordinari: oltre 58mila posti disponibili tra infanzia, primaria e secondaria",
-   "abstract": "Oggi alle 14.00 si aprirà la possibilità di presentare istanza di partecipazione alle procedure concorsuali ordinarie per posti comuni e di sostegno nella scuola dell’infanzia, primaria e nella scuola secondaria.",
-   "data": "2025-10-10",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Scuola"
-   ],
-   "id": "8de2a7585062",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "personale",
-    "inclusione"
    ],
    "superiori": false,
    "abstract_tentato": true
