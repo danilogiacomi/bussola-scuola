@@ -1,38 +1,76 @@
 {
- "aggiornato": "2026-11-16T13:40:21+00:00",
+ "aggiornato": "2026-11-16T23:24:35+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-16T13:40:21+00:00",
-   "ultimo_ok": "2026-11-16T13:40:21+00:00"
+   "controllato": "2026-11-16T23:24:35+00:00",
+   "ultimo_ok": "2026-11-16T23:24:35+00:00"
   },
   "gu": {
    "esito": "ok",
-   "voci": 0,
-   "controllato": "2026-11-16T13:40:21+00:00",
-   "ultimo_ok": "2026-11-16T13:40:21+00:00"
+   "voci": 1,
+   "controllato": "2026-11-16T23:24:35+00:00",
+   "ultimo_ok": "2026-11-16T23:24:35+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-16T13:40:21+00:00",
-   "ultimo_ok": "2026-11-16T13:40:21+00:00"
+   "controllato": "2026-11-16T23:24:35+00:00",
+   "ultimo_ok": "2026-11-16T23:24:35+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-16T13:40:21+00:00",
-   "ultimo_ok": "2026-11-16T13:40:21+00:00"
+   "voci": 29,
+   "controllato": "2026-11-16T23:24:35+00:00",
+   "ultimo_ok": "2026-11-16T23:24:35+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 27,
-   "controllato": "2026-11-16T13:40:21+00:00",
-   "ultimo_ok": "2026-11-16T13:40:21+00:00"
+   "voci": 26,
+   "controllato": "2026-11-16T23:24:35+00:00",
+   "ultimo_ok": "2026-11-16T23:24:35+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/voli-per-la-sicilia-a-natale-raddoppia-il-bonus-per-studenti-e-categorie-fragili-fino-a-200-euro-di-sconto-ecco-le-info-utili/",
+   "titolo": "Voli per la Sicilia a Natale, sconti per docenti ed ATA. Raddoppia il bonus anche per studenti e categorie fragili: fino a 200 euro di sconto. Ecco le info utili",
+   "abstract": "Scattano i rinforzi contro il caro voli in vista delle festività natalizie: dal 1° dicembre 2026 al 10 gennaio 2027 la Regione Siciliana aumenterà il contributo per l’acquisto dei biglietti aerei sulle tratte nazionali da e per l’Isola, portando il rimborso massimo fino a 100…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "515177038d8f",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/temporelli-portiamo-il-metodo-stem-nella-politica-e-nelle-materie-umanistiche-lia-non-deve-sostituire-gli-studenti-ma-potenziarli-video/",
+   "titolo": "Temporelli: “Docenti impauriti dall’IA e studenti che la usano male per i compiti, ecco l’equazione per farli incontrare” (VIDEO)",
+   "abstract": "Superare gli steccati storici tra cultura umanistica e cultura scientifica, trasformando il metodo galileiano in una bussola per leggere la complessità del presente, dalla sociologia fino alle scelte politiche. È questa la sfida educativa del XXI secolo secondo Massimo…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Stati generali scuola digitale"
+   ],
+   "id": "59c1fc3c57f8",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/studenti-aggrediscono-vicepreside-funzionario-e-collaboratrice-scolastica-per-occupare-listituto-tre-feriti-al-pronto-soccorso/",
    "titolo": "Studenti aggrediscono vicepreside, funzionario e collaboratrice scolastica per occupare l’istituto: tre feriti al pronto soccorso",
@@ -69,6 +107,25 @@
     "personale"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studente-assente-alla-verifica-il-docente-deve-sempre-farla-recuperare/",
+   "titolo": "Studente assente alla verifica: il docente deve sempre farla recuperare?",
+   "abstract": "La gestione delle verifiche non sostenute a causa di un'assenza rappresenta un tema ricorrente nella prassi didattica, spesso al centro di dubbi interpretativi per i docenti. Sul punto interviene l'avvocato Luisa Treccani, esperta di legislazione scolastica, offrendo un quadro…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Valutazione"
+   ],
+   "id": "9faa37461c44",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.tecnicadellascuola.it/simona-ventura-il-blitz-davanti-a-scuola-contro-i-bulli-della-figlia-ho-fatto-un-caos-sono-svenuti",
@@ -126,6 +183,43 @@
     "personale"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/registra-i-bulli-per-difendersi-ma-la-scuola-lo-punisce-col-7-in-condotta-il-tar-annulla-la-sanzione-e-condanna-il-ministero",
+   "titolo": "Registra i bulli per difendersi ma la scuola lo punisce col 7 in condotta: il TAR annulla la sanzione e condanna il Ministero",
+   "abstract": "Una vicenda di gestione disciplinare scolastica si conclude con l’accoglimento del ricorso di uno studente davanti alla giustizia amministrativa. Il TAR Friuli-Venezia Giulia (Sezione Prima), con la sentenza n. 566/2026, ha annullato la sanzione disciplinare e il conseguente 7…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bullismo",
+    "Tar",
+    "Voto di condotta"
+   ],
+   "id": "33d188e1e27d",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05942/SG",
+   "titolo": "Presidenza del consiglio dei ministri – Commissario straordinario ricostruzione sisma 2016 – Ordinanza 24 settembre 2026",
+   "abstract": "Modifiche ed integrazioni all'ordinanza speciale n. 31 del 31 dicembre 2021, recante «Programma straordinario di ricostruzione e definizione delle modalita' di attuazione degli interventi finalizzati al recupero delle strutture scolastiche dei comuni delle Regioni Abruzzo…",
+   "data": "2026-11-16",
+   "fonte": "gu",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "ab1109c5d305",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "esami",
+    "norme"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.orizzontescuola.it/orizzonte-scuola-agli-stati-generali-della-scuola-digitale-antonio-fundaro-modera-il-panel-impariamo-tre-ore-con-gli-studenti-protagonisti-dellintelligenza-artificiale/",
@@ -239,6 +333,44 @@
    "superiori": false
   },
   {
+   "url": "https://www.indire.it/2026/11/16/le-donne-della-costituente-pubblicato-il-calendario-dei-webinar-per-i-docenti/",
+   "titolo": "Le donne della Costituente: pubblicato il calendario dei webinar per i docenti",
+   "abstract": "È stato pubblicato il calendario dei webinar per partecipare al progetto “Le donne della Costituente. Fonti, ricerca e cittadinanza attiva”, un percorso formativo nazionale rivolto a docenti delle scuole secondarie di secondo grado, statali e paritarie, che potranno partecipare…",
+   "data": "2026-11-16",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio"
+   ],
+   "id": "a47d0680014c",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/landini-cgil-lo-sciopero-e-di-tutti-il-governo-ha-fatto-cassa-con-le-scuole-che-cadono-a-pezzi",
+   "titolo": "Landini (Cgil): “Lo sciopero è di tutti. Il Governo ha fatto cassa con le scuole che cadono a pezzi”",
+   "abstract": "In un’intervista al Corriere della Sera a Brescia, il segretario generale della Cgil spiega le ragioni dello sciopero generale di venerdì 20, in concomitanza con la giornata europea degli studenti. Boccia la manovra e propone un contributo di solidarietà dell’1% sui redditi più…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Cgil",
+    "Maurizio Landini"
+   ],
+   "id": "64bc064357ad",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/la-scuola-che-accende-il-cervello-creativita-neuroscienze-e-tecnologie-immersive-al-centro-degli-stati-generali/",
    "titolo": "La scuola che accende il cervello: creatività, neuroscienze e tecnologie immersive al centro degli Stati Generali",
    "abstract": "VARESE, 13 novembre 2026 – La seconda giornata della decima edizione degli Stati Generali della Scuola Digitale si apre con una domanda che riguarda direttamente il futuro dell’insegnamento: come trasformare l’esperienza scolastica in un’occasione autentica di crescita, anziché…",
@@ -273,6 +405,62 @@
    "raccolto": "2026-11-16",
    "sezioni": [
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-nella-pubblica-amministrazione-adottate-le-nuove-linee-guida-agid-sicurezza-trasparenza-e-controllo-umano/",
+   "titolo": "Intelligenza artificiale nella Pubblica Amministrazione, adottate le nuove Linee guida AgID: sicurezza, trasparenza e controllo umano",
+   "abstract": "L'Agenzia per l'Italia Digitale (AgID) ha adottato le nuove Linee guida per l'utilizzo dell'intelligenza artificiale nella Pubblica Amministrazione. Nella Gazzetta Ufficiale del 16 novembre è stato pubblicato l'avviso relativo alla pubblicazione delle linee guida. L'articolo…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "8bad314dfece",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-come-materia-scolastica-fin-dallinfanzia-la-cina-punta-a-introdurla-in-tutte-le-scuole-entro-il-2030/",
+   "titolo": "Intelligenza artificiale come materia scolastica fin dall’infanzia, la Cina punta a introdurla in tutte le scuole entro il 2030",
+   "abstract": "La Cina punta a integrare l'intelligenza artificiale nei programmi scolastici di ogni ordine e grado, dalla scuola dell'infanzia alle superiori, entro il 2030. L'articolo Intelligenza artificiale come materia scolastica fin dall’infanzia, la Cina punta a introdurla in tutte le…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "63cddba9ba67",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/il-bullismo-degli-adulti-la-solitudine-degli-adolescenti-e-lintelligenza-artificiale-che-ascolta-la-lezione-di-matteo-lancini-a-varese/",
+   "titolo": "Il bullismo degli adulti, la solitudine degli adolescenti e l’intelligenza artificiale che ascolta: la lezione di Matteo Lancini a Varese",
+   "abstract": "VARESE, 13 novembre 2026 – Il titolo è già una provocazione, e Matteo Lancini non cerca di attenuarla. “Non ci resta che l’intelligenza artificiale. Essere adolescenti nell’epoca del bullismo degli adulti” è il panel che, nella seconda giornata della decima edizione degli Stati…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Stati generali scuola digitale"
+   ],
+   "id": "465fe5a6abff",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -315,6 +503,25 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/giornata-mondiale-della-filosofia-il-19-novembre-seminario-online-del-mim-per-docenti-e-dirigenti-4-ore-di-formazione-gratuita-iscrizioni-entro-il-17-novembre/",
+   "titolo": "Giornata mondiale della filosofia, il 19 novembre seminario online del MIM per docenti e dirigenti: 4 ore di formazione gratuita, iscrizioni entro il 17 novembre",
+   "abstract": "Il 19 novembre 2026, dalle 14 alle 18, docenti e dirigenti scolastici potranno seguire a distanza una giornata di studi per la Giornata mondiale della filosofia. L'articolo Giornata mondiale della filosofia, il 19 novembre seminario online del MIM per docenti e dirigenti: 4 ore…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti scolastici",
+    "Docenti"
+   ],
+   "id": "05f525a0a2bb",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/genitori-e-figli-nasce-rete-in-ascolto-incontri-e-video-pillole-su-comunicazione-digitale-e-benessere-emotivo/",
    "titolo": "Genitori e figli, nasce “Rete in Ascolto”: incontri e video-pillole su comunicazione, digitale e benessere emotivo",
    "abstract": "Favorire il dialogo tra genitori e figli, offrire strumenti pratici per affrontare le difficoltà educative e creare occasioni di confronto tra famiglie, docenti ed educatori. Sono gli obiettivi di “Rete in Ascolto”, il progetto promosso dall'associazione di genitori Articolo 26…",
@@ -330,6 +537,25 @@
     "studenti",
     "personale",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/expo-training-prende-il-via-a-milano-la-xv-edizione-10-000-colloqui-per-avvicinare-i-giovani-alla-formazione-e-lavoro/",
+   "titolo": "Expo Training, prende il via a Milano la XV edizione: 10.000 colloqui per avvicinare i giovani alla formazione e lavoro",
+   "abstract": "Mercoledì 18 e giovedì 19 novembre 2026, Mercoledì 18 - Ore 9.00 – Inaugurazione al Gate 6, Allianz MiCo. Milano L'articolo Expo Training, prende il via a Milano la XV edizione: 10.000 colloqui per avvicinare i giovani alla formazione e lavoro sembra essere il primo su Orizzonte…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "cf67adbcd79e",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
    ],
    "superiori": false
   },
@@ -354,6 +580,41 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/dirigenti-scolastici-neoassunti-la-uil-scuola-contesta-i-350-euro-ai-tutor-e-il-rinvio-del-mentore/",
+   "titolo": "Dirigenti scolastici neoassunti, cosa prevede la circolare sull’anno di prova 2026/27: 75 ore tra tutor e formazione, valutazione e piattaforma da dicembre",
+   "abstract": "Oggi 16 novembre 2026, al ministero dell’Istruzione e del Merito, si è svolta l’informativa sulla circolare con le indicazioni operative per l’anno di formazione e prova dei dirigenti scolastici neoassunti nell’anno scolastico 2026/2027. A riferire i contenuti dell’incontro è la…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti scolastici",
+    "Politica scolastica"
+   ],
+   "id": "9b1036447e86",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-199298-del-5-novembre-2026",
+   "titolo": "Decreto Dirigenziale n. 199298 del 5 novembre 2026",
+   "abstract": "Contributo anno 2026 Fondazione Graziadio Isaia Ascoli. Contributo anno 2026 in favore della Fondazione Graziadio Isaia Ascoli per la formazione e la trasmissione della cultura ebraica.",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "4f0384ddaa4c",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1515-del-13-novembre-2026",
    "titolo": "Decreto Direttoriale n. 1515 del 13 novembre 2026",
    "abstract": "Avviso per la mobilità volontaria nazionale tra le sedi dell'Amministrazione anno 2026. Domanda di partecipazione al sito https://reclutamento.istruzione.it Apertura domande ore 11:00 del 17/11/2026 Chiusura domande ore 12:00 del 27/11/2026.",
@@ -367,6 +628,44 @@
    "sezioni": [
     "norme",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/chiede-su-whatsapp-uninterrogazione-di-recupero-ma-non-si-presenta-in-classe-il-tar-conferma-la-bocciatura-dello-studente",
+   "titolo": "Chiede su WhatsApp un’interrogazione di recupero, ma non si presenta in classe: il TAR conferma la bocciatura dello studente",
+   "abstract": "Chiedere un’ulteriore interrogazione all’insegnante tramite un messaggio informale su WhatsApp a pochi giorni dalla fine delle lezioni non evita la bocciatura, specialmente se lo studente il giorno della lezione non si presenta neppure in classe. È quanto stabilito dai giudici…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Tar",
+    "WhatsApp"
+   ],
+   "id": "a9b040cacfb6",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/chiedeva-solo-i-compiti-alunno-deriso-nella-chat-di-classe-per-la-disabilita-ora-la-famiglia-del-bullo-paga-4-500-euro-di-risarcimento/",
+   "titolo": "Chiede i compiti su WhatsApp, ma viene insultato per la sua disabilità. Scatta la denuncia per cyberbullismo: famiglia del responsabile paga 4.500 euro",
+   "abstract": "Un gesto quotidiano e del tutto normale, come chiedere i compiti ai compagni durante un’assenza da scuola, si è trasformato in un episodio di cyberbullismo nella chat WhatsApp di una classe. L'articolo Chiede i compiti su WhatsApp, ma viene insultato per la sua disabilità…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "e9c9a3385597",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "inclusione"
    ],
    "superiori": false
   },
@@ -422,6 +721,73 @@
    "sezioni": [
     "riforme",
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cellulare-acceso-nello-zaino-contro-i-bulli-punita-con-il-7-in-condotta-per-un-video-denuncia-il-tar-da-ragione-allo-studente/",
+   "titolo": "Cellulare acceso nello zaino contro i bulli, punito con il 7 in condotta per un video-denuncia: il TAR dà ragione allo studente e condanna la scuola",
+   "abstract": "Un cellulare acceso nello zaino per filmare i compagni che frugavano tra le sue cose non può costare la punizione alla vittima di bullismo. Lo stabilisce il Tar del Friuli Venezia Giulia (Sezione Prima) con la sentenza n. 566/2026, pubblicata il 16 novembre, accogliendo il…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "7079dd5c0e35",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-prot-n-275285-del-16-novembre-2026",
+   "titolo": "Avviso prot. n. 275285 del 16 novembre 2026",
+   "abstract": "Procedura per il conferimento di incarico dirigenziale non generale presso l’Unità di missione per il Piano nazionale di ripresa e resilienza – Ufficio di Monitoraggio. Scadenza per la presentazione delle domande: ore 15:00 del 23 novembre 2026.",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "1fdcc986b963",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-prot-n-275190-del-16-novembre-2026",
+   "titolo": "Avviso prot. n. 275190 del 16 novembre 2026",
+   "abstract": "Procedura per il conferimento di incarico dirigenziale non generale presso l’Unità di missione per il Piano nazionale di ripresa e resilienza – Ufficio di Coordinamento della gestione. Scadenza per la presentazione delle domande: ore 15:00 del 23 novembre 2026.",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "196fde273c54",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-prot-n-275127-del-16-novembre-2026",
+   "titolo": "Avviso prot. n. 275127 del 16 novembre 2026",
+   "abstract": "Procedura per il conferimento di incarico dirigenziale non generale presso l’Unità di missione per il Piano nazionale di ripresa e resilienza – Ufficio di Rendicontazione e controllo. Scadenza per la presentazione delle domande: ore 15:00 del 23 novembre 2026.",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "26bab88f404e",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
    ],
    "superiori": false
   },
