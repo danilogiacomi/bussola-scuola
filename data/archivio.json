@@ -1,38 +1,585 @@
 {
- "aggiornato": "2026-11-15T23:58:27+00:00",
+ "aggiornato": "2026-11-16T13:40:21+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-15T23:58:27+00:00",
-   "ultimo_ok": "2026-11-15T23:58:27+00:00"
+   "controllato": "2026-11-16T13:40:21+00:00",
+   "ultimo_ok": "2026-11-16T13:40:21+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-15T23:58:27+00:00",
-   "ultimo_ok": "2026-11-15T23:58:27+00:00"
+   "controllato": "2026-11-16T13:40:21+00:00",
+   "ultimo_ok": "2026-11-16T13:40:21+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-15T23:58:27+00:00",
-   "ultimo_ok": "2026-11-15T23:58:27+00:00"
+   "controllato": "2026-11-16T13:40:21+00:00",
+   "ultimo_ok": "2026-11-16T13:40:21+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-15T23:58:27+00:00",
-   "ultimo_ok": "2026-11-15T23:58:27+00:00"
+   "voci": 30,
+   "controllato": "2026-11-16T13:40:21+00:00",
+   "ultimo_ok": "2026-11-16T13:40:21+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-15T23:58:27+00:00",
-   "ultimo_ok": "2026-11-15T23:58:27+00:00"
+   "voci": 27,
+   "controllato": "2026-11-16T13:40:21+00:00",
+   "ultimo_ok": "2026-11-16T13:40:21+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/studenti-aggrediscono-vicepreside-funzionario-e-collaboratrice-scolastica-per-occupare-listituto-tre-feriti-al-pronto-soccorso/",
+   "titolo": "Studenti aggrediscono vicepreside, funzionario e collaboratrice scolastica per occupare l’istituto: tre feriti al pronto soccorso",
+   "abstract": "Stavano aprendo la scuola, come ogni mattina, quando sono stati spinti con forza contro la cancellata. In un istituto superiore della provincia di Torino la vicepreside, un funzionario e una collaboratrice scolastica sono finiti al pronto soccorso con contusioni alle mani e in…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "34d4881571b8",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studenti-aggrediscono-vicepreside-e-bidella-volevano-occupare-il-liceo",
+   "titolo": "Studenti aggrediscono vicepreside e bidella: “Volevano occupare il liceo”",
+   "abstract": "Secondo quanto riporta La Stampa, questa mattina in un liceo di Torino una vicepreside, un funzionario e una collaboratrice scolastica sarebbero stati aggrediti da alcuni studenti intenzionati a occupare la scuola. I tre sono finiti al pronto soccorso. Sarebbe la seconda…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "docenti aggrediti",
+    "Occupazioni"
+   ],
+   "id": "42ff35b58329",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/simona-ventura-il-blitz-davanti-a-scuola-contro-i-bulli-della-figlia-ho-fatto-un-caos-sono-svenuti",
+   "titolo": "Simona Ventura, il blitz davanti a scuola contro i bulli della figlia: “Ho fatto un caos. Sono svenuti”",
+   "abstract": "Ospite del podcast PoretCast di Giacomo Poretti, la conduttrice ha ripercorso la carriera, compresa l’avventura con la Gialappa’s Band in “Mai dire Gol”, per poi raccontare un episodio di cyberbullismo che ha coinvolto la figlia adottiva Caterina e la sua reazione da mamma. Una…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Cyberbullismo"
+   ],
+   "id": "56756df18119",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-finlandese-meno-ore-piu-apprendimento-organizzare-la-scuola-in-modo-diverso-e-possibile-diretta-ore-1700",
+   "titolo": "Scuola finlandese, meno ore, più apprendimento? Organizzare la scuola in modo diverso è possibile? DIRETTA ore 17,00",
+   "abstract": "Le lezioni troppo frammentate, i continui cambi di attività e gli ambienti poco flessibili possono rendere difficile mantenere alta l’attenzione degli studenti. Ma è possibile organizzare la scuola in modo diverso, ripensando tempi, spazi e metodologie? Il modello finlandese…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "apprendimento",
+    "Finlandia",
+    "Metodologia didattica"
+   ],
+   "id": "e5d01c721100",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/rinnovo-contratto-scuola-aran-annuncia-firma-allinizio-del-2027-compensi-forfettari-ai-docenti-per-le-gite-ia-e-non-solo-ecco-le-novita/",
+   "titolo": "Rinnovo contratto scuola, ARAN: “Obiettivo chiudere ad inizio 2027”. Compensi ai docenti per le gite, part time, supplenze. Ecco le prime novità",
+   "abstract": "Entrano nel vivo le trattative sulla parte normativa del contratto Istruzione e Ricerca per il triennio 2025/27. L'articolo Rinnovo contratto scuola, ARAN: “Obiettivo chiudere ad inizio 2027”. Compensi ai docenti per le gite, part time, supplenze. Ecco le prime novità sembra…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica",
+    "Contratto"
+   ],
+   "id": "cd9b125c7bc8",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/orizzonte-scuola-agli-stati-generali-della-scuola-digitale-antonio-fundaro-modera-il-panel-impariamo-tre-ore-con-gli-studenti-protagonisti-dellintelligenza-artificiale/",
+   "titolo": "Orizzonte Scuola agli Stati Generali della Scuola Digitale: Antonio Fundarò modera il panel “imparIAmo”, tre ore con gli studenti protagonisti dell’intelligenza artificiale",
+   "abstract": "A Varese, durante la decima edizione degli Stati Generali della Scuola Digitale, l’intelligenza artificiale ha incontrato la scuola reale. Non quella immaginata soltanto nei documenti programmatici, ma quella delle classi, degli insegnanti e degli studenti che studiano…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Stati generali scuola digitale"
+   ],
+   "id": "0122c87500f9",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/open-day-a-scuola-la-partecipazione-dei-docenti-e-obbligatoria-o-volontaria/",
+   "titolo": "Open Day a scuola: la partecipazione dei docenti è obbligatoria o volontaria?",
+   "abstract": "L'organizzazione delle giornate di scuola aperta dedicate alle famiglie e ai futuri studenti rappresenta un momento cruciale del PTOF, ma la partecipazione del personale docente al di fuori del calendario delle lezioni richiede chiarezza sul piano formale. Salvo specifiche…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "dfb1de275673",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/oltre-5-000-note-sotto-la-lente-il-70-delle-note-e-per-chiacchiere-e-ritardi-radiografia-di-una-scuola-che-punisce-ma-non-educa-e-respinge-proprio-gli-studenti-piu-fragili/",
+   "titolo": "Oltre 5.000 note sotto la lente, il 70% delle note è per chiacchiere e ritardi: radiografia di una scuola che punisce, ma non educa e respinge proprio gli studenti più fragili",
+   "abstract": "\"Nonostante i richiami…\". È la formula standard, quasi burocratica, con cui inizia la stragrande maggioranza delle note sul registro elettronico. Ma cosa accade davvero dopo quel richiamo? Serve a correggere una rotta o finisce per spingere fuori dall’aula chi già fatica a…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "db01cc313364",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/nuove-indicazioni-nazionali-2026-docenti-e-dirigenti-chiamati-a-rivoluzionare-la-scuola-il-corso-2",
+   "titolo": "Nuove indicazioni nazionali 2026, docenti e dirigenti chiamati a rivoluzionare la scuola? Il corso",
+   "abstract": "Le nuove Indicazioni nazionali chiamano i dirigenti a una responsabilità che non si esaurisce negli adempimenti: fare in modo che il curricolo rispecchi una visione educativa precisa. Per riuscirci, occorre saper leggere le novità, individuare le priorità e guidare il collegio…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Nuove Indicazioni Nazionali primo ciclo"
+   ],
+   "id": "a33fd7f8b028",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/note-disciplinari-chi-puo-inserirle-sul-registro-di-classe-e-quando-il-principio-della-gradualita-educativa-guida/",
+   "titolo": "Note disciplinari: generica, disciplinare, di classe. Chi può inserirle sul Registro e quando [GUIDA]",
+   "abstract": "La nota disciplinare è un provvedimento formale adottato dal docente o dal Dirigente Scolastico nei confronti di uno studente per rilevare violazioni del Regolamento di istituto o comportamenti contrari alla convivenza civile, opportunamente iscritta nel registro della classe…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Guide",
+    "Valutazione"
+   ],
+   "id": "0e648704bc9c",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/milano-il-18-e-19-novembre-il-ministero-dell-istruzione-e-del-merito-partecipa-a-expotraining-2026",
+   "titolo": "Milano, il 18 e 19 novembre il Ministero dell’Istruzione e del Merito partecipa a ExpoTraining 2026",
+   "abstract": "Il Ministero dell’Istruzione e del Merito parteciperà, il 18 e 19 novembre, a Milano, alla XV edizione di ExpoTraining, evento dedicato all'orientamento, alla formazione e alla sicurezza sul lavoro, con un calendario di iniziative dedicate all'orientamento, alla valorizzazione…",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola"
+   ],
+   "id": "1a02d9f70311",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/la-scuola-che-accende-il-cervello-creativita-neuroscienze-e-tecnologie-immersive-al-centro-degli-stati-generali/",
+   "titolo": "La scuola che accende il cervello: creatività, neuroscienze e tecnologie immersive al centro degli Stati Generali",
+   "abstract": "VARESE, 13 novembre 2026 – La seconda giornata della decima edizione degli Stati Generali della Scuola Digitale si apre con una domanda che riguarda direttamente il futuro dell’insegnamento: come trasformare l’esperienza scolastica in un’occasione autentica di crescita, anziché…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Stati generali scuola digitale"
+   ],
+   "id": "935fdcdf9691",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/istruzione-e-formazione-bologna-davanti-a-milano-udine-trieste-e-ascoli-piceno-il-sud-chiude-la-graduatoria-i-dati/",
+   "titolo": "Istruzione e formazione, Bologna davanti a Milano, Udine, Trieste e Ascoli Piceno. Il Sud chiude la graduatoria. I dati",
+   "abstract": "Bologna si tiene stretto il primo posto per istruzione e formazione. Nell’Indagine sulla qualità della vita 2026 di ItaliaOggi e Ital Communications, realizzata con l’Università Sapienza di Roma, la provincia emiliana guida questa classifica come nelle tre edizioni precedenti…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "ab97a7482f3e",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/identita-distituto-e-senso-di-comunita-il-ruolo-del-merchandising-scolastico-nei-progetti-educativi-e-nelle-iniziative-studentesche",
+   "titolo": "Identità d’istituto e senso di comunità: il ruolo del merchandising scolastico nei progetti educativi e nelle iniziative studentesche",
+   "abstract": "La scuola rappresenta il luogo in cui ragazze e ragazzi sperimentano la dimensione del gruppo e la condivisione di valori comuni. Oltre alla didattica quotidiana, la costruzione di una forte identità collettiva passa anche attraverso simboli tangibili capaci di unire studenti…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti"
+   ],
+   "id": "231e311a79d4",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/16/indire-fa-tappa-a-roma-con-il-salone-dello-studente-e-del-prof/",
+   "titolo": "INDIRE fa tappa a Roma con il Salone dello studente e del prof",
+   "abstract": "Dal 17 al 19 novembre, il viaggio del Salone dello Studente e del Prof si ferma alla Fiera di Roma che per l’occasione si trasforma in una piazza d’incontro fra studenti e il panorama formativo e professionale italiano e straniero. La manifestazione, promossa da Campus, riserva…",
+   "data": "2026-11-16",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "campus",
+    "erasmus+",
+    "europa"
+   ],
+   "id": "2bd97122dfe1",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/genitori-e-figli-nasce-rete-in-ascolto-incontri-e-video-pillole-su-comunicazione-digitale-e-benessere-emotivo/",
+   "titolo": "Genitori e figli, nasce “Rete in Ascolto”: incontri e video-pillole su comunicazione, digitale e benessere emotivo",
+   "abstract": "Favorire il dialogo tra genitori e figli, offrire strumenti pratici per affrontare le difficoltà educative e creare occasioni di confronto tra famiglie, docenti ed educatori. Sono gli obiettivi di “Rete in Ascolto”, il progetto promosso dall'associazione di genitori Articolo 26…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "608a7760f021",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/educazione-stradale-al-via-le-iscrizioni-al-progetto-edustrada-2026-2027-adesioni-aperte-fino-al-31-marzo-2027",
+   "titolo": "Educazione stradale, al via le iscrizioni al progetto EDUSTRADA 2026/2027: adesioni aperte fino al 31 marzo 2027",
+   "abstract": "Il Ministero dell’Istruzione e del Merito ha diramato la nota ufficiale relativa all’offerta formativa in materia di Educazione e sicurezza stradale per l’anno scolastico 2026/2027, nell’ambito del progetto nazionale EDUSTRADA. La circolare è destinata ai Dirigenti scolastici…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "educazione stradale",
+    "Scadenze 2026"
+   ],
+   "id": "233cdf14163b",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1515-del-13-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 1515 del 13 novembre 2026",
+   "abstract": "Avviso per la mobilità volontaria nazionale tra le sedi dell'Amministrazione anno 2026. Domanda di partecipazione al sito https://reclutamento.istruzione.it Apertura domande ore 11:00 del 17/11/2026 Chiusura domande ore 12:00 del 27/11/2026.",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "7a4b477fe18e",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/chi-ha-genitori-con-bassi-livelli-di-istruzione-rischia-fino-a-15-volte-di-piu-di-abbandonare-gli-studi-lo-dice-il-rapporto-oxfam",
+   "titolo": "Chi ha genitori con bassi livelli di istruzione rischia fino a 15 volte di più di abbandonare gli studi: lo dice il rapporto Oxfam",
+   "abstract": "La scuola italiana ha compiuto importanti progressi nella lotta all’abbandono scolastico, ma continua a incontrare difficoltà nel garantire a tutti gli studenti le stesse opportunità di successo formativo. Il livello di istruzione dei genitori, le condizioni economiche della…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Abbandono scolastico"
+   ],
+   "id": "8936ccf177c5",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/censimento-permanente-sui-banchi-di-scuola-2026-27-al-via-lottava-edizione-iscrizioni-entro-il-20-dicembre-nota/",
+   "titolo": "Censimento permanente sui banchi di scuola 2026/27, al via l’ottava edizione: iscrizioni entro il 20 dicembre. Nota",
+   "abstract": "Con nota del 13 novembre, il MIM informa che anche per il corrente anno scolastico prosegue l’iniziativa dell’Istat “Il Censimento permanente sui banchi di scuola” L'articolo Censimento permanente sui banchi di scuola 2026/27, al via l’ottava edizione: iscrizioni entro il 20…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "7c670eee7495",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/cellulari-in-classe-una-dirigente-ho-fatto-chiudere-le-chat-dei-ragazzi-bisogna-tornare-a-parlarsi",
+   "titolo": "Cellulari in classe, una dirigente: “Ho fatto chiudere le chat dei ragazzi, bisogna tornare a parlarsi”",
+   "abstract": "In un’intervista al Corriere della Sera, la dirigente di un istituto comprensivo milanese racconta il percorso verso una scuola smartphone free: oggi circa la metà degli alunni di prima media non ha il telefono, risultato che attribuisce soprattutto all’impegno dei genitori…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Cellulare a scuola"
+   ],
+   "id": "da282b969083",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-prot-n-2540-del-16-novembre-2026",
+   "titolo": "Avviso prot. n. 2540 del 16 novembre 2026",
+   "abstract": "Interpello per il conferimento di due incarichi dirigenziali di livello non generale di direzione dell'Ufficio III (AT di Ancona) e dell'Ufficio V (AT di Macerata) - USR per le Marche",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "5ca65dfbd26b",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-prot-n-23400-del-16-novembre-2026",
+   "titolo": "Avviso prot. n. 23400 del 16 novembre 2026",
+   "abstract": "Avviso di disponibilità di una posizione dirigenziale non generale per l'espletamento delle funzioni tecnico-ispettive, con ruolo di coordinamento della funzione tecnica presso l'USR per l'Umbria",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "2d03018de8eb",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/assemblee-studentesche-uscite-anticipate-e-partecipazione-facoltativa-quando-la-scuola-puo-autorizzare-lallontanamento-degli-studenti-e-quali-responsabilita-conserva/",
+   "titolo": "Assemblee studentesche, uscite anticipate e partecipazione facoltativa: quando la scuola può autorizzare l’allontanamento degli studenti e quali responsabilità conserva",
+   "abstract": "La partecipazione alle assemblee studentesche costituisce esercizio di un diritto, ma la sua facoltatività non equivale a un’autorizzazione generale a lasciare l’istituto. Il contributo distingue studenti minorenni e maggiorenni, assemblee interne ed esterne, mancata…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "6a88e76d31ff",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/aria-viziata-nelle-scuole-l81-delle-aule-oltre-i-limiti-di-co%e2%82%82-le-5-regole-degli-esperti-per-migliorare-il-benessere-in-classe/",
+   "titolo": "Aria viziata nelle scuole: l’81% delle aule oltre i limiti di CO₂. Le 5 regole degli esperti per migliorare il benessere in classe",
+   "abstract": "Banchi, lavagne, zaini e migliaia di ore trascorse tra le stesse quattro mura. La qualità della vita scolastica non dipende solo dai programmi didattici o dal rapporto con i docenti, ma anche da un fattore invisibile che accompagna ogni singola lezione: l'aria che studenti e…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "1042d4c9ae10",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/area-e-comparto-funzioni-centrali-sciopero-generale-64",
+   "titolo": "Area e Comparto Funzioni Centrali - Sciopero generale",
+   "abstract": "Area e Comparto Funzioni Centrali - Sciopero generale di tutti i settori pubblici e privati per l'intera giornata del 20 novembre 2026 (prot. n.21309 del 16 novembre 2026).",
+   "data": "2026-11-16",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [],
+   "id": "80b030dbd6f8",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ansia-climatica-tra-gli-studenti-due-educatrici-raccontano-come-trasformare-la-paura-in-azione-con-giochi-progetti-e-sincerita/",
+   "titolo": "Ansia climatica tra gli studenti, due educatrici raccontano come trasformare la paura in azione con giochi, progetti e sincerità",
+   "abstract": "I ragazzi di oggi sanno della crisi climatica molto più di quanto ne sapessero i loro genitori alla stessa età. E spesso quella consapevolezza si porta dietro paura, senso di impotenza, la sensazione che qualunque cosa facciano non servirà. Cosa può fare la scuola? L'articolo…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "812c4c1d32ec",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/alunna-bocciata-fa-ricorso-al-tar-e-passa-lanno-con-la-media-dell8-il-ministero-paghera-le-spese-di-giudizio/",
+   "titolo": "Alunna bocciata, fa ricorso al TAR e passa l’anno con la media dell’8. Il Ministero pagherà le spese di giudizio",
+   "abstract": "Il Tribunale Amministrativo Regionale per il Lazio (Sezione Quarta Bis), con la sentenza n. 18132/2026 pubblicata in data odierna, ha dichiarato improcedibile per sopravvenuta carenza di interesse il ricorso presentato dai genitori di una studentessa minorenne contro la non…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "c2410c14279b",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allontanamento-dei-minori-dalle-famiglie-terragni-lascolto-dei-bambini-deve-essere-reale-non-condizionato-il-richiamo-dellonu-allitalia/",
+   "titolo": "Allontanamento dei minori dalle famiglie, Terragni: “L’ascolto dei bambini deve essere reale, non condizionato”. Il richiamo dell’ONU all’Italia",
+   "abstract": "Il diritto dei bambini e degli adolescenti a essere ascoltati deve trovare concreta applicazione, soprattutto nei procedimenti che possono comportare l'allontanamento dalla famiglia. È il richiamo dell'Autorità garante per l'infanzia e l'adolescenza, Marina Terragni, dopo una…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "5973e96f2af3",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/al-liceo-classico-meno-del-10-degli-studenti-viene-da-famiglie-svantaggiate-nei-professionali-sono-il-359-il-nuovo-rapporto-sulla-scuola/",
+   "titolo": "Al liceo classico meno del 10% degli studenti viene da famiglie svantaggiate. Nei professionali sono il 35,9%: il nuovo rapporto sulla scuola",
+   "abstract": "Al liceo classico, su dieci studenti, nemmeno uno arriva da una famiglia in svantaggio socio-economico. Più della metà, il 50,5%, viene invece da classi sociali elevate. L'articolo Al liceo classico meno del 10% degli studenti viene da famiglie svantaggiate. Nei professionali…",
+   "data": "2026-11-16",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "bcd202d4bf79",
+   "raccolto": "2026-11-16",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.tecnicadellascuola.it/racchette-in-classe-sempre-piu-adesioni-cosi-si-spingono-i-giovani-a-praticare-tennis-padel-pickleball-beach-tennis-e-tennistavolo",
    "titolo": "“Racchette in classe”, sempre più adesioni: così si spingono i giovani a praticare tennis, padel, pickleball, beach tennis e tennistavolo",
@@ -1118,6 +1665,24 @@
    "id": "c4afeec60a3b",
    "raccolto": "2026-11-14",
    "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1539-del-17-giugno-2025",
+   "titolo": "Decreto Direttoriale n. 1539 del 17 giugno 2025",
+   "abstract": "Decreto di istituzione della Commissione per la valutazione della proposta progettuale presentata da Indire relativa al \"Seminario di orientamento e formazione per gli assistenti di lingua straniera in Italia nell'ambito del Programma di scambio di Assistenti di Lingua - a.s…",
+   "data": "2026-11-13",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "4fa182c66683",
+   "raccolto": "2026-11-16",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "riforme",
     "studenti"
    ],
    "superiori": false
