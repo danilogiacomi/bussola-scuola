@@ -1,38 +1,96 @@
 {
- "aggiornato": "2026-11-17T14:26:40+00:00",
+ "aggiornato": "2026-11-17T23:51:20+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-17T14:26:40+00:00",
-   "ultimo_ok": "2026-11-17T14:26:40+00:00"
+   "controllato": "2026-11-17T23:51:20+00:00",
+   "ultimo_ok": "2026-11-17T23:51:20+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 1,
-   "controllato": "2026-11-17T14:26:40+00:00",
-   "ultimo_ok": "2026-11-17T14:26:40+00:00"
+   "controllato": "2026-11-17T23:51:20+00:00",
+   "ultimo_ok": "2026-11-17T23:51:20+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-17T14:26:40+00:00",
-   "ultimo_ok": "2026-11-17T14:26:40+00:00"
+   "controllato": "2026-11-17T23:51:20+00:00",
+   "ultimo_ok": "2026-11-17T23:51:20+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-17T14:26:40+00:00",
-   "ultimo_ok": "2026-11-17T14:26:40+00:00"
+   "controllato": "2026-11-17T23:51:20+00:00",
+   "ultimo_ok": "2026-11-17T23:51:20+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-17T14:26:40+00:00",
-   "ultimo_ok": "2026-11-17T14:26:40+00:00"
+   "voci": 29,
+   "controllato": "2026-11-17T23:51:20+00:00",
+   "ultimo_ok": "2026-11-17T23:51:20+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/la-parola-alla-scuola-il-progetto-di-stefania-petyx-approda-a-trapani-protagonisti-sono-i-giovani-reporter",
+   "titolo": "“La Parola alla Scuola”, il progetto di Stefania Petyx approda a Trapani: protagonisti sono i giovani reporter",
+   "abstract": "Questa mattina, al Cinema Ariston di Trapani, è stata proiettata per la prima volta in pubblico la puntata dedicata alla provincia di Trapani de La Parola alla Scuola, il laboratorio di educazione civica ideato dalla giornalista Stefania Petyx e diventato format televisivo…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Sicilia"
+   ],
+   "id": "f54b2fe0b76f",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/17/tfa-sostegno-prove-desame-a-firenze-l11-e-il-12-dicembre-2026/",
+   "titolo": "TFA sostegno – Prove d’esame a Firenze l’11 e il 12 dicembre 2026",
+   "abstract": "Il presente avviso è rivolto esclusivamente alle corsiste e ai corsisti che non hanno sostenuto l’esame nella sessione di giugno o che, nell’ambito del percorso ex art. 7, stanno ancora completando il tirocinio. Le prove d’esame intermedie e finali si svolgeranno in presenza a…",
+   "data": "2026-11-17",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "articolo 6",
+    "articolo 7",
+    "TFA"
+   ],
+   "id": "6ba44a52dde3",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "esami",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studenti-1-su-3-preferisce-parlare-con-lia-che-con-una-persona-e-il-61-si-sente-sopraffatto-dallansia-lindagine/",
+   "titolo": "Studenti, 1 su 3 preferisce parlare con l’IA che con una persona e il 61% si sente sopraffatto dall’ansia: l’indagine",
+   "abstract": "Un ragazzo su tre ammette di preferire, a volte (25%) o sempre più spesso (8%), una conversazione con un’intelligenza artificiale a quella con una persona in carne e ossa, forse perché la macchina, a differenza di tanti adulti, non giudica. L'articolo Studenti, 1 su 3 preferisce…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "c68c28325423",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/studenti-con-disabilita-la-regione-siciliana-stanzia-dieci-milioni-per-i-servizi-di-assistenza-nelle-scuole-superiori",
    "titolo": "Studenti con disabilità, la Regione Siciliana stanzia dieci milioni per i servizi di assistenza nelle scuole superiori",
@@ -67,6 +125,23 @@
     "Tar"
    ],
    "id": "eae1e754d423",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/stop-ai-social-per-gli-under-13-il-governo-accelera-puo-diventare-legge-entro-fine-mese/",
+   "titolo": "Stop ai social per gli under 13, il governo accelera: può diventare legge entro fine mese. Dai 13 ai 16 anni possibilità di gestirne uno legato a quello dei genitori",
+   "abstract": "Un divieto assoluto di accesso ai social network per i ragazzi sotto i 13 anni, l'obbligo di un account collegato a quello dei genitori per la fascia d'età tra i 13 e i 16 anni e il via libera all'iscrizione autonoma solo al compimento del sedicesimo anno. L'articolo Stop ai…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "7202ffc2865d",
    "raccolto": "2026-11-17",
    "sezioni": [
     "studenti"
@@ -127,6 +202,43 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/rilevazione-dati-generali-2026-27-compilazione-obbligatoria-per-scuole-statali-e-non-statali-e-cpia-dal-23-novembre-al-15-gennaio-su-sidi/",
+   "titolo": "Rilevazione Dati generali 2026/27, compilazione obbligatoria per scuole statali e non statali e CPIA: dal 23 novembre al 15 gennaio su SIDI",
+   "abstract": "Dal 23 novembre al 15 gennaio le scuole statali e non statali, insieme ai Centri provinciali per l'istruzione degli adulti (CPIA), dovranno compilare la Rilevazione “Dati generali” relativa all'anno scolastico 2026/2027. L'articolo Rilevazione Dati generali 2026/27, compilazione…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole",
+    "Scuole non statali",
+    "anagrafe studenti"
+   ],
+   "id": "bd808f15390c",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/rilevazione-dati-generali-a-s-2026-2027-scuole-statali-e-non-statali-e-cpia",
+   "titolo": "Rilevazione \"Dati generali\" A.S. 2026/2027 - scuole statali e non statali e Cpia",
+   "abstract": "Apertura funzione \"Acquisizione dati\" per la compilazione della Rilevazione \"Dati generali\" A.S. 2026/2027, nell'area Sidi: Rilevazioni -> Rilevazioni sulle scuole -> Dati generali (ex Integrative), a partire dal 23 novembre e fino al 15 gennaio 2027.",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola"
+   ],
+   "id": "fa40f32b49ed",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/revisione-del-piano-di-miglioramento-pdm-scarica-una-bozza-di-regolamento/",
    "titolo": "Revisione del Piano di Miglioramento (PdM): scarica una bozza di regolamento",
    "abstract": "Il presente documento definisce il Regolamento per la revisione del Piano di Miglioramento (PdM), parte integrante del ciclo di valutazione previsto dal Sistema Nazionale di Valutazione (SNV). La revisione del PdM consente all’istituzione scolastica di aggiornare e riallineare i…",
@@ -163,6 +275,22 @@
    "superiori": true
   },
   {
+   "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/17/26A05985/SG",
+   "titolo": "Ministero dell'istruzione e del merito – Decreto 9 ottobre 2026",
+   "abstract": "Assegnazione delle risorse di cui al c.d. Fondo protezione civile e di rettifica degli interventi di adeguamento strutturale e antisismico degli edifici del sistema scolastico, nonche' di costruzione di nuovi immobili sostitutivi degli edifici esistenti, autorizzati con decreto…",
+   "data": "2026-11-17",
+   "fonte": "gu",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "211ad75d6248",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "norme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/maturita-con-78-100-fa-ricorso-per-alzare-il-voto-il-tar-respinge-le-accuse-alla-commissione-e-lo-condanna-a-3-000-euro-di-spese",
    "titolo": "Maturità con 78/100, fa ricorso per alzare il voto: il TAR respinge le accuse alla Commissione e lo condanna a 3.000 euro di spese",
    "abstract": "Un voto finale di 78/100 all’esame di Stato non gli è bastato e ha deciso di fare ricorso al Tribunale Amministrativo Regionale per ottenere un punteggio più alto. La vicenda, che ha visto protagonista uno studente di una 5ª liceo classico di Prato (a.s. 2024/2025), si è però…",
@@ -181,6 +309,26 @@
     "studenti"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/mattarella-alluniversita-cattolica-i-giovani-non-sono-contenitori-ma-personalita-con-spirito-critico-compito-importante-per-le-scuole",
+   "titolo": "Mattarella all’Università Cattolica: “I giovani non sono contenitori ma personalità con spirito critico. Compito importante per le scuole”",
+   "abstract": "“I giovani non sono un contenitore da riempire ma sono personalità con autonomo spirito critico e con protagonismo, che si sviluppa e cresce. E questo significa considerare la responsabilità che vi è in questa condizione per l’Università, per le scuole”. Lo ha detto il…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Sergio Mattarella",
+    "Università"
+   ],
+   "id": "4ca78fa65b6d",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.orizzontescuola.it/maggi-una-specializzazione-esclusivamente-tecnica-diventera-sempre-piu-rischiosa-lappello-ai-ragazzi-non-trascurate-gli-studi-umanistici/",
@@ -236,6 +384,86 @@
     "innovazione"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/intelligenza-artificiale-a-scuola-via-libera-del-garante-privacy-accessi-pseudonimizzati-e-nuove-garanzie-per-gli-studenti",
+   "titolo": "Intelligenza artificiale a scuola, via libera del Garante Privacy: accessi pseudonimizzati e nuove garanzie per gli studenti",
+   "abstract": "Il Garante per la protezione dei dati personali, con il provvedimento n. 787 del 20 ottobre 2026, ha espresso parere favorevole sullo schema di decreto ministeriale che disciplina l’utilizzo delle soluzioni di intelligenza artificiale nelle scuole, accompagnato da un allegato…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "garante privacy",
+    "Intelligenza artificiale"
+   ],
+   "id": "033fc2c68bba",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/intelligenza-artificiale-a-scuola-frassinetti-formazione-dei-docenti-benessere-digitale-e-stem-per-educare-lumano/",
+   "titolo": "Intelligenza artificiale a scuola, Frassinetti: formazione dei docenti, benessere digitale e STEM per “educare l’umano”",
+   "abstract": "“Educare l’Umano. Abitare il Digitale”: è a partire dal titolo della decima edizione degli Stati Generali della Scuola Digitale, a Varese, che la sottosegretaria al Ministero dell’Istruzione e del Merito Paola Frassinetti ha sviluppato il proprio intervento. Un saluto…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Stati generali scuola digitale"
+   ],
+   "id": "5bdf1e904138",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/gli-studenti-erasmus-portano-alla-cop31-il-manifesto-per-il-2050",
+   "titolo": "Gli studenti Erasmus+ portano alla COP31 il Manifesto per il 2050",
+   "abstract": "Sono 123 gli studenti che hanno scritto “The Erasmus+ Generation for the Earth”, il documento presentato il 17 novembre ad Antalya, durante la COP31. Il testo, nato da un incontro a Roma promosso dall’Agenzia nazionale Erasmus+ INDIRE con la Fondazione Earth Day Italia, sarà…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "erasmus +",
+    "Indire"
+   ],
+   "id": "c1fb07a78d78",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/gli-allarmi-bomba-a-scuola-vanno-avanti-dagli-anni-settanta-quella-volta-che-pajetta-fu-invitato-a-parlare-in-un-liceo-a-torino-reagi-con-una-risata-e-nessuno-usci-dallistituto",
+   "titolo": "Gli allarmi bomba a scuola vanno avanti dagli anni Settanta: quella volta che Pajetta fu invitato a parlare in un liceo a Torino, si fece una risata e nessuno uscì dall’istituto",
+   "abstract": "Erano i primi anni Settanta e frequentavo il liceo classico “Massimo d’Azeglio” di Torino. Erano anni molto diversi dai nostri, e non penso soltanto per un dato soggettivo, in quanto allora ero poco più che una ragazzina. Dei miei anni di liceo non ho un ricordo puntuale e…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "allarme bomba",
+    "Studenti"
+   ],
+   "id": "cc041c5f9213",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/giornata-internazionale-degli-studenti-valditara-crediamo-nei-nostri-giovani-nelle-loro-capacita-e-nella-loro-voglia-di-costruire-unitalia-migliore/",
@@ -313,6 +541,26 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/finti-allarmi-bomba-nelle-scuole-novara-agli-adulti-indicazioni-chiare-e-un-atteggiamento-calmo-bisogna-distinguere-la-prudenza-dal-panico/",
+   "titolo": "Finti allarmi bomba nelle scuole, Novara agli adulti: indicazioni chiare e un atteggiamento calmo. Bisogna “distinguere la prudenza dal panico”",
+   "abstract": "Se i grandi hanno paura, i bambini difficilmente si sentiranno al sicuro. Daniele Novara parte da qui in un post sui social dedicato al caos che la scorsa settimana hanno provocato i finti allarmi bomba. Ai genitori e agli insegnanti propone poche cose: calma, buon senso e…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "290c41940282",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/dirigenti-scolastici-cosa-devono-sapere-il-piano-sos-ds-disponibili-anche-le-lezioni-singole-su-argomenti-specifici",
    "titolo": "Dirigenti scolastici, cosa devono sapere? Il Piano Sos Ds, disponibili anche le lezioni singole su argomenti specifici",
    "abstract": "Gestire una scuola significa prendere decisioni ogni giorno, spesso in tempi rapidi, muovendosi tra norme in continua evoluzione, scadenze, responsabilità organizzative e relazioni con personale, studenti e famiglie. Per i dirigenti scolastici, ma anche per chi fa parte dello…",
@@ -355,6 +603,22 @@
    "tipo": "atto",
    "categorie": [],
    "id": "3ecb9a23c584",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2559-del-9-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 2559 del 9 novembre 2026",
+   "abstract": "Decreto di assegnazione fondi Viaggi del Ricordo Legge n. 16 del 21 febbraio 2024",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "637db99359f0",
    "raccolto": "2026-11-17",
    "abstract_tentato": true,
    "sezioni": [
@@ -462,6 +726,40 @@
    "superiori": true
   },
   {
+   "url": "https://www.mim.gov.it/web/guest/-/circolare-prot-n-8046-del-17-novembre-2026",
+   "titolo": "Circolare prot. n. 8046 del 17 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "f1e97a39888e",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/barbero-sale-in-cattedra-lezione-sulla-resistenza-con-ottomila-studenti-del-liceo-alfieri",
+   "titolo": "Barbero sale in cattedra: lezione sulla Resistenza con ottomila studenti del liceo Alfieri",
+   "abstract": "Oltre 8mila studenti, tra presenti e collegati online, hanno partecipato oggi all’incontro con Alessandro Barbero promosso dalla Consulta Provinciale degli Studenti di Torino (CPSTO) in occasione della Giornata dello studente. L’evento, “Ora e (da) sempre resistenza!”, si è…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Alessandro Barbero"
+   ],
+   "id": "9673cea93d05",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/barbero-campus-einaudi",
    "titolo": "Barbero al Campus Einaudi: “Non mi piace che la scuola sia percepita come qualcosa a servizio del business”",
    "abstract": "Lo storico Alessandro Barbero, ieri, 16 novembre, ha partecipato ad un incontro di grande successo al Campus Einaudi di Torino. Numeroso il pubblico: si parla di più di mille studenti accorsi ad ascoltarlo, in un’aula magna di massimo 300 posti. Come riporta La Stampa, tra gli…",
@@ -492,6 +790,29 @@
    "abstract_tentato": true,
    "sezioni": [
     "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarmi-bomba-nelle-scuole-lo-psicologo-vogliono-violare-un-luogo-protetto-i-docenti-condividano-le-paure-con-gli-studenti",
+   "titolo": "Allarmi bomba nelle scuole, lo psicologo: “Vogliono violare un luogo protetto, i docenti condividano le paure con gli studenti” – INTERVISTA",
+   "abstract": "La raffica di allarmi bomba che sta interessando le scuole italiane “è un tentativo di violare i luoghi in cui dovrebbe esserci una protezione, per creare insicurezza sociale”. La risposta non è negare la paura o fare finta di niente, “ma la condivisione, perché il dolore, la…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Docenti",
+    "Studenti e genitori",
+    "allarme bomba",
+    "psicologo a scuola",
+    "Sicurezza a scuola"
+   ],
+   "id": "0398228c38f5",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
