@@ -1,38 +1,543 @@
 {
- "aggiornato": "2026-11-16T23:24:35+00:00",
+ "aggiornato": "2026-11-17T14:26:40+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-16T23:24:35+00:00",
-   "ultimo_ok": "2026-11-16T23:24:35+00:00"
+   "controllato": "2026-11-17T14:26:40+00:00",
+   "ultimo_ok": "2026-11-17T14:26:40+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 1,
-   "controllato": "2026-11-16T23:24:35+00:00",
-   "ultimo_ok": "2026-11-16T23:24:35+00:00"
+   "controllato": "2026-11-17T14:26:40+00:00",
+   "ultimo_ok": "2026-11-17T14:26:40+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-16T23:24:35+00:00",
-   "ultimo_ok": "2026-11-16T23:24:35+00:00"
+   "controllato": "2026-11-17T14:26:40+00:00",
+   "ultimo_ok": "2026-11-17T14:26:40+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-16T23:24:35+00:00",
-   "ultimo_ok": "2026-11-16T23:24:35+00:00"
+   "voci": 30,
+   "controllato": "2026-11-17T14:26:40+00:00",
+   "ultimo_ok": "2026-11-17T14:26:40+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 26,
-   "controllato": "2026-11-16T23:24:35+00:00",
-   "ultimo_ok": "2026-11-16T23:24:35+00:00"
+   "voci": 30,
+   "controllato": "2026-11-17T14:26:40+00:00",
+   "ultimo_ok": "2026-11-17T14:26:40+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/studenti-con-disabilita-la-regione-siciliana-stanzia-dieci-milioni-per-i-servizi-di-assistenza-nelle-scuole-superiori",
+   "titolo": "Studenti con disabilità, la Regione Siciliana stanzia dieci milioni per i servizi di assistenza nelle scuole superiori",
+   "abstract": "Il Dipartimento regionale della Famiglia e delle politiche sociali ha emesso un nuovo provvedimento per destinare 10 milioni di euro a favore delle Città metropolitane e dei Liberi consorzi comunali. L’iniziativa ha lo scopo di assicurare la continuità dei servizi di assistenza…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "disabilità",
+    "Sicilia"
+   ],
+   "id": "473e78ea29f4",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studente-atleta-bocciato-al-classico-per-il-tar-il-piano-personalizzato-non-garantisce-la-promozione-ad-ogni-costo",
+   "titolo": "Studente-atleta bocciato al Classico, per il TAR il piano personalizzato non garantisce la promozione ad ogni costo",
+   "abstract": "Il programma per lo “Studente-atleta di alto livello” ha lo scopo di aiutare a conciliare studio ed esercizio agonistico, ma non dispensa dall’acquisizione delle competenze minime né assicura la promozione automatica. A stabilirlo in modo perentorio è la sentenza n. 562/2026 del…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Sport",
+    "Tar"
+   ],
+   "id": "eae1e754d423",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/simona-ventura-e-il-cyberbullismo-contro-la-figlia-ho-chiamato-le-madri-e-ho-fatto-un-caos-terribile/",
+   "titolo": "Simona Ventura e il cyberbullismo contro la figlia: “Ho chiamato le madri e ho fatto un caos terribile”",
+   "abstract": "Una chat creata dai compagni di classe per prendere di mira la figlia. Simona Ventura l’ha scoperta in pochissimo tempo e ha reagito subito, chiamando la scuola e le famiglie. L'articolo Simona Ventura e il cyberbullismo contro la figlia: “Ho chiamato le madri e ho fatto un caos…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori"
+   ],
+   "id": "606d8ddddbbf",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scuola-e-inclusione-in-sicilia-dalla-regione-10-milioni-di-euro-per-lassistenza-agli-studenti-con-disabilita-decreto-e-riparto-per-province/",
+   "titolo": "Scuola e inclusione in Sicilia: dalla Regione 10 milioni di euro per l’assistenza agli studenti con disabilità. DECRETO e riparto per province",
+   "abstract": "Dieci milioni di euro in favore delle Città metropolitane e dei Liberi consorzi comunali dell'Isola per garantire la continuità dei servizi di assistenza agli studenti con disabilità che frequentano le scuole secondarie di secondo grado. È quanto stabilito dal decreto (D.R.S. n…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "708ad90954bb",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scambiato-per-il-fratello-sul-verbale-allesame-orale-ecco-perche-lerrore-non-annulla-la-maturita-il-tar-respinge-il-ricorso-dello-studente-deluso-dal-78-100/",
+   "titolo": "Scambiato per il fratello sul verbale all’esame orale: ecco perché l’errore non annulla la Maturità. Il TAR respinge il ricorso dello studente deluso dal 78/100",
+   "abstract": "Uno studente, diplomato al Liceo Classico, ha visto respingere dal Tribunale Amministrativo Regionale per la Toscana il ricorso presentato contro il Ministero dell'Istruzione e del Merito e il proprio istituto scolastico per ottenere l'annullamento e la revisione del voto finale…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "acb78de52010",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/revisione-del-piano-di-miglioramento-pdm-scarica-una-bozza-di-regolamento/",
+   "titolo": "Revisione del Piano di Miglioramento (PdM): scarica una bozza di regolamento",
+   "abstract": "Il presente documento definisce il Regolamento per la revisione del Piano di Miglioramento (PdM), parte integrante del ciclo di valutazione previsto dal Sistema Nazionale di Valutazione (SNV). La revisione del PdM consente all’istituzione scolastica di aggiornare e riallineare i…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "7cfee5b37276",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/17/olimpiadi-dei-dilemmi-etici-paths-gli-studenti-diventano-protagonisti/",
+   "titolo": "Olimpiadi dei Dilemmi Etici PATHS: gli studenti diventano protagonisti",
+   "abstract": "Argomentare, ascoltare, confrontarsi e valutare. Sono queste alcune delle competenze al centro della 2ª edizione delle Olimpiadi Nazionali dei Dilemmi Etici PATHS, l’iniziativa di INDIRE rivolta alle scuole secondarie di secondo grado. Tra le novità di quest’anno spicca…",
+   "data": "2026-11-17",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "paths"
+   ],
+   "id": "73c70d873f89",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/maturita-con-78-100-fa-ricorso-per-alzare-il-voto-il-tar-respinge-le-accuse-alla-commissione-e-lo-condanna-a-3-000-euro-di-spese",
+   "titolo": "Maturità con 78/100, fa ricorso per alzare il voto: il TAR respinge le accuse alla Commissione e lo condanna a 3.000 euro di spese",
+   "abstract": "Un voto finale di 78/100 all’esame di Stato non gli è bastato e ha deciso di fare ricorso al Tribunale Amministrativo Regionale per ottenere un punteggio più alto. La vicenda, che ha visto protagonista uno studente di una 5ª liceo classico di Prato (a.s. 2024/2025), si è però…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Maturità",
+    "Tar"
+   ],
+   "id": "18ccace0433b",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maggi-una-specializzazione-esclusivamente-tecnica-diventera-sempre-piu-rischiosa-lappello-ai-ragazzi-non-trascurate-gli-studi-umanistici/",
+   "titolo": "Maggi: “Una specializzazione esclusivamente tecnica diventerà sempre più rischiosa”. L’appello ai ragazzi: non trascurate gli studi umanistici",
+   "abstract": "Nell’epoca dell’intelligenza artificiale gli studi umanistici non vanno ridimensionati: sono proprio loro a rendere le persone difficili da sostituire. L'articolo Maggi: “Una specializzazione esclusivamente tecnica diventerà sempre più rischiosa”. L’appello ai ragazzi: non…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "9f8aa6a50e77",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/la-scuola-serale-come-presidio-di-riscatto-storie-di-apprendimento-e-nuove-opportunita/",
+   "titolo": "La scuola serale come presidio di riscatto. Storie di apprendimento e nuove opportunità",
+   "abstract": "Quando le lezioni del mattino terminano e gli studenti lasciano le aule, in molte istituzioni scolastiche comincia un'altra giornata educativa. Arrivano adulti che hanno appena concluso il proprio turno di lavoro, genitori che hanno organizzato gli impegni familiari per poter…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Metodologie didattiche"
+   ],
+   "id": "efb7c58ad889",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/la-parola-alla-scuola-un-laboratorio-di-educazione-civica-che-diventa-un-format-tv-a-trapani-la-proiezione-della-puntata-con-la-conduzione-di-stefania-petyx-e-come-special-guest-valentino-picone/",
+   "titolo": "La Parola alla Scuola: un laboratorio di educazione civica che diventa un format TV. A Trapani la proiezione della puntata con la conduzione di Stefania Petyx e come special Guest Valentino Picone",
+   "abstract": "Martedì 17 novembre, alle 9:30, al Cinema Ariston, prima visione pubblica della puntata dedicata alla provincia di Trapani. Il progetto, nato da un’idea di Stefania Petyx e sviluppato da Exagonos ETS, coinvolge 23 scuole nelle nove province siciliane. L'articolo La Parola alla…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "48377c363e3b",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/giornata-internazionale-degli-studenti-valditara-crediamo-nei-nostri-giovani-nelle-loro-capacita-e-nella-loro-voglia-di-costruire-unitalia-migliore/",
+   "titolo": "Giornata internazionale degli studenti, Valditara: “Crediamo nei nostri giovani, nelle loro capacità e nella loro voglia di costruire un’Italia migliore”",
+   "abstract": "Un messaggio di fiducia ai ragazzi. Oggi, 17 novembre, si celebra la Giornata internazionale degli studenti, e il ministro dell’Istruzione e del Merito, Giuseppe Valditara, l’ha voluta ricordare con un post sui social dedicato proprio a loro. L'articolo Giornata internazionale…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "bfb5190c0962",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/giornata-internazionale-degli-studenti-piu-di-7-su-10-vivono-sotto-pressione-non-siamo-in-una-gara-accettateci-per-come-siamo",
+   "titolo": "Giornata Internazionale degli Studenti, più di 7 su 10 vivono sotto pressione: “Non siamo in una gara, accettateci per come siamo”",
+   "abstract": "In occasione della Giornata Internazionale degli Studenti che cade oggi, 17 novembre, un’indagine condotta da Skuola.net su un campione di 1.700 ragazzi tra gli 11 e i 19 anni traccia un quadro di forte pressione psicologica tra i banchi. Dallo studio emerge che più di 7…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Valutazione alunni"
+   ],
+   "id": "236915e371f4",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/gta-vi-19-novembre-scuola",
+   "titolo": "GTA 6 arriva il 19 novembre, il mondo si ferma per giocare: assenze a scuola e al lavoro, venerdì sciopero dopo notte insonne per alunni e prof?",
+   "abstract": "C’è chi aspetta questa data da anni, chi ha già organizzato la propria giornata e chi probabilmente ha trovato una buona ragione per non andare al lavoro o a scuola. Giovedì 19 novembre 2026 esce finalmente GTA VI, il nuovo capitolo di una delle saghe videoludiche più famose e…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Sciopero",
+    "Videogame"
+   ],
+   "id": "0a7dca2de92c",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/formazione-scuola-lavoro",
+   "titolo": "Formazione scuola lavoro retribuita dalle aziende? Valditara attacca Schlein: “Create le premesse per la disoccupazione di massa”",
+   "abstract": "Ancora attacchi mirati tra il ministro dell’Istruzione e del Merito Giuseppe Valditara e Elly Schlein, segretaria del Partito Democratico. Stavolta il capo del dicastero di Viale Trastevere la accusa di non condannare il ferimento di due dipendenti di una scuola di Torino…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Elly Schlein",
+    "Giuseppe Valditara"
+   ],
+   "id": "4d25674944aa",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/dirigenti-scolastici-cosa-devono-sapere-il-piano-sos-ds-disponibili-anche-le-lezioni-singole-su-argomenti-specifici",
+   "titolo": "Dirigenti scolastici, cosa devono sapere? Il Piano Sos Ds, disponibili anche le lezioni singole su argomenti specifici",
+   "abstract": "Gestire una scuola significa prendere decisioni ogni giorno, spesso in tempi rapidi, muovendosi tra norme in continua evoluzione, scadenze, responsabilità organizzative e relazioni con personale, studenti e famiglie. Per i dirigenti scolastici, ma anche per chi fa parte dello…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti"
+   ],
+   "id": "08030bf46f47",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-21185-del-12-novembre-2026",
+   "titolo": "Decreto Dirigenziale n. 21185 del 12 novembre 2026",
+   "abstract": "Determina di affidare, ai sensi dell'art. 50 comma 1, lett. b), d.lgs. n. 36/2023, il servizio di facchinaggio e smaltimento arredi, nonché il lavaggio di tendaggi e articoli di tappezzeria presso la sede centrale del Ministro dell'Istruzione e del Merito, sito in V.le…",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "4a81f0f41b31",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1403-del-29-ottobre-2026",
+   "titolo": "Decreto Direttoriale n. 1403 del 29 ottobre 2026",
+   "abstract": "DGRUF - Decreto Direttoriale n. 1403 del 29 ottobre 2026 Avvio della procedura ai sensi dell'art. 50, comma 1, lett. a) d.lgs. n. 36/2023, per l'affidamento diretto dei lavori di adeguamento degli impianti di illuminazione presenti presso i servizi igienici del Ministero…",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "3ecb9a23c584",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-175-del-16-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 175 del 16 novembre 2026",
+   "abstract": "E' approvato il contratto n. 38 del 10.11.2026, stipulato con la CORRIDI S.r.l. - P. IVA 00402140586 relativo alla Trattativa Diretta n. 6663760, avente ad oggetto \"la fornitura di nr. 35 sedute operative, nr. 15 sedute direzionali e nr. 30 sedute ospiti per le esigenze del…",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "6385f6b4534f",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-174-del-16-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 174 del 16 novembre 2026",
+   "abstract": "E' approvato il contratto n. 36 del 04.11.2026, stipulato con la COPYGRAF GROUP S.r.l., P. IVA 18331191009 e controfirmato dal rappresentante legale in data 05/11/2026 relativo alla Trattativa Diretta n. 6624105, avente ad oggetto \"il servizio di riproduzione stampe/copie in…",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "e3ba590260a4",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-173-del-16-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 173 del 16 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "a6444f3377d1",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-172-del-16-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 172 del 16 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "cebe507ebd03",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-171-del-12-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 171 del 12 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "ff8a74205909",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/concorso-salute-e-sicurezza-insieme-2026-27-premi-fino-a-30mila-euro-per-le-scuole-superiori-progetti-entro-il-31-marzo/",
+   "titolo": "Concorso “Salute e sicurezza… insieme!” 2026/27, premi fino a 30mila euro per le scuole superiori: progetti entro il 31 marzo",
+   "abstract": "Al via la quarta edizione del concorso nazionale “Salute e sicurezza… insieme! La prevenzione e la sicurezza nei luoghi di lavoro si imparano a scuola”, promosso dal Ministero del Lavoro e delle Politiche Sociali, d'intesa con il Ministero dell'Istruzione e del Merito e in…",
+   "data": "2026-11-17",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "26a94b7027e7",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/barbero-campus-einaudi",
+   "titolo": "Barbero al Campus Einaudi: “Non mi piace che la scuola sia percepita come qualcosa a servizio del business”",
+   "abstract": "Lo storico Alessandro Barbero, ieri, 16 novembre, ha partecipato ad un incontro di grande successo al Campus Einaudi di Torino. Numeroso il pubblico: si parla di più di mille studenti accorsi ad ascoltarlo, in un’aula magna di massimo 300 posti. Come riporta La Stampa, tra gli…",
+   "data": "2026-11-17",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Alessandro Barbero"
+   ],
+   "id": "b534f189d000",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-prot-n-116647-del-17-novembre-2026",
+   "titolo": "Avviso prot. n. 116647 del 17 novembre 2026",
+   "abstract": "Avviso di disponibilità di n. 1 posto di funzione dirigenziale non generale presso l'USR per il Lazio - Ufficio X - Ambito Territoriale di Viterbo Scadenza presentazione domande: entro e non oltre le ore 23:59 del 27 novembre 2026",
+   "data": "2026-11-17",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "b9e9f5a4f3e7",
+   "raccolto": "2026-11-17",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-il-piano-pd-per-rilanciarla-sblocco-stipendi-meno-alunni-per-classe-assumere-gli-idonei-dubbi-su-doppio-canale-intervista-a-irene-manzi-video",
+   "titolo": "Scuola, il piano PD per rilanciarla: sblocco stipendi, meno alunni per classe, assumere gli idonei, dubbi su doppio canale. Intervista a Irene Manzi – VIDEO",
+   "abstract": "Si sono svolti nei giorni scorsi gli Stati Generali del Partito Democratico: ‘La Tecnica della Scuola’ ha assistito ai lavori e ha anche intervistato Irene Manzi, responsabile Istruzione del PD. La parlamentare dem ha presentato la linea che ha intenzione di portare avanti il…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Politica scolastica",
+    "Irene Manzi (Pd)",
+    "Partito Democratico",
+    "Riforme scolastiche"
+   ],
+   "id": "12608825457c",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/a-scuola-i-dati-personali-vanno-difesi-occhio-a-registro-online-chat-su-whatsapp-e-ai-cosa-dice-il-garante-della-privacy",
+   "titolo": "A scuola i dati personali vanno difesi: occhio a Registro online, chat su WhatsApp e AI. Cosa dice il Garante della privacy?",
+   "abstract": "L’utilizzo di internet risulta sempre più impulsivo e sregolato, ma è bene ricordare che ci sono degli ambiti che necessitano di indicazioni chiare e comportamenti lineari. Uno di questi è la tutela della privacy in ambito scolastico. Perché la gestione dei dati personali non si…",
+   "data": "2026-11-16",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "garante privacy",
+    "tutela dati personali",
+    "Violazione dei dati personali"
+   ],
+   "id": "91250120923f",
+   "raccolto": "2026-11-17",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/voli-per-la-sicilia-a-natale-raddoppia-il-bonus-per-studenti-e-categorie-fragili-fino-a-200-euro-di-sconto-ecco-le-info-utili/",
    "titolo": "Voli per la Sicilia a Natale, sconti per docenti ed ATA. Raddoppia il bonus anche per studenti e categorie fragili: fino a 200 euro di sconto. Ecco le info utili",
