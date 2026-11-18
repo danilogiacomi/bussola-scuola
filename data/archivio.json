@@ -1,35 +1,35 @@
 {
- "aggiornato": "2026-11-18T13:59:53+00:00",
+ "aggiornato": "2026-11-18T21:57:54+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-18T13:59:53+00:00",
-   "ultimo_ok": "2026-11-18T13:59:53+00:00"
+   "controllato": "2026-11-18T21:57:54+00:00",
+   "ultimo_ok": "2026-11-18T21:57:54+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 1,
-   "controllato": "2026-11-18T13:59:53+00:00",
-   "ultimo_ok": "2026-11-18T13:59:53+00:00"
+   "controllato": "2026-11-18T21:57:54+00:00",
+   "ultimo_ok": "2026-11-18T21:57:54+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-18T13:59:53+00:00",
-   "ultimo_ok": "2026-11-18T13:59:53+00:00"
+   "controllato": "2026-11-18T21:57:54+00:00",
+   "ultimo_ok": "2026-11-18T21:57:54+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-18T13:59:53+00:00",
-   "ultimo_ok": "2026-11-18T13:59:53+00:00"
+   "voci": 28,
+   "controllato": "2026-11-18T21:57:54+00:00",
+   "ultimo_ok": "2026-11-18T21:57:54+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-18T13:59:53+00:00",
-   "ultimo_ok": "2026-11-18T13:59:53+00:00"
+   "controllato": "2026-11-18T21:57:54+00:00",
+   "ultimo_ok": "2026-11-18T21:57:54+00:00"
   }
  },
  "notizie": [
@@ -69,6 +69,26 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/studenti-allestero-valditara-420-milioni-per-far-partire-ogni-anno-150mila-ragazzi-di-quarta-superiore-linternazionalizzazione-non-deve-essere-un-privilegio/",
+   "titolo": "Studenti all’estero, Valditara: 420 milioni per far partire ogni anno 150mila ragazzi di quarta superiore. “L’internazionalizzazione non deve essere un privilegio”",
+   "abstract": "Ogni anno circa un terzo degli studenti di quarta superiore potrà preparare le valigie e passare un periodo di formazione all’estero. Si parla di 150mila ragazzi, per un investimento di 420 milioni di euro. L'articolo Studenti all’estero, Valditara: 420 milioni per far partire…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "cfe300cdaf0c",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/studente-aggredito-in-classe-a-modena-prima-ustionato-con-un-accendino-sulla-guancia-poi-picchiato-da-un-compagno/",
    "titolo": "Studente aggredito in classe a Modena: prima ustionato con un accendino sulla guancia, poi picchiato da un compagno",
    "abstract": "Brutto episodio ha coinvolto due studenti minorenni nella mattinata di oggi all’interno di un istituto superiore di Modena. Secondo le prime ricostruzioni fornite dalle forze dell’ordine, come segnala Adnkronos, un ragazzo avrebbe procurato una lieve ustione al volto di un…",
@@ -84,6 +104,25 @@
     "studenti"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/storia-dellarte-negli-istituti-tecnici-come-strumento-per-contrastare-la-dispersione-scolastica-confronto-bipartisan-alla-camera/",
+   "titolo": "Storia dell’Arte negli istituti tecnici come strumento per contrastare la dispersione scolastica. Confronto bipartisan alla Camera",
+   "abstract": "Restituire l'insegnamento della Storia dell'arte agli istituti tecnici e professionali come strumento per contrastare la dispersione scolastica e favorire il benessere psicofisico degli studenti. L'articolo Storia dell’Arte negli istituti tecnici come strumento per contrastare…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "eb9af7377a08",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/stop-social-agli-under-13-lavenia-non-basta-avere-sedici-anni-per-essere-pronti-la-proposta-di-un-patentino-digitale-a-punti/",
@@ -106,6 +145,23 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/stop-ai-social-sotto-i-13-anni-la-stretta-del-governo-ma-facebook-si-difende-nessun-nesso-provato-tra-app-e-danni-psicologici-limitare-laccesso-lede-i-diritti-dei-ragazzi/",
+   "titolo": "Stop ai social sotto i 13 anni, la stretta del governo, ma Facebook si difende: “Nessun nesso provato tra app e danni psicologici. Limitare l’accesso lede i diritti dei ragazzi”",
+   "abstract": "Stop assoluto ai social network per i minori di 13 anni e profili vincolati alla supervisione dei genitori fino al compimento dei 16. È la stretta messa in campo dalla maggioranza di governo attraverso un emendamento al decreto-legge Sicurezza, in discussione alla Camera…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "0571337e9659",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/stop-ai-social-sotto-i-13-anni-novara-14-anni-per-uno-smartphone-e-16-per-i-social-network-sono-le-soglie-minime-auspicabili/",
    "titolo": "Stop ai social sotto i 13 anni, Novara: “14 anni per uno smartphone e 16 per i social network sono le soglie minime auspicabili”",
    "abstract": "Per Daniele Novara la proposta di vietare i social sotto i 13 anni, comparsa fra gli emendamenti al decreto sicurezza, va nella direzione giusta ma si ferma troppo presto. Il pedagogista e direttore del CPP la considera un punto di partenza, niente di più. A suo giudizio…",
@@ -121,6 +177,30 @@
    "sezioni": [
     "riforme",
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/stop-universita-telematiche-per-formare-i-docenti-il-pd-chiede-corsi-tirocini-laboratori-confronto-in-presenza-anche-per-chi-e-di-ruolo-video-intervista-alla-prof-nigris",
+   "titolo": "Stop Università telematiche per formare i docenti, il Pd chiede corsi, tirocini, laboratori, confronto in presenza (anche per chi è di ruolo): video-intervista alla prof Nigris",
+   "abstract": "Durante gli Stati generali del Partito Democratico sull’Istruzione, ‘La Tecnica della Scuola’ ha intervistato la professoressa Elisabetta Nigris, professore Ordinario all’Università Bicocca di Milano, dove insegna ‘Progettazione didattica e valutazione’: il confronto, ha detto…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Personale della scuola",
+    "Precari",
+    "Didattica a distanza",
+    "Formazione docenti",
+    "formazione iniziale",
+    "università milano"
+   ],
+   "id": "46d6877ef5e6",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -238,6 +318,40 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/minori-con-disabilita-lallarme-della-commissione-infanzia-troppe-diseguaglianze-regionali-e-interventi-frammentati/",
+   "titolo": "Minori con disabilità, l’allarme della Commissione Infanzia: “Troppe diseguaglianze regionali e interventi frammentati”",
+   "abstract": "\"Il sostegno ai minori con disabilità e alle loro famiglie deve fondarsi su finanziamenti strutturali e continuativi, superando la frammentazione degli interventi e le diseguaglianze regionali per garantire la piena ed effettiva esigibilità dei diritti su tutto il territorio…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "d9aab3037409",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/18/26A05963/SG",
+   "titolo": "Ministero dell'istruzione e del merito – Decreto 14 ottobre 2026",
+   "abstract": "Piano di azione nazionale pluriennale per la promozione del Sistema integrato di educazione e di istruzione, dalla nascita ai sei anni, per il quinquennio 2026-2030.",
+   "data": "2026-11-18",
+   "fonte": "gu",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "189707a46815",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "norme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/alunno-con-media-del-7-e-voti-fino-al-9-ma-basta-il-4-in-latino-per-essere-bocciato-e-pagare-3mila-euro-la-famiglia-perde-ricorso-ma-annuncia-appello-al-consiglio-di-stato-interrogato-su-argomenti/",
    "titolo": "Media del 7, ma bocciato per un 4 in latino “su temi mai spiegati”. Famiglia perde ricorso al TAR e paga 3mila euro di spese: farà appello al Consiglio di Stato",
    "abstract": "Cinque ore di lezione estiva non sono bastate a evitare la bocciatura, ma ora la battaglia legale si sposta a Roma davanti al Consiglio di Stato. Al centro del contenzioso c’è la non ammissione al terzo anno di uno studente di liceo scientifico, fermato allo scrutinio di agosto…",
@@ -253,6 +367,28 @@
     "altro"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-digitali-forza-italia-frena-sullemendamento-di-fdi-rosso-la-nostra-priorita-sono-gli-studenti-e-le-famiglie/",
+   "titolo": "Libri digitali, Forza Italia frena sull’emendamento di FdI. Rosso: “La nostra priorità sono gli studenti e le famiglie”",
+   "abstract": "L’emendamento di Fratelli d’Italia sui libri scolastici digitali stampabili, presentato al decreto Scuola, è fermo. Al Senato la commissione Bilancio l’ha accantonato in attesa del parere del governo e, secondo l’ANSA, i lavori sono sospesi. L'articolo Libri digitali, Forza…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "fcae2248f5e0",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.orizzontescuola.it/in-italia-lattenzione-degli-studenti-cala-dopo-19-minuti-per-la-maggioranza-dei-docenti-la-capacita-di-concentrazione-e-diminuita-negli-ultimi-2-anni/",
@@ -289,6 +425,24 @@
     "personale"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ghali-a-sorpresa-tra-gli-studenti-di-milano-ce-un-distacco-soprattutto-nei-tempi-che-viviamo-tra-i-grandi-e-i-giovani/",
+   "titolo": "Ghali a sorpresa tra gli studenti di Milano: “C’è un distacco, soprattutto nei tempi che viviamo, tra i grandi e i giovani”",
+   "abstract": "Stamattina Ghali ha incontrato gli studenti di quarta e quinta del di un liceo di Milano, accolto in palestra da un lungo applauso. Con i ragazzi ha parlato di scuola, inclusione e integrazione, ma anche di proteste e della distanza tra generazioni. L'articolo Ghali a sorpresa…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "c476477ac315",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/fentanyl-e-nuovi-oppioidi-sintetici-il-ministero-invia-alle-scuole-schede-informative-per-prevenire-le-dipendenze-indicazioni-per-i-docenti/",
@@ -348,6 +502,45 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/dl-scuola-confindustria-sui-libri-di-testo-difendere-la-lettura-e-gli-investimenti-delleditoria-italiana",
+   "titolo": "Dl Scuola, Confindustria sui libri di testo: “Difendere la lettura e gli investimenti dell’editoria italiana”",
+   "abstract": "Sulle misure inserite nel Dl Scuola – in discussione in queste ore in Parlamento, per cui si ipotizza la chiusura nella giornata di giovedì – arriva anche la presa di posizione di Confindustria. “C’è una contraddizione profonda, prima ancora che economica, nell’emendamento sui…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti e genitori",
+    "Decreto scuola",
+    "Libri di testo"
+   ],
+   "id": "c9cd96e71333",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dividere-una-classe-e-distribuire-gli-alunni-nelle-altre-quando-aumenta-il-rischio-per-la-vigilanza-il-punto-di-de-martino/",
+   "titolo": "Dividere una classe e distribuire gli alunni nelle altre: quando aumenta il rischio per la vigilanza. Il Punto di De Martino",
+   "abstract": "È sempre possibile dividere una classe e distribuire gli studenti nelle altre a causa dell’assenza di un docente? L'articolo Dividere una classe e distribuire gli alunni nelle altre: quando aumenta il rischio per la vigilanza. Il Punto di De Martino sembra essere il primo su…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "e4c93f555be5",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/disinformazione-guerra-ibrida-e-ia-la-cittadinanza-digitale-entra-in-classe-il-23-novembre-educazione-civica-in-diretta-con-susanna-sancassani-iscrivi-la-classe",
    "titolo": "Disinformazione, guerra ibrida e IA, la cittadinanza digitale entra in classe. Il 23 novembre Educazione civica in diretta con Susanna Sancassani – ISCRIVI LA CLASSE",
    "abstract": "Una campagna di disinformazione può condizionare il dibattito pubblico. Un video manipolato può attribuire a un leader politico dichiarazioni mai pronunciate. Durante un conflitto, immagini generate artificialmente possono essere diffuse per screditare una parte, alimentare…",
@@ -379,6 +572,47 @@
     "Cronaca"
    ],
    "id": "5c5787cd4e29",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-digitali-emendamento-fdi-cosi-si-risparmiano-200-euro-a-figlio-vediamo-chi-sta-con-le-famiglie-aie-non-e-vero-che-le-aiuterebbe/",
+   "titolo": "Decreto Scuola, stallo in Senato sui libri digitali con maggioranza divisa. Commissione Bilancio aggiorna a giovedì il voto",
+   "abstract": "La seduta dell'Aula del Senato sull'esame del decreto Scuola è stata aggiornata a domani mattina (giovedì 19 novembre) alle 9.30, accogliendo la \"proposta di mediazione\" avanzata dal presidente dell'Assemblea, Ignazio La Russa, al termine di un pomeriggio segnato dallo stallo…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Politica scolastica",
+    "Studenti"
+   ],
+   "id": "b6ee8bdc3c8a",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-si-allodg-di-forza-italia-piu-ore-di-educazione-motoria-e-programmi-ad-hoc-per-gli-alunni-con-disabilita/",
+   "titolo": "Decreto Scuola, più ore di educazione motoria e programmi ad hoc per gli alunni con disabilità. Sì all’ODG di Forza Italia",
+   "abstract": "Più ore di educazione motoria nelle scuole italiane, per allinearsi progressivamente agli standard europei, e l'introduzione nella scuola primaria di programmi sportivi speciali con docenti qualificati per gli studenti con disabilità o difficoltà psico-motorie. L'articolo…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "eaf9fb0f09da",
    "raccolto": "2026-11-18",
    "sezioni": [
     "studenti",
@@ -468,6 +702,43 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/dsa-arriva-la-guida-aid-per-le-famiglie-come-costruire-un-pdp-davvero-efficace",
+   "titolo": "DSA, arriva la guida AID per le famiglie: come costruire un PDP davvero efficace",
+   "abstract": "Che cos’è davvero un Piano Didattico Personalizzato? Quando deve essere predisposto dalla scuola? Quali strumenti deve prevedere e che cosa possono fare i genitori se le misure concordate non vengono applicate? Sono domande che molte famiglie si pongono, soprattutto in questo…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "DSA",
+    "PDP"
+   ],
+   "id": "80f03d98475d",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cybersicurezza-256-milioni-alla-pubblica-amministrazione-fino-al-2028-oltre-3-milioni-di-euro-al-mim-decreto/",
+   "titolo": "Cybersicurezza, 256 milioni alla Pubblica amministrazione fino al 2028. Oltre 3 milioni di euro al MIM. DECRETO",
+   "abstract": "Oltre 256,55 milioni di euro per blindare la sicurezza digitale della Pubblica amministrazione italiana nel triennio 2026-2028, con una dote specifica di 3,12 milioni destinata al Ministero dell’Istruzione e del Merito. L'articolo Cybersicurezza, 256 milioni alla Pubblica…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "155187f43be3",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.orizzontescuola.it/cyberbullismo-vittoria-esposito-dalla-logica-dellemergenza-alla-logica-del-sistema/",
    "titolo": "Cyberbullismo, Vittoria Esposito: “Dalla logica dell’emergenza alla logica del sistema”",
    "abstract": "Prevenire il cyberbullismo significa andare oltre gli interventi successivi agli episodi e costruire regole condivise, responsabilità riconoscibili e procedure note a tutta la comunità scolastica. È il tema al centro della riflessione che Vittoria Esposito ha portato agli Stati…",
@@ -521,6 +792,24 @@
     "Studenti"
    ],
    "id": "8f71559f33af",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/coco-2017-il-commovente-e-coloratissimo-film-danimazione-sul-dia-de-los-muertos-e-il-valore-della-memoria-insegnare-con-i-film/",
+   "titolo": "Coco (2017): il commovente e coloratissimo film d’animazione sul Dìa de Los Muertos e il valore della memoria. Insegnare con i film",
+   "abstract": "Pochi giorni dopo la celebrazione della Festa di Tutti i Santi e la commemorazione dei propri cari defunti, proponiamo agli studenti e studentesse di scuola primaria e secondaria di primo grado un coinvolgente viaggio sull'importanza della memoria familiare e sul desiderio di…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Didattica",
+    "Film"
+   ],
+   "id": "006d7325e944",
    "raccolto": "2026-11-18",
    "sezioni": [
     "studenti"
@@ -640,6 +929,42 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/assegni-familiari-per-11-figli-9-dei-quali-in-senegal-il-tribunale-da-ragione-alloperaio-salvini-una-vicenda-incredibile-follia-totale-ce-un-limite-alla-presa-in-giro/",
+   "titolo": "Assegno unico familiare per 11 figli, 9 dei quali in Senegal: il Tribunale dà ragione all’operaio. Salvini: “Una vicenda incredibile. Follia totale, c’è un limite alla presa in giro”",
+   "abstract": "Undici figli, di cui nove residenti in Senegal e nati da relazioni diverse rispetto al matrimonio riconosciuto in Italia, ma tutti aventi diritto agli arretrati degli assegni per il nucleo familiare. È quanto ha stabilito il giudice del lavoro del Tribunale di Prato, ribaltando…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori"
+   ],
+   "id": "5c03f185aaf2",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/armi-nucleari-come-parlarne-agli-studenti-la-mostra-per-il-disarmo-a-venezia-visitabile-dalle-scuole-dal-18-novembre-al-15-dicembre",
+   "titolo": "Armi nucleari, come parlarne agli studenti? La mostra per il disarmo a Venezia visitabile dalle scuole dal 18 novembre al 15 dicembre",
+   "abstract": "La mostra “Senzatomica. Trasformare lo spirito umano per un mondo libero da armi nucleari” arriva a Venezia, nella sede di EMERGENCY sull’Isola della Giudecca (Fondamenta San Giacomo 212, fermata ACTV Redentore), dal 18 novembre al 15 dicembre 2026. L’esposizione è promossa…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Gite scolastiche"
+   ],
+   "id": "a80bfce31869",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/allarmi-bomba-nelle-scuole-bisogna-aggiornare-il-dvr-e-i-piani-di-emergenza-gli-adempimenti-dei-dirigenti-scolastici-dopo-la-direttiva-del-13-novembre/",
    "titolo": "Allarmi bomba nelle scuole, bisogna aggiornare il DVR e i piani di emergenza? Gli adempimenti dei dirigenti scolastici dopo la direttiva del 13 novembre",
    "abstract": "Le recenti ondate di segnalazioni di allarme bomba hanno evidenziato la necessità di verificare l’adeguatezza del Documento di valutazione dei rischi (DVR) e dei piani di emergenza delle istituzioni scolastiche. La direttiva del Ministro dell’Interno del 13 novembre 2026…",
@@ -654,6 +979,28 @@
    "sezioni": [
     "riforme",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/adolescenti-nel-2026-social-media-intelligenza-artificiale-benessere-psicologico-e-stereotipi-nei-nuovi-dati-del-cnr/",
+   "titolo": "Adolescenti nel 2026: social media, intelligenza artificiale, benessere psicologico e stereotipi nei nuovi dati del Cnr",
+   "abstract": "L'indagine condotta nel 2026 dal gruppo interdisciplinare MUSA del Cnr-Irpps nell'ambito del progetto quinquennale \"Mutamenti interazionali e benessere\" (MiB) — che monitora oltre 3.000 adolescenti quindicenni della Capitale — restituisce un quadro complesso e allo stesso tempo…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "4a671dae5a21",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale",
+    "innovazione"
    ],
    "superiori": false
   },
