@@ -1,38 +1,662 @@
 {
- "aggiornato": "2026-11-17T23:51:20+00:00",
+ "aggiornato": "2026-11-18T13:59:53+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-17T23:51:20+00:00",
-   "ultimo_ok": "2026-11-17T23:51:20+00:00"
+   "controllato": "2026-11-18T13:59:53+00:00",
+   "ultimo_ok": "2026-11-18T13:59:53+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 1,
-   "controllato": "2026-11-17T23:51:20+00:00",
-   "ultimo_ok": "2026-11-17T23:51:20+00:00"
+   "controllato": "2026-11-18T13:59:53+00:00",
+   "ultimo_ok": "2026-11-18T13:59:53+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-17T23:51:20+00:00",
-   "ultimo_ok": "2026-11-17T23:51:20+00:00"
+   "controllato": "2026-11-18T13:59:53+00:00",
+   "ultimo_ok": "2026-11-18T13:59:53+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-17T23:51:20+00:00",
-   "ultimo_ok": "2026-11-17T23:51:20+00:00"
+   "controllato": "2026-11-18T13:59:53+00:00",
+   "ultimo_ok": "2026-11-18T13:59:53+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-17T23:51:20+00:00",
-   "ultimo_ok": "2026-11-17T23:51:20+00:00"
+   "controllato": "2026-11-18T13:59:53+00:00",
+   "ultimo_ok": "2026-11-18T13:59:53+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/valditara-altri-conquistano-il-mondo-con-le-armi-litalia-lo-fa-con-la-bellezza-sugli-istituti-agrari-saranno-licei-basta-istituti-di-serie-a-e-serie-b/",
+   "titolo": "Valditara: “Altri conquistano il mondo con le armi, l’Italia lo fa con la bellezza”. Sugli istituti agrari: “Saranno licei, basta istituti di serie A e serie B”",
+   "abstract": "\"Noi abbiamo imparato a conquistare il mondo con la bellezza, mentre altri pensano ancora a conquistarlo con le armi: è questo il senso straordinario del Made in Italy\". L'articolo Valditara: “Altri conquistano il mondo con le armi, l’Italia lo fa con la bellezza”. Sugli…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "ca06924ba0bd",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studenti-universitari-dallestero-nellue-record-di-165-milioni-litalia-e-quarta-con-123mila-iscritti-e-cresce-del-16-in-un-anno-i-dati-eurostat/",
+   "titolo": "Studenti universitari dall’estero, nell’Ue record di 1,65 milioni. L’Italia è quarta con 123mila iscritti e cresce del 16% in un anno. I dati Eurostat",
+   "abstract": "Gli studenti che lasciano il proprio Paese per frequentare l’università nell’Unione europea non sono mai stati così tanti. Nel 2024 erano 1,65 milioni, l’8,7% di tutti gli iscritti all’istruzione terziaria. Lo ha comunicato Eurostat il 17 novembre, in occasione della Giornata…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti",
+    "Università"
+   ],
+   "id": "d2935dd386f3",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studente-aggredito-in-classe-a-modena-prima-ustionato-con-un-accendino-sulla-guancia-poi-picchiato-da-un-compagno/",
+   "titolo": "Studente aggredito in classe a Modena: prima ustionato con un accendino sulla guancia, poi picchiato da un compagno",
+   "abstract": "Brutto episodio ha coinvolto due studenti minorenni nella mattinata di oggi all’interno di un istituto superiore di Modena. Secondo le prime ricostruzioni fornite dalle forze dell’ordine, come segnala Adnkronos, un ragazzo avrebbe procurato una lieve ustione al volto di un…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "527450158413",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/stop-social-agli-under-13-lavenia-non-basta-avere-sedici-anni-per-essere-pronti-la-proposta-di-un-patentino-digitale-a-punti/",
+   "titolo": "Stop social agli under 13, Lavenia: “Non basta avere sedici anni per essere pronti”. La proposta di un Patentino digitale a punti",
+   "abstract": "La proposta di vietare dei social sotto i 13 anni piace a Giuseppe Lavenia, ma secondo lui da solo non basta. Lo psicologo e psicoterapeuta, presidente dell’Ordine degli psicologi delle Marche e direttore tecnico-scientifico dell’associazione Di.Te. (dipendenze tecnologiche)…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "e1672b249887",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/stop-ai-social-sotto-i-13-anni-novara-14-anni-per-uno-smartphone-e-16-per-i-social-network-sono-le-soglie-minime-auspicabili/",
+   "titolo": "Stop ai social sotto i 13 anni, Novara: “14 anni per uno smartphone e 16 per i social network sono le soglie minime auspicabili”",
+   "abstract": "Per Daniele Novara la proposta di vietare i social sotto i 13 anni, comparsa fra gli emendamenti al decreto sicurezza, va nella direzione giusta ma si ferma troppo presto. Il pedagogista e direttore del CPP la considera un punto di partenza, niente di più. A suo giudizio…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori"
+   ],
+   "id": "c0856e69806b",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/social-vietati-ai-minori-i-giovani-dicono-si-paletti-anche-per-ia-e-chat",
+   "titolo": "Social vietati ai minori, i giovani dicono sì: “Paletti anche per IA e chat”",
+   "abstract": "Mentre la legge sul divieto di accesso ai social per i minori sembra in dirittura d’arrivo, i diretti interessati sorprendono: approvano le restrizioni e le vorrebbero estese a chatbot, videogiochi e app di messaggistica. Lo rivela un’indagine di Skuola.net su 1.000 ragazze e…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "social vietati"
+   ],
+   "id": "a054829bb5ea",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/social-sotto-i-13-anni-novara-era-ora-ma-e-una-patata-bollente-scaricata-sui-genitori",
+   "titolo": "Social sotto i 13 anni, Novara: “Era ora, ma è una patata bollente scaricata sui genitori”",
+   "abstract": "Il pedagogista Daniele Novara, direttore del CPP, accoglie con favore gli emendamenti alla legge di bilancio sui minori e i social. Ma avverte che la misura resta lontana da quanto chiesto da lui e da altri specialisti: servono limiti di età più alti e regole più stringenti. Un…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "social vietati"
+   ],
+   "id": "7694d42207d5",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-e-azienda-il-rapporto-si-stringe-oltre-il-90-dei-docenti-e-ds-ne-riconosce-il-valore",
+   "titolo": "Scuola e azienda, il rapporto si stringe: oltre il 90% dei docenti e ds ne riconosce il valore",
+   "abstract": "Il mondo del lavoro entra sempre più spesso nelle scuole o viceversa. La conferma arriva dall’indagine nazionale 2026 “Il rapporto Scuola-Azienda. Un’alleanza strategica“, promossa da La Fabbrica by Spaggiari, insieme ad Anp, l’Associazione nazionale presidi, Elis e Fondazione…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Azienda",
+    "Formazione Scuola-Lavoro",
+    "Studenti"
+   ],
+   "id": "810e0950eea1",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/rilevazione-dati-generali-a-s-2026-2027-apertura-funzioni-sidi-dal-23-novembre-scadenza-il-15-gennaio-2027",
+   "titolo": "Rilevazione “Dati Generali” a.s. 2026/2027: apertura funzioni SIDI dal 23 novembre, scadenza il 15 gennaio 2027",
+   "abstract": "Con la pubblicazione della Circolare prot. n. 8046 del 17 novembre 2026, il MIM ha trasmesso le istruzioni operative per l’avvio della Rilevazione “Dati Generali” relativa all’Anno Scolastico 2026/2027. La rilevazione riguarda tutte le istituzioni scolastiche statali e non…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Anagrafe degli studenti",
+    "Scadenze 2026"
+   ],
+   "id": "b4bcaab92a5e",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/revenge-porn-cyberbullismo-abusi-online-venti-milioni-di-minori-nel-mondo-ne-sono-stati-vittime-il-dossier-meter",
+   "titolo": "Revenge porn, cyberbullismo, abusi online: venti milioni di minori nel mondo ne sono stati vittime. Il dossier Meter",
+   "abstract": "Il dossier “Ferite invisibili: bambini onlife“ presentato oggi, 18 novembre, alla Camera dei Deputati, in occasione della Giornata europea per la protezione dei minori contro l’abuso e lo sfruttamento sessuale, firmato Meter, evidenzia la profonda continuità tra la vita fisica e…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "abusi sessuali"
+   ],
+   "id": "0cfa92ac00f2",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/18/piattaforma-fadventure-disponibile-il-modulo-dallaccesso-alla-partecipazione-percorsi-di-agency-e-inclusione-scolastica/",
+   "titolo": "Piattaforma FADventure, disponibile il modulo “Dall’Accesso alla Partecipazione: Percorsi di Agency e Inclusione Scolastica”",
+   "abstract": "Alla piattaforma di formazione a distanza INDIRE – FADventure – realizzata nell’ambito del progetto in affidamento “Monitoraggio e ricerca: accompagnare i beneficiari e i destinatari nella partecipazione al Programma PN 2021-2027” ESO4.5A1.I-FSEPN-INDIRE-2024-1, si aggiunge un…",
+   "data": "2026-11-18",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "FADventure"
+   ],
+   "id": "c786602680e4",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/alunno-con-media-del-7-e-voti-fino-al-9-ma-basta-il-4-in-latino-per-essere-bocciato-e-pagare-3mila-euro-la-famiglia-perde-ricorso-ma-annuncia-appello-al-consiglio-di-stato-interrogato-su-argomenti/",
+   "titolo": "Media del 7, ma bocciato per un 4 in latino “su temi mai spiegati”. Famiglia perde ricorso al TAR e paga 3mila euro di spese: farà appello al Consiglio di Stato",
+   "abstract": "Cinque ore di lezione estiva non sono bastate a evitare la bocciatura, ma ora la battaglia legale si sposta a Roma davanti al Consiglio di Stato. Al centro del contenzioso c’è la non ammissione al terzo anno di uno studente di liceo scientifico, fermato allo scrutinio di agosto…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "16944b1bbf2e",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/in-italia-lattenzione-degli-studenti-cala-dopo-19-minuti-per-la-maggioranza-dei-docenti-la-capacita-di-concentrazione-e-diminuita-negli-ultimi-2-anni/",
+   "titolo": "In Italia l’attenzione degli studenti cala dopo 19 minuti. Per la maggioranza dei docenti la capacità di concentrazione è diminuita negli ultimi 2 anni",
+   "abstract": "Mantenere alta l'attenzione degli studenti tra gli 11 e i 18 anni sta diventando una sfida crescente nelle aule europee: in Italia la soglia media di concentrazione su un singolo compito si ferma a 19 minuti, un dato comunque superiore alla media continentale di 16 minuti (16…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "25754b0b55e6",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/il-docente-puo-alzare-la-voce-in-classe-i-consigli-di-de-martino/",
+   "titolo": "Il docente può alzare la voce in classe? I consigli di De Martino",
+   "abstract": "Una classe particolarmente rumorosa, studenti che non ascoltano, un docente costretto ad alzare il tono della voce. Si tratta di un comportamento disciplinarmente rilevante? L'articolo Il docente può alzare la voce in classe? I consigli di De Martino sembra essere il primo su…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "cd3112e770a5",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/fentanyl-e-nuovi-oppioidi-sintetici-il-ministero-invia-alle-scuole-schede-informative-per-prevenire-le-dipendenze-indicazioni-per-i-docenti/",
+   "titolo": "Fentanyl e nuovi oppioidi sintetici, il Ministero invia alle scuole schede informative per prevenire le dipendenze: indicazioni per i docenti",
+   "abstract": "Prevenire l'uso di sostanze stupefacenti e sensibilizzare gli studenti sui rischi del fentanyl e dei nuovi oppioidi sintetici. L'articolo Fentanyl e nuovi oppioidi sintetici, il Ministero invia alle scuole schede informative per prevenire le dipendenze: indicazioni per i docenti…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Educazione civica"
+   ],
+   "id": "3882bfb6096e",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/expo-training-2026-a-milano-15mila-iscritti-e-5mila-colloqui-nel-primo-giorno-barberis-il-matching-tra-formazione-e-lavoro-e-la-vera-sfida-dei-prossimi-anni/",
+   "titolo": "Expo Training 2026 a Milano, 15mila iscritti e 5mila colloqui nel primo giorno. Barberis: “Il matching tra formazione e lavoro è la vera sfida dei prossimi anni”",
+   "abstract": "Nella prima giornata della XV edizione di Expo Training si sono contati 15.000 iscritti, 90 fra workshop e convegni e 5.000 colloqui di lavoro in presenza. La fiera, che mette in contatto studenti, scuole, università, istituzioni e aziende sui temi della formazione…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "322dc7afecd3",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/emendamento-social-vietati-sotto-i-13-anni-una-storia-infinita-che-aspetta-dal-2024",
+   "titolo": "Emendamento social vietati sotto i 13 anni: una storia infinita che aspetta dal 2024",
+   "abstract": "Divieto di account social sotto i tredici anni. Tra i tredici e i sedici, accesso attraverso un account collegato a quello dei genitori. È la misura che la maggioranza ha annunciato di voler inserire nella conversione del decreto sicurezza, secondo quanto riferiscono le agenzie…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "social vietati"
+   ],
+   "id": "804001568a24",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/disinformazione-guerra-ibrida-e-ia-la-cittadinanza-digitale-entra-in-classe-il-23-novembre-educazione-civica-in-diretta-con-susanna-sancassani-iscrivi-la-classe",
+   "titolo": "Disinformazione, guerra ibrida e IA, la cittadinanza digitale entra in classe. Il 23 novembre Educazione civica in diretta con Susanna Sancassani – ISCRIVI LA CLASSE",
+   "abstract": "Una campagna di disinformazione può condizionare il dibattito pubblico. Un video manipolato può attribuire a un leader politico dichiarazioni mai pronunciate. Durante un conflitto, immagini generate artificialmente possono essere diffuse per screditare una parte, alimentare…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Educazione civica",
+    "Intelligenza artificiale"
+   ],
+   "id": "c789336151ca",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/disabilita-e-minori-lallarme-del-garante-diritti-sulla-carta-ma-famiglie-lasciate-sole-a-scuola-e-una-vergogna/",
+   "titolo": "Disabilità e minori, l’allarme del Garante: “Diritti sulla carta ma famiglie lasciate sole. A scuola è una vergogna”",
+   "abstract": "Alla presentazione dell’indagine parlamentare su lesioni cerebrali e autismo, Maurizio Borgo denuncia il divario tra le norme e la realtà quotidiana: dalla mancanza di informazioni al turnover del 70% sugli insegnanti di sostegno, fino alle disuguaglianze tra Nord e Sud…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "5c5787cd4e29",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1539-del-17-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 1539 del 17 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-18",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "93c8b7468a10",
+   "raccolto": "2026-11-18",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2546-del-6-novembre-2026",
+   "titolo": "Decreto Dipartimentale n. 2546 del 6 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-18",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "b3524695c9fd",
+   "raccolto": "2026-11-18",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-1852-del-5-agosto-2026-1",
+   "titolo": "Decreto Dipartimentale n. 1852 del 5 agosto 2026",
+   "abstract": "",
+   "data": "2026-11-18",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "4c631252218f",
+   "raccolto": "2026-11-18",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-1695-del-22-luglio-2026-1",
+   "titolo": "Decreto Dipartimentale n. 1695 del 22 luglio 2026",
+   "abstract": "",
+   "data": "2026-11-18",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "d155d3895f5f",
+   "raccolto": "2026-11-18",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-1649-del-20-luglio-2026",
+   "titolo": "Decreto Dipartimentale n. 1649 del 20 luglio 2026",
+   "abstract": "",
+   "data": "2026-11-18",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "5a24861e7df3",
+   "raccolto": "2026-11-18",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cyberbullismo-vittoria-esposito-dalla-logica-dellemergenza-alla-logica-del-sistema/",
+   "titolo": "Cyberbullismo, Vittoria Esposito: “Dalla logica dell’emergenza alla logica del sistema”",
+   "abstract": "Prevenire il cyberbullismo significa andare oltre gli interventi successivi agli episodi e costruire regole condivise, responsabilità riconoscibili e procedure note a tutta la comunità scolastica. È il tema al centro della riflessione che Vittoria Esposito ha portato agli Stati…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Stati generali scuola digitale"
+   ],
+   "id": "6eef83ca18b0",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/cosa-succede-di-notte-nelle-aule-delle-scuole-occupate-da-studenti-e-docenti-il-report-dagli-istituti",
+   "titolo": "Cosa succede di notte nelle aule delle scuole occupate da studenti e docenti? Il report dagli istituti",
+   "abstract": "Sette istituti milanesi sono arrivati al secondo giorno di occupazione. Agnesi, Bottoni, Cremona-Zappa, Molinari, Parini, Vittorio Veneto e Volta puntano a restare occupati fino allo sciopero generale del 20 novembre. Molti studenti hanno passato la notte tra i banchi, con…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Docenti",
+    "Occupazione",
+    "Studenti"
+   ],
+   "id": "9967aa75079f",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/conoscere-se-stessi-per-scegliere-in-modo-consapevole-step-into-the-future-e-il-nuovo-metodo-per-lorientamento-scolastico",
+   "titolo": "Conoscere se stessi per scegliere in modo consapevole: Step INTO the future e il nuovo metodo per l’orientamento scolastico",
+   "abstract": "È arrivato il momento, per l’orientamento, di superare il modello fieristico. Elencare corsi e carriere è utile, ma ai ragazzi serve anche un metodo per lavorare sull’autoconsapevolezza e capire cosa fa veramente per loro. Come singoli, come individui con passioni, desideri…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti"
+   ],
+   "id": "8f71559f33af",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/18/clima-gli-studenti-erasmus-presentano-alla-cop31-un-manifesto-per-il-2050/",
+   "titolo": "Clima, gli studenti Erasmus+ presentano alla COP31 un Manifesto per il 2050",
+   "abstract": "Gli studenti Erasmus presentano alla COP31 “The Erasmus+ Generation for the Earth”, il Manifesto che racchiude le loro proposte per il 2050. Il documento nasce dall’incontro promosso a Roma lo scorso aprile dall’Agenzia nazionale Erasmus+ INDIRE, in collaborazione con Fondazione…",
+   "data": "2026-11-18",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Europa",
+    "erasmus+"
+   ],
+   "id": "8fb2d7f5ee20",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/carta-del-docente-e-incarichi-da-gps-cosa-ci-dicono-i-numeri-diretta-ore-16-00",
+   "titolo": "Carta del docente e incarichi da GPS: cosa ci dicono i numeri – DIRETTA ORE 16.00",
+   "abstract": "Quando avremo la certezza delle cifre del bonus 2026/27 della Carta del Docente, e cosa sarà possibile acquistare? Cosa ci dicono i numeri ufficiali degli incarichi già disposti da GPS? Cosa succede dopo il 31 dicembre per quanto riguarda gli incarichi di supplenza al 30 giugno…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Carta del docente",
+    "gps 2026-2028"
+   ],
+   "id": "7d5e490df846",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/campionati-italiani-di-informatica-2026-27-al-via-la-xxvii-edizione-iscrizione-scuole-entro-il-3-dicembre-prima-prova-il-16-e-17-dicembre/",
+   "titolo": "Campionati Italiani di Informatica 2026/27, al via la XXVII edizione: iscrizione scuole entro il 3 dicembre, prima prova il 16 e 17 dicembre",
+   "abstract": "Con la nota n. 205986 del 17 novembre 2026, il Ministero dell’Istruzione e del merito ha avviato la XXVII edizione dei Campionati Italiani di Informatica, per l’anno scolastico 2026/2027: è rivolta agli studenti delle scuole superiori e premia la logica e la capacità di…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "88231689bba1",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bocciatura-dopo-il-recupero-estivo-per-il-tar-il-registro-elettronico-e-sufficiente-per-la-corretta-comunicazione-scuola-famiglia",
+   "titolo": "Bocciatura dopo il recupero estivo: per il TAR il registro elettronico è sufficiente per la corretta comunicazione scuola-famiglia",
+   "abstract": "Nessun obbligo per le scuole di inviare comunicazioni personali ad hoc per notificare la non ammissione alla classe successiva, e stop ai sindacati del giudice sulle valutazioni tecniche dei docenti. È quanto ha stabilito la Terza Sezione del TAR Sicilia – Catania con la…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Registro elettronico",
+    "Tar"
+   ],
+   "id": "c5b7f98ce6dd",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bocciata-con-una-sola-insufficienza-in-storia-il-tar-conferma-il-no-alla-promozione",
+   "titolo": "Bocciata con una sola insufficienza in Storia: il TAR conferma il “no” alla promozione",
+   "abstract": "Può una studentessa essere fermata a fine anno per una sola materia non recuperata, anche quando il regolamento d’istituto sembrava prevedere criteri più permissivi? La risposta del Tribunale Amministrativo Regionale per la Sicilia – Catania è netta: la legge statale prevale sui…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Tar"
+   ],
+   "id": "b5334be852bc",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-prot-n-44271-del-18-novembre-2026",
+   "titolo": "Avviso prot. n. 44271 del 18 novembre 2026",
+   "abstract": "Procedura per il conferimento di n. 1 incarico dirigenziale non generale dell'USR per l'Emilia-Romagna\" Ufficio X - Ambito territoriale di Ravenna. Scadenza presentazione domande: entro e non oltre le ore 23:59 del 25 novembre 2026.",
+   "data": "2026-11-18",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "fa890159e718",
+   "raccolto": "2026-11-18",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allarmi-bomba-nelle-scuole-bisogna-aggiornare-il-dvr-e-i-piani-di-emergenza-gli-adempimenti-dei-dirigenti-scolastici-dopo-la-direttiva-del-13-novembre/",
+   "titolo": "Allarmi bomba nelle scuole, bisogna aggiornare il DVR e i piani di emergenza? Gli adempimenti dei dirigenti scolastici dopo la direttiva del 13 novembre",
+   "abstract": "Le recenti ondate di segnalazioni di allarme bomba hanno evidenziato la necessità di verificare l’adeguatezza del Documento di valutazione dei rischi (DVR) e dei piani di emergenza delle istituzioni scolastiche. La direttiva del Ministro dell’Interno del 13 novembre 2026…",
+   "data": "2026-11-18",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "151bed9a68bd",
+   "raccolto": "2026-11-18",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/la-parola-alla-scuola-il-progetto-di-stefania-petyx-approda-a-trapani-protagonisti-sono-i-giovani-reporter",
    "titolo": "“La Parola alla Scuola”, il progetto di Stefania Petyx approda a Trapani: protagonisti sono i giovani reporter",
@@ -16958,43 +17582,6 @@
    "raccolto": "2026-11-05",
    "sezioni": [
     "personale"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/next-gen-ai-la-chiusura-del-primo-summit-internazionale-sull-intelligenza-artificiale-nella-scuola-la-cerimonia-al-teatro-san-carlo-di-napoli",
-   "titolo": "Next Gen AI, la chiusura del primo summit internazionale sull’Intelligenza Artificiale nella scuola. La cerimonia al Teatro San Carlo di Napoli",
-   "abstract": "Si chiude oggi a Napoli “Next Gen AI”, il primo summit internazionale sull’Intelligenza Artificiale nella scuola, promosso dal Ministero dell’Istruzione e del Merito.",
-   "data": "2025-10-13",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Scuola"
-   ],
-   "id": "35f9d37d570e",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "innovazione"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/milano-il-mim-al-salone-dello-studente",
-   "titolo": "Milano, il MIM al Salone dello Studente",
-   "abstract": "Il 16 e 17 ottobre il Ministero dell’Istruzione e del Merito sarà al Salone dello Studente di Milano , presso il Parco Esposizioni Novegro, con uno spazio istituzionale dedicato a studenti, famiglie, al mondo della scuola e all’innovazione didattica. All’interno dello stand…",
-   "data": "2025-10-13",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Ministero"
-   ],
-   "id": "0970b3129c5f",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "studenti",
-    "innovazione"
    ],
    "superiori": false,
    "abstract_tentato": true
