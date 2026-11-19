@@ -1,38 +1,617 @@
 {
- "aggiornato": "2026-11-18T21:57:54+00:00",
+ "aggiornato": "2026-11-19T14:27:18+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-18T21:57:54+00:00",
-   "ultimo_ok": "2026-11-18T21:57:54+00:00"
+   "controllato": "2026-11-19T14:27:18+00:00",
+   "ultimo_ok": "2026-11-19T14:27:18+00:00"
   },
   "gu": {
-   "esito": "ok",
+   "esito": "errore",
    "voci": 1,
-   "controllato": "2026-11-18T21:57:54+00:00",
-   "ultimo_ok": "2026-11-18T21:57:54+00:00"
+   "controllato": "2026-11-19T14:27:18+00:00",
+   "ultimo_ok": "2026-11-18T21:57:54+00:00",
+   "messaggio": "HTTPSConnectionPool(host='www.gazzettaufficiale.it', port=443): Max retries exceeded with url: /rss/SG (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gazzettaufficiale.it', port=443) at 0x7"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-18T21:57:54+00:00",
-   "ultimo_ok": "2026-11-18T21:57:54+00:00"
+   "controllato": "2026-11-19T14:27:18+00:00",
+   "ultimo_ok": "2026-11-19T14:27:18+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-18T21:57:54+00:00",
-   "ultimo_ok": "2026-11-18T21:57:54+00:00"
+   "voci": 29,
+   "controllato": "2026-11-19T14:27:18+00:00",
+   "ultimo_ok": "2026-11-19T14:27:18+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-18T21:57:54+00:00",
-   "ultimo_ok": "2026-11-18T21:57:54+00:00"
+   "voci": 30,
+   "controllato": "2026-11-19T14:27:18+00:00",
+   "ultimo_ok": "2026-11-19T14:27:18+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/violenza-a-scuola-e-bullismo-i-docenti-possono-aiutare-gli-studenti-il-percorso-gratuito-con-lo-psicologo-giovanni-siena",
+   "titolo": "Violenza a scuola e bullismo: i docenti possono aiutare gli studenti? Il webinar gratuito con lo psicologo Giovanni Siena",
+   "abstract": "Mentre restano aperte le iscrizioni alla nuova edizione di Prefigurare il Futuro!, percorso gratuito per docenti organizzato da Fondazione Patrizio Paoletti, è partito un ciclo di tre webinar introduttivi completamente gratuiti. Vai al percorso gratuito Iscriviti ai webinar…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Bullismo",
+    "Didattica"
+   ],
+   "id": "bbe302ec3b09",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/valditara-i-prodotti-made-in-mim-delle-scuole-verso-fiumicino-e-sui-dati-ocse-abbiamo-superato-la-finlandia/",
+   "titolo": "Valditara: i prodotti “Made in MIM” delle scuole verso Fiumicino. E sui dati OCSE: “Abbiamo superato la Finlandia”",
+   "abstract": "I prodotti realizzati nelle scuole con il marchio “Made in MIM”, e non solo i vini, potrebbero arrivare all’aeroporto di Fiumicino. Il ministero dell’Istruzione e del Merito ci sta lavorando insieme ad Aeroporti di Roma, perché li possano conoscere, apprezzare e acquistare i…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "f30e0306edf7",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/troppe-certificazioni-dsa-a-scuola-non-sono-troppi-quelli-presenti-sono-ancora-troppo-pochi-gli-assenti/",
+   "titolo": "Troppe certificazioni DSA a scuola? “Non sono troppi quelli presenti, sono ancora troppo pochi gli assenti”",
+   "abstract": "Negli ultimi anni si è diffuso un luogo comune ricorrente nel dibattito pubblico e sui social: l'idea che oggi vi sia un eccesso di certificazioni per i Disturbi Specifici dell'Apprendimento (DSA) o che l'aumento delle segnalazioni sia il semplice riflesso di una scuola che non…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "BES",
+    "DSA"
+   ],
+   "id": "92460d6b46ba",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuole-occupate-una-dirigente-scolastica-ai-docenti-basta-compiti-a-chi-occupa-non-sono-in-vacanza",
+   "titolo": "Scuole occupate, una dirigente scolastica ai docenti: “Basta compiti a chi occupa, non sono in vacanza”",
+   "abstract": "Alla vigilia dello sciopero generale, la dirigente del liceo scientifico Bottoni interviene con un messaggio su Facebook rivolto ai docenti. Il bersaglio non sono gli studenti in protesta, ma i professori che continuano ad assegnare compiti e scadenze sul registro elettronico…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "compiti a casa",
+    "Occupazione"
+   ],
+   "id": "6e3ae48c1deb",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/salute-mentale-sul-lavoro-al-via-la-campagna-europea-2026-28-contro-stress-e-rischi-psicosociali-premio-buone-pratiche-entro-il-30-settembre-2027/",
+   "titolo": "Salute mentale sul lavoro, al via la campagna europea 2026/28 contro stress e rischi psicosociali. Premio buone pratiche entro il 30 settembre 2027",
+   "abstract": "Promuovere la salute mentale negli ambienti di lavoro e prevenire i rischi psicosociali attraverso una migliore organizzazione delle attività, relazioni professionali positive e una maggiore attenzione al benessere dei lavoratori. L'articolo Salute mentale sul lavoro, al via la…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole",
+    "salute"
+   ],
+   "id": "b20f38ea860a",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/robotica-educativa-e-stem-alla-primaria-al-via-first-lego-league-2026-27-iscrizioni-entro-il-31-dicembre-webinar-il-1-dicembre-nota/",
+   "titolo": "Robotica educativa e STEM alla primaria, al via FIRST LEGO League 2026/27: iscrizioni entro il 31 dicembre. Webinar il 1° dicembre. Nota",
+   "abstract": "Con nota del 19 novembre il MIM promuove la nuova stagione della FIRST LEGO League Italia, dedicata alla robotica educativa e allo sviluppo delle competenze STEM nella scuola primaria. L'articolo Robotica educativa e STEM alla primaria, al via FIRST LEGO League 2026/27…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Robotica"
+   ],
+   "id": "d63fc51f70de",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ottiene-il-diploma-alla-sessione-straordinaria-il-tar-ordina-comunque-alla-scuola-di-consegnare-tutti-i-verbali-e-le-verifiche-del-pdp",
+   "titolo": "Ottiene il diploma alla sessione straordinaria, il TAR ordina comunque alla scuola di consegnare tutti i verbali e le verifiche del PDP",
+   "abstract": "Un’importante decisione del TAR Veneto (Sezione Quarta, ordinanza n. 2200/2026) chiarisce i confini tra tutela degli studenti con Piano Didattico Personalizzato (PDP), trasparenza amministrativa e diritto di accesso agli atti scolastici. La vicenda: la mancata ammissione e il…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "PDP",
+    "Tar"
+   ],
+   "id": "4efa28f3aacf",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/orientamento-sei-giovani-su-dieci-usano-lai-per-decidere-il-proprio-futuro-soprattutto-nei-contesti-familiari-piu-fragili-rapporto-gi-group/",
+   "titolo": "Orientamento, sei giovani su dieci usano l’AI per decidere il proprio futuro, soprattutto nei contesti familiari più fragili. Rapporto GI Group",
+   "abstract": "La scuola fa orientamento, ma non sempre i destinatari se ne accorgono. A fronte della quasi totalità di docenti e dirigenti scolastici che dichiara di promuovere attività di accompagnamento alla scelta, solo circa il 75% degli studenti delle scuole medie e superiori afferma di…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "17df1b0e6b89",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/non-ammesso-alla-maturita-per-il-mancato-rispetto-del-pdp-poi-promosso-a-ottobre-il-tar-obbliga-la-scuola-a-consegnare-verifiche-e-verbali-30-giorni-per-farlo/",
+   "titolo": "Non ammesso alla maturità per il mancato rispetto del PDP, poi promosso a ottobre. Il TAR obbliga la scuola a consegnare verifiche e verbali: 30 giorni per farlo",
+   "abstract": "Anche dopo aver superato l'esame di maturità, uno studente ha pieno diritto di ottenere dalla propria scuola i verbali dello scrutinio e le verifiche scritte dell'anno se l'ammissione alle prove è avvenuta con riserva su ordine del tribunale. L'articolo Non ammesso alla maturità…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "628d4b60bc39",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/niente-piu-istituti-di-seria-a-e-di-serie-b-valditara-non-e-un-cambio-di-nome-ma-di-visione",
+   "titolo": "Niente più istituti di seria A e di serie B, Valditara: “Non è un cambio di nome, ma di visione”",
+   "abstract": "Niente più scuole di serie A e di serie B. Dal prossimo anno gli istituti tecnici e professionali diventeranno anch’essi licei, e per il ministro dell’Istruzione e del Merito, Giuseppe Valditara, non si tratta di un restyling lessicale. Intervistato da Italia Oggi al Salone…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Giuseppe Valditara",
+    "Istituti tecnici e professionali"
+   ],
+   "id": "9785126f4a1f",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/19/m9-celebra-i-duecento-anni-di-carlo-collodi-una-mostra-svela-luomo-e-il-patriota-dietro-il-mito-di-pinocchio/",
+   "titolo": "M9 celebra i Duecento anni di Carlo Collodi: una mostra svela l’uomo e il patriota dietro il mito di Pinocchio",
+   "abstract": "Le speranze del Risorgimento, le contraddizioni della società nata dall’Unità d’Italia e le profonde trasformazioni civili dell’Ottocento si riflettono nell’opera di uno degli intellettuali più acuti e meno convenzionali del nostro Paese. In occasione del bicentenario della…",
+   "data": "2026-11-19",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio",
+    "slider"
+   ],
+   "id": "3d0cc837909e",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/libri-digitali-via-libera-al-senato-allemendamento-al-dl-scuola-maggioranza-spaccata",
+   "titolo": "Libri digitali, via libera al Senato all’emendamento al Dl Scuola. Maggioranza spaccata",
+   "abstract": "L’aula del Senato ha approvato l’emendamento sugli e-book presentato da Fratelli d’Italia al Decreto scuola, con 84 voti a favore e 76 contrari. La proposta – che impone agli editori di offrire i libri scolastici e universitari in formato digitale al 50 per cento del prezzo…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Governo Meloni",
+    "Libri di testo",
+    "Libri digitali"
+   ],
+   "id": "6be79ae701ca",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/il-367-degli-alunni-di-quinta-elementare-non-ha-competenze-adeguate-in-matematica-erano-il-277-sei-anni-fa-in-italiano-indietro-il-274-i-dati/",
+   "titolo": "Il 36,7% degli alunni di quinta elementare non ha competenze adeguate in matematica: erano il 27,7% sei anni fa. In italiano indietro il 27,4%. I dati",
+   "abstract": "In quinta elementare più di un alunno su tre non sa abbastanza di matematica. Nell’anno scolastico 2025/26 il 36,7% dei bambini ha competenze numeriche inadeguate, contro il 27,7% del 2018/19: nove punti in più in sei anni. In italiano va un po’ meglio, ma non troppo. L'articolo…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "99334cc7a5cd",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/inps-arriva-la-mappa-servizi-vicino-a-me-le-famiglie-possono-cercare-scuole-consultori-e-centri-vaccinali-nella-propria-provincia-come-accedere/",
+   "titolo": "INPS, arriva la mappa “Servizi vicino a me”: le famiglie possono cercare scuole, consultori e centri vaccinali nella propria provincia. Come accedere",
+   "abstract": "Trovare scuole, strutture educative, consultori familiari e centri vaccinali nella propria zona diventa più semplice grazie alla nuova funzione “Servizi vicino a me”, disponibile sul Portale della Famiglia e della Genitorialità dell'INPS. L'articolo INPS, arriva la mappa…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Inps"
+   ],
+   "id": "53a26690d0cf",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ghali-agli-studenti-bisogna-farsi-un-giro-nelle-scuole-e-chiedere-come-mai-li-non-esiste-lo-straniero-non-ce-questa-distinzione-assurda",
+   "titolo": "Ghali agli studenti: “Bisogna farsi un giro nelle scuole e chiedere come mai lì non esiste lo straniero, non c’è questa distinzione assurda”",
+   "abstract": "Una lezione fuori programma, mercoledì, in un liceo classico milanese: gli studenti di quarta e quinta hanno dialogato con Ghali su temi inusuali per un’aula, dai testi sessisti nel rap al diritto di manifestare, dalle disparità sociali alla cittadinanza. L’incontro fa parte di…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "ghali",
+    "studenti stranieri"
+   ],
+   "id": "0fcbdca2433e",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/expo-training-taglia-il-traguardo-della-15esima-edizione-siamo-diventati-la-piazza-del-lavoro-della-formazione-e-dellorientamentovideo/",
+   "titolo": "Expo Training taglia il traguardo della 15esima edizione: “Siamo diventati la piazza del lavoro, della formazione e dell’orientamento”(VIDEO)",
+   "abstract": "Da scommessa pionieristica a punto di riferimento nazionale per l'incontro tra domande e offerte di futuro. Si presenta con numeri record la quindicesima edizione di Expo Training, la fiera dedicata alla formazione, all’orientamento e al lavoro che riunisce studenti, scuole…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "556c51662feb",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dispersione-scolastica-valditara-abbiamo-una-percentuale-del-73-nel-2026-eravamo-all115-nel-2022-recuperati-520mila-ragazzi/",
+   "titolo": "Dispersione scolastica, Valditara: “Abbiamo una percentuale del 7,3% nel 2026. Eravamo all’11,5% nel 2022”. Recuperati 520mila ragazzi",
+   "abstract": "La dispersione scolastica in Italia è scesa al 7,3% nel 2026, dall’11,5% del 2022. A rivendicarlo è il ministro dell’Istruzione e del Merito Giuseppe Valditara, che in un’intervista a ItaliaOggi, rilasciata al Salone dello Studente di Roma, lo indica come il risultato di cui va…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "b27835dc45aa",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/diritto-allistruzione-calano-gli-abbandoni-ma-peggiorano-gli-apprendimenti-ancora-forti-le-disuguaglianze-per-gli-alunni-stranieri-rapporto-istat-unicef",
+   "titolo": "Diritto all’istruzione, calano gli abbandoni ma peggiorano gli apprendimenti: ancora forti le disuguaglianze per gli alunni stranieri. Rapporto Istat-Unicef",
+   "abstract": "L’Italia ha compiuto importanti progressi nella lotta all’abbandono scolastico, ma garantire a tutti i bambini e agli adolescenti un’istruzione di qualità resta una sfida aperta. Se da un lato diminuisce il numero dei giovani che lasciano prematuramente gli studi, dall’altro…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Abbandono scolastico",
+    "Istat",
+    "Povertà educativa"
+   ],
+   "id": "8688f87f2771",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-ok-dal-senato-bucalo-fdi-rivendica-la-svolta-sul-reclutamento-dei-docenti-dalle-gps-e-il-tetto-del-30-di-alunni-stranieri/",
+   "titolo": "Decreto Scuola, ok dal Senato. Bucalo (FDI) rivendica la svolta sul reclutamento dei docenti dalle GPS e il tetto del 30% di alunni stranieri",
+   "abstract": "L'Aula del Senato ha approvato il decreto Scuola, concludendo oggi, giovedì 19 novembre, l'iter parlamentare del provvedimento a Palazzo Madama. Ora il testo passa all'esame della Camera dei Deputati per il via libera definitivo, atteso entro il prossimo 29 novembre. L'articolo…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "09d31cece19e",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-marti-lega-risposte-concrete-a-studenti-e-personale-scolastico-piu-inclusione-e-meno-precariato/",
+   "titolo": "Decreto Scuola, Marti (Lega): “Risposte concrete a studenti e personale scolastico, più inclusione e meno precariato”",
+   "abstract": "\"Una scuola più inclusiva, stabile e capace di riconoscere il valore di chi ogni giorno contribuisce al suo funzionamento\". Con queste parole il senatore della Lega Roberto Marti, presidente della commissione Istruzione del Senato e relatore del decreto scuola, difende in una…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "3f312764286d",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-2026-le-novita-sullinclusione-scolastica-degli-alunni-con-disabilita-e-gli-aspetti-operativi-per-le-scuole",
+   "titolo": "Decreto Scuola 2026: le novità sull’inclusione scolastica degli alunni con disabilità e gli aspetti operativi per le scuole",
+   "abstract": "Nel corso dell’esame del disegno di legge di conversione del decreto-legge n. 170 del 30 settembre 2026, la VII Commissione del Senato ha approvato alcune significative modifiche all’articolo 1, dedicato alle misure urgenti per l’inclusione scolastica degli alunni con…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "glo",
+    "PEI",
+    "Riforma sostegno"
+   ],
+   "id": "373fd2e6666a",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-21517-del-18-novembre-2026",
+   "titolo": "Decreto Dirigenziale n. 21517 del 18 novembre 2026",
+   "abstract": "Determina di affidare, ai sensi dell'art. 50 comma 1, lett. a), d.lgs. n. 36/2023, l'affidamento dei lavori di adeguamento degli impianti di illuminazione presenti presso i servizi igienici del Ministero dell'Istruzione e del Merito sito in viale Trastevere 76/A, all'operatore…",
+   "data": "2026-11-19",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "4a053ed2b290",
+   "raccolto": "2026-11-19",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-469-del-23-marzo-2026",
+   "titolo": "Decreto Dipartimentale n. 469 del 23 marzo 2026",
+   "abstract": "",
+   "data": "2026-11-19",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "15b201af619b",
+   "raccolto": "2026-11-19",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-1847-del-5-agosto-2026-1",
+   "titolo": "Decreto Dipartimentale n. 1847 del 5 agosto 2026",
+   "abstract": "",
+   "data": "2026-11-19",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "00c4ac3d1233",
+   "raccolto": "2026-11-19",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-159-del-5-ottobre-2026",
+   "titolo": "Decreto Dipartimentale n. 159 del 5 ottobre 2026",
+   "abstract": "",
+   "data": "2026-11-19",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "d1b0efcef3f9",
+   "raccolto": "2026-11-19",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-1424-del-1-luglio-2026",
+   "titolo": "Decreto Dipartimentale n. 1424 del 1 luglio 2026",
+   "abstract": "",
+   "data": "2026-11-19",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "d1192e31a0a4",
+   "raccolto": "2026-11-19",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-1273-del-19-giugno-2026-1",
+   "titolo": "Decreto Dipartimentale n. 1273 del 19 giugno 2026",
+   "abstract": "",
+   "data": "2026-11-19",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "e08e13a1b49d",
+   "raccolto": "2026-11-19",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bocciato-a-settembre-riammesso-con-riserva-dal-tar-ma-bocciato-di-nuovo-la-scuola-vince-la-seconda-valutazione-ma-il-ministero-paga-le-spese",
+   "titolo": "Bocciato a settembre, riammesso con riserva dal TAR ma bocciato di nuovo: la scuola vince la seconda valutazione, ma il Ministero paga le spese",
+   "abstract": "Una complessa vicenda giudiziaria si è conclusa davanti al TAR del Friuli Venezia Giulia con la sentenza n. 551/2026. Il caso riguarda uno studente iscritto ad un Liceo Linguistico, non ammesso alla classe quinta in seguito allo scrutinio di fine agosto 2026 relativo all’anno…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Tar"
+   ],
+   "id": "ab8a0897a41f",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarmi-bomba-scuole-piantedosi-nessuna-emergenza-in-atto-rassicuro-docenti-e-famiglie-no-allarmismi-infondati-diretta-ore-1230",
+   "titolo": "Allarmi bomba scuole, Piantedosi: “Nessuna emergenza in atto, rassicuro docenti e famiglie, no allarmismi infondati” – Rivedi la diretta",
+   "abstract": "Nella mattinata di oggi, 19 novembre, si svolge l’informativa urgente del Ministro dell’Interno, Matteo Piantedosi, sugli allarmi bomba negli istituti scolastici e sugli attacchi hacker nella grande distribuzione alimentare. Ecco le parole di Piantedosi: “Voglio premettere che…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Piantedosi matteo"
+   ],
+   "id": "7f0635b30119",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/abbandoni-scolastici-il-doppio-volto-dellitalia-sotto-la-soglia-ue-del-9-ma-i-ragazzi-restano-al-101-le-ragazze-al-62-i-dati/",
+   "titolo": "Abbandoni scolastici, il doppio volto dell’Italia: sotto la soglia Ue del 9%, ma i ragazzi restano al 10,1%. Le ragazze al 6,2%. I dati",
+   "abstract": "Venticinque anni fa, in Italia, un giovane su quattro aveva al massimo la licenza media ed era fuori da ogni percorso di studio o formazione. Oggi è meno di uno su dieci. L'articolo Abbandoni scolastici, il doppio volto dell’Italia: sotto la soglia Ue del 9%, ma i ragazzi…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "87a8f70b3104",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/gta-6-esce-il-19-novembre-notte-insonne-per-studenti-e-docenti-ecco-cosa-si-prevede-e-cosa-centra-lo-sciopero-di-giorno-20",
+   "titolo": "GTA 6 esce il 19 novembre, notte insonne per studenti e docenti? Ecco cosa si prevede e cosa c’entra lo sciopero di giorno 20",
+   "abstract": "C’è chi aspetta questa data da anni, chi ha già organizzato la propria giornata e chi probabilmente ha trovato una buona ragione per non andare al lavoro o a scuola. A mezzanotte di giovedì 19 novembre 2026 esce finalmente GTA VI, il nuovo capitolo di una delle saghe…",
+   "data": "2026-11-18",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Sciopero",
+    "Videogame"
+   ],
+   "id": "9d953170f01d",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/valditara-altri-conquistano-il-mondo-con-le-armi-litalia-lo-fa-con-la-bellezza-sugli-istituti-agrari-saranno-licei-basta-istituti-di-serie-a-e-serie-b/",
    "titolo": "Valditara: “Altri conquistano il mondo con le armi, l’Italia lo fa con la bellezza”. Sugli istituti agrari: “Saranno licei, basta istituti di serie A e serie B”",
