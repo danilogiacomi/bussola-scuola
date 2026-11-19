@@ -1,36 +1,35 @@
 {
- "aggiornato": "2026-11-19T14:27:18+00:00",
+ "aggiornato": "2026-11-19T23:35:51+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-19T14:27:18+00:00",
-   "ultimo_ok": "2026-11-19T14:27:18+00:00"
+   "controllato": "2026-11-19T23:35:51+00:00",
+   "ultimo_ok": "2026-11-19T23:35:51+00:00"
   },
   "gu": {
-   "esito": "errore",
-   "voci": 1,
-   "controllato": "2026-11-19T14:27:18+00:00",
-   "ultimo_ok": "2026-11-18T21:57:54+00:00",
-   "messaggio": "HTTPSConnectionPool(host='www.gazzettaufficiale.it', port=443): Max retries exceeded with url: /rss/SG (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gazzettaufficiale.it', port=443) at 0x7"
+   "esito": "ok",
+   "voci": 0,
+   "controllato": "2026-11-19T23:35:51+00:00",
+   "ultimo_ok": "2026-11-19T23:35:51+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-19T14:27:18+00:00",
-   "ultimo_ok": "2026-11-19T14:27:18+00:00"
+   "controllato": "2026-11-19T23:35:51+00:00",
+   "ultimo_ok": "2026-11-19T23:35:51+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-19T14:27:18+00:00",
-   "ultimo_ok": "2026-11-19T14:27:18+00:00"
+   "controllato": "2026-11-19T23:35:51+00:00",
+   "ultimo_ok": "2026-11-19T23:35:51+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-19T14:27:18+00:00",
-   "ultimo_ok": "2026-11-19T14:27:18+00:00"
+   "controllato": "2026-11-19T23:35:51+00:00",
+   "ultimo_ok": "2026-11-19T23:35:51+00:00"
   }
  },
  "notizie": [
@@ -95,6 +94,76 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/tesi-di-laurea-conclusa-nella-lingua-dei-segni-per-i-genitori-sordi-a-mamma-e-papa-che-mi-hanno-dato-una-lingua-fatta-di-mani-prima-ancora-che-di-parole/",
+   "titolo": "Tesi di laurea conclusa nella lingua dei segni per i genitori sordi: “A mamma e papà, che mi hanno dato una lingua fatta di mani prima ancora che di parole”",
+   "abstract": "Davanti alla commissione, le ultime parole della sua tesi le ha “dette” nella lingua dei segni, perché mamma e papà, che non sentono, potessero capirle tutte. L'articolo Tesi di laurea conclusa nella lingua dei segni per i genitori sordi: “A mamma e papà, che mi hanno dato una…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "8e2554e52c99",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studente-di-14-anni-investito-da-unauto-mentre-attraversa-la-strada-vicino-scuola-e-grave-ma-non-in-pericolo-di-vita/",
+   "titolo": "Studente di 14 anni investito da un’auto mentre attraversa la strada vicino scuola: è grave, ma non in pericolo di vita",
+   "abstract": "Stava attraversando la strada a Udine, nei pressi di un istituto tecnico, quando un’auto lo ha colpito e sbalzato a diversi metri di distanza. L'articolo Studente di 14 anni investito da un’auto mentre attraversa la strada vicino scuola: è grave, ma non in pericolo di vita…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "81aec7de6615",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/liceo-ripete-lo-scrutinio-e-conferma-la-non-ammissione-dello-studente-il-tar-chiude-la-causa-e-addebita-mille-euro-di-spese-al-ministero/",
+   "titolo": "Studente bocciato, i genitori fanno ricorso per “eccesso di potere” del Consiglio di classe. La scuola ripete lo scrutinio e conferma la bocciatura, ma il Ministero paga 1.000 euro",
+   "abstract": "La ripetizione di uno scrutinio scolastico durante un processo amministrativo chiude automaticamente la causa sulla prima bocciatura, ma non salva l'amministrazione dal pagamento delle spese legali se il provvedimento originario presentava un difetto di motivazione. L'articolo…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "df69eb3b5cd0",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/social-stretta-sui-minori-presentato-emendamento-che-vieta-accesso-agli-under-13-via-libera-dai-15-anni-con-account-collegato-ai-genitori/",
+   "titolo": "Social, stretta sui minori: presentato emendamento che vieta accesso agli under 13. Via libera dai 15 anni con account collegato ai genitori",
+   "abstract": "Stretta sull’accesso dei giovanissimi alle piattaforme digitali. Il centrodestra ha depositato in Commissione Giustizia alla Camera un emendamento unitario al decreto legge cortei che introduce il divieto assoluto di iscrizione ai social network per i minori di 13 anni…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "34a12d159135",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/scuole-occupate-una-dirigente-scolastica-ai-docenti-basta-compiti-a-chi-occupa-non-sono-in-vacanza",
    "titolo": "Scuole occupate, una dirigente scolastica ai docenti: “Basta compiti a chi occupa, non sono in vacanza”",
    "abstract": "Alla vigilia dello sciopero generale, la dirigente del liceo scientifico Bottoni interviene con un messaggio su Facebook rivolto ai docenti. Il bersaglio non sono gli studenti in protesta, ma i professori che continuano ad assegnare compiti e scadenze sul registro elettronico…",
@@ -149,6 +218,23 @@
     "studenti",
     "personale",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/parte-dal-molise-il-tour-in-camper-della-uil-scuola-per-le-aree-interne-daprile-in-regione-persi-13mila-studenti-in-15-anni-e-38-sedi-in-un-decennio/",
+   "titolo": "Parte dal Molise il Tour in camper della Uil Scuola per le aree interne. D’Aprile: “In regione persi 13mila studenti in 15 anni e 38 sedi in un decennio”",
+   "abstract": "È partito oggi dal Molise, con una doppia tappa nei comuni di Carovilli e Agnone, in provincia di Isernia, il tour nazionale in camper promosso dalla UIL Scuola e dedicato alla difesa degli istituti scolastici delle aree interne. L'articolo Parte dal Molise il Tour in camper…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "a91d59488cba",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
    ],
    "superiori": false
   },
@@ -227,6 +313,23 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/manovra-salvini-la-scuola-e-la-palestra-mentale-dei-nostri-figli-quindi-bisogna-investire-piu-che-fare-altre-scelte-si-cercano-le-coperture/",
+   "titolo": "Manovra, Salvini: “La scuola è la palestra mentale dei nostri figli, quindi bisogna investire più che fare altre scelte”. Si cercano le coperture",
+   "abstract": "Gli studenti calano, ma per Matteo Salvini questo non è un buon motivo per spendere meno sulla scuola: “bisogna investire più che fare altre scelte”. La scuola, ha detto, è “la palestra mentale dei nostri figli”. L'articolo Manovra, Salvini: “La scuola è la palestra mentale dei…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "cf508aa1bb0d",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.indire.it/2026/11/19/m9-celebra-i-duecento-anni-di-carlo-collodi-una-mostra-svela-luomo-e-il-patriota-dietro-il-mito-di-pinocchio/",
    "titolo": "M9 celebra i Duecento anni di Carlo Collodi: una mostra svela l’uomo e il patriota dietro il mito di Pinocchio",
    "abstract": "Le speranze del Risorgimento, le contraddizioni della società nata dall’Unità d’Italia e le profonde trasformazioni civili dell’Ottocento si riflettono nell’opera di uno degli intellettuali più acuti e meno convenzionali del nostro Paese. In occasione del bicentenario della…",
@@ -242,6 +345,24 @@
    "raccolto": "2026-11-19",
    "sezioni": [
     "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-scolastici-digitali-di-micco-consulte-studentesche-una-svolta-storica-contro-la-speculazione-editoriale/",
+   "titolo": "Libri scolastici digitali, Di Micco (Consulte studentesche): “Una svolta storica contro la speculazione editoriale”",
+   "abstract": "Il Senato ha approvato l’emendamento presentato da Fratelli d’Italia al Decreto Scuola, che introduce l’obbligo per gli editori di vendere i libri di testo scolastici e universitari in formato digitale, e in modalità stampabile, a un prezzo inferiore di almeno il 50% rispetto…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "8284fc296edf",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -263,6 +384,86 @@
    "raccolto": "2026-11-19",
    "sezioni": [
     "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-digitali-daniele-novara-lo-studio-funziona-meglio-su-carta-e-sulla-scrittura-supporre-di-poter-imparare-a-scrivere-con-la-tastiera-e-un-equivoco/",
+   "titolo": "Libri digitali, Daniele Novara: “Lo studio funziona meglio su carta”. E sulla scrittura: “Supporre di poter imparare a scrivere con la tastiera è un equivoco”",
+   "abstract": "Per leggere un romanzo va bene tutto, carta o schermo. Per studiare, no. Il pedagogista Daniele Novara, direttore del Centro Psicopedagogico per l’educazione e la gestione dei conflitti, è convinto che i libri si capiscano e si ricordino meglio su carta: “lo studio funziona…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "952279fe365b",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/libri-di-testo-digitali-tanto-rumore-per-nulla-rappresentano-appena-il-36-delle-adozioni-nelle-scuole",
+   "titolo": "Libri di testo digitali, tanto rumore per nulla? “Rappresentano appena il 3,6% delle adozioni nelle scuole”",
+   "abstract": "Sull’emendamento al decreto Scuola dedicato allo sconto del 50% sui libri di testo digitali – su cui nella mattinata di oggi si è consumata una spaccatura nella maggioranza che sostiene il governo Meloni, con Forza Italia che ha votato contro insieme alle opposizioni – la…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "decreto legge scuola 2026",
+    "Ebook",
+    "Governo Meloni",
+    "Libri digitali"
+   ],
+   "id": "963445f932a9",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-digitali-al-50-risparmio-teorico-fino-a-400-milioni-ma-alle-famiglie-servono-400-euro-solo-per-il-tablet-e-fuori-da-scuola-valgono-appena-il-5-del-mercato-i-dati/",
+   "titolo": "Libri di testo digitali al 50%, risparmio teorico fino a 400 milioni: ma alle famiglie servono 400 euro solo per il tablet. E fuori da scuola valgono appena il 5% del mercato. I dati",
+   "abstract": "Via libera al Senato all'emendamento di Fratelli d'Italia al Decreto Scuola che obbliga gli editori a vendere i libri di testo scolastici e universitari in formato digitale a un prezzo inferiore di almeno il 50 per cento rispetto alla versione cartacea. L'articolo Libri di testo…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "807b27a661b6",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/insulti-in-chat-al-compagno-assente-e-4-500-euro-di-risarcimento-le-multe-da-sole-non-insegnano-il-rispetto-ma-restano-un-segnale-il-punto-di-maria-latella/",
+   "titolo": "Insulti in chat al compagno assente e 4.500 euro di risarcimento. “Le multe da sole non insegnano il rispetto, ma restano un segnale”: il punto di Maria Latella",
+   "abstract": "Un grave episodio di cyberbullismo avvenuto nel Vicentino offre lo spunto per una profonda riflessione sulla responsabilità educativa delle famiglie e sul ruolo dei coetanei negli ambienti digitali. A commentare la vicenda è stata Maria Latella nella sua rubrica \"Il punto\"…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "c9568dc1942a",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale",
     "innovazione"
    ],
    "superiori": false
@@ -324,6 +525,24 @@
    "superiori": true
   },
   {
+   "url": "https://www.orizzontescuola.it/famiglia-i-nuclei-con-un-solo-genitore-passano-dal-55-al-202-in-oltre-quarantanni-e-le-famiglie-con-un-figlio-solo-salgono-al-559-il-rapporto-istat-unicef/",
+   "titolo": "Famiglia, i nuclei con un solo genitore passano dal 5,5 al 20,2% in oltre quarant’anni. E le famiglie con un figlio solo salgono al 55,9%: il rapporto Istat-Unicef",
+   "abstract": "In Italia ci sono sempre meno bambini, e una parte crescente di loro vive in difficoltà. Nel 2025 il 12,5% delle persone con meno di 18 anni, oltre un milione di bambini e ragazzi, vive in povertà assoluta: le loro famiglie spendono ogni mese meno di quanto serve per una vita…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "a866c64d54d7",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/expo-training-taglia-il-traguardo-della-15esima-edizione-siamo-diventati-la-piazza-del-lavoro-della-formazione-e-dellorientamentovideo/",
    "titolo": "Expo Training taglia il traguardo della 15esima edizione: “Siamo diventati la piazza del lavoro, della formazione e dell’orientamento”(VIDEO)",
    "abstract": "Da scommessa pionieristica a punto di riferimento nazionale per l'incontro tra domande e offerte di futuro. Si presenta con numeri record la quindicesima edizione di Expo Training, la fiera dedicata alla formazione, all’orientamento e al lavoro che riunisce studenti, scuole…",
@@ -377,6 +596,27 @@
    "sezioni": [
     "studenti",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-via-libera-del-senato-assunzioni-da-prima-fascia-gps-fondi-al-personale-e-polemiche-sui-libri-digitali",
+   "titolo": "Decreto Scuola, via libera del Senato: assunzioni da prima fascia GPS, fondi al personale e polemiche sui libri digitali",
+   "abstract": "Il Decreto Scuola supera il primo passaggio parlamentare e apre la strada a una serie di novità che interessano docenti, personale ATA, studenti e famiglie. Il Senato ha approvato il disegno di legge di conversione del decreto legge 30 settembre 2026, n. 170, che passa ora…",
+   "data": "2026-11-19",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "decreto legge scuola 2026",
+    "Reclutamento docenti"
+   ],
+   "id": "8c0c6450763c",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
    ],
    "superiori": false
   },
@@ -436,6 +676,22 @@
     "riforme",
     "studenti",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-183-del-10-settembre-2026",
+   "titolo": "Decreto Ministeriale n. 183 del 10 settembre 2026",
+   "abstract": "",
+   "data": "2026-11-19",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "fcce0e1c11a1",
+   "raccolto": "2026-11-19",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
    ],
    "superiori": false
   },
@@ -532,6 +788,42 @@
    "abstract_tentato": true,
    "sezioni": [
     "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/class-action-contro-meta-e-tik-tok-il-tribunale-rinvia-udienza-a-gennaio-2027-in-attesa-delle-norme-del-governo-su-piattaforme-e-minori/",
+   "titolo": "Class action contro Meta e Tik Tok, il Tribunale rinvia udienza a gennaio 2027 in attesa delle norme del governo su piattaforme e minori",
+   "abstract": "Il Tribunale di Milano ha disposto il rinvio al 21 gennaio 2027 dell'udienza relativa alla class action inibitoria promossa dal Moige (Movimento italiano genitori) contro Meta e TikTok. La decisione del collegio giudicante è motivata dall'attesa di verificare gli sviluppi del…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "6110a2f5439a",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/calendario-scolastico-2026-27-quando-iniziano-le-vacanze-di-natale-e-quando-si-torna-a-scuola-tutte-le-date-regione-per-regione/",
+   "titolo": "Calendario scolastico 2026/27, quando iniziano le vacanze di Natale e quando si torna a scuola: tutte le date regione per regione",
+   "abstract": "Quando iniziano le vacanze di Natale 2026 e quando riaprono le scuole a gennaio 2027? Vediamo le date dei calendari scolastici regionali. L'articolo Calendario scolastico 2026/27, quando iniziano le vacanze di Natale e quando si torna a scuola: tutte le date regione per regione…",
+   "data": "2026-11-19",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Scuole",
+    "calendario scolastico"
+   ],
+   "id": "0dbbd425139e",
+   "raccolto": "2026-11-19",
+   "sezioni": [
+    "studenti"
    ],
    "superiori": false
   },
