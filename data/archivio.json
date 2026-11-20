@@ -1,38 +1,76 @@
 {
- "aggiornato": "2026-11-20T14:02:03+00:00",
+ "aggiornato": "2026-11-20T21:50:30+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-20T14:02:03+00:00",
-   "ultimo_ok": "2026-11-20T14:02:03+00:00"
+   "controllato": "2026-11-20T21:50:30+00:00",
+   "ultimo_ok": "2026-11-20T21:50:30+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-20T14:02:03+00:00",
-   "ultimo_ok": "2026-11-20T14:02:03+00:00"
+   "controllato": "2026-11-20T21:50:30+00:00",
+   "ultimo_ok": "2026-11-20T21:50:30+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-20T14:02:03+00:00",
-   "ultimo_ok": "2026-11-20T14:02:03+00:00"
+   "controllato": "2026-11-20T21:50:30+00:00",
+   "ultimo_ok": "2026-11-20T21:50:30+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-20T14:02:03+00:00",
-   "ultimo_ok": "2026-11-20T14:02:03+00:00"
+   "controllato": "2026-11-20T21:50:30+00:00",
+   "ultimo_ok": "2026-11-20T21:50:30+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-20T14:02:03+00:00",
-   "ultimo_ok": "2026-11-20T14:02:03+00:00"
+   "voci": 28,
+   "controllato": "2026-11-20T21:50:30+00:00",
+   "ultimo_ok": "2026-11-20T21:50:30+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/gli-insulti-solo-un-gioco-studente-con-dsa-bocciato-per-il-tar-non-bastano-le-tutele-del-pdp-se-manca-la-maturazione-personale",
+   "titolo": "“Gli insulti? Solo un gioco”: studente con DSA bocciato. Per il TAR non bastano le tutele del PDP se manca la maturazione personale",
+   "abstract": "Il TAR per la Lombardia (Sezione Quinta), con la sentenza n. 05177/2026, ha respinto il ricorso presentato dai genitori di uno studente con Disturbo Specifico dell’Apprendimento (DSA) contro la deliberazione di non ammissione alla classe successiva. Il Tribunale ha stabilito che…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "DSA",
+    "Tar"
+   ],
+   "id": "52c2d42e4d42",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studenti-in-piazza-quando-serve-la-giustificazione-cosa-rischiano-i-minorenni-e-quali-sono-i-loro-diritti-la-guida-di-cittadinanzattiva",
+   "titolo": "Studenti in piazza, quando serve la giustificazione, cosa rischiano i minorenni e quali sono i loro diritti: la guida di Cittadinanzattiva",
+   "abstract": "Partecipare a un corteo è un diritto anche per gli studenti minorenni, ma quali regole devono rispettare? Cosa succede se la manifestazione si svolge durante l’orario delle lezioni? E quali conseguenze possono esserci in caso di controlli, disordini o interventi delle forze…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Manifestazioni"
+   ],
+   "id": "776be9a02c2f",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/spinoza-e-le-inquietudini-dei-giovani-da-messina-a-milano-litalia-dei-licei-si-racconta-al-concorso-nazionale-video-di-filosofia/",
    "titolo": "Spinoza e le inquietudini dei giovani: da Messina a Milano, l’Italia dei licei si racconta al Concorso Nazionale Video di Filosofia",
@@ -73,6 +111,24 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/scuola-nelle-isole-la-regione-siciliana-finanzia-il-progetto-s-o-s-scuola-oltre-lo-scoglio-a-pantelleria",
+   "titolo": "Scuola nelle isole, la Regione Siciliana finanzia il progetto “S.O.S – Scuola oltre lo scoglio” a Pantelleria",
+   "abstract": "La Regione Siciliana ha approvato il finanziamento del progetto “S.O.S – Scuola oltre lo scoglio”, destinato all’istituto omnicomprensivo di Pantelleria. L’iniziativa nasce per contrastare l’isolamento geografico e assicurare pari opportunità formative e culturali agli studenti…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Sicilia"
+   ],
+   "id": "3a7ef358e8a6",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/sciopero-studenti-20-novembre-manifestazioni-in-tutto-il-lazio-basta-tagli-servono-investimenti-nella-scuola-pubblica/",
    "titolo": "Sciopero studenti 20 novembre, cortei da Roma a Verona contro carovita e tagli alla scuola. Blitz ai distributori di benzina: “Non pagheremo le vostre guerre”",
    "abstract": "Studenti in piazza oggi, venerdì 20 novembre 2026, in diverse città italiane per protestare contro il carovita, chiedere maggiori investimenti nell'istruzione pubblica e contestare le politiche di riarmo. L'articolo Sciopero studenti 20 novembre, cortei da Roma a Verona contro…",
@@ -83,6 +139,47 @@
     "Studenti"
    ],
    "id": "1b0c0fa96e15",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-studenti-puliscono-aule-dopo-loccupazione-e-difendono-i-poliziotti-davanti-al-ministero-dellistruzione",
+   "titolo": "Sciopero 20 novembre, studenti puliscono dopo l’occupazione e difendono i poliziotti davanti al ministero dell’Istruzione",
+   "abstract": "Non solo urla, cortei e proteste più o meno eclatanti. Nelle occupazioni delle ultime settimane e nello sciopero del comparto scuola che si sta svolgendo oggi, venerdì 20 novembre, in oltre cento piazze italiane, ci sono anche degli studenti che si sono distinti per il rispetto…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Ministero Istruzione e Merito",
+    "Sciopero"
+   ],
+   "id": "fcab7b12120d",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-studenti-lanciano-bombe-carta-al-mim-valditara-scendi-dal-palazzo-momenti-di-tensione",
+   "titolo": "Sciopero 20 novembre, studenti lanciano bombe carta al Mim: “Valditara, scendi dal palazzo”, momenti di tensione",
+   "abstract": "Oggi, 20 novembre, è il giorno del grande sciopero generale della Cgil. La mobilitazione del sindacato riguarda 100 piazze in Italia con manifestazioni, cortei e comizi. Si stanno svolgendo appuntamenti regionali e territoriali per chiedere salari più alti, diritti, sicurezza…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Flc Cgil",
+    "Sciopero generale"
+   ],
+   "id": "1c689b8aaa95",
    "raccolto": "2026-11-20",
    "sezioni": [
     "studenti",
@@ -130,6 +227,28 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-giuliani-la-mobilitazione-del-personale-scolastico-non-si-ferma-ecco-cosa-chiedono-i-lavoratori",
+   "titolo": "Sciopero 20 novembre, Giuliani: “La mobilitazione del personale scolastico non si ferma, ecco cosa chiedono i lavoratori”",
+   "abstract": "La mobilitazione che oggi ha portato in piazza in tutta Italia docenti e personale scolastico, nell’ambito dello sciopero indetto da Flc Cgil e Gilda degli Insegnanti, è destinata a proseguire. A dirlo, intervistato da Sesarete, è il direttore della Tecnica della Scuola…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Flc Cgil",
+    "Gilda degli Insegnanti",
+    "Sciopero"
+   ],
+   "id": "f292a1386b4c",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-2026-scuole-chiuse-per-ladesione-del-personale-ata-lattivita-didattica-e-sospesa",
    "titolo": "Sciopero 20 novembre 2026, scuole chiuse per l’adesione del personale Ata: “L’attività didattica è sospesa”",
    "abstract": "Cancelli chiusi e un avviso appeso con il nastro adesivo: “A causa della massiva adesione allo sciopero del personale Ata, oggi 20 novembre 2026 l’attività didattica è sospesa”. È l’immagine che oggi accoglie studenti e famiglie davanti a un istituto superiore di Roma, nella…",
@@ -169,6 +288,78 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/pn-scuola-e-competenze-2021-2027-arriva-lapp-sif2127-per-registrare-le-presenze-da-smartphone/",
+   "titolo": "PN Scuola e Competenze 2021-2027, arriva l’app SIF2127 per registrare le presenze da smartphone",
+   "abstract": "Una nuova applicazione per semplificare la registrazione delle presenze nei progetti finanziati dal Programma nazionale “Scuola e Competenze” 2021-2027. L'articolo PN Scuola e Competenze 2021-2027, arriva l’app SIF2127 per registrare le presenze da smartphone sembra essere il…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti scolastici"
+   ],
+   "id": "ff8b13a8271e",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/nota-prot-n-9457-del-20-novembre-2026",
+   "titolo": "Nota prot. n. 9457 del 20 novembre 2026",
+   "abstract": "Giornata nazionale per la sicurezza nelle scuole.",
+   "data": "2026-11-20",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "38a3c7eb5ea0",
+   "raccolto": "2026-11-20",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/non-solo-voti-e-consegne-per-il-tar-anche-le-competenze-sociali-ed-emotive-pesano-sul-giudizio-finale-corretto-abbassare-il-giudizio-da-eccellente-ad-adeguato/",
+   "titolo": "Non solo “voti” e “consegne”, per il TAR anche le competenze sociali ed emotive pesano sulla valutazione finale: corretto abbassare il giudizio da “eccellente” ad “adeguato”",
+   "abstract": "Il TAR per la Calabria (Sezione Seconda) ha respinto il ricorso presentato dai genitori di una studentessa di una scuola media della provincia di Vibo Valentia contro il Ministero dell'Istruzione e del Merito e contro l'istituto scolastico, confermando la legittimità del…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "6a451c57df70",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/libri-digitali-fratelli-ditalia-riconsidera-la-norma-ne-va-valutato-limpatto-sugli-alunni-di-primaria-e-medie-lemendamento-al-dl-scuola",
+   "titolo": "Libri digitali, Fratelli D’Italia riconsidera la norma: ne va valutato l’impatto sugli alunni di primaria e medie, l’emendamento al Dl Scuola",
+   "abstract": "L’aula del Senato ieri, 19 novembre, ha approvato l’emendamento sugli e-book presentato da Fratelli d’Italia al Decreto scuola, con 84 voti a favore e 76 contrari. La proposta – che impone agli editori di offrire i libri scolastici e universitari in formato digitale al 50 per…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "decreto legge scuola 2026",
+    "Fratelli D'Italia"
+   ],
+   "id": "5df002c36588",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/libri-di-testo-digitali-federcartolai-forte-preoccupazione-subito-un-tavolo-di-confronto-con-filiera-rischio-costi-nascosti-per-famiglie-e-danno-a-negozi-di-prossimita/",
    "titolo": "Libri di testo digitali, Federcartolai: “Forte preoccupazione. Subito un tavolo di confronto con filiera. Rischio costi nascosti per famiglie e danno a negozi di prossimità”",
    "abstract": "Federcartolai-Confcommercio esprime \"forte preoccupazione\" per le disposizioni relative all'introduzione dei libri scolastici in formato digitale e chiede al Governo \"un confronto serio e approfondito con tutti gli operatori della filiera\". È quanto si legge in una nota diffusa…",
@@ -183,6 +374,138 @@
    "sezioni": [
     "studenti",
     "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/joborienta-2026-dal-25-al-28-novembre-a-verona-focus-su-filiera-42-licei-tecnologici-its-academy-e-innovazione-didattica-nota-mim/",
+   "titolo": "Job&Orienta 2026, dal 25 al 28 novembre a Verona: focus su filiera 4+2, licei tecnologici, ITS Academy e innovazione didattica. Nota MIM",
+   "abstract": "Dal 25 al 28 novembre 2026 torna a VeronaFiere Job&Orienta, il salone nazionale dedicato all'orientamento, alla scuola, alla formazione e al lavoro. L'articolo Job&Orienta 2026, dal 25 al 28 novembre a Verona: focus su filiera 4+2, licei tecnologici, ITS Academy e innovazione…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "c9fb0cc48060",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/insulti-a-una-compagna-considerati-un-gioco-il-tar-conferma-la-bocciatura-dello-studente-dopo-il-6-in-condotta/",
+   "titolo": "Insulti a una compagna considerati “un gioco”, il TAR conferma la bocciatura dello studente dopo il 6 in condotta",
+   "abstract": "Una frase pronunciata durante un colloquio di riparazione può pesare molto più di una sufficienza appena conquistata in matematica. La storia giudiziaria approdata davanti ai magistrati milanesi nasce tra i corridoi di un istituto superiore lombardo durante gli esami di fine…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "8bb68e1d71d0",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "esami",
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/in-sicilia-ecco-il-prestito-donore-per-gli-universitari-fino-a-10mila-euro-a-tasso-zero-e-senza-garanzie-come-funzionera-il-rimborso-dopo-la-laurea-quali-sono-i-requisiti-di-reddito-e-merito-per/",
+   "titolo": "In Sicilia ecco il prestito d’onore per gli universitari: fino a 10mila euro a tasso zero e senza garanzie. Come funzionerà il rimborso dopo la laurea",
+   "abstract": "Fino a 10 mila euro a tasso zero, senza alcuna garanzia richiesta e con la possibilità di iniziare a restituire la somma soltanto dopo la laurea. Sono queste le novità principali del prestito d’onore destinato agli studenti universitari, introdotte dal decreto approvato dalla…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "b4cf1b9388d9",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/il-figlio-prende-7-allesame-di-terza-i-genitori-vogliono-vedere-le-abilitazioni-dei-docenti-per-contestare-la-valutazione-il-tar-dice-no-non-posso-chiederle-per-rivedere-la-pagella/",
+   "titolo": "Il figlio prende 7 all’esame di terza media, i genitori chiedono di vedere i titoli abilitanti dei docenti. Il TAR dice no: niente accesso per rivedere i voti",
+   "abstract": "I genitori non hanno diritto di chiedere copia delle abilitazioni dei docenti per contestare la pagella del proprio figlio. Lo ha stabilito la Quinta Sezione del Tribunale Amministrativo Regionale per la Lombardia, respingendo il ricorso presentato da una famiglia contro la…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "7d515c7a11ac",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/il-7-allesame-di-terza-media-non-piace-i-genitori-chiedono-di-controllare-le-abilitazioni-di-tutti-i-professori-il-tar-respinge-la-richiesta",
+   "titolo": "Il 7 all’esame di terza media non piace, i genitori chiedono di controllare le abilitazioni di tutti i professori: il TAR respinge la richiesta",
+   "abstract": "Il TAR Lombardia (Sezione Quinta), con la sentenza n. 05232/2026 pubblicata il 18 novembre 2026, ha tracciato confini estremamente precisi al diritto di accesso agli atti scolastici da parte delle famiglie. La vicenda trae origine dall’iniziativa di una coppia di genitori il cui…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "esame",
+    "Tar"
+   ],
+   "id": "da5f6eb4d027",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/google-scuole-senza-motore-di-ricerca-se-disattivano-lia-oltre-500-dipendenti-contro-la-decisione/",
+   "titolo": "Google, scuole senza motore di ricerca se disattivano l’IA: oltre 500 dipendenti contro la decisione",
+   "abstract": "Oltre 500 dipendenti di Google chiedono all'azienda di rivedere la decisione di impedire l'accesso al motore di ricerca agli studenti dei distretti scolastici statunitensi che scelgono di disabilitare le funzionalità di intelligenza artificiale. L'articolo Google, scuole senza…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "7002b8ca1a56",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/docenti-nominati-dopo-il-15-novembre-la-data-entro-la-quale-si-puo-ancora-presentare-domanda-di-permesso-per-diritto-allo-studio-anno-2027/",
+   "titolo": "Docenti nominati dopo il 15 novembre, la data entro la quale si può ancora presentare domanda di permesso per diritto allo studio anno 2027",
+   "abstract": "Una nomina fino al 30 giugno 2027, conferita dopo il 15 novembre, permette di presentare domanda per usufruire del permesso per diritto allo studio? L'articolo Docenti nominati dopo il 15 novembre, la data entro la quale si può ancora presentare domanda di permesso per diritto…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "diritto allo studio",
+    "permessi"
+   ],
+   "id": "46233e8ff3c2",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
    ],
    "superiori": false
   },
@@ -258,6 +581,40 @@
    "sezioni": [
     "studenti",
     "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/chi-vuol-essere-milionario-campione-insegna-a-scuola-senza-laurea-condannato-a-due-mesi-di-reclusione-la-ds-gli-alunni-lo-apprezzavano",
+   "titolo": "Chi Vuol Essere Milionario, campione insegna a scuola senza laurea: condannato a due mesi di reclusione. La ds: gli alunni lo apprezzavano",
+   "abstract": "Un campione del celebre show “Chi vuol essere milionario” avrebbe insegnato matematica senza possedere la laurea dichiarata. Si tratta di un 61enne emiliano, che, come riporta Il Corriere della Sera, è stato condannato a due mesi di reclusione con sospensione della pena per…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "titoli falsi"
+   ],
+   "id": "d5fc3720fe3b",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-176-del-20-novembre-2026",
+   "titolo": "Avviso n. 176 del 20 novembre 2026",
+   "abstract": "Procedura di conferimento di un incarico di livello dirigenziale generale presso la Direzione Generale per la Comunicazione e le Relazioni Istituzionali.",
+   "data": "2026-11-20",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "aea4e832c594",
+   "raccolto": "2026-11-20",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
    ],
    "superiori": false
   },
