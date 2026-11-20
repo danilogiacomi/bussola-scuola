@@ -1,38 +1,266 @@
 {
- "aggiornato": "2026-11-19T23:35:51+00:00",
+ "aggiornato": "2026-11-20T14:02:03+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-19T23:35:51+00:00",
-   "ultimo_ok": "2026-11-19T23:35:51+00:00"
+   "controllato": "2026-11-20T14:02:03+00:00",
+   "ultimo_ok": "2026-11-20T14:02:03+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-19T23:35:51+00:00",
-   "ultimo_ok": "2026-11-19T23:35:51+00:00"
+   "controllato": "2026-11-20T14:02:03+00:00",
+   "ultimo_ok": "2026-11-20T14:02:03+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-19T23:35:51+00:00",
-   "ultimo_ok": "2026-11-19T23:35:51+00:00"
+   "controllato": "2026-11-20T14:02:03+00:00",
+   "ultimo_ok": "2026-11-20T14:02:03+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-19T23:35:51+00:00",
-   "ultimo_ok": "2026-11-19T23:35:51+00:00"
+   "controllato": "2026-11-20T14:02:03+00:00",
+   "ultimo_ok": "2026-11-20T14:02:03+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-19T23:35:51+00:00",
-   "ultimo_ok": "2026-11-19T23:35:51+00:00"
+   "controllato": "2026-11-20T14:02:03+00:00",
+   "ultimo_ok": "2026-11-20T14:02:03+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/spinoza-e-le-inquietudini-dei-giovani-da-messina-a-milano-litalia-dei-licei-si-racconta-al-concorso-nazionale-video-di-filosofia/",
+   "titolo": "Spinoza e le inquietudini dei giovani: da Messina a Milano, l’Italia dei licei si racconta al Concorso Nazionale Video di Filosofia",
+   "abstract": "La filosofia esce dalle pagine dei manuali e diventa linguaggio visivo per raccontare il presente e le fragilità delle nuove generazioni. È questo il bilancio della terza edizione del Concorso Nazionale Video di Filosofia, che ha visto confrontarsi 28 istituti secondari di…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "76e194d67da6",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "personale",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sicurezza-nelle-scuole-86-crolli-da-settembre-2025-cittadinanzattiva-servono-26-miliardi-per-ledilizia-scolastica-e-ladattamento-climatico/",
+   "titolo": "Sicurezza nelle scuole, 86 crolli da settembre 2025. Cittadinanzattiva: “Servono 2,6 miliardi per l’edilizia scolastica e l’adattamento climatico”",
+   "abstract": "Sono 86 i crolli registrati nelle scuole italiane da settembre 2025 a oggi, di cui 18 dall'inizio del nuovo anno scolastico. In vista della Giornata nazionale della sicurezza nelle scuole, che si celebra il 22 novembre, Cittadinanzattiva torna a chiedere maggiori investimenti…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti",
+    "Genitori",
+    "edilizia scolastica"
+   ],
+   "id": "af5f41fd7b8f",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sciopero-studenti-20-novembre-manifestazioni-in-tutto-il-lazio-basta-tagli-servono-investimenti-nella-scuola-pubblica/",
+   "titolo": "Sciopero studenti 20 novembre, cortei da Roma a Verona contro carovita e tagli alla scuola. Blitz ai distributori di benzina: “Non pagheremo le vostre guerre”",
+   "abstract": "Studenti in piazza oggi, venerdì 20 novembre 2026, in diverse città italiane per protestare contro il carovita, chiedere maggiori investimenti nell'istruzione pubblica e contestare le politiche di riarmo. L'articolo Sciopero studenti 20 novembre, cortei da Roma a Verona contro…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "1b0c0fa96e15",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-oltre-50-cortei-in-italia-la-rete-degli-studenti-medi-investire-sulla-scuola-pubblica",
+   "titolo": "Sciopero 20 novembre, oltre 50 cortei in Italia. La Rete degli Studenti Medi: “Investire sulla scuola pubblica”",
+   "abstract": "Dopo settimane di mobilitazioni e oltre 150 scuole occupate da nord a sud, gli studenti tornano oggi in piazza con lo sciopero nazionale. Sono più di 50 i cortei promossi dalla Rete degli Studenti Medi, in una giornata che coincide con lo sciopero generale della Cgil e si…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Rete degli studenti medi",
+    "Sciopero"
+   ],
+   "id": "e08f407041c7",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-blitz-degli-studenti-al-distributore-prezzi-della-benzina-azzerati-durante-il-corteo",
+   "titolo": "Sciopero 20 novembre, blitz degli studenti al distributore: prezzi della benzina azzerati durante il corteo",
+   "abstract": "Prezzi della benzina portati simbolicamente a 0,00 euro al litro. È l’iniziativa dei movimenti “Les Blocages” e Banda di Robin Hood, che nel corso del corteo del 20 novembre a Roma hanno cambiato le cifre su un distributore lungo il percorso. Un gesto dimostrativo contro il caro…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Sciopero"
+   ],
+   "id": "3d57a46cd1ae",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sciopero-20-novembre-2026-scuole-chiuse-per-ladesione-del-personale-ata-lattivita-didattica-e-sospesa",
+   "titolo": "Sciopero 20 novembre 2026, scuole chiuse per l’adesione del personale Ata: “L’attività didattica è sospesa”",
+   "abstract": "Cancelli chiusi e un avviso appeso con il nastro adesivo: “A causa della massiva adesione allo sciopero del personale Ata, oggi 20 novembre 2026 l’attività didattica è sospesa”. È l’immagine che oggi accoglie studenti e famiglie davanti a un istituto superiore di Roma, nella…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Flc Cgil",
+    "Gilda degli Insegnanti",
+    "Sciopero"
+   ],
+   "id": "50a57232676d",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/quindici-anni-di-expo-training-la-ricetta-di-barberis-orientamento-nei-percorsi-curricolari-per-ridurre-il-mismatch-video/",
+   "titolo": "Quindici anni di Expo Training, la ricetta di Barberis: “Orientamento nei percorsi curricolari per ridurre il mismatch” (VIDEO)",
+   "abstract": "Ridurre il divario tra le competenze richieste dalle imprese e quelle acquisite nei percorsi scolastici attraverso una riforma strutturale dell'orientamento. L'articolo Quindici anni di Expo Training, la ricetta di Barberis: “Orientamento nei percorsi curricolari per ridurre il…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "d92ef29d20bf",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-di-testo-digitali-federcartolai-forte-preoccupazione-subito-un-tavolo-di-confronto-con-filiera-rischio-costi-nascosti-per-famiglie-e-danno-a-negozi-di-prossimita/",
+   "titolo": "Libri di testo digitali, Federcartolai: “Forte preoccupazione. Subito un tavolo di confronto con filiera. Rischio costi nascosti per famiglie e danno a negozi di prossimità”",
+   "abstract": "Federcartolai-Confcommercio esprime \"forte preoccupazione\" per le disposizioni relative all'introduzione dei libri scolastici in formato digitale e chiede al Governo \"un confronto serio e approfondito con tutti gli operatori della filiera\". È quanto si legge in una nota diffusa…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "4e8e8de49c27",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-lo-scontro-sugli-e-book-spacca-la-maggioranza-le-opposizioni-attaccano-sulla-carta-si-studia-e-si-impara-meglio-una-resa-dei-conti-che-penalizza-studenti-ed-editori/",
+   "titolo": "Decreto Scuola, lo scontro sugli e-book spacca la maggioranza. Le opposizioni attaccano: “Sulla carta si studia e si impara meglio. Una resa dei conti che penalizza studenti ed editori”",
+   "abstract": "È alta tensione intorno al Decreto Scuola, dove la questione dell'editoria scolastica e dell'introduzione obbligatoria dei testi in formato digitale ha innescato un duro scontro politico, facendo emergere una frattura evidente all'interno della stessa maggioranza. L'articolo…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "10cde0856b09",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-salvini-norma-sugli-e-book-e-sacrosanta-decidere-se-stare-con-editori-o-studenti/",
+   "titolo": "Decreto Scuola, Salvini: “Norma sugli e-book è sacrosanta, occorre decidere se stare con editori o studenti”",
+   "abstract": "\"Mi sembra bizzarro che la maggioranza, che va d’accordo su temi importanti, si divida sui libri elettronici\". Lo ha dichiarato il vicepremier e leader della Lega, Matteo Salvini, durante una conferenza stampa organizzata dal partito sulla manovra, commentando il voto contrario…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "a24127157cdf",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-pei-piu-flessibile-ore-di-sostegno-adeguabili-e-maggiore-partecipazione-delle-famiglie-il-garante-passi-avanti-significativi/",
+   "titolo": "Decreto Scuola, PEI più flessibile, ore di sostegno adeguabili e maggiore partecipazione delle famiglie. Il Garante: “Passi avanti significativi”",
+   "abstract": "L’Autorità Garante nazionale dei diritti delle persone con disabilità esprime apprezzamento per le modifiche all’articolo 1 del Decreto Scuola (DL 170/2026), introdotte con l’emendamento 1.100 (testo 4), approvato dalla 7ª Commissione del Senato e confluito nel testo approvato…",
+   "data": "2026-11-20",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "97e1d3717fcc",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-daprile-uil-scuola-non-basta-ampliare-i-canali-di-reclutamento-se-non-si-interviene-sui-posti-su-cui-poter-assumere",
+   "titolo": "Decreto Scuola, D’Aprile (Uil Scuola): “Non basta ampliare i canali di reclutamento se non si interviene sui posti su cui poter assumere”",
+   "abstract": "Il Decreto Scuola supera il primo passaggio parlamentare e apre la strada a una serie di novità che interessano docenti, personale ATA, studenti e famiglie. Il Senato ha approvato il disegno di legge di conversione del decreto legge 30 settembre 2026, n. 170, che passa ora…",
+   "data": "2026-11-20",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Decreto scuola",
+    "Doppio canale di reclutamento",
+    "Uil Scuola"
+   ],
+   "id": "9afbc5b82e09",
+   "raccolto": "2026-11-20",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/violenza-a-scuola-e-bullismo-i-docenti-possono-aiutare-gli-studenti-il-percorso-gratuito-con-lo-psicologo-giovanni-siena",
    "titolo": "Violenza a scuola e bullismo: i docenti possono aiutare gli studenti? Il webinar gratuito con lo psicologo Giovanni Siena",
