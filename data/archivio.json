@@ -1,35 +1,35 @@
 {
- "aggiornato": "2026-11-21T13:29:05+00:00",
+ "aggiornato": "2026-11-21T20:32:15+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-21T13:29:05+00:00",
-   "ultimo_ok": "2026-11-21T13:29:05+00:00"
+   "controllato": "2026-11-21T20:32:15+00:00",
+   "ultimo_ok": "2026-11-21T20:32:15+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-21T13:29:05+00:00",
-   "ultimo_ok": "2026-11-21T13:29:05+00:00"
+   "controllato": "2026-11-21T20:32:15+00:00",
+   "ultimo_ok": "2026-11-21T20:32:15+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-21T13:29:05+00:00",
-   "ultimo_ok": "2026-11-21T13:29:05+00:00"
+   "controllato": "2026-11-21T20:32:15+00:00",
+   "ultimo_ok": "2026-11-21T20:32:15+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-21T13:29:05+00:00",
-   "ultimo_ok": "2026-11-21T13:29:05+00:00"
+   "controllato": "2026-11-21T20:32:15+00:00",
+   "ultimo_ok": "2026-11-21T20:32:15+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 26,
-   "controllato": "2026-11-21T13:29:05+00:00",
-   "ultimo_ok": "2026-11-21T13:29:05+00:00"
+   "controllato": "2026-11-21T20:32:15+00:00",
+   "ultimo_ok": "2026-11-21T20:32:15+00:00"
   }
  },
  "notizie": [
@@ -85,6 +85,23 @@
     "studenti"
    ],
    "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/tre-punti-mancanti-e-il-sogno-del-100-sfuma-il-tar-dice-no-alla-diplomata-la-commissione-ha-motivato-bene-la-decisione/",
+   "titolo": "Tre punti mancanti e il sogno del 100 sfuma, il TAR dice no alla diplomata: la commissione ha motivato bene la decisione",
+   "abstract": "Resta fermo a 97 su 100 il voto dell’esame di Stato 2024/2025 per una studentessa di un liceo classico che puntava al cento tramite l’intero pacchetto di punti bonus. L'articolo Tre punti mancanti e il sogno del 100 sfuma, il TAR dice no alla diplomata: la commissione ha…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "278de5645f6e",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
   },
   {
    "url": "https://www.orizzontescuola.it/stretta-sui-social-ai-minori-lavenia-a-16-anni-non-ci-si-sa-difendere-dalle-piattaforme-serve-un-patentino-a-punti/",
@@ -159,6 +176,25 @@
    "superiori": false
   },
   {
+   "url": "https://www.tecnicadellascuola.it/prevenzione-e-primo-soccorso-in-lombardia-7mila-studenti-saranno-formati-su-massaggio-cardiaco-e-uso-del-defibrillatore",
+   "titolo": "Prevenzione e primo soccorso, in Lombardia 7mila studenti saranno formati su massaggio cardiaco e uso del defibrillatore",
+   "abstract": "In Lombardia oltre 7mila studenti saranno formati con corsi salvavita. Il Progetto di legge approvato in Consiglio regionale infatti prevede l’attivazione di corsi destinati agli studenti degli Istituti di Istruzione e Formazione Professionale. I percorsi avranno una durata…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Primo soccorso",
+    "Regione Lombardia"
+   ],
+   "id": "324db48f0331",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/parlamento-europeo-a-expo-training-workshop-concorsi-ed-erasmus-per-avvicinare-le-scuole-allue-video/",
    "titolo": "Parlamento Europeo a Expo Training: workshop, concorsi ed Erasmus per avvicinare le scuole all’Ue (VIDEO)",
    "abstract": "Avvicinare gli studenti alle istituzioni comunitarie, far conoscere le opportunità di mobilità e valorizzare il ruolo attivo degli istituti scolastici: con questi obiettivi l'Ufficio del Parlamento Europeo a Milano partecipa a Expo Training. L'articolo Parlamento Europeo a Expo…",
@@ -215,6 +251,62 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/manovra-pacifico-anief-niente-tagli-alle-cattedre-nei-tecnici-e-compensi-per-chi-accompagna-gli-studenti-in-viaggio-em/",
+   "titolo": "Manovra, Pacifico (ANIEF): “Niente tagli alle cattedre nei tecnici e compensi per chi accompagna gli studenti in viaggio”. Emendamenti presentati",
+   "abstract": "Il percorso parlamentare della legge di bilancio 2027-2029 (A.C. 3174-bis) entra nel vivo presso la 5ª Commissione Bilancio della Camera, dove nella prima bozza del fascicolo — che conta complessivamente oltre 6.000 proposte di modifica — trovano spazio sei emendamenti dedicati…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "3844ddb9c917",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/lia-rischia-il-collasso-se-copia-se-stessa-come-per-gli-studenti-lantidoto-e-la-sorpresa-la-scoperta-tutta-italiana-contro-il-collasso-dei-modelli-generativi/",
+   "titolo": "L’IA rischia il “collasso” se copia sé stessa: come per gli studenti, l’antidoto è la sorpresa. La scoperta tutta italiana contro il collasso dei modelli generativi",
+   "abstract": "C’è un paradosso che minaccia il futuro dell’intelligenza artificiale generativa: più questi sistemi producono testi, immagini e codice che finiscono online, più i futuri modelli rischiano di addestrarsi su materiale creato da altre macchine. L'articolo L’IA rischia il…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "297551f279a7",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/intelligenza-artificiale-e-cittadinanza-digitale-la-seconda-puntata-di-educazione-civica-con-susanna-sancassani-diretta-23-novembre-ore-11-iscrivi-la-classe-2",
+   "titolo": "Intelligenza Artificiale e Cittadinanza digitale: la seconda puntata di Educazione Civica con Susanna Sancassani – DIRETTA 23 novembre ore 11, ISCRIVI LA CLASSE",
+   "abstract": "Che cosa cambia, per uno studente, quando l’intelligenza artificiale diventa uno strumento quotidiano di studio? E come si impara a giudicare una risposta che sembra convincente? Da queste domande può partire il dialogo di Susanna Sancassani con le studentesse e gli studenti…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Educazione civica",
+    "Intelligenza artificiale"
+   ],
+   "id": "47194bd5e5f8",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/in-lombardia-arrivano-i-corsi-salvavita-oltre-7-000-studenti-formati-su-massaggio-cardiaco-e-defibrillatore/",
    "titolo": "In Lombardia arrivano i corsi salvavita: oltre 7.000 studenti formati su massaggio cardiaco e defibrillatore",
    "abstract": "Portare le manovre salvavita direttamente tra i banchi di scuola, trasformando il primo soccorso in una competenza strutturale del percorso formativo dei giovani e allineando il territorio agli standard europei del programma \"Kids Save Lives\". L'articolo In Lombardia arrivano i…",
@@ -232,6 +324,24 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/dodici-insufficienze-e-oltre-il-40-di-assenze-per-il-tar-la-diagnosi-di-fine-anno-non-basta-per-lesame-pdp-non-da-promozione-automatica-bocciatura-confermata/",
+   "titolo": "Dodici insufficienze e oltre il 40% di assenze, per il TAR la diagnosi di fine anno non basta per l’esame: PDP non dà promozione automatica, bocciatura confermata",
+   "abstract": "Resta confermata la non ammissione all’esame di Stato conclusivo del primo ciclo per una studentessa della scuola secondaria di primo grado di Terni, fermata allo scrutinio dell’anno scolastico 2025/2026 con dodici materie insufficienti e una media finale di 4,67. L'articolo…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "dfb116742ae6",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
+  },
+  {
    "url": "https://www.tecnicadellascuola.it/curricolo-verticale-secondo-le-nuove-indicazioni-nazionali-2026-cosa-ce-da-sapere-il-corso",
    "titolo": "Curricolo verticale secondo le nuove indicazioni nazionali 2026, cosa c’è da sapere? Il corso",
    "abstract": "Le nuove Indicazioni nazionali chiamano i dirigenti a una responsabilità che non si esaurisce negli adempimenti: fare in modo che il curricolo rispecchi una visione educativa precisa. Per riuscirci, occorre saper leggere le novità, individuare le priorità e guidare il collegio…",
@@ -246,6 +356,23 @@
    "raccolto": "2026-11-21",
    "sezioni": [
     "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/contare-gli-iscritti-non-basta-la-corte-dei-conti-ue-richiama-la-commissione-sullefficacia-degli-aiuti-scolastici-nei-paesi-piu-poveri/",
+   "titolo": "Contare gli iscritti non basta: la Corte dei conti UE richiama la Commissione sull’efficacia degli aiuti scolastici nei paesi più poveri",
+   "abstract": "Quando si parla di cooperazione internazionale e lotta alla povertà, l’istruzione occupa quasi sempre il primo posto: garantire ai giovani il diritto allo studio è considerato lo strumento più efficace per offrire un futuro dignitoso e spezzare il ciclo dell'indigenza…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "15426643dce9",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
    ],
    "superiori": false
   },
@@ -286,6 +413,25 @@
     "studenti",
     "personale",
     "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/aria-viziata-in-classe-perche-la-ventilazione-scolastica-e-la-vera-emergenza-invisibile/",
+   "titolo": "Aria viziata in classe: perché la ventilazione scolastica è la vera emergenza invisibile. Ecco la proposta di legge “Scuole sane e sicure”",
+   "abstract": "Quando si valuta il benessere a scuola, l’attenzione si concentra quasi sempre su programmi didattici, edilizia sicura o strumenti digitali. Eppure esiste un elemento impalpabile che condiziona ogni singola ora di lezione: la qualità dell’aria che studenti e insegnanti…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "d45989221f25",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
    ],
    "superiori": false
   },
