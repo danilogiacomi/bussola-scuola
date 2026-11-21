@@ -1,38 +1,312 @@
 {
- "aggiornato": "2026-11-20T21:50:30+00:00",
+ "aggiornato": "2026-11-21T13:29:05+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-20T21:50:30+00:00",
-   "ultimo_ok": "2026-11-20T21:50:30+00:00"
+   "controllato": "2026-11-21T13:29:05+00:00",
+   "ultimo_ok": "2026-11-21T13:29:05+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-20T21:50:30+00:00",
-   "ultimo_ok": "2026-11-20T21:50:30+00:00"
+   "controllato": "2026-11-21T13:29:05+00:00",
+   "ultimo_ok": "2026-11-21T13:29:05+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-20T21:50:30+00:00",
-   "ultimo_ok": "2026-11-20T21:50:30+00:00"
+   "controllato": "2026-11-21T13:29:05+00:00",
+   "ultimo_ok": "2026-11-21T13:29:05+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-20T21:50:30+00:00",
-   "ultimo_ok": "2026-11-20T21:50:30+00:00"
+   "voci": 28,
+   "controllato": "2026-11-21T13:29:05+00:00",
+   "ultimo_ok": "2026-11-21T13:29:05+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-20T21:50:30+00:00",
-   "ultimo_ok": "2026-11-20T21:50:30+00:00"
+   "voci": 26,
+   "controllato": "2026-11-21T13:29:05+00:00",
+   "ultimo_ok": "2026-11-21T13:29:05+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/mio-figlio-va-al-corteo-cosa-devono-sapere-i-genitori-su-sicurezza-tutele-e-responsabilita-la-guida-di-cittadinanzattiva/",
+   "titolo": "“Mio figlio va al corteo”, cosa devono sapere i genitori su sicurezza, tutele e responsabilità. La guida di Cittadinanzattiva",
+   "abstract": "Quando un figlio o una figlia adolescente chiede di partecipare a un corteo o a una manifestazione studentesca, la reazione di molti genitori oscilla tra l’orgoglio per l’impegno civile e la naturale preoccupazione per la sua incolumità. L'articolo “Mio figlio va al corteo”…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "44910aebaab4",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/via-le-borse-di-studio-agli-studenti-indagati-multe-e-stop-ai-bonus-per-i-genitori-emendamenti-fdi-al-decreto-sicurezza/",
+   "titolo": "Via le borse di studio agli studenti indagati, multe e stop ai bonus per i genitori. Emendamenti FdI al Decreto Sicurezza",
+   "abstract": "Stop alle borse di studio per gli studenti anche solo indagati durante le proteste, risarcimenti a carico di chi organizza le occupazioni scolastiche e sospensione dei sussidi comunali per le famiglie dei minorenni condannati. L'articolo Via le borse di studio agli studenti…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "832bfbb21578",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/universita-bologna-scala-le-classifiche-green-balzo-di-40-posizioni-nel-qs-sustainability-ranking/",
+   "titolo": "Università, Bologna scala le classifiche green: balzo di 40 posizioni nel QS Sustainability Ranking",
+   "abstract": "Un balzo in avanti di quaranta posizioni a livello globale e di undici su scala europea, che conferma la solidità delle politiche ambientali e sociali messe in campo negli ultimi anni. L'articolo Università, Bologna scala le classifiche green: balzo di 40 posizioni nel QS…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "bf81a4f38afe",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/stretta-sui-social-ai-minori-lavenia-a-16-anni-non-ci-si-sa-difendere-dalle-piattaforme-serve-un-patentino-a-punti/",
+   "titolo": "Stretta sui social ai minori, Lavenia: “A 16 anni non ci si sa difendere dalle piattaforme, serve un patentino a punti”",
+   "abstract": "Il dibattito sulla tutela dei minori online entra nel vivo a seguito dell’emendamento al decreto Sicurezza annunciato dalla maggioranza, che punta a vietare l’accesso ai social network sotto i tredici anni e a introdurre l'obbligo di accompagnamento genitoriale fino ai sedici…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "f60465b46a6a",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scuola-e-imprese-sullorientamento-ce-uno-sfasamento-esplode-alle-medie-59-ma-il-96-dei-progetti-aziendali-si-concentra-alle-superiori/",
+   "titolo": "Scuola e imprese, sull’orientamento c’è uno sfasamento: esplode alle medie (59%), ma il 96% dei progetti aziendali si concentra alle superiori",
+   "abstract": "L'orientamento si conferma il principale terreno d'incontro tra istruzione e mondo produttivo, ma soffre di un netto disallineamento temporale e progettuale. L'articolo Scuola e imprese, sull’orientamento c’è uno sfasamento: esplode alle medie (59%), ma il 96% dei progetti…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "orientamento"
+   ],
+   "id": "94ed56adac9e",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/due-ragazzi-fermano-il-lancio-di-bombe-carta-al-ministero-dellistruzione-che-senso-ha-protestare-cosi",
+   "titolo": "Sciopero 20 novembre, due ragazzi fermano il lancio di bombe carta al ministero dell’Istruzione: “Che senso ha protestare così?”",
+   "abstract": "“Non abbiamo avuto paura, non ci eravamo mai visti prima, ci siamo ritrovati nel corteo perché crediamo nella protesta degli studenti, ma non in questo modo. A che serve aggredire la polizia? Ci siamo guardati e in un attimo abbiamo capito che dovevamo fare qualcosa per fermare…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Ministero dell'istruzione",
+    "Sciopero generale"
+   ],
+   "id": "a8c944a698c7",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dl-scuola-bocciato-in-senato-emendamento-su-primo-soccorso-bassetti-sconcertato-salvare-vite-non-e-di-destra-o-di-sinistra-valditara-governo-sostiene-il-ddl-bove-gia-stanziati-100mila-eu/",
+   "titolo": "Primo soccorso, stop all’emendamento. Bassetti: “Sconcertato, salvare vite non è di destra o di sinistra”. Valditara: “Governo sostiene il ddl Bove, già stanziati 100mila euro”",
+   "abstract": "È stato bocciato in Senato, durante l'esame del Decreto Scuola, l'emendamento presentato dal senatore Marco Lombardo che prevedeva il potenziamento della formazione sul primo soccorso, sull'uso del defibrillatore e sulla gestione del rischio per gli studenti. L'articolo Primo…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "52b791d201c2",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/parlamento-europeo-a-expo-training-workshop-concorsi-ed-erasmus-per-avvicinare-le-scuole-allue-video/",
+   "titolo": "Parlamento Europeo a Expo Training: workshop, concorsi ed Erasmus per avvicinare le scuole all’Ue (VIDEO)",
+   "abstract": "Avvicinare gli studenti alle istituzioni comunitarie, far conoscere le opportunità di mobilità e valorizzare il ruolo attivo degli istituti scolastici: con questi obiettivi l'Ufficio del Parlamento Europeo a Milano partecipa a Expo Training. L'articolo Parlamento Europeo a Expo…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "9c86a0798926",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ora-di-religione-se-lo-studente-cambia-idea-in-corso-danno-ha-diritto-allo-studio-individuale-lo-ha-deciso-il-tar-lombardia",
+   "titolo": "Ora di religione, se lo studente cambia idea in corso d’anno ha diritto allo studio individuale: lo ha deciso il TAR Lombardia",
+   "abstract": "La vicenda riguarda uno studente iscritto alla terza classe di un istituto secondario di secondo grado. Dopo aver frequentato l’insegnamento della religione cattolica (IRC) nei due anni scolastici precedenti, il 9 settembre 2026 lo studente – con la controfirma dei genitori – ha…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Religione cattolica",
+    "Tar"
+   ],
+   "id": "29beb667ee2f",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/matematica-a-scuola-non-e-un-semplice-insieme-di-numeri-e-formule-come-evitare-di-farla-percepire-cosi-agli-studenti",
+   "titolo": "Matematica a scuola, non è un semplice insieme di numeri e formule: come evitare di farla percepire così agli studenti?",
+   "abstract": "Come fare in modo che la matematica non venga percepita dagli studenti come una sequenza di formule ed esercizi da memorizzare? Una delle sfide per i docenti è riuscire a trasformare i problemi in occasioni di scoperta, ragionamento e confronto. Per farlo, può essere utile…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Matematica"
+   ],
+   "id": "20440c6c7472",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/in-lombardia-arrivano-i-corsi-salvavita-oltre-7-000-studenti-formati-su-massaggio-cardiaco-e-defibrillatore/",
+   "titolo": "In Lombardia arrivano i corsi salvavita: oltre 7.000 studenti formati su massaggio cardiaco e defibrillatore",
+   "abstract": "Portare le manovre salvavita direttamente tra i banchi di scuola, trasformando il primo soccorso in una competenza strutturale del percorso formativo dei giovani e allineando il territorio agli standard europei del programma \"Kids Save Lives\". L'articolo In Lombardia arrivano i…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "fc0503eb0754",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/curricolo-verticale-secondo-le-nuove-indicazioni-nazionali-2026-cosa-ce-da-sapere-il-corso",
+   "titolo": "Curricolo verticale secondo le nuove indicazioni nazionali 2026, cosa c’è da sapere? Il corso",
+   "abstract": "Le nuove Indicazioni nazionali chiamano i dirigenti a una responsabilità che non si esaurisce negli adempimenti: fare in modo che il curricolo rispecchi una visione educativa precisa. Per riuscirci, occorre saper leggere le novità, individuare le priorità e guidare il collegio…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Nuove Indicazioni Nazionali primo ciclo"
+   ],
+   "id": "3d4843941c4f",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/chi-decide-il-futuro-dei-giovani-non-gli-influencer-62-ne-i-docenti-272-ma-la-famiglia-e-lia-il-366-degli-studenti-delle-superiori-usa-chatgpt-o-gemini-per-lorientamento/",
+   "titolo": "Chi decide il futuro dei giovani? Non gli influencer (6,2%) né i docenti (27,2%), ma la famiglia e l’IA. Il 36,6% degli studenti delle superiori usa ChatGPT o Gemini per l’orientamento",
+   "abstract": "Quando bisogna decidere quale scuola superiore frequentare o quale percorso intraprendere dopo il diploma, il primo consigliere non è più soltanto il genitore, e men che meno l’insegnante. Per una fetta crescente di adolescenti italiani, la bussola sul futuro passa attraverso la…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "1d5cb225483f",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ascoltami-al-via-il-sostegno-psicologico-per-gli-studenti-servizio-necessario-ma-diverse-criticita-in-vista-per-dirigenti-scolastici-e-segreterie",
+   "titolo": "AscoltaMI, al via il sostegno psicologico per gli studenti. Servizio necessario, ma diverse criticità in vista per dirigenti scolastici e segreterie",
+   "abstract": "Con il decreto interministeriale MIM-MEF n. 56 del 30.03.’26, in applicazione dell’articolo 1, comma 345, e seguenti, della L. n. 207 del 30.12.2024, (Legge di bilancio anno 2025 e pluriennale 2025-27), il MIM ha attivato in via sperimentale, come recita la norma, il servizio…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Dirigenti scolastici",
+    "Psicologi"
+   ],
+   "id": "7448a236315c",
+   "raccolto": "2026-11-21",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/-noisiamolescuole-pnrr-in-lombardia-due-progetti-per-il-futuro-tra-tecnologia-e-sostenibilita",
+   "titolo": "#NoiSiamoLeScuole: PNRR, in Lombardia due progetti per il futuro, tra tecnologia e sostenibilità",
+   "abstract": "Il video racconto del Ministero dell’Istruzione e del Merito, questa settimana è dedicato all’ITS Academy “Angelo Rizzoli” di Milano e alla nuova Scuola primaria “Scuri” di Bergamo, due interventi realizzati grazie ai fondi PNRR per promuovere una formazione innovativa e…",
+   "data": "2026-11-21",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "0c869c90f738",
+   "raccolto": "2026-11-21",
+   "abstract_tentato": true,
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.tecnicadellascuola.it/gli-insulti-solo-un-gioco-studente-con-dsa-bocciato-per-il-tar-non-bastano-le-tutele-del-pdp-se-manca-la-maturazione-personale",
    "titolo": "“Gli insulti? Solo un gioco”: studente con DSA bocciato. Per il TAR non bastano le tutele del PDP se manca la maturazione personale",
@@ -19348,42 +19622,6 @@
    "raccolto": "2026-11-05",
    "sezioni": [
     "riforme",
-    "personale"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/comparto-e-area-istruzione-e-ricerca-settore-scuola-dati-definitivi-di-adesione-allo-sciopero-generale-del-3-ottobre-2025",
-   "titolo": "Comparto e Area Istruzione e Ricerca - settore Scuola: dati definitivi di adesione allo sciopero generale del 3 ottobre 2025",
-   "abstract": "Pubblicazione dei dati definitivi di adesione allo sciopero generale del 3 ottobre 2025",
-   "data": "2025-10-16",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Ministero"
-   ],
-   "id": "b2c19354a2d2",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "personale"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/comparto-e-area-istruzione-e-ricerca-settore-scuola-dati-definitivi-di-adesione-allo-sciopero-generale-del-22-settembre-2025",
-   "titolo": "Comparto e Area Istruzione e Ricerca - settore Scuola: dati definitivi di adesione allo sciopero generale del 22 settembre 2025",
-   "abstract": "Comparto e Area Istruzione e Ricerca - settore Scuola: dati definitivi di adesione allo sciopero generale del 22 settembre 2025 proclamato da CUB, SGB, ADL Varese, con adesione di CUB SUR, e USB, con adesione USB PI",
-   "data": "2025-10-16",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Ministero"
-   ],
-   "id": "1add7be928bd",
-   "raccolto": "2026-11-05",
-   "sezioni": [
     "personale"
    ],
    "superiori": false,
