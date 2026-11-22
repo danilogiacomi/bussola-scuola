@@ -1,38 +1,313 @@
 {
- "aggiornato": "2026-11-21T20:32:15+00:00",
+ "aggiornato": "2026-11-22T13:22:26+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-21T20:32:15+00:00",
-   "ultimo_ok": "2026-11-21T20:32:15+00:00"
+   "controllato": "2026-11-22T13:22:26+00:00",
+   "ultimo_ok": "2026-11-22T13:22:26+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-21T20:32:15+00:00",
-   "ultimo_ok": "2026-11-21T20:32:15+00:00"
+   "controllato": "2026-11-22T13:22:26+00:00",
+   "ultimo_ok": "2026-11-22T13:22:26+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-21T20:32:15+00:00",
-   "ultimo_ok": "2026-11-21T20:32:15+00:00"
+   "controllato": "2026-11-22T13:22:26+00:00",
+   "ultimo_ok": "2026-11-22T13:22:26+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-21T20:32:15+00:00",
-   "ultimo_ok": "2026-11-21T20:32:15+00:00"
+   "voci": 30,
+   "controllato": "2026-11-22T13:22:26+00:00",
+   "ultimo_ok": "2026-11-22T13:22:26+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 26,
-   "controllato": "2026-11-21T20:32:15+00:00",
-   "ultimo_ok": "2026-11-21T20:32:15+00:00"
+   "voci": 28,
+   "controllato": "2026-11-22T13:22:26+00:00",
+   "ultimo_ok": "2026-11-22T13:22:26+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/violenza-di-genere-inps-lindipendenza-economica-e-una-condizione-di-liberta-e-sicurezza-il-ruolo-delleducazione-finanziaria/",
+   "titolo": "Violenza di genere, INPS: “L’indipendenza economica è una condizione di libertà e sicurezza”. Il ruolo dell’educazione finanziaria",
+   "abstract": "L'indipendenza economica, la permanenza nel mondo del lavoro e la parità retributiva sono condizioni fondamentali per contrastare la violenza di genere. Sono i temi al centro dell'evento \"Libere di scegliere\", organizzato dall'INPS il 18 novembre a Roma, in vista della Giornata…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "b3b030f59a89",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sicurezza-nelle-scuole-valditara-investiti-oltre-14-miliardi-per-13-970-interventi-pronto-un-nuovo-piano-da-1-miliardo-a-dicembre-il-cruscotto-online-con-i-dati/",
+   "titolo": "Sicurezza nelle scuole, Valditara: “Investiti oltre 14 miliardi per 13.970 interventi. Pronto un nuovo piano da 1 miliardo”. A dicembre il cruscotto online con i dati",
+   "abstract": "Oltre 14 miliardi di euro investiti nell'edilizia scolastica, 13.970 interventi finanziati e un nuovo piano straordinario da un miliardo di euro già pronto. L'articolo Sicurezza nelle scuole, Valditara: “Investiti oltre 14 miliardi per 13.970 interventi. Pronto un nuovo piano da…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Scuole",
+    "edilizia scolastica"
+   ],
+   "id": "816eb793be68",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/pn-21-27-progetti-scuole-cosa-serve-agli-istituti-i-servizi-di-comunicazione-della-tecnica-della-scuola",
+   "titolo": "Pn 21-27, progetti scuole: cosa serve agli istituti? I servizi di comunicazione della Tecnica della Scuola",
+   "abstract": "I progetti finanziati nell’ambito del Programma Nazionale “Scuola e Competenze” 2021-2027 rappresentano un’importante opportunità per gli istituti scolastici. L’obiettivo è realizzare attività innovative, percorsi formativi e iniziative rivolte a studenti, docenti e comunità…",
+   "data": "2026-11-22",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "PON"
+   ],
+   "id": "0b86f04ffab1",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/occupazioni-chi-fa-danni-paga-e-stop-alle-borse-di-studio-agli-studenti-indagati-per-reati/",
+   "titolo": "Occupazioni, “chi fa danni paga” e stop alle borse di studio per gli studenti indagati per reati",
+   "abstract": "Le misure, riportate dall'ANSA in un servizio del giornalista Paolo Cappelleri del 21 novembre, sono contenute in una serie di emendamenti presentati in commissione. Quattro portano la firma del deputato Andrea Delmastro, già sottosegretario alla Giustizia. Le proposte hanno…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "96a930f5997d",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/liis-galilei-luxemburg-di-milano-porta-la-meccanica-e-la-stampa-3d-a-expo-training-video/",
+   "titolo": "L’IIS Galilei-Luxemburg di Milano porta la meccanica e la stampa 3D a Expo Training (VIDEO)",
+   "abstract": "Progetti tecnici, innovazione sostenibile e orientamento tra pari caratterizzano la presenza dell'Istituto di Istruzione Superiore \"Galilei-Luxemburg\" di Milano a Expo Training. L'articolo L’IIS Galilei-Luxemburg di Milano porta la meccanica e la stampa 3D a Expo Training…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "534a1683bcf9",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/istruzione-parentale-legittima-non-ammissione-per-insufficienze-il-tar-respinge-ricorso-di-una-famiglia-sufficienza-obbligatoria-in-ogni-materia/",
+   "titolo": "Istruzione parentale, legittima non ammissione per insufficienze. Il TAR respinge ricorso di una famiglia: sufficienza obbligatoria in ogni materia",
+   "abstract": "Il TAR della Puglia ha respinto il ricorso presentato dai genitori di uno studente minorenne contro il giudizio di non ammissione alla classe superiore espresso al termine degli esami di idoneità sostenuti presso un istituto tecnico. L'articolo Istruzione parentale, legittima…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "6289598b99ed",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/istruzione-parentale-ed-esami-di-idoneita-il-tar-conferma-la-bocciatura-piu-prove-nello-stesso-giorno-sono-legittime",
+   "titolo": "Istruzione parentale ed esami di idoneità, il TAR conferma la bocciatura: più prove nello stesso giorno sono legittime",
+   "abstract": "La valutazione negli esami di idoneità per gli studenti in istruzione parentale spetta esclusivamente alla commissione scolastica e le verifiche per più annualità possono svolgersi anche nella stessa giornata, purché sia garantita la separazione sostanziale dei contenuti e dei…",
+   "data": "2026-11-22",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "idoneità",
+    "Istruzione parentale"
+   ],
+   "id": "0841e74b0ea3",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "esami",
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/intelligenza-artificiale-a-scuola-tante-norme-e-linee-guida-cosa-devono-sapere-i-dirigenti-il-piano-sos-ds",
+   "titolo": "Intelligenza artificiale a scuola, tante norme e linee guida: cosa devono sapere i dirigenti? Il Piano Sos Ds",
+   "abstract": "Nell’ultimo decennio l’IA è entrata prepotentemente nel dibattito, nelle professioni e nella vita di tutti provocando grandi riflessioni e discussioni tra i fautori e gli oppositori. Ciò anche in considerazione che l’IA ha assunto una funzione centrale nella trasformazione…",
+   "data": "2026-11-22",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Intelligenza artificiale"
+   ],
+   "id": "1fa04a7d840a",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/graduatorie-ata-24-mesi-congedo-parentale-valutato-e-congedo-straordinario-no-anief-contesta-la-disparita-pillole-di-question-time/",
+   "titolo": "Graduatorie ATA 24 mesi, congedo parentale valutato e congedo straordinario no: ANIEF contesta la disparità. Pillole di Question Time",
+   "abstract": "Nel Question Time del 4 novembre 2026 su Orizzonte Scuola, condotto da Andrea Carlino con la partecipazione di Cristina Dal Pino (ANIEF), è stato affrontato anche il tema della valutazione dei periodi di congedo nelle graduatorie permanenti ATA dei 24 mesi. L'articolo…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Congedo parentale"
+   ],
+   "id": "247b3bd47ae4",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dalla-sostenibilita-al-benessere-digitale-cambiano-i-bisogni-educativi-degli-studenti-cosa-chiedono-le-scuole-alle-aziende/",
+   "titolo": "Dalla sostenibilità al benessere digitale, cambiano i bisogni educativi degli studenti: cosa chiedono le scuole alle aziende",
+   "abstract": "Benessere, salute e ambiente nella scuola primaria, orientamento alle medie, rapporto con il mondo del lavoro e imprenditorialità alle superiori. L'articolo Dalla sostenibilità al benessere digitale, cambiano i bisogni educativi degli studenti: cosa chiedono le scuole alle…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti scolastici",
+    "Docenti"
+   ],
+   "id": "f25a79fe5fe1",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/stretta-fdi-per-gli-studenti-che-occupano-le-scuole-o-commettono-reati-nei-cortei-pagheranno-di-tasca-loro-i-danni-e-non-avranno-borse-di-studio",
+   "titolo": "Stretta FdI per gli studenti che occupano le scuole o commettono reati nei cortei: pagheranno di tasca loro i danni e non avranno borse di studio",
+   "abstract": "Gli studenti indagati per reati commessi nei cortei potrebbero vedersi sospendere le borse di studio, quelli che organizzano le occupazioni a scuola dovranno rispondere in solido dei danni causati da terzi, chi manifesta con violenza potrebbe essere “marchiato” con vernice…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Borse di studio",
+    "Manifestazioni",
+    "Sanzioni disciplinari",
+    "Studenti violenti"
+   ],
+   "id": "e4a14526e4f5",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/lo-studente-offende-il-suo-docente-la-sanzione-e-sempre-educativa-dipende",
+   "titolo": "Lo studente offende il suo docente, la sanzione è sempre educativa? Dipende",
+   "abstract": "Da quando lo smartphone è entrato nelle aule, capita sempre più spesso che un ragazzo prenda in giro un compagno davanti a tutta la classe, riprendendolo con il cellulare e postando il video nelle chat e sui social. E, quante volte i docenti ricevono dai propri alunni commenti…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti e genitori",
+    "alunni violenti",
+    "sanzioni",
+    "Studenti violenti"
+   ],
+   "id": "8425dbf9761e",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/giovani-e-social-oltre-4-ore-al-giorno-per-il-274-degli-studenti-200mila-a-rischio-dipendenza-i-dati-cnr-ifc/",
+   "titolo": "Giovani e social: oltre 4 ore al giorno per il 27,4% degli studenti, 200mila a rischio dipendenza. I dati Cnr-Ifc",
+   "abstract": "Mentre sul piano normativo l'Italia valuta una stretta per vietare l'accesso a Instagram, TikTok e Facebook agli under 13 attraverso un emendamento della maggioranza al Decreto Cortei, i dati fotografano un fenomeno già profondamente radicato tra gli adolescenti italiani…",
+   "data": "2026-11-21",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "19e2c751d0c9",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/alunni-con-disabilita-per-realizzare-una-vera-inclusione-servono-i-fatti-ma-secondo-una-recente-indagine-parlamentare-ci-sono-ancora-quasi-60mila-docenti-senza-formazione-adeguata",
+   "titolo": "Alunni con disabilità: per realizzare una vera inclusione servono i fatti, ma secondo una recente indagine parlamentare ci sono ancora quasi 60mila docenti senza formazione adeguata",
+   "abstract": "In questo autunno segnato da tensioni economiche, discussioni sui social e paure legate alla sicurezza quotidiana, la politica sembra spesso correre dietro agli slogan invece di guardare ciò che accade davvero nelle case e nelle aule. Quando si parla di priorità nazionali, non…",
+   "data": "2026-11-21",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Docenti di sostegno",
+    "inclusione"
+   ],
+   "id": "313cfad514ed",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/mio-figlio-va-al-corteo-cosa-devono-sapere-i-genitori-su-sicurezza-tutele-e-responsabilita-la-guida-di-cittadinanzattiva/",
    "titolo": "“Mio figlio va al corteo”, cosa devono sapere i genitori su sicurezza, tutele e responsabilità. La guida di Cittadinanzattiva",
@@ -19750,25 +20025,6 @@
    "raccolto": "2026-11-05",
    "sezioni": [
     "altro"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/mim-senato-della-repubblica-e-camera-dei-deputati-offerta-formativa-in-materia-di-educazione-civica-nucleo-concettuale-costituzione-progetti-e-bandi-d",
-   "titolo": "Mim, Senato della Repubblica e Camera dei Deputati - offerta formativa in materia di Educazione civica - Nucleo concettuale \"Costituzione\" - Progetti e bandi di concorso A.S. 2025/2026",
-   "abstract": "Le progettualità e i bandi di concorso, in piena coerenza con quanto previsto dalle Linee guida per l'insegnamento dell'educazione civica adottate con decreto del Ministro dell'istruzione e del merito 7 settembre 2024, n. 183, con particolare riferimento al nucleo concettuale…",
-   "data": "2025-10-17",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Scuola"
-   ],
-   "id": "4f312a4df0ff",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "riforme",
-    "personale"
    ],
    "superiori": false,
    "abstract_tentato": true
