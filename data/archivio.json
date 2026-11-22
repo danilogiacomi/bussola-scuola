@@ -1,38 +1,56 @@
 {
- "aggiornato": "2026-11-22T13:22:26+00:00",
+ "aggiornato": "2026-11-22T20:44:24+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-22T13:22:26+00:00",
-   "ultimo_ok": "2026-11-22T13:22:26+00:00"
+   "controllato": "2026-11-22T20:44:24+00:00",
+   "ultimo_ok": "2026-11-22T20:44:24+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-22T13:22:26+00:00",
-   "ultimo_ok": "2026-11-22T13:22:26+00:00"
+   "controllato": "2026-11-22T20:44:24+00:00",
+   "ultimo_ok": "2026-11-22T20:44:24+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-22T13:22:26+00:00",
-   "ultimo_ok": "2026-11-22T13:22:26+00:00"
+   "controllato": "2026-11-22T20:44:24+00:00",
+   "ultimo_ok": "2026-11-22T20:44:24+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-22T13:22:26+00:00",
-   "ultimo_ok": "2026-11-22T13:22:26+00:00"
+   "voci": 28,
+   "controllato": "2026-11-22T20:44:24+00:00",
+   "ultimo_ok": "2026-11-22T20:44:24+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-22T13:22:26+00:00",
-   "ultimo_ok": "2026-11-22T13:22:26+00:00"
+   "controllato": "2026-11-22T20:44:24+00:00",
+   "ultimo_ok": "2026-11-22T20:44:24+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/tutti-elogiano-i-maestri-italiani-ma-lo-stato-li-paga-meno-una-petizione-chiede-lequiparazione-salariale-con-i-docenti-delle-medie-e-delle-superiori/",
+   "titolo": "“Tutti elogiano i maestri, ma lo Stato li paga meno”, una petizione chiede equiparazione salariale con i docenti delle medie e delle superiori",
+   "abstract": "Nel dibattito pubblico sulla scuola c’è un punto su cui quasi tutti concordano: il ruolo fondamentale degli insegnanti della scuola dell’infanzia e della primaria. È nei primi anni di istruzione che si gettano le fondamenta dell’apprendimento, si costruiscono le basi…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti"
+   ],
+   "id": "3ef75f47abc3",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.orizzontescuola.it/violenza-di-genere-inps-lindipendenza-economica-e-una-condizione-di-liberta-e-sicurezza-il-ruolo-delleducazione-finanziaria/",
    "titolo": "Violenza di genere, INPS: “L’indipendenza economica è una condizione di libertà e sicurezza”. Il ruolo dell’educazione finanziaria",
@@ -53,6 +71,43 @@
    "superiori": false
   },
   {
+   "url": "https://www.orizzontescuola.it/strumenti-compensativi-e-verifiche-scritte-per-il-tar-gli-schemi-previsti-per-i-dsa-non-possono-sostituire-lo-studio-confermata-la-bocciatura-di-un-alunno/",
+   "titolo": "Strumenti compensativi e verifiche scritte, per il TAR gli schemi previsti per i DSA non possono sostituire lo studio. Confermata la bocciatura di un alunno",
+   "abstract": "Resta confermata la non ammissione all’ultimo anno delle superiori per uno studente di quarta dell’indirizzo Manutenzione e assistenza tecnica, bocciato dopo la prova di recupero di fine agosto dell’anno scolastico 2025/2026. L'articolo Strumenti compensativi e verifiche…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "0b6eece45f7c",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sostegno-anief-chiede-lo-sblocco-delle-assunzioni-in-ruolo-tre-emendamenti-alla-legge-di-bilancio/",
+   "titolo": "Sostegno, ANIEF chiede lo sblocco delle assunzioni in ruolo: tre emendamenti alla Legge di Bilancio",
+   "abstract": "Sbloccare le assunzioni in ruolo dei docenti di sostegno sui posti in deroga per garantire finalmente la continuità didattica agli alunni con disabilità. È questa la richiesta centrale avanzata dal sindacato ANIEF nell'ambito dei lavori sulla Legge di Bilancio 2027-2029 (A.C…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "9102a062229a",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
    "url": "https://www.orizzontescuola.it/sicurezza-nelle-scuole-valditara-investiti-oltre-14-miliardi-per-13-970-interventi-pronto-un-nuovo-piano-da-1-miliardo-a-dicembre-il-cruscotto-online-con-i-dati/",
    "titolo": "Sicurezza nelle scuole, Valditara: “Investiti oltre 14 miliardi per 13.970 interventi. Pronto un nuovo piano da 1 miliardo”. A dicembre il cruscotto online con i dati",
    "abstract": "Oltre 14 miliardi di euro investiti nell'edilizia scolastica, 13.970 interventi finanziati e un nuovo piano straordinario da un miliardo di euro già pronto. L'articolo Sicurezza nelle scuole, Valditara: “Investiti oltre 14 miliardi per 13.970 interventi. Pronto un nuovo piano da…",
@@ -66,6 +121,43 @@
     "edilizia scolastica"
    ],
    "id": "816eb793be68",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/scuola-valditara-sicurezza-priorita-del-ministero-interventi-su-oltre-il-25-degli-istituti-scolastici-",
+   "titolo": "Scuola, Valditara: “Sicurezza priorità del Ministero, interventi su oltre il 25% degli istituti scolastici”",
+   "abstract": "“La sicurezza di chi studia e lavora a scuola è una nostra priorità. Da novembre 2022 ad oggi siamo intervenuti su oltre il 25% degli edifici scolastici. Abbiamo investito nella sicurezza degli edifici già esistenti 6 miliardi di euro, di cui oltre un terzo con fondi nazionali e…",
+   "data": "2026-11-22",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "996c3e766bd4",
+   "raccolto": "2026-11-22",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scuola-e-aziende-nella-primaria-7-docenti-su-10-segnalano-progetti-che-coinvolgono-anche-le-famiglie/",
+   "titolo": "Scuola e aziende, nella primaria 7 docenti su 10 segnalano progetti che coinvolgono anche le famiglie",
+   "abstract": "Le collaborazioni tra scuole e aziende non si fermano alle attività in classe, ma coinvolgono anche le famiglie. L'articolo Scuola e aziende, nella primaria 7 docenti su 10 segnalano progetti che coinvolgono anche le famiglie sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "39ce2ce8bc56",
    "raccolto": "2026-11-22",
    "sezioni": [
     "studenti",
@@ -120,6 +212,25 @@
     "Cronaca"
    ],
    "id": "534a1683bcf9",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/italia-fanalino-di-coda-nelle-discipline-stem-laurea-per-il-44-degli-italiani-dietro-romania-e-repubblica-ceca-in-testa-irlanda-e-svezia/",
+   "titolo": "Italia fanalino di coda nelle discipline STEM: laurea per il 4,4% degli italiani, dietro Romania e Repubblica Ceca. In testa Irlanda e Svezia",
+   "abstract": "Scienze, informatica, ingegneria: in Europa più di un universitario su quattro studia una di queste materie. In Italia la quota è appena più bassa, ma ad avere già un titolo in queste discipline sono in pochi. Nel 2025 solo il 4,4% degli italiani tra i 15 e i 74 anni aveva un…",
+   "data": "2026-11-22",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "f564bc018e43",
    "raccolto": "2026-11-22",
    "sezioni": [
     "studenti",
@@ -224,6 +335,28 @@
     "innovazione"
    ],
    "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/classi-dirottate-in-aula-magna-allultimo-istante-senza-il-consenso-del-consiglio-di-classe-e-un-metodo-da-biasimare",
+   "titolo": "Classi dirottate in aula magna all’ultimo istante, senza il consenso del Consiglio di classe, è un metodo da biasimare",
+   "abstract": "Ogni giorno in tutte le scuole italiane si organizzano convegni, presentazione di libri, attività di orientamento e tante altre attività che vedono la partecipazione di numerose classi accompagnate dai loro docenti. La maggior parte di tali attività è programmata per tempo e…",
+   "data": "2026-11-22",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Docenti",
+    "Consigli di classe",
+    "Convegni",
+    "orario di servizio"
+   ],
+   "id": "2e7ee28f8906",
+   "raccolto": "2026-11-22",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
   },
   {
    "url": "https://www.tecnicadellascuola.it/stretta-fdi-per-gli-studenti-che-occupano-le-scuole-o-commettono-reati-nei-cortei-pagheranno-di-tasca-loro-i-danni-e-non-avranno-borse-di-studio",
