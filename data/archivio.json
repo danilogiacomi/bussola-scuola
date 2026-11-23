@@ -1,38 +1,372 @@
 {
- "aggiornato": "2026-11-22T20:44:24+00:00",
+ "aggiornato": "2026-11-23T15:59:33+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-22T20:44:24+00:00",
-   "ultimo_ok": "2026-11-22T20:44:24+00:00"
+   "controllato": "2026-11-23T15:59:33+00:00",
+   "ultimo_ok": "2026-11-23T15:59:33+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-22T20:44:24+00:00",
-   "ultimo_ok": "2026-11-22T20:44:24+00:00"
+   "controllato": "2026-11-23T15:59:33+00:00",
+   "ultimo_ok": "2026-11-23T15:59:33+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-22T20:44:24+00:00",
-   "ultimo_ok": "2026-11-22T20:44:24+00:00"
+   "controllato": "2026-11-23T15:59:33+00:00",
+   "ultimo_ok": "2026-11-23T15:59:33+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-22T20:44:24+00:00",
-   "ultimo_ok": "2026-11-22T20:44:24+00:00"
+   "voci": 24,
+   "controllato": "2026-11-23T15:59:33+00:00",
+   "ultimo_ok": "2026-11-23T15:59:33+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-22T20:44:24+00:00",
-   "ultimo_ok": "2026-11-22T20:44:24+00:00"
+   "controllato": "2026-11-23T15:59:33+00:00",
+   "ultimo_ok": "2026-11-23T15:59:33+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/se-domani-non-torno-alla-camera-il-film-su-giulia-cecchettin-nella-giornata-contro-la-violenza-sulle-donne-insieme-agli-studenti",
+   "titolo": "“Se domani non torno” alla Camera: il film su Giulia Cecchettin nella Giornata contro la violenza sulle donne insieme agli studenti",
+   "abstract": "Il film “Se domani non torno”, diretto da Paola Randi e prodotto da Notorious Pictures, che racconta la storia di Giulia Cecchettin, viene proiettato mercoledì 25 novembre alle 10.30 nella Sala della Regina della Camera dei deputati. L’evento è promosso in occasione della…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Gino Cecchettin"
+   ],
+   "id": "a08ab5f21c95",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/unghie-mangiate-pelle-pizzicata-capelli-strappati-lo-fa-il-585-dei-ragazzi-tra-11-e-18-anni-per-uno-su-otto-e-fonte-di-sofferenza-lo-studio/",
+   "titolo": "Unghie mangiate, pelle pizzicata, capelli strappati: lo fa il 58,5% dei ragazzi tra 11 e 18 anni. Per uno su otto è fonte di sofferenza. Lo studio",
+   "abstract": "Il 58,5% dei ragazzi tra gli 11 e i 18 anni si mangia le unghie, si pizzica la pelle o si strappa i capelli in un modo che fatica a controllare. Per molti la cosa finisce lì. Il 12,7%, invece, dice di starci male “abbastanza” o “molto”. I numeri vengono da uno studio…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "ff2bdaab0ed8",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/una-scuola-che-non-rinunci-a-nessuno-ripensare-la-bocciatura-e-il-recupero-delle-insufficienze-lettera/",
+   "titolo": "Una scuola che non rinunci a nessuno: ripensare la bocciatura e il recupero delle insufficienze. Lettera",
+   "abstract": "Inviata da Giuseppe Santoli - Gentile Ministro, la recente sentenza n. 5073/2026 della Quinta Sezione del TAR Lombardia, pubblicata il 12 novembre, che ha respinto il ricorso dei genitori di una studentessa non ammessa alla classe successiva, offre l'occasione per una…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Lettere in redazione"
+   ],
+   "id": "ef976d7fe8c3",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sicurezza-stradale-evento-formativo-per-gli-studenti-delle-scuole-superiori-il-25-novembre-diretta-streaming-dalle-11-alle-1230-adesioni-entro-il-24/",
+   "titolo": "Sicurezza stradale, evento formativo per gli studenti delle scuole superiori il 25 novembre: diretta streaming dalle 11 alle 12:30. Adesioni entro il 24",
+   "abstract": "Un evento dedicato all'educazione e alla sicurezza stradale, con attività, rappresentazioni e dibattiti tra studenti e rappresentanti delle istituzioni. L'articolo Sicurezza stradale, evento formativo per gli studenti delle scuole superiori il 25 novembre: diretta streaming…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "educazione stradale"
+   ],
+   "id": "cd3105ae7b5a",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/scuola-piano-2027-28-almeno-37-mila-docenti-concorso-da-quasi-14-mila-posti-valditara-meno-precariato-e-piu-continuita-didattica-",
+   "titolo": "Scuola, piano 2027/28: almeno 37 mila docenti, concorso da quasi 14 mila posti. Valditara: “Meno precariato e più continuità didattica”",
+   "abstract": "Almeno 37 mila assunzioni di docenti per l’anno scolastico 2027/2028. È il potenziale di reclutamento stimato dal Ministero dell’Istruzione e del Merito sulla base dei posti che si prevede risulteranno vacanti dopo le operazioni di mobilità e dei pensionamenti attesi. Il…",
+   "data": "2026-11-23",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "242794206658",
+   "raccolto": "2026-11-23",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/raid-notturno-in-un-istituto-superiore-scritte-razziste-anti-islam-e-omofobe-gli-studenti-prendono-le-distanze/",
+   "titolo": "Raid notturno in un istituto superiore: scritte razziste, anti Islam e omofobe. Gli studenti prendono le distanze",
+   "abstract": "Scritte razziste, contro l'Islam e omofobe, una bandiera arcobaleno bruciata, aule messe a soqquadro. È quello che si è trovato davanti un istituto superiore di Firenze dopo il raid vandalico della notte tra domenica e lunedì 23 novembre. L'articolo Raid notturno in un istituto…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "114bbf95cea2",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/raid-in-un-istituto-scritte-omofobe-e-razziste-materiale-distrutto-e-bandiere-bruciate-lezioni-sospese",
+   "titolo": "Raid in un istituto, scritte omofobe e razziste, materiale distrutto e bandiere bruciate: lezioni sospese",
+   "abstract": "Notte di vandalismo in un istituto di Firenze: locali messi a soqquadro, materiali danneggiati e scritte offensive di stampo omofobo e razzista. Bruciate anche le bandiere sopra l’ingresso. Oggi, 23 novembre, lezioni sospese: la scuola resta chiusa per la valutazione dei danni…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "omofobia",
+    "razzismo"
+   ],
+   "id": "77f23e242f7e",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/mancata-attivazione-del-pdp-per-il-tar-non-annulla-la-bocciatura-se-mancano-le-competenze-e-le-prove-di-recupero-riguardano-lintero-programma",
+   "titolo": "Mancata attivazione del PDP? Per il TAR non annulla la bocciatura se mancano le competenze. E le prove di recupero riguardano l’intero programma",
+   "abstract": "Con l’ordinanza n. 20/2026 (pubblicata il 9 novembre 2026), il TAR della Valle d’Aosta ha respinto il ricorso cautelare promosso dai genitori di una studentessa di un liceo linguistico, non ammessa alla classe quarta a seguito degli scrutini differiti di settembre. La…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Sostegno e inclusione",
+    "Bocciatura",
+    "PDP",
+    "Tar"
+   ],
+   "id": "5ec22dfed5ad",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/it-wallet-si-espande-arrivano-su-smartphone-diplomi-titoli-accademici-certificati-di-residenza-e-patente-valida-per-il-riconoscimento-ecco-come/",
+   "titolo": "IT-Wallet si espande: arrivano su smartphone diplomi, titoli accademici, certificati di residenza e patente valida per il riconoscimento. Ecco come",
+   "abstract": "Una nuova fase di sperimentazione per il portafoglio digitale pubblico integrato nell’app IO prende il via coinvolgendo fino a centomila cittadini scelti a campione. L'articolo IT-Wallet si espande: arrivano su smartphone diplomi, titoli accademici, certificati di residenza e…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "da43dafa5ae2",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/23/indire-alla-xxv-edizione-della-3-giorni-con-la-scuola-pubblica-transizioni-futuri-e-nuove-visioni-per-accompagnare-il-cambiamento-della-scuola/",
+   "titolo": "INDIRE alla XXV edizione della “3 Giorni con la Scuola Pubblica”",
+   "abstract": "Dal 25 al 27 novembre 2026 presso Città della Scienza a Napoli si svolge la XXV edizione della “3 giorni con la Scuola Pubblica”, promossa dalla Fondazione IDIS – Città della Scienza e dall’Assessorato alle Politiche Sociali e alla Scuola della Regione Campania. La…",
+   "data": "2026-11-23",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "innovazione"
+   ],
+   "id": "3c33b7ca4653",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/giornata-internazionale-contro-la-violenza-sulle-donne-valditara-manda-lettera-alle-scuole-ripartire-dalle-aule-per-la-cultura-del-rispetto",
+   "titolo": "Giornata internazionale contro la violenza sulle donne, Valditara manda lettera alle scuole: “Ripartire dalle aule per la cultura del rispetto”",
+   "abstract": "Il ministro dell’Istruzione e del Merito Giuseppe Valditara ha inviato una circolare a studenti, dirigenti, docenti e personale scolastico in occasione del 25 novembre, Giornata internazionale per l’eliminazione della violenza contro le donne. Il messaggio ricorda che la scuola…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "giornata contro la violenza sulle donne",
+    "Giuseppe Valditara"
+   ],
+   "id": "ee782a118665",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-si-vota-giovedi-26-novembre-resta-il-tetto-per-gli-stranieri-in-arrivo-la-fiducia",
+   "titolo": "Decreto scuola, si vota giovedì 26 novembre: resta il tetto per gli stranieri, in arrivo la fiducia",
+   "abstract": "Il decreto scuola è ormai vicino alla conversione in legge. Il voto finale della Camera è atteso per giovedì 26 novembre, dopo il primo via libera del Senato. Il testo ha imbarcato gli e-book scontati e ha mantenuto la soglia del 30% di alunni stranieri nelle classi. Tempi…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Decreto scuola"
+   ],
+   "id": "77119eba005c",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1585-del-20-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 1585 del 20 novembre 2026",
+   "abstract": "Avvio della procedura ai sensi dell'art. 50, comma 1, lett. b), d.lgs. n. 36/2023, per il servizio di manutenzione ordinaria degli impianti idraulici delle sedi di V.le Trastevere 76/A, e di via Ippolito Nievo 35, del Ministero dell'istruzione e del merito, di Roma, per il…",
+   "data": "2026-11-23",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "5a95841898a9",
+   "raccolto": "2026-11-23",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-cortei-stretta-su-manifestazioni-nel-mirino-anche-i-genitori-carcere-fino-a-8-anni-i-dettagli/",
+   "titolo": "Decreto Cortei, stretta su manifestazioni: nel mirino anche i genitori. Carcere fino a 8 anni, i dettagli",
+   "abstract": "Si chiama \" squadrismo eversivo di piazza \" il nuovo reato proposto dalla Lega per punire chi promuove o coordina violenze e danneggiamenti durante le manifestazioni. La pena prevista va da quattro a otto anni di carcere. È una delle 14 modifiche presentate dal partito di Matteo…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "b9046b6ba39f",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dati-invalsi-per-migliorare-la-didattica-e-la-valutazione-delle-scuole-dal-25-al-27-novembre-a-roma-il-primo-seminario-nazionale-focus-su-rav-competenze-e-innovazione/",
+   "titolo": "Dati INVALSI per migliorare la didattica e la valutazione delle scuole: dal 25 al 27 novembre a Roma il primo seminario nazionale. Focus su RAV, competenze e innovazione",
+   "abstract": "Tre giornate dedicate all'utilizzo dei dati INVALSI per migliorare la didattica, sostenere l'autovalutazione delle scuole e promuovere l'innovazione educativa. L'articolo Dati INVALSI per migliorare la didattica e la valutazione delle scuole: dal 25 al 27 novembre a Roma il…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "985ba956cd3e",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "esami",
+    "riforme",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/da-eccellente-ad-adeguato-voto-abbassato-per-un-episodio-nel-finale-danno-il-tar-conferma-la-legittimita-della-valutazione-scolastica",
+   "titolo": "Da “Eccellente” ad “Adeguato”, voto abbassato per un episodio nel finale d’anno: il TAR conferma la legittimità della valutazione scolastica",
+   "abstract": "Il Tribunale Amministrativo Regionale per la Calabria (Sezione Seconda) ha ribadito i confini della discrezionalità tecnica delle istituzioni scolastiche, rigettando il ricorso presentato dai genitori di una studentessa di scuola media contro il giudizio attribuito alla figlia…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Tar",
+    "voti"
+   ],
+   "id": "a055836fb86c",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/benedetto-vertecchi-e-mancato-in-queste-ore-una-vita-dedicata-alla-scuola-e-alla-ricerca-educativa-e-stato-uno-dei-padri-della-valutazione-formativa-e-della-istruzione-a-distanza",
+   "titolo": "Benedetto Vertecchi è mancato in queste ore: una vita dedicata alla scuola e alla ricerca educativa. E’ stato uno dei padri della valutazione formativa e della istruzione a distanza",
+   "abstract": "E’ morto in queste ore Benedetto Vertecchi, uno dei più autorevoli pedagogisti italiani, che ha contribuito a rinnovare il modo di pensare la didattica e i processi di apprendimento. Conosciuto (e riconosciuto) da tutto il mondo della scuola come uno fondatori della docimologia…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Invalsi",
+    "Pedagogia",
+    "Valutazione alunni"
+   ],
+   "id": "3742dced4783",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "esami",
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ai-in-classe-i-docenti-possono-usarla-senza-autorizzazione-dirigente-genitori-e-privacy-diritto-in-cattedra-il-25-novembre-ore-16-con-lavv-de-martino/",
+   "titolo": "Ai in classe, i docenti possono usarla senza autorizzazione? Dirigente, genitori e privacy: DIRITTO IN CATTEDRA il 25 NOVEMBRE ORE 16 CON L’AVV DE MARTINO",
+   "abstract": "Un docente può utilizzare l'Ai per preparare lezioni, creare verifiche e svolgere attività con gli studenti? Serve l'autorizzazione del dirigente scolastico? È necessario il consenso dei genitori? Quali dati degli alunni possono essere inseriti nelle piattaforme? Ne parleremo…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Chiedilo a Lalla"
+   ],
+   "id": "cb853f27bbf8",
+   "raccolto": "2026-11-23",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/tutti-elogiano-i-maestri-italiani-ma-lo-stato-li-paga-meno-una-petizione-chiede-lequiparazione-salariale-con-i-docenti-delle-medie-e-delle-superiori/",
    "titolo": "“Tutti elogiano i maestri, ma lo Stato li paga meno”, una petizione chiede equiparazione salariale con i docenti delle medie e delle superiori",
