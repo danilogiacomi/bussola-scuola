@@ -1,38 +1,528 @@
 {
- "aggiornato": "2026-11-24T03:20:26+00:00",
+ "aggiornato": "2026-11-24T15:54:14+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-24T03:20:26+00:00",
-   "ultimo_ok": "2026-11-24T03:20:26+00:00"
+   "controllato": "2026-11-24T15:54:14+00:00",
+   "ultimo_ok": "2026-11-24T15:54:14+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-24T03:20:26+00:00",
-   "ultimo_ok": "2026-11-24T03:20:26+00:00"
+   "controllato": "2026-11-24T15:54:14+00:00",
+   "ultimo_ok": "2026-11-24T15:54:14+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-24T03:20:26+00:00",
-   "ultimo_ok": "2026-11-24T03:20:26+00:00"
+   "controllato": "2026-11-24T15:54:14+00:00",
+   "ultimo_ok": "2026-11-24T15:54:14+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-24T03:20:26+00:00",
-   "ultimo_ok": "2026-11-24T03:20:26+00:00"
+   "voci": 26,
+   "controllato": "2026-11-24T15:54:14+00:00",
+   "ultimo_ok": "2026-11-24T15:54:14+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 28,
-   "controllato": "2026-11-24T03:20:26+00:00",
-   "ultimo_ok": "2026-11-24T03:20:26+00:00"
+   "voci": 30,
+   "controllato": "2026-11-24T15:54:14+00:00",
+   "ultimo_ok": "2026-11-24T15:54:14+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/literacy-brainframe-e-fair-use-troppi-anglicismi-nelle-nuove-indicazioni-per-i-licei-il-consiglio-di-stato-chiede-un-linguaggio-piu-comprensibile/",
+   "titolo": "“Literacy, brainframe e fair use”: troppi anglicismi nelle nuove Indicazioni per i licei. Il Consiglio di Stato chiede un linguaggio più comprensibile",
+   "abstract": "Anche il linguaggio utilizzato dal Ministero dell’Istruzione e del Merito nelle nuove Indicazioni nazionali per i licei finisce sotto la lente del Consiglio di Stato. Nel parere n. 2070/2026 del 20 novembre, la Sezione consultiva per gli atti normativi formula una serie di…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "532b893bc481",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/le-bocciature-sono-del-tutto-inutili-meglio-un-bilancio-delle-competenze-le-parole-di-rossi-doria-fanno-discutere/",
+   "titolo": "“Le bocciature? Sono del tutto inutili. Meglio un bilancio delle competenze”. Le parole di Rossi Doria fanno discutere",
+   "abstract": "Nel dibattito sulla crisi della scuola, la proposta lanciata da Marco Rossi-Doria — maestro di strada ed ex sottosegretario all'Istruzione — torna a dividere opinione pubblica, famiglie e corpo docente: fermare la ripetenza. L'articolo “Le bocciature? Sono del tutto inutili…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "572f6103f1d9",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/violenza-sulle-donne-un-adolescente-maschio-su-quattro-ritiene-che-le-ragazze-possano-provocare-una-violenza-sessuale-con-il-modo-di-vestire-i-dati/",
+   "titolo": "Violenza sulle donne, un adolescente maschio su quattro ritiene che le ragazze possano provocare una violenza sessuale con il modo di vestire. I dati",
+   "abstract": "Un adolescente maschio su quattro ritiene che il modo di vestire delle ragazze possa provocare una violenza sessuale, mentre più di un giovane su tre considera accettabile controllare il cellulare e i profili social della partner. L'articolo Violenza sulle donne, un adolescente…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti",
+    "Educazione di genere"
+   ],
+   "id": "e9b8572d8683",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/tecnologia-per-il-69-degli-italiani-migliora-la-vita-ma-il-58-si-sente-piu-controllato-che-sicuro-la-ricerca/",
+   "titolo": "Tecnologia, per il 69% degli italiani migliora la vita ma il 58% si sente più controllato che sicuro. La ricerca",
+   "abstract": "Sono i più giovani a guardare con meno sospetto l'intelligenza artificiale. Nella Generazione Z il 44% la associa a una maggiore sicurezza e il 42% a un maggiore controllo: è l'unica fascia d'età in cui la sicurezza prevale, anche se di poco. L'articolo Tecnologia, per il 69%…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "408100be0047",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sparatoria-in-una-scuola-un-ragazzo-di-17-anni-colpisce-una-donna-delle-pulizie-unaltra-persona-ferita-dalle-schegge-di-vetro-arrestato/",
+   "titolo": "Sparatoria in una scuola, un ragazzo di 17 anni colpisce una donna delle pulizie: un’altra persona ferita dalle schegge di vetro. Arrestato",
+   "abstract": "Nessuno studente è rimasto ferito, ma la paura è stata tanta. Questa mattina, intorno alle 8, un ragazzo di 17 anni ha aperto il fuoco con un fucile di piccolo calibro nel corridoio di un istituto tecnico di Kragujevac, in Serbia. L'articolo Sparatoria in una scuola, un ragazzo…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "fa906738d1f5",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scuole-superiori-della-lombardia-campus-sport-per-la-legalita-dal-7-al-14-febbraio-2027-candidature-entro-il-10-dicembre/",
+   "titolo": "Scuole superiori della Lombardia, campus “Sport per la Legalità” dal 7 al 14 febbraio 2027: candidature entro il 10 dicembre",
+   "abstract": "L'Ufficio scolastico regionale per la Lombardia ha aperto le candidature per il campus del progetto regionale \"Sport per la Legalità\". Il campus è gratuito e si terrà dal 7 al 14 febbraio 2027 al Centro Sportivo Remiero della Marina Militare di Sabaudia, in provincia di Latina…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "05cf915d571a",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/scuola-valditara-un-no-e-un-no-con-il-progetto-mim-indire-la-rivoluzione-al-rispetto-coinvolgiamo-oltre-4-mila-scuole-",
+   "titolo": "Scuola, Valditara: \"Un no è un no. Con il progetto MIM-INDIRE, la rivoluzione al rispetto coinvolgiamo oltre 4 mila scuole\"",
+   "abstract": "\"Un no è un no. È questo il messaggio fondamentale della rivoluzione avviata nella scuola italiana. Sono oltre 4 mila le scuole già coinvolte nel progetto MIM-INDIRE. Per la prima volta nella storia della nostra scuola abbiamo reso l’educazione al rispetto, alle corrette…",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "504071d84109",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/rai-scuola-interrogazione-a-valditara-e-urso-scongiurare-la-chiusura-e-garantire-la-continuita",
+   "titolo": "Rai Scuola, interrogazione a Valditara e Urso: “Scongiurare la chiusura e garantire la continuità” – Rivedi la diretta",
+   "abstract": "La chiusura di Rai Scuola torna al centro del dibattito politico. Dopo la vicenda dei mesi scorsi – a cui La Tecnica della Scuola ha dedicato diversi approfondimenti – i deputati Graziano, Manzi, Ascani, Bakkali, Peluffo, Stumpo e Prestipino hanno presentato un’interrogazione al…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Giuseppe Valditara",
+    "Rai Scuola"
+   ],
+   "id": "c6d694ee41d2",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/pn-scuola-e-competenze-2021-27-i-progetti-degli-istituti-vanno-diffusi-ecco-con-quali-canali",
+   "titolo": "Pn scuola e competenze 2021-27, i progetti degli istituti vanno diffusi: ecco con quali canali",
+   "abstract": "I progetti finanziati nell’ambito del Programma Nazionale “Scuola e Competenze” 2021-2027 rappresentano un’importante opportunità per gli istituti scolastici. L’obiettivo è realizzare attività innovative, percorsi formativi e iniziative rivolte a studenti, docenti e comunità…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "PON"
+   ],
+   "id": "736f6c988841",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/occupazioni-scuole-scontro-tra-presidi-ce-chi-li-difende-e-chi-li-accusa",
+   "titolo": "Occupazioni scuole, scontro tra presidi: c’è chi li difende e chi li accusa",
+   "abstract": "La protesta studentesca non si ferma. Lunedì 23 novembre a Milano sono state occupate altre quattro scuole. Intanto negli istituti già interessati dalle agitazioni della settimana precedente i dirigenti si sono interrogati su possibili conseguenze per gli studenti, con posizioni…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Studenti e genitori",
+    "Occupazione"
+   ],
+   "id": "0c65afb24afd",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/nuove-indicazioni-per-i-licei-il-consiglio-di-stato-chiede-una-revisione-passaggi-ideologici-dubbi-sui-costi-troppi-contenuti-e-rischi-per-la-liberta-di-insegnamento/",
+   "titolo": "Nuove Indicazioni per i licei, del Consiglio di Stato via libera ma chiede una revisione: passaggi ideologici, dubbi sui costi, troppi contenuti e rischi per la libertà di insegnamento. IL TESTO",
+   "abstract": "Ottantacinque pagine di osservazioni sullo schema di decreto del Ministero dell’Istruzione e del Merito. Contestate la sostenibilità dell’intervento, l’eccessiva prescrittività delle indicazioni didattiche, le incongruenze nei contenuti disciplinari e l’assenza di adeguate…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Politica scolastica"
+   ],
+   "id": "545048dfafc1",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/nuove-indicazioni-nazionali-per-i-licei-i-rilievi-del-consiglio-di-stato-richiesti-allegati-piu-snelli-garanzie-per-lautonomia-didattica-e-formazione-del-personale-pdf",
+   "titolo": "Nuove Indicazioni nazionali per i licei, i rilievi del Consiglio di Stato: richiesti allegati più snelli, garanzie per l’autonomia didattica e formazione del personale – PDF",
+   "abstract": "Oltre 1.200 pagine di allegati, nuove articolazioni disciplinari, competenze in materia di intelligenza artificiale e un significativo impegno per le scuole nella rielaborazione dei curricoli. A fronte della portata dell’intervento, appare poco plausibile l’assenza di costi e…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "nuove indicazioni nazionali secondo ciclo"
+   ],
+   "id": "72dd3ffffb4c",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/nuove-indicazioni-nazionali-per-i-licei",
+   "titolo": "Nuove Indicazioni Nazionali per i licei, via libera del Consiglio di Stato: Valditara può ora firmare il regolamento",
+   "abstract": "Via libera del Consiglio di Stato al regolamento che detta le nuove Indicazioni nazionali per i licei. Si tratta dei programmi scolastici che dall’anno scolastico 2027/28 entreranno in vigore a partire dalle prime classi. Il regolamento potrà essere ora firmato dal ministro…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "nuove indicazioni nazionali secondo ciclo"
+   ],
+   "id": "6882bf452fa0",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/intervento-del-ministro-giuseppe-valditara-conferenza-stampa-un-no-e-un-no-",
+   "titolo": "Intervento del Ministro Giuseppe Valditara – Conferenza stampa “Un no è un no”",
+   "abstract": "",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Intervento"
+   ],
+   "id": "3dd97b106255",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/il-mim-a-job-orienta-2026-dal-25-al-28-novembre-alla-fiera-di-verona-orientamento-e-valorizzazione-dei-talenti-al-centro-del-programma",
+   "titolo": "Il MIM a Job&Orienta 2026 dal 25 al 28 novembre alla Fiera di Verona Orientamento e valorizzazione dei talenti al centro del programma",
+   "abstract": "Dal 25 al 28 novembre 2026 il Ministero dell’Istruzione e del Merito parteciperà alla XXXV edizione di Job&Orienta , il Salone italiano dedicato all’orientamento, che si configura come luogo di incontro tra studenti, famiglie, personale della scuola, Istituzioni, referenti del…",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [],
+   "id": "ac26538afe87",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/24/educazione-in-carcere-le-opportunita-del-pn-e-del-pon-per-costruire-percorsi-di-crescita-e-inclusione/",
+   "titolo": "Educazione in carcere: le opportunità del PN e del PON per costruire percorsi di crescita e inclusione",
+   "abstract": "L’educazione in carcere rappresenta una delle sfide più significative per il sistema di istruzione italiano, ma anche una delle opportunità più concrete per restituire prospettive, competenze e possibilità di reinserimento alle persone detenute. Quale contributo possono offrire…",
+   "data": "2026-11-24",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "Istruzione degli Adulti"
+   ],
+   "id": "4a6499e965ac",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/educazione-al-rispetto-e-parita-di-genere-oltre-4mila-scuole-coinvolte-e-15mila-iscritti-tra-docenti-dirigenti-scolastici-e-ata-al-progetto-mim-indire/",
+   "titolo": "Educazione al rispetto e parità di genere, oltre 4mila scuole coinvolte e 15mila iscritti tra docenti, dirigenti scolastici e ATA al progetto MIM-INDIRE",
+   "abstract": "Oltre 4mila scuole coinvolte, 15mila iscrizioni del personale scolastico e quasi il 90% degli istituti superiori impegnato in percorsi di educazione al rispetto. L'articolo Educazione al rispetto e parità di genere, oltre 4mila scuole coinvolte e 15mila iscritti tra docenti…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "98c0883a9b50",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2633-del-16-novembre-2026",
+   "titolo": "Decreto direttoriale n. 2633 del 16 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "cb6020d507b0",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2474-del-30-ottobre-2026",
+   "titolo": "Decreto direttoriale n. 2474 del 30 ottobre 2026",
+   "abstract": "DD 30 ottobre 2026, n. 2474-Contributo fino ad euro 1.500,00 per ciascuno studente frequentante una scuola paritaria secondaria di I grado o il primo biennio di II grado, a.s. 2025-26 Decreto di assegnazione fondi in favore degli UU.SS.RR. e impegno in favore dei beneficiari…",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "4dfd2daf2de9",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dirigenziale-n-208497-del-23-novembre-2026",
+   "titolo": "Decreto Dirigenziale n. 208497 del 23 novembre 2026",
+   "abstract": "Determina di affidamento - Individuazione delle istituzioni scolastiche e delle università organizzatrici dei Progetti nazionali e dei Campionati per l'anno scolastico 2026/2027 - Avviso pubblico prot. n. 183471 del 15 ottobre 2026.",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "316297859bec",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/crocifisso-rimosso-velo-islamico-in-classe-e-maestri-con-gonna-e-tacchi-la-scuola-secondo-il-generale-vannacci-e-lia",
+   "titolo": "Crocifisso rimosso, velo islamico in classe e maestri con gonna e tacchi: la scuola secondo il generale Vannacci (e l’IA)",
+   "abstract": "La scuola resta al centro del dibattito politico, in particolare per gli aspetti legati all’accoglienza e all’inclusione. A intervenire sul tema, nelle scorse ore, è stato il generale Roberto Vannacci, che è tornato a utilizzare l’intelligenza artificiale per comunicare agli…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Futuro Nazionale",
+    "vannacci"
+   ],
+   "id": "cfb69625bf5b",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bottiglietta-sospetta-in-un-liceo-artificieri-in-azione",
+   "titolo": "Bottiglietta sospetta in un liceo: artificieri in azione",
+   "abstract": "Mattinata di tensione martedì 24 novembre a Pisa, dove gli artificieri sono intervenuti in un complesso scolastico che ospita due licei. Al centro dell’allarme c’era una bottiglietta sospetta trovata nel laboratorio di chimica, poi fatta brillare lontano dalle aule. Dopo i…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba"
+   ],
+   "id": "fb75cd270132",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/bonus-paritarie-per-medie-e-primo-biennio-delle-superiori-1-500-euro-con-isee-sotto-i-20-000-euro-1-28711-euro-fino-a-30-000-decreto-mim/",
+   "titolo": "Bonus paritarie per medie e primo biennio delle superiori: 1.500 euro con ISEE sotto i 20.000 euro, 1.287,11 euro fino a 30.000. Decreto MIM",
+   "abstract": "Il ministero dell'Istruzione e del merito ha assegnato agli Uffici scolastici regionali 19.333.154,17 euro per pagare il contributo fino a 1.500 euro per gli studenti iscritti a una scuola paritaria, alle medie o al primo biennio delle superiori. L'articolo Bonus paritarie per…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Scuole non statali",
+    "Studenti",
+    "Bonus"
+   ],
+   "id": "9debbc859779",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bicentenario-della-nascita-di-carlo-collodi-unoccasione-per-studenti-e-insegnanti-di-riscoprire-un-classico-come-pinocchio",
+   "titolo": "Bicentenario della nascita di Carlo Collodi, un’occasione per studenti e insegnanti di riscoprire un classico come Pinocchio",
+   "abstract": "Il 24 novembre 1826 nasceva Carlo Lorenzini, noto con lo pseudonimo di Collodi e autore di Pinocchio. Oggi la cittadina di Collodi, in provincia di Pistoia, ospita il Parco di Pinocchio. E proprio lì si è celebrato il bicentenario dalla nascita, evento promosso dal Comitato…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Pinocchio"
+   ],
+   "id": "0541ef07bf75",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-21837-del-24-novembre-2026",
+   "titolo": "Avviso n. 21837 del 24 novembre 2026",
+   "abstract": "Comunicazione relativa all'avviso di interpello prot.n. 991 del 12 agosto 2026.",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "663452002e6b",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-20512-del-24-novembre-2026",
+   "titolo": "Avviso n. 20512 del 24 novembre 2026",
+   "abstract": "Avviso relativo alla procedura per il conferimento dell'incarico dirigenziale di livello non generale, ai sensi dell'art. 19 del D.lgs. 165 del 2001, per l'Ufficio X - AT di Pisa dell'USR Toscana. Scadenza presentazione domande: entro le ore 23:59 del 6 dicembre 2026.",
+   "data": "2026-11-24",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "81c33fa6e0f1",
+   "raccolto": "2026-11-24",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/alunni-stranieri-integrazione-o-inclusione-corsini-commenta-un-articolo-di-valditara-il-rigore-richiede-di-discutere-le-evidenze-non-di-selezionare-quelle-che-ci-fanno-comodo-intervista",
+   "titolo": "Alunni stranieri, integrazione o inclusione ? Corsini commenta un articolo di Valditara: “Il rigore richiede di discutere le evidenze, non di selezionare quelle che ci fanno comodo” [INTERVISTA]",
+   "abstract": "Le recenti affermazioni del ministro Valditara sul rapporto tra studenti con background migratorio e sistema scolastico sollevano interrogativi sul significato di inclusione, integrazione e resilienza. Ne parliamo con Cristiano Corsini, che analizza criticamente le evidenze…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Alunni stranieri",
+    "Giuseppe Valditara"
+   ],
+   "id": "da889faebf06",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/allarme-bomba-in-germania-minacce-e-mail-a-450-scuole-ma-gli-alunni-rimangono-in-classe-per-il-governo-tedesco-e-rischio-astratto",
    "titolo": "Allarme bomba, in Germania minacce e-mail a 450 scuole ma alunni e personale rimangono in classe: per il Governo tedesco è “rischio astratto”",
@@ -49,6 +539,26 @@
    "raccolto": "2026-11-24",
    "sezioni": [
     "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/24/4mila-scuole-per-la-parita-e-il-rispetto-a-roma-un-confronto-sul-progetto-mim-indire/",
+   "titolo": "4mila scuole per la parità e il rispetto: a Roma un confronto sul progetto MIM-INDIRE",
+   "abstract": "Promuovere una cultura del rispetto, contrastare gli stereotipi e le disuguaglianze di genere e prevenire le diverse forme di violenza, anche quelle che si manifestano negli ambienti digitali. Sono i temi che vengono affrontati durante il Convegno nazionale “La scuola per la…",
+   "data": "2026-11-24",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "paritàdigenere",
+    "cittadinanza attiva",
+    "slider"
+   ],
+   "id": "ef54635286d8",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "innovazione"
    ],
    "superiori": false
   },
