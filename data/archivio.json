@@ -1,38 +1,287 @@
 {
- "aggiornato": "2026-11-23T15:59:33+00:00",
+ "aggiornato": "2026-11-24T03:20:26+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-23T15:59:33+00:00",
-   "ultimo_ok": "2026-11-23T15:59:33+00:00"
+   "controllato": "2026-11-24T03:20:26+00:00",
+   "ultimo_ok": "2026-11-24T03:20:26+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-23T15:59:33+00:00",
-   "ultimo_ok": "2026-11-23T15:59:33+00:00"
+   "controllato": "2026-11-24T03:20:26+00:00",
+   "ultimo_ok": "2026-11-24T03:20:26+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-23T15:59:33+00:00",
-   "ultimo_ok": "2026-11-23T15:59:33+00:00"
+   "controllato": "2026-11-24T03:20:26+00:00",
+   "ultimo_ok": "2026-11-24T03:20:26+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 24,
-   "controllato": "2026-11-23T15:59:33+00:00",
-   "ultimo_ok": "2026-11-23T15:59:33+00:00"
+   "voci": 29,
+   "controllato": "2026-11-24T03:20:26+00:00",
+   "ultimo_ok": "2026-11-24T03:20:26+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 28,
-   "controllato": "2026-11-23T15:59:33+00:00",
-   "ultimo_ok": "2026-11-23T15:59:33+00:00"
+   "controllato": "2026-11-24T03:20:26+00:00",
+   "ultimo_ok": "2026-11-24T03:20:26+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/allarme-bomba-in-germania-minacce-e-mail-a-450-scuole-ma-gli-alunni-rimangono-in-classe-per-il-governo-tedesco-e-rischio-astratto",
+   "titolo": "Allarme bomba, in Germania minacce e-mail a 450 scuole ma alunni e personale rimangono in classe: per il Governo tedesco è “rischio astratto”",
+   "abstract": "Dopo l’esperienza vissuta nelle scuole italiane di due settimane fa, gli allarmi bomba via e-mail hanno raggiunto circa 450 istituti scolastici collocati in diversi Laender della Germania: nessun istituto però è stato evacuato. Ogni alunno o dipendente scolastico è rimasto al…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Germania"
+   ],
+   "id": "7f8c96a35560",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maestre-smettete-di-leggere-libri-ai-vostri-studenti-per-andrea-maggi-i-bambini-vanno-abituati-fin-da-piccoli-a-leggere-da-soli/",
+   "titolo": "“Maestre, smettete di leggere libri ai vostri studenti”. Per Andrea Maggi i bambini vanno abituati fin da piccoli a leggere da soli",
+   "abstract": "Leggere un libro ad alta voce a bambini che sanno già leggere non li aiuta ad amare la lettura. È questa la tesi di Andrea Maggi, insegnante, in un video pubblicato sui social. L'articolo “Maestre, smettete di leggere libri ai vostri studenti”. Per Andrea Maggi i bambini vanno…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "9c029ec486c0",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ciak-si-insegna-esce-il-iii-volume-di-fumagalli-e-guidoni-per-le-terze-della-secondaria-di-primo-grado",
+   "titolo": "“Ciak si insegna” esce il III volume di Fumagalli e Guidoni per le Terze della Secondaria di primo grado",
+   "abstract": "Dopo i primi due volumi, (il primo e il secondo) esce per l’editore Dino Audino, il terzo tomo di “Ciak si insegna. Usare i film per spiegare italiano, storia e geografia senza annoiarsi né annoiare gli studenti”, che è in fondo l’obiettivo (quello di non annoiare) più ambito di…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "recensione"
+   ],
+   "id": "eff740edc78b",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/tecnologie-digitali-per-i-giovani-sono-minaccia-o-risorsa-rusconi-la-scuola-sviluppi-unutilizzo-consapevole-e-capacita-di-giudizio-del-nuovo-che-avanza",
+   "titolo": "Tecnologie digitali, per i giovani sono minaccia o risorsa? Rusconi: la scuola sviluppi un’utilizzo consapevole e capacità di giudizio del nuovo che avanza",
+   "abstract": "“Sbaglia chi considera le tecnologie digitali solo una minaccia per le nuove generazioni, mentre sarebbe il caso di sviluppare nei giovani l’educazione all’utilizzo consapevole e con capacità di giudizio del nuovo che avanza”: a dirlo è stato Mario Rusconi, presidente Anp Roma…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Giovani",
+    "Mario Rusconi",
+    "Nuove tecnologie"
+   ],
+   "id": "fd20bd90a6f0",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/service-learning-corso-di-formazione-sulleducazione-alla-cittadinanza-iscrizioni-entro-il-2-dicembre-nota-e-calendario/",
+   "titolo": "Service-Learning, corso di formazione sull’educazione alla cittadinanza: iscrizioni entro il 2 dicembre. Nota e calendario",
+   "abstract": "Un corso di formazione dedicato al Service-Learning, l'approccio pedagogico che unisce l'apprendimento disciplinare all'impegno concreto a favore della comunità. L'articolo Service-Learning, corso di formazione sull’educazione alla cittadinanza: iscrizioni entro il 2 dicembre…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Educazione civica"
+   ],
+   "id": "9806f11a54d0",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/pdp-docenti-di-strumento-e-religione-firmano-per-gli-alunni-bes-che-non-frequentano/",
+   "titolo": "PDP, docenti di strumento e religione firmano per gli alunni BES che non frequentano?",
+   "abstract": "Alla fine di novembre in ogni scuola si redigono sottoscrivono i Piani Didattici Personalizzati per gli alunni con Bisogni Educativi Speciali. Tuttavia, tra scadenze e adempimenti burocratici, emerge spesso un dubbio pratico nelle segreterie e nei Consigli di Classe: i docenti…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "pdp"
+   ],
+   "id": "47f2eb088ac5",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/osservatori-esterni-prove-invalsi-2027-requisiti-e-scadenze-bandi-usr/",
+   "titolo": "Osservatori esterni prove Invalsi 2027: requisiti, compensi e scadenze. Bandi USR",
+   "abstract": "Gli Uffici scolastici regionali pubblicano i bandi finalizzati all'individuazione degli osservatori esterni per le prove Invalsi 2027. L'articolo Osservatori esterni prove Invalsi 2027: requisiti, compensi e scadenze. Bandi USR sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Scuole",
+    "invalsi"
+   ],
+   "id": "d50572535033",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "esami",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/lettura-ad-alta-voce-condivisa-quali-sono-i-benefici-e-perche-farlo-in-classe",
+   "titolo": "Lettura ad alta voce condivisa, quali sono i benefici e perché farlo in classe",
+   "abstract": "Torna a dicembre il “III Convegno scientifico internazionale sulla lettura ad alta voce condivisa”, in programma a Roma il 2 e 3 dicembre e a Perugia il 4 dicembre 2026. L’evento è organizzato dall’Associazione Nausika con il contributo di Fondazione per la Scuola, in…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "lettura alunni"
+   ],
+   "id": "e1cc6efc371e",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/insegnare-il-primo-soccorso-in-classe-non-ci-sono-risorse-cade-in-senato-lemendamento-al-dl-scuola-gli-infermieri-persa-occasione-per-salvare-vite",
+   "titolo": "Insegnare il primo soccorso in classe, non ci sono risorse: cade in Senato l’emendamento al DL Scuola. Gli infermieri: persa occasione per salvare vite",
+   "abstract": "“Bocciare una proposta che insegna ai ragazzi, agli studenti, a intervenire davanti a un arresto cardiaco significa perdere un’occasione per salvare vite. È una scelta che non condividiamo: l’educazione alla salute deve entrare stabilmente nelle scuole. Le risorse vanno trovate…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Decreto scuola",
+    "Emendamenti",
+    "Primo soccorso"
+   ],
+   "id": "1039cc13cf08",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/gite-scolastiche-oltre-2mila-docenti-trentini-si-rifiutano-di-partire-e-di-fare-progetti-troppo-lavoro-sommerso-cosi-non-si-puo-lavorare",
+   "titolo": "Gite scolastiche, oltre 2mila docenti trentini si rifiutano di partire e di fare “progetti”: troppo lavoro sommerso, così non si può lavorare",
+   "abstract": "Accompagnare gli studenti in viaggio d’istruzione? No grazie. È la posizione dei docenti di un liceo di Trento, che, come riporta L’Adige, da ottobre hanno messo in atto una protesta per boicottare gite scolastiche e attività extradidattiche. Da poco è nato il movimento…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Docenti",
+    "Studenti e genitori",
+    "Gite scolastiche",
+    "Trentino"
+   ],
+   "id": "20fb52d4afe9",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cucina-e-pasticceria-italiana-nelle-scuole-armene-tre-istituti-ospitano-le-lezioni-dellxi-settimana-della-cucina-italiana-nel-mondo/",
+   "titolo": "Cucina e pasticceria italiana nelle scuole armene: tre istituti ospitano le lezioni dell’XI Settimana della Cucina Italiana nel Mondo",
+   "abstract": "Fra il 16 e il 21 novembre, in tre scuole dell'Armenia, si è cucinato all'italiana: a Jerevan, Dilijan e Gyumri uno chef e un pasticciere arrivati dall'Italia hanno tenuto lezioni di cucina e pasticceria agli studenti. L'articolo Cucina e pasticceria italiana nelle scuole…",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "178d41a83732",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/chiara-ferragni-laurea",
+   "titolo": "Chiara Ferragni, la laurea mai conseguita e le parole scherzose sulla scuola: “Io ero per studiare il meno possibile”",
+   "abstract": "Chiara Ferragni, il cui documentario su Netflix, dal titolo “Chiara“, è uscito oggi, 23 novembre, ha parlato della sua esperienza a scuola in occasione della sua visita al liceo che ha frequentato, il Daniele Manin di Cremona, la sua città natale, come mostrato nella serie The…",
+   "data": "2026-11-23",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Chiara Ferragni"
+   ],
+   "id": "cd371c4e9894",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/campionati-italiani-di-matematica-2026-27-iscrizioni-entro-il-27-novembre-giochi-di-archimede-il-3-dicembre-nota/",
+   "titolo": "Campionati Italiani di Matematica 2026/27, iscrizioni entro il 27 novembre: Giochi di Archimede il 3 dicembre. Nota",
+   "abstract": "Al via la XLIII edizione dei Campionati Italiani di Matematica per l'anno scolastico 2026/2027. L'articolo Campionati Italiani di Matematica 2026/27, iscrizioni entro il 27 novembre: Giochi di Archimede il 3 dicembre. Nota sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-23",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "0e75c13b83a7",
+   "raccolto": "2026-11-24",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/se-domani-non-torno-alla-camera-il-film-su-giulia-cecchettin-nella-giornata-contro-la-violenza-sulle-donne-insieme-agli-studenti",
    "titolo": "“Se domani non torno” alla Camera: il film su Giulia Cecchettin nella Giornata contro la violenza sulle donne insieme agli studenti",
