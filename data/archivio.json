@@ -1,38 +1,286 @@
 {
- "aggiornato": "2026-11-24T15:54:14+00:00",
+ "aggiornato": "2026-11-25T01:26:32+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-24T15:54:14+00:00",
-   "ultimo_ok": "2026-11-24T15:54:14+00:00"
+   "controllato": "2026-11-25T01:26:32+00:00",
+   "ultimo_ok": "2026-11-25T01:26:32+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-24T15:54:14+00:00",
-   "ultimo_ok": "2026-11-24T15:54:14+00:00"
+   "controllato": "2026-11-25T01:26:32+00:00",
+   "ultimo_ok": "2026-11-25T01:26:32+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-24T15:54:14+00:00",
-   "ultimo_ok": "2026-11-24T15:54:14+00:00"
+   "controllato": "2026-11-25T01:26:32+00:00",
+   "ultimo_ok": "2026-11-25T01:26:32+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 26,
-   "controllato": "2026-11-24T15:54:14+00:00",
-   "ultimo_ok": "2026-11-24T15:54:14+00:00"
+   "voci": 30,
+   "controllato": "2026-11-25T01:26:32+00:00",
+   "ultimo_ok": "2026-11-25T01:26:32+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-24T15:54:14+00:00",
-   "ultimo_ok": "2026-11-24T15:54:14+00:00"
+   "controllato": "2026-11-25T01:26:32+00:00",
+   "ultimo_ok": "2026-11-25T01:26:32+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/unicef-610-milioni-di-bambini-vivono-con-madri-vittime-di-violenza-da-parte-del-partner-al-via-la-campagna-non-restare-in-silenzio/",
+   "titolo": "UNICEF: 610 milioni di bambini vivono con madri vittime di violenza da parte del partner. Al via la campagna “Non restare in silenzio”",
+   "abstract": "Nel mondo circa 650 milioni di ragazze e donne oggi in vita, una su cinque, hanno subito violenze sessuali durante l’infanzia. Oltre 370 milioni, una su otto, sono state vittime di stupro o aggressione sessuale. A ricordarlo è l’UNICEF in occasione della Giornata internazionale…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "177d5968c550",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/tfa-sostegno-xi-ciclo-e-tirocinio-ore-cfu-tutor-e-regole-su-frequenza-e-valutazione/",
+   "titolo": "TFA Sostegno XI ciclo e tirocinio: ore, CFU, tutor e regole su frequenza e valutazione",
+   "abstract": "Nel percorso universitario di specializzazione per le attività di sostegno didattico agli alunni con disabilità, il tirocinio rappresenta il ponte fondamentale tra l’elaborazione teorica e la pratica educativa quotidiana. Regolato dal Decreto Ministeriale 30 settembre 2011…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti",
+    "Formazione docenti",
+    "Sostegno - Disabilità"
+   ],
+   "id": "ccf7cb040410",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studenti-che-si-addormentano-in-classe-cnddu-non-e-sempre-colpa-dei-docenti-servono-indicazioni-operative-e-coinvolgimento-delle-famiglie/",
+   "titolo": "Studenti che si addormentano in classe, CNDDU: non è sempre colpa dei docenti. Servono indicazioni operative e coinvolgimento delle famiglie",
+   "abstract": "Gli episodi ricorrenti di sonnolenza durante le lezioni non possono essere ricondotti a una semplice mancanza di interesse o alla scarsa capacità dei docenti di coinvolgere gli studenti. L'articolo Studenti che si addormentano in classe, CNDDU: non è sempre colpa dei docenti…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori"
+   ],
+   "id": "669a3383a32d",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sorveglianza-alunni-a-scuola-laran-fa-chiarezza-su-compiti-dei-collaboratori-assistenza-nel-salire-le-scale-o-trasporto-degli-zaini-e-doveri-dei-docenti",
+   "titolo": "Sorveglianza alunni a scuola: l’ARAN fa chiarezza su compiti dei collaboratori (assistenza nel salire le scale o trasporto degli zaini) e doveri dei docenti",
+   "abstract": "L’attività di accoglienza e sorveglianza degli studenti all’interno degli istituti scolastici torna al centro dell’attenzione applicativa. Con due recenti orientamenti (Id 39570 e Id 39568), l’ARAN ha fornito rilevanti chiarimenti sull’applicazione dell’Allegato A al CCNL…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Collaboratore scolastico",
+    "Sorveglianza alunni"
+   ],
+   "id": "3dae98b5f0b0",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sciopero-a-scuola-prove-invalsi-e-trattenute-in-busta-paga-nuovi-pareri-dellaran",
+   "titolo": "Sciopero a scuola, prove INVALSI e trattenute in busta paga: nuovi pareri dell’ARAN",
+   "abstract": "L’ARAN si è espressa con due recenti orientamenti (Id 39564 e Id 39558) in materia di gestione delle astensioni dal lavoro negli istituti scolastici. I pareri forniscono utili chiarimenti per Dirigenti Scolastici e segreterie amministrative su due aspetti chiave: lo svolgimento…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Personale della scuola",
+    "Aran",
+    "Sciopero"
+   ],
+   "id": "f690bc4390c2",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "esami",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/pensioni-rivalutazione-del-32-dal-1-gennaio-2027-decreto-in-gazzetta-ufficiale/",
+   "titolo": "Pensioni, rivalutazione del 3,2% dal 1° gennaio 2027. Decreto in Gazzetta Ufficiale",
+   "abstract": "Dal 1° gennaio 2027 le pensioni saranno rivalutate sulla base di un indice provvisorio di perequazione del 3,2%. È quanto stabilisce il decreto del 13 novembre 2026, pubblicato in Gazzetta Ufficiale. L'articolo Pensioni, rivalutazione del 3,2% dal 1° gennaio 2027. Decreto in…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Pensioni"
+   ],
+   "id": "3269bec74bf3",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/pensioni-50-mila-firme-in-cinque-giorni-per-la-rivalutazione-integrale-la-pensione-non-e-un-privilegio-ma-un-diritto/",
+   "titolo": "Pensioni, 50 mila firme in cinque giorni per la rivalutazione integrale: “La pensione non è un privilegio, ma un diritto”",
+   "abstract": "La proposta di legge di iniziativa popolare sulla rivalutazione integrale delle pensioni ha superato le 50 mila firme in cinque giorni, cosa che il Comitato promotore considera \"un primo, importante traguardo\". L'articolo Pensioni, 50 mila firme in cinque giorni per la…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Pensioni"
+   ],
+   "id": "946bfec87044",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ptof-regolamento-distituto-e-patto-educativo-lintelligenza-artificiale-impone-una-revisione-coordinata/",
+   "titolo": "PTOF, Regolamento d’istituto e Patto educativo: l’intelligenza artificiale impone una revisione coordinata",
+   "abstract": "L’adeguamento all’IA non si esaurisce in un regolamento autonomo. Occorre raccordare PTOF, Patto educativo, disciplina degli studenti, istruzioni didattiche e formazione, rispettando le competenze degli organi scolastici e distinguendo le regole organizzative dalle condizioni di…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "aad2fa6a7987",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/concorso-docenti-2027-13-868-posti-requisiti-prove-e-valutazione-titoli",
+   "titolo": "Concorso docenti 2027: 13.868 posti, requisiti, prove e valutazione titoli – INFOGRAFICA",
+   "abstract": "Nell’incontro del 13 novembre 2026 il personale ministeriale ha confermato ai sindacati di categoria che il concorso docenti 2027 seguirà le disposizioni previste dai decreti 205 e 206 del 2023. Prendono così forma i due bandi della procedura ordinaria, che metterà a…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "concorso docenti 2027",
+    "Prove",
+    "Titoli culturali"
+   ],
+   "id": "35ae3d64a5b0",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cinema-percorsi-formativi-per-gli-studenti-e-progetti-con-le-sale-cinematografiche-la-nuova-legge-in-gazzetta-ufficiale/",
+   "titolo": "Cinema, percorsi formativi per gli studenti e progetti con le sale cinematografiche: la nuova legge in Gazzetta Ufficiale",
+   "abstract": "Pubblicata nella Gazzetta Ufficiale n. 274 del 24 novembre la legge 6 novembre 2026, n. 214, contenente disposizioni in materia di cinema. L'articolo Cinema, percorsi formativi per gli studenti e progetti con le sale cinematografiche: la nuova legge in Gazzetta Ufficiale sembra…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti",
+    "Cinema"
+   ],
+   "id": "b5fcde7b8274",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/aveva-quasi-otto-di-media-ma-e-stato-bocciato-allesame-di-stato-poi-il-tar-gli-ha-fatto-ripetere-orale-e-ha-preso-il-diploma-ecco-perche/",
+   "titolo": "Aveva quasi otto di media ma è stato bocciato all’esame di Stato, poi il TAR gli ha fatto ripetere orale e ha preso il diploma: ecco perché",
+   "abstract": "Immagina di arrivare all'ultimo atto delle superiori con una pagella brillante e ritrovarti bocciato per appena quattro punti. La storia arriva direttamente dalle aule di un istituto superiore marchigiano durante l'anno scolastico 2025/2026. L'articolo Aveva quasi otto di media…",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "c8b93796e3df",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/assegni-di-frequenza-e-contributi-formativi-inps-2026-fino-a-1-000-euro-domande-dal-30-novembre-al-30-dicembre-bando/",
+   "titolo": "Assegni di frequenza e contributi formativi INPS 2026 fino a 1.000 euro: domande dal 30 novembre al 30 dicembre. BANDO",
+   "abstract": "L’INPS ha pubblicato il bando di concorso “Assegni di frequenza e contributi formativi 2026”. L'articolo Assegni di frequenza e contributi formativi INPS 2026 fino a 1.000 euro: domande dal 30 novembre al 30 dicembre. BANDO sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-24",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Inps"
+   ],
+   "id": "fa291e9cc20e",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/allarmi-bomba-scuola-a-castelfranco-veneto-il-comune-rimborsa-i-genitori-per-i-pasti-saltati-in-mensa",
+   "titolo": "Allarmi bomba scuola, a Castelfranco Veneto il Comune rimborsa i genitori per i pasti saltati in mensa",
+   "abstract": "Gli allarmi bomba degli scorsi 11 e 12 novembre hanno seminato il panico nelle scuole e provocato diverse evacuazioni. Durante quelle giornate, le lezioni sono terminate e metà mattinata e gli alunni hanno fatto, nella maggior parte dei casi, rientro a casa. La Giunta comunale…",
+   "data": "2026-11-24",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "allarme bomba",
+    "Mensa scolastica",
+    "Veneto"
+   ],
+   "id": "1a6c80bb90f2",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/literacy-brainframe-e-fair-use-troppi-anglicismi-nelle-nuove-indicazioni-per-i-licei-il-consiglio-di-stato-chiede-un-linguaggio-piu-comprensibile/",
    "titolo": "“Literacy, brainframe e fair use”: troppi anglicismi nelle nuove Indicazioni per i licei. Il Consiglio di Stato chiede un linguaggio più comprensibile",
@@ -21212,42 +21460,6 @@
     "Ministero"
    ],
    "id": "3c3f9ed16bb3",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "altro"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/l-educazione-sessuale-in-aula-e-il-consenso-informato-l-intervento",
-   "titolo": "L'educazione sessuale in aula e il consenso informato. L'intervento",
-   "abstract": "Le nuove Linee guida sulla educazione civica prevedono come obiettivi di apprendimento, dunque obbligatori, l'educazione alle relazioni e l'educazione al rispetto, verso chiunque e in particolare verso la donna.",
-   "data": "2025-10-20",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Scuola"
-   ],
-   "id": "162784e0881d",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "riforme"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/educazione-sessuale-in-aula-e-consenso-informato-replica-del-ministro-valditara-all-articolo-del-corriere-della-sera-del-18-ottobre-l-educazione-sessu",
-   "titolo": "Educazione sessuale in aula e consenso informato, replica del Ministro Valditara all’articolo del Corriere della Sera del 18 ottobre «L'educazione sessuale. Il passo indietro nelle scuole» a firma di Carlo Verdelli",
-   "abstract": "Giuseppe Valditara Ministro dell'Istruzione e del Merito",
-   "data": "2025-10-20",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Scuola"
-   ],
-   "id": "109940f70bef",
    "raccolto": "2026-11-05",
    "sezioni": [
     "altro"
