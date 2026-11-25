@@ -1,38 +1,686 @@
 {
- "aggiornato": "2026-11-25T01:26:32+00:00",
+ "aggiornato": "2026-11-25T15:37:41+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-25T01:26:32+00:00",
-   "ultimo_ok": "2026-11-25T01:26:32+00:00"
+   "controllato": "2026-11-25T15:37:41+00:00",
+   "ultimo_ok": "2026-11-25T15:37:41+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-25T01:26:32+00:00",
-   "ultimo_ok": "2026-11-25T01:26:32+00:00"
+   "controllato": "2026-11-25T15:37:41+00:00",
+   "ultimo_ok": "2026-11-25T15:37:41+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-25T01:26:32+00:00",
-   "ultimo_ok": "2026-11-25T01:26:32+00:00"
+   "controllato": "2026-11-25T15:37:41+00:00",
+   "ultimo_ok": "2026-11-25T15:37:41+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-25T01:26:32+00:00",
-   "ultimo_ok": "2026-11-25T01:26:32+00:00"
+   "voci": 24,
+   "controllato": "2026-11-25T15:37:41+00:00",
+   "ultimo_ok": "2026-11-25T15:37:41+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-25T01:26:32+00:00",
-   "ultimo_ok": "2026-11-25T01:26:32+00:00"
+   "controllato": "2026-11-25T15:37:41+00:00",
+   "ultimo_ok": "2026-11-25T15:37:41+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/esami-di-stato-senza-frequentare-neppure-un-giorno-di-scuola-32-indagati-per-un-sistema-di-diplomifici-in-campania",
+   "titolo": "“Esami di Stato senza frequentare neppure un giorno di scuola”: 32 indagati per un sistema di diplomifici in Campania",
+   "abstract": "Dopo i casi dei mesi scorsi si torna a parlare di “diplomifici” in Campania. Come riporta Il Corriere della Sera, quattordici società dell’area oplontina e vesuviana avrebbero rilasciato “5.900 diplomi ritenuti irregolari a studenti di tutta Italia che non avrebbero frequentato…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Diplomificio",
+    "Guardia di Finanza"
+   ],
+   "id": "26fb634c57ad",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "esami",
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/violenza-sulle-donne-lordine-degli-psicologi-chiede-una-presenza-psicologica-stabile-nelle-scuole-e-percorsi-di-educazione-allaffettivita/",
+   "titolo": "Violenza sulle donne, l’Ordine degli Psicologi chiede una presenza psicologica stabile nelle scuole e percorsi di educazione all’affettività",
+   "abstract": "Una presenza psicologica stabile nelle scuole e nei servizi per l’infanzia, programmi continuativi di educazione al rispetto e all’affettività e una maggiore formazione dei professionisti sulla violenza di genere. L'articolo Violenza sulle donne, l’Ordine degli Psicologi chiede…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti",
+    "Educazione affettiva"
+   ],
+   "id": "dfbdc6b3c8c5",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/violenza-sulle-donne-il-film-su-giulia-cecchettin-proiettato-alla-camera-davanti-agli-studenti-gino-cecchettin-ora-siamo-noi-adulti-a-doverli-ascoltare/",
+   "titolo": "Violenza sulle donne, il film su Giulia Cecchettin proiettato alla Camera davanti agli studenti. Gino Cecchettin: “Ora siamo noi adulti a doverli ascoltare”",
+   "abstract": "Educare al rispetto, riconoscere i segnali della violenza e ascoltare le nuove generazioni. Sono i temi al centro dell’incontro organizzato oggi alla Camera dei deputati, in occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, durante il…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "0c7afdf66583",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/violenza-sulle-donne-il-946-dei-giovani-la-condanna-ma-un-adolescente-maschio-su-4-pensa-che-una-ragazza-possa-provocarla-con-i-vestiti-lindagine/",
+   "titolo": "Violenza sulle donne, il 94,6% dei giovani la condanna, ma un adolescente maschio su 4 pensa che una ragazza possa “provocarla” con i vestiti. L’indagine",
+   "abstract": "Sul principio sono quasi tutti d'accordo. Il 94,6% dei giovani tra gli 11 e i 19 anni pensa che una donna non debba mai sopportare la violenza del partner. Basta però scendere un po' più nel concreto, e le risposte iniziano a vacillare. L'articolo Violenza sulle donne, il 94,6%…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "2d840dd348ee",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/vandalismo-a-scuola-al-righi-di-roma-estintori-svuotati-e-aria-irrespirabile-il-preside-violenza-chi-sa-qualcosa-parli",
+   "titolo": "Vandalismo a scuola, al Righi di Roma estintori svuotati e aria irrespirabile. Il preside: “Violenza, chi sa qualcosa parli”",
+   "abstract": "Non si placa la scia di vandalismo che nelle ultime settimane ha interessato diverse scuola nella Capitale. A essere colpito, questa volta, è stato il liceo scientifico statale Augusto Righi, dove sono stati manomessi i dispositivi antincendio costringendo la scuola a sospendere…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Roma",
+    "Sicurezza a scuola",
+    "vandalismo"
+   ],
+   "id": "5ada07ec3e26",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studentesse-spogliate-dallia-e-proiettate-in-una-lim-la-rabbia-dei-compagni-fatto-gravissimo",
+   "titolo": "Studentesse spogliate dall’IA e proiettate in una lim, la rabbia dei compagni: “Fatto gravissimo”",
+   "abstract": "Foto prese dai social, manipolate con l’intelligenza artificiale per spogliare le ragazze ritratte e poi comparse sulla lavagna interattiva di un’altra scuola di Monteverde Vecchio. È successo nei giorni scorsi ad alcune studentesse di un liceo scientifico di Roma, che hanno…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Intelligenza artificiale",
+    "Violenza di genere"
+   ],
+   "id": "26dbe73ec534",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sicurezza-nei-luoghi-di-aggregazione-giovanile-al-via-lindagine-di-cittadinanzattiva-rivolta-agli-studenti-questionario-fino-a-gennaio/",
+   "titolo": "Sicurezza nei luoghi di aggregazione giovanile, al via l’indagine di Cittadinanzattiva rivolta agli studenti. Questionario fino a gennaio",
+   "abstract": "Conoscere le abitudini dei giovani, la loro percezione dei rischi e il livello di consapevolezza rispetto alla sicurezza nei luoghi di svago, compresi gli ambienti digitali. L'articolo Sicurezza nei luoghi di aggregazione giovanile, al via l’indagine di Cittadinanzattiva rivolta…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "80f90b4b7fbb",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-nel-bosco-a-cagliari-liniziativa-per-portare-gli-studenti-di-nido-e-infanzia-a-fare-lezione-immersi-nella-natura",
+   "titolo": "Scuola nel bosco, a Cagliari l’iniziativa per portare gli studenti di nido e infanzia a “fare lezione immersi nella natura”",
+   "abstract": "Tavoli di legno al posto dei banchi, verdure da coltivare a chilometro zeri e punti di osservazione per spiare – e studiare – la vita degli insetti. È la “scuola nel bosco” lanciata dall’Istituto San Vincenzo di Cagliari, rivolta agli alunni del nido e dell’infanzia. A riportare…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "asili nido",
+    "Natura",
+    "Scuola Infanzia"
+   ],
+   "id": "f587bf3ef57f",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/quando-la-scuola-diventa-un-set-proiezione-del-cortometraggio-viaggio-tra-acqua-e-fuoco-realizzato-con-gli-studenti",
+   "titolo": "Quando la scuola diventa un set: proiezione del cortometraggio “Viaggio tra acqua e fuoco” realizzato con gli studenti",
+   "abstract": "Debutta il cortometraggio “Viaggio tra acqua e fuoco”, realizzato dagli studenti dell’Istituto comprensivo “Lombardo Radice – Virgilio” di Paternò (Catania) con la collaborazione degli istituti in rete. La prima proiezione è in programma giovedì 26 novembre, alle 17, nell’aula…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Sicilia"
+   ],
+   "id": "6b542af7c405",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/piu-brave-a-scuola-meno-pagate-al-lavoro-il-217-delle-ragazze-esce-dalla-maturita-con-91-100-e-lode-ma-a-un-anno-dal-diploma-guadagna-215-euro-al-mese-in-meno-dei-coetanei/",
+   "titolo": "Più brave a scuola, meno pagate al lavoro: il 21,7% delle ragazze esce dalla maturità con 91-100 e lode, ma a un anno dal diploma guadagna 215 euro al mese in meno dei coetanei",
+   "abstract": "Una ragazza che dopo la maturità va subito a lavorare a tempo pieno, dopo un anno porta a casa in media 215 euro in meno al mese di un coetaneo. Eppure, fra i banchi, i voti migliori li prendono le studentesse. Lo dicono i dati di AlmaDiploma e AlmaLaurea, rielaborati da…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "3c30359c77dd",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/pagamento-commissioni-maturita-2025-26-in-arrivo-ulteriori-risorse",
+   "titolo": "Pagamento commissioni maturità 2025/26, in arrivo ulteriori risorse",
+   "abstract": "Arrivano nuove risorse per pagare i compensi delle commissioni dell’esame di maturità dell’anno scolastico 2025/2026. Il Ministero dell’Istruzione e del Merito, con il decreto direttoriale n. 625 del 5 ottobre 2026, ha assegnato 469.354,95 euro alle scuole. Che cosa prevede il…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Commissari",
+    "maturità 2025/26"
+   ],
+   "id": "23dbfc6d3046",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "esami",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ore-eccedenti-docenti-compensi-da-ricalcolare-con-gli-aumenti-del-ccnl-1-luglio-2026-chiarimento-aran/",
+   "titolo": "Ore eccedenti docenti, compensi da ricalcolare con gli aumenti del CCNL 1° luglio 2026. Chiarimento ARAN",
+   "abstract": "Gli incrementi stipendiali previsti dal CCNL del 1° luglio 2026 incidono anche sul calcolo dei compensi per le ore eccedenti svolte nell’anno scolastico 2025/2026. A chiarirlo è l’ARAN con un recente orientamento applicativo. L'articolo Ore eccedenti docenti, compensi da…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Scuole",
+    "Ore eccedenti"
+   ],
+   "id": "3855e8537eea",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maturita-2026-assegnati-ulteriori-469mila-euro-per-il-pagamento-delle-commissioni-desame-importi-per-scuola-decreto/",
+   "titolo": "Maturità 2026, assegnati circa 898mila euro per il pagamento delle commissioni d’esame. Importi per scuola. DECRETI",
+   "abstract": "Il Ministero dell’Istruzione e del Merito ha disposto l’assegnazione di ulteriori risorse per il pagamento delle commissioni degli esami di maturità 2025/26. L'articolo Maturità 2026, assegnati circa 898mila euro per il pagamento delle commissioni d’esame. Importi per scuola…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "395178bad126",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/lavoro-agile-per-il-personale-ata-e-possibile-assentarsi-per-visite-o-terapie-mediche-chiarimenti-aran",
+   "titolo": "Lavoro agile per il personale ATA, è possibile assentarsi per visite o terapie mediche? Chiarimenti ARAN",
+   "abstract": "L’ARAN ha reso noto un orientamento applicativo (Id 39517 del 17 novembre 2026) in merito allo svolgimento del lavoro agile (smart working) per il personale ATA. Il chiarimento affronta un quesito pratico frequente nelle segreterie scolastiche: la possibilità per il dipendente…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "lavoro agile",
+    "Personale Ata",
+    "Smart working"
+   ],
+   "id": "9be05f969f0b",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne-il-messaggio-del-ministro-valditara-",
+   "titolo": "Giornata internazionale per l’eliminazione della violenza contro le donne. Il messaggio del Ministro Valditara",
+   "abstract": "Un NO è un NO. La rivoluzione del rispetto parte dalle nostre scuole. L’intervento del Ministro",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "487896fb4870",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/giornata-internazionale-per-l-eliminazione-della-violenza-contro-le-donne-il-messaggio-del-ministro-giuseppe-valditara-alle-scuole",
+   "titolo": "Giornata internazionale per l’eliminazione della violenza contro le donne, il messaggio del Ministro Giuseppe Valditara alle scuole",
+   "abstract": "Care Studentesse, cari Studenti, Dirigenti, Docenti, Personale scolastico, il 25 novembre, Giornata internazionale per l’eliminazione della violenza contro le donne, rappresenta, ogni anno, un momento fondamentale di riflessione civile, culturale e istituzionale. La Scuola…",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Notizia"
+   ],
+   "id": "37ee0734b0ba",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/giornata-internazionale-contro-la-violenza-sulle-donne-valditara-manda-lettera-alle-scuole-ripartire-dalle-aule-per-la-cultura-del-rispetto-2",
+   "titolo": "Giornata internazionale contro la violenza sulle donne, Valditara manda lettera alle scuole: “Ripartire dalle aule per la cultura del rispetto”",
+   "abstract": "Il ministro dell’Istruzione e del Merito Giuseppe Valditara ha inviato una circolare a studenti, dirigenti, docenti e personale scolastico in occasione del 25 novembre, Giornata internazionale per l’eliminazione della violenza contro le donne. Il messaggio ricorda che la scuola…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "giornata contro la violenza sulle donne",
+    "Giuseppe Valditara"
+   ],
+   "id": "886419ede7b6",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/25/giacomo-e-velia-matteotti-memoria-liberta-e-impegno-civile-workshop-conclusivo-del-progetto-indire-e-fondazione-turati/",
+   "titolo": "Giacomo e Velia Matteotti: memoria, libertà e impegno civile. Workshop conclusivo del progetto INDIRE e Fondazione Turati",
+   "abstract": "Venerdì 27 novembre 2026, nella sede di INDIRE, via Buonarroti 10 a Firenze, si terrà il workshop conclusivo del progetto “Giacomo e Velia. Ideali di libertà, giustizia sociale, pace nelle carte Matteotti della Fondazione di studi storici Filippo Turati”, promosso da INDIRE e…",
+   "data": "2026-11-25",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio"
+   ],
+   "id": "fce4116c1c24",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/emilia-romagna-stati-generali-della-scuola-oggi-in-corteo-contro-la-violenza-sulle-donne",
+   "titolo": "Emilia Romagna: Stati generali della scuola. Oggi in corteo contro la violenza sulle donne",
+   "abstract": "Da piazzale Santa Croce a piazza Garibaldi, questa mattina, mercoledì 25 novembre, le studentesse e gli studenti delle scuole superiori e degli enti di formazione professionale di Parma hanno attraversato il centro della città insieme alla cittadinanza. Il corteo, molto…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "giornata contro la violenza sulle donne"
+   ],
+   "id": "0da1914305ab",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dl-scuola-e-libri-digitali-laltola-di-casellati-senza-i-testi-cartacei-muore-leditoria-e-si-perdono-posti-di-lavoro/",
+   "titolo": "Dl Scuola e libri digitali, l’altolà di Casellati: “Senza i testi cartacei muore l’editoria e si perdono posti di lavoro”",
+   "abstract": "Il dibattito sul decreto scuola e sulla spinta verso la digitalizzazione dei testi didattici accende un nuovo confronto tra innovazione, risparmio per le famiglie e tutela della filiera produttiva. L'articolo Dl Scuola e libri digitali, l’altolà di Casellati: “Senza i testi…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "f2c9b16de8d9",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-780-del-9-novembre-2026",
+   "titolo": "Decreto direttoriale n. 780 del 9 novembre 2026",
+   "abstract": "Decreto erogazione esami di maturità 2025/2026 rilevazione 4",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "c9245f8c388b",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "esami",
+    "norme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-214-del-6-novembre-2026",
+   "titolo": "Decreto Ministeriale n. 214 del 6 novembre 2026",
+   "abstract": "Disposizioni modificative dei Decreti ministeriali 26 ottobre 2023, n. 205 e n. 206",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "0998df34ca8a",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-210-del-29-ottobre-2026",
+   "titolo": "Decreto Ministeriale n. 210 del 29 ottobre 2026",
+   "abstract": "Decreto Ministeriale n .210 del 29 ottobre 2026 recante l'autorizzazione del progetto di innovazione metodologico-didattica del Liceo scientifico opzione scienze applicate quadriennale denominato \"Liceo Steam International - Science, Technology, Engineering, Arts, Mathematics\"",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "e0c84d6acf8b",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-ministeriale-n-203-del-14-ottobre-2026",
+   "titolo": "Decreto Ministeriale n. 203 del 14 ottobre 2026",
+   "abstract": "Decreto Ministeriale del 14 ottobre 2026 n. 203, recante l'autorizzazione all'attivazione del progetto di innovazione metodologico-didattica denominato \"Liceo classico europeo 2023\".",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "45146354d2aa",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-743-del-3-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 743 del 3 novembre 2026",
+   "abstract": "DDG approvazione graduatorie e assunzione impegno DM 89 del 2026.",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "8e9b2d56624a",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-670-del-14-ottobre-2026",
+   "titolo": "Decreto Direttoriale n. 670 del 14 ottobre 2026",
+   "abstract": "Decreto erogazione indennità di bilinguismo e trilinguismo 2025-2026.",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "e4fa72a8becb",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-625-del-5-ottobre-2026",
+   "titolo": "Decreto Direttoriale n. 625 del 5 ottobre 2026",
+   "abstract": "Decreto erogazione esami di maturità 2025/2026 rilevazione 3.",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "3cf5bdf2cf5c",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "esami",
+    "norme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2635-del-16-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 2635 del 16 novembre 2026",
+   "abstract": "Assegnazione agli Uffici scolastici regionali di risorse finanziarie al fine di sostenere la realizzazione delle attività connesse all'avviamento alla pratica sportiva - A.S. 2026-2027. Decreto di assegnazione delle risorse finanziarie, in termini di competenza e cassa, per la…",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "3a453e6db2ea",
+   "raccolto": "2026-11-25",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cultura-e-creativita-motore-doccupazione-per-i-giovani-un-assunto-su-tre-e-under-30-e-altamente-qualificato/",
+   "titolo": "Cultura e creatività motore d’occupazione per i giovani: un assunto su tre è under 30 e altamente qualificato",
+   "abstract": "Nelle imprese culturali e creative, in Italia, un neoassunto su tre è un giovane under 30 con un elevato livello di istruzione. L'articolo Cultura e creatività motore d’occupazione per i giovani: un assunto su tre è under 30 e altamente qualificato sembra essere il primo su…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "d57b3ec0b244",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/crolla-tenda-in-un-liceo-a-roma-due-feriti-tra-gli-studenti/",
+   "titolo": "Crolla tenda in un liceo a Roma, due feriti tra gli studenti",
+   "abstract": "Momenti di paura in un liceo di Roma, dove il crollo di una pesante tenda all'interno di un'aula ha provocato il ferimento di due studenti. L'articolo Crolla tenda in un liceo a Roma, due feriti tra gli studenti sembra essere il primo su Orizzonte Scuola Notizie .",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Nessuna categoria"
+   ],
+   "id": "373701de70ae",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/crolla-tenda-a-scuola-due-studenti-feriti-finiti-in-ospedale-la-sicurezza-non-puo-essere-oggetto-di-tagli-la-denuncia",
+   "titolo": "Crolla tenda a scuola, due studenti feriti: finiti in ospedale. “La sicurezza non può essere oggetto di tagli”, la denuncia",
+   "abstract": "Brutto episodio in un liceo di Roma. In una classe una tenda abbastanza pesante è caduta addosso a due studenti, che sono finiti in ospedale. In questi minuti la comunità studentesca del liceo si sta mobilitando, per organizzando due scioperi in entrambe le sedi. Lo riporta Il…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Edilizia scolastica"
+   ],
+   "id": "da7b59e59314",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/concorso-docenti-2027-ecco-il-decreto-punteggi-programmi-3-punti-per-ogni-anno-di-servizio-e-125-per-la-specializzazione-sul-sostegno-tutti-i-dettagli/",
+   "titolo": "Concorso docenti 2027, ecco il nuovo Decreto punteggi e i Programmi: 3 punti per ogni anno di servizio e 12,5 per la specializzazione sul sostegno. Tutti i dettagli",
+   "abstract": "Più peso all’esperienza professionale dei docenti, nuove disposizioni per la valutazione delle abilitazioni e dei titoli di specializzazione sul sostegno, aggiornamento dei programmi concorsuali. Sono alcune delle novità introdotte dal decreto ministeriale n. 214 del 6 novembre…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti"
+   ],
+   "id": "21df2d5894b4",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/anno-scolastico-allestero-il-ruolo-della-scuola-nella-scelta-del-percorso",
+   "titolo": "Anno scolastico all’estero: il ruolo della scuola nella scelta del percorso",
+   "abstract": "Il Programma ITACA 2027/2028 Si è chiusa il 10 novembre la finestra per candidarsi al Bando ITACA INPS 2027/2028, che mette a disposizione 1.500 borse di studio per gli studenti delle scuole superiori che desiderano trascorrere un periodo di studio all’estero. Il contributo…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Borse di studio",
+    "Studenti"
+   ],
+   "id": "a5b475db0001",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/allerta-meteo-26-novembre-scuole-chiuse-stop-in-diversi-comuni-della-campania-in-aggiornamento/",
+   "titolo": "Allerta meteo 26 novembre scuole chiuse, stop in diversi comuni della Campania. IN AGGIORNAMENTO",
+   "abstract": "Domani, giovedì 26 novembre, molti studenti campani resteranno a casa. La Protezione Civile della Regione Campania ha alzato l'allerta da gialla ad arancione dalle 14 di oggi, mercoledì 25 novembre, alle 14 di domani, e numerosi sindaci hanno firmato le ordinanze di chiusura…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Maltempo"
+   ],
+   "id": "0ee7bd65fb7b",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/5-900-diplomi-a-studenti-che-non-avrebbero-mai-frequentato-e-punteggi-certificati-a-docenti-e-ata-per-scalare-le-graduatorie-6-scuole-paritarie-sotto-inchiesta-32-indagati-e-7-milioni-sequestrati/",
+   "titolo": "5.900 diplomi a studenti che non avrebbero mai frequentato e punteggi certificati a docenti e ATA per scalare le graduatorie: 6 scuole paritarie sotto inchiesta, 32 indagati e 7 milioni sequestrati",
+   "abstract": "Sono sei scuole paritarie di secondo grado in Campania, e in quattro anni avrebbero rilasciato circa 5.900 diplomi a studenti di tutta Italia. Secondo l'accusa, questi studenti avrebbero superato l'esame di Stato senza frequentare nemmeno un giorno di lezione. La Guardia di…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Scuole non statali"
+   ],
+   "id": "c5ee5808bdf3",
+   "raccolto": "2026-11-25",
+   "sezioni": [
+    "esami",
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.orizzontescuola.it/unicef-610-milioni-di-bambini-vivono-con-madri-vittime-di-violenza-da-parte-del-partner-al-via-la-campagna-non-restare-in-silenzio/",
    "titolo": "UNICEF: 610 milioni di bambini vivono con madri vittime di violenza da parte del partner. Al via la campagna “Non restare in silenzio”",
