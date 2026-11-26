@@ -1,38 +1,680 @@
 {
- "aggiornato": "2026-11-26T00:59:46+00:00",
+ "aggiornato": "2026-11-26T15:19:16+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-26T00:59:46+00:00",
-   "ultimo_ok": "2026-11-26T00:59:46+00:00"
+   "controllato": "2026-11-26T15:19:16+00:00",
+   "ultimo_ok": "2026-11-26T15:19:16+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 1,
-   "controllato": "2026-11-26T00:59:46+00:00",
-   "ultimo_ok": "2026-11-26T00:59:46+00:00"
+   "controllato": "2026-11-26T15:19:16+00:00",
+   "ultimo_ok": "2026-11-26T15:19:16+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-26T00:59:46+00:00",
-   "ultimo_ok": "2026-11-26T00:59:46+00:00"
+   "controllato": "2026-11-26T15:19:16+00:00",
+   "ultimo_ok": "2026-11-26T15:19:16+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-26T00:59:46+00:00",
-   "ultimo_ok": "2026-11-26T00:59:46+00:00"
+   "controllato": "2026-11-26T15:19:16+00:00",
+   "ultimo_ok": "2026-11-26T15:19:16+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 27,
-   "controllato": "2026-11-26T00:59:46+00:00",
-   "ultimo_ok": "2026-11-26T00:59:46+00:00"
+   "voci": 30,
+   "controllato": "2026-11-26T15:19:16+00:00",
+   "ultimo_ok": "2026-11-26T15:19:16+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/oltre-le-competenze-le-nuove-indicazioni-tra-costrutti-pedagogici-continuita-e-discontinuita-una-guida-al-cambiamento",
+   "titolo": "“Oltre le competenze”, le nuove Indicazioni tra costrutti pedagogici, continuità e discontinuità. Una guida al cambiamento",
+   "abstract": "“Oltre le competenze” non è il solito manuale teorico, ma la bussola per ripensare concretamente la scuola del primo ciclo. Con l’entrata in vigore delle nuove Indicazioni Nazionali per il Curricolo dell’infanzia e del primo ciclo, il mondo della scuola italiana si trova di…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Curricolo locale",
+    "Didattica",
+    "Indicazioni nazionali"
+   ],
+   "id": "03dadece2447",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/valutare-i-libri-scolastici-per-garantire-il-pluralismo-la-proposta-di-fdi-per-un-osservatorio-non-piace-a-tutti-cisl-scuola-e-studenti-sollevano-dubbi-sulla-liberta-di-insegnamento/",
+   "titolo": "Valutare i libri scolastici per garantire il pluralismo, la proposta di FdI per un Osservatorio non piace a tutti: Cisl Scuola e studenti sollevano dubbi sulla libertà di insegnamento",
+   "abstract": "La proposta, riportata da Orizzonte Scuola , ha suscitato le perplessità della Cisl Scuola e la contrarietà della Rete degli Studenti Medi del Lazio, che attraverso dichiarazioni raccolte dall’ANSA hanno sollevato la questione della tutela dell’autonomia didattica e della…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "0044dc82fb37",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/uomo-armato-di-coltello-di-fronte-a-una-scuola-arrivano-i-carabinieri-panico-tra-i-genitori-e-il-personale-scolastico",
+   "titolo": "Uomo armato di coltello di fronte a una scuola, arrivano i carabinieri. “Panico tra i genitori e il personale scolastico”",
+   "abstract": "Ancora uno scintillare di lame nelle scuole italiane. Stavolta, però, a brandire un coltello non è stato uno studente, ma un uomo adulto, fermato fuori da un istituto a Pomezia. A riportare la notizia è Roma Today, secondo cui l’individuo “ha creato il panico davanti a genitori…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Sicurezza a scuola"
+   ],
+   "id": "42c37969423d",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/unora-al-giorno-di-storie-lette-dallinsegnante-al-posto-delle-attivita-di-italiano-alle-medie-migliorano-area-verbale-e-funzioni-esecutive-la-ricerca-su-1-075-alunni/",
+   "titolo": "Un’ora al giorno di storie lette dall’insegnante al posto delle attività di italiano: alle medie migliorano area verbale e funzioni esecutive. La ricerca su 1.075 alunni",
+   "abstract": "Alle medie, ascoltare un romanzo letto dall'insegnante può contare più di un'ora di grammatica. Negli studenti della secondaria di primo grado che per quattro mesi hanno seguito letture ad alta voce, le prove dell'area verbale sono migliorate tra il 12,6% e il 14,9% rispetto…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "b12f577eaba9",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/una-notte-a-scuola-con-gli-studenti-piu-grandi-nel-ruolo-di-tutor-con-pizzata-lesperimento-a-lecco/",
+   "titolo": "Una notte a scuola, con gli studenti più grandi nel ruolo di tutor . L’esperimento a Lecco",
+   "abstract": "Dormire nelle aule scolastiche e condividere momenti di socialità al di fuori dell’orario delle lezioni. È quanto propone per venerdì 27 novembre l’istituto Beata Caterina Cittadini di Calolziocorte, in provincia di Lecco, attraverso un progetto educativo incentrato sulle…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "3fe9970280ea",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/26/ultimi-giorni-per-iscriversi-al-percorso-la-scena-educativa-come-laboratorio-teatrale/",
+   "titolo": "Ultimi giorni per iscriversi al percorso “La scena educativa come laboratorio teatrale”",
+   "abstract": "C’è tempo fino a venerdì 27 novembre per iscriversi al corso “La scena educativa come laboratorio teatrale. Il baule degli attrezzi teatrali nella didattica quotidiana” organizzato in collaborazione da INDIRE e A.R.T.I. (Associazione delle Reti Teatrali Italiane). La scena…",
+   "data": "2026-11-26",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "teatro-educazione"
+   ],
+   "id": "f854f2e9a18f",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/tre-furti-in-un-anno-il-dramma-di-una-scuola-a-rimini-danni-per-oltre-20mila-euro-famiglie-e-personale-preoccupati",
+   "titolo": "Tre furti in un anno, il dramma di una scuola a Rimini: “Danni per oltre 20mila euro, famiglie e personale preoccupati”",
+   "abstract": "Tre furti in dodici mesi e danni per oltre ventimila euro. È la situazione della scuola elementare Pascucci di Santarcangelo di Romagna, in provincia di Rimini, che sembra essere diventata un bersaglio fisso dei malviventi. L’ultimo caso, riporta Rimini Today, risale a pochi…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Sicurezza a scuola",
+    "vandalismo"
+   ],
+   "id": "e9625b1747cb",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/spese-scolastiche-nel-730-in-gazzetta-il-decreto-su-mensa-scuolabus-e-pre-e-post-scuola-invio-dei-dati-facoltativo-per-il-2026-obbligatorio-dal-2027/",
+   "titolo": "Spese scolastiche nel 730, in Gazzetta il decreto su mensa, scuolabus e pre e post scuola: invio dei dati facoltativo per il 2026, obbligatorio dal 2027",
+   "abstract": "Le spese per i servizi di mensa, scuolabus e pre e post scuola gestiti dagli enti locali entrano nel percorso della dichiarazione dei redditi precompilata. L'articolo Spese scolastiche nel 730, in Gazzetta il decreto su mensa, scuolabus e pre e post scuola: invio dei dati…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Genitori",
+    "Studenti",
+    "modello 730"
+   ],
+   "id": "56931c7b74f5",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/scuola-ugl-istruzione-propone-un-confronto-con-il-ministero-per-arrivare-a-un-patto-sociale-continuita-agli-investimenti-pnrr-e-organici-non-ridotti-per-il-calo-degli-studenti/",
+   "titolo": "Scuola, UGL Istruzione propone un confronto con il Ministero per arrivare a un Patto Sociale: continuità agli investimenti PNRR e organici non ridotti per il calo degli studenti",
+   "abstract": "Il calo degli studenti e la fine degli investimenti del PNRR non devono tradursi in tagli alla scuola. Lo ha detto Ornella Cuzzupi, segretario nazionale di UGL Istruzione e componente del Consiglio Superiore della Pubblica Istruzione, intervenendo a Madrid al convegno…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicati stampa"
+   ],
+   "id": "07c2ecaeaabf",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/26/partecipazione-agli-avvisi-fse-il-racconto-di-una-scuola-che-ha-trasformato-le-difficolta-in-opportunita/",
+   "titolo": "Partecipazione agli avvisi FSE: il racconto di una scuola che ha trasformato le difficoltà in opportunità",
+   "abstract": "Come può una scuola distribuita su 24 plessi, in 11 comuni diversi e interessata recentemente da due processi di accorpamento riuscire a partecipare con successo a numerosi avvisi FSE? A questa domanda risponderà il webinar “Partecipazione avvisi FSE: l’esperienza dell’Istituto…",
+   "data": "2026-11-26",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "PN Scuola e Competenze 21 – 27"
+   ],
+   "id": "0cf0d83f14c9",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-digitali-a-meta-prezzo-cipolletta-aie-la-misura-non-comporta-reali-benefici-economici-alle-famiglie-e-agli-studenti/",
+   "titolo": "Libri digitali a metà prezzo, Cipolletta (Aie): la misura “non comporta reali benefici economici alle famiglie e agli studenti”",
+   "abstract": "Innocenzo Cipolletta, presidente dell'Aie, Associazione Italiana Editori, ha commentato la fine dell'iter parlamentare della norma del decreto scuola sui libri di testo digitali. L'articolo Libri digitali a metà prezzo, Cipolletta (Aie): la misura “non comporta reali benefici…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Politica scolastica"
+   ],
+   "id": "3f4ea2d2d8c2",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/libri-di-testo-la-rete-degli-studenti-medi-del-lazio-contro-losservatorio-sul-pluralismo-questa-e-censura",
+   "titolo": "Libri di testo, la Rete degli Studenti medi del Lazio contro l’Osservatorio sul pluralismo: “Questa è censura”",
+   "abstract": "È polemica sull’ipotesi di istituire un Osservatorio sul pluralismo dei libri di testo. La Rete degli Studenti Medi del Lazio esprime contrarietà al parere favorevole del governo sull’ordine del giorno presentato da Fratelli d’Italia nell’ambito del decreto scuola, che apre alla…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Libri di testo"
+   ],
+   "id": "d41ed33fd074",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/intelligenza-artificiale-a-scuola-tante-norme-e-linee-guida-cosa-devono-sapere-i-dirigenti-il-piano-sos-ds-2",
+   "titolo": "Intelligenza artificiale a scuola, tante norme e linee guida: cosa devono sapere i dirigenti? Il Piano Sos Ds",
+   "abstract": "Nell’ultimo decennio l’IA è entrata prepotentemente nel dibattito, nelle professioni e nella vita di tutti provocando grandi riflessioni e discussioni tra i fautori e gli oppositori. Ciò anche in considerazione che l’IA ha assunto una funzione centrale nella trasformazione…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Intelligenza artificiale"
+   ],
+   "id": "99b189149e4e",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/idonei-pnrr-quando-scadono-gli-elenchi-del-30-il-triennio-decorre-dallanno-di-pubblicazione-pillole-di-question-time/",
+   "titolo": "Idonei PNRR, quando scadono gli elenchi del 30%? Il triennio decorre dall’anno di pubblicazione. Pillole di Question Time",
+   "abstract": "Nel Question Time del 23 novembre 2026 su Orizzonte Scuola, condotto da Andrea Carlino con la partecipazione di Chiara Cozzetto, della presidenza Anief, è stato affrontato anche il tema della durata degli elenchi degli idonei PNRR inseriti entro il limite del 30% dei posti messi…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti",
+    "immissioni in ruolo"
+   ],
+   "id": "4b451e62c4de",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "personale",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/graduatorie-ata-terza-fascia-2027-ciad-in-scadenza-durante-il-triennio-cosa-succede-pillole-di-question-time/",
+   "titolo": "Graduatorie ATA terza fascia 2027, CIAD in scadenza durante il triennio: cosa succede. Pillole di Question Time",
+   "abstract": "Nel Question Time del 24 novembre 2026 su Orizzonte Scuola, condotto da Andrea Carlino con la partecipazione di Bartolo Cozzolino, assistente amministrativo ed esperto in normativa scolastica, è stato affrontato anche il tema della certificazione internazionale di…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA"
+   ],
+   "id": "530e4d5fe0f3",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/giovani-talenti-la-regione-siciliana-stanzia-30-milioni-turano-valorizziamo-il-merito-e-investiamo-sulle-competenze",
+   "titolo": "Giovani talenti, la Regione Siciliana stanzia 60 milioni. Turano: “Valorizziamo il merito e investiamo sulle competenze”",
+   "abstract": "Sostenere il merito e premiare le eccellenze con un incentivo pensato per favorire la permanenza in Sicilia di chi si laurea con 110 e lode. È l’obiettivo del governo Schifani che, nell’articolo 1 del ddl di Stabilità ha previsto la misura “Giovani talenti Sicilia”. Le risorse…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Regione siciliana",
+    "Sicilia",
+    "Università"
+   ],
+   "id": "d7f433ddcd00",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ghali-agli-studenti-e-a-scuola-che-si-smuovono-le-cose-prima-che-accadano-fuori-e-difende-le-nuove-generazioni-non-e-vero-che-sono-perse/",
+   "titolo": "Ghali agli studenti: “È a scuola che si smuovono le cose prima che accadano fuori”. E difende le nuove generazioni “Non è vero che sono perse”",
+   "abstract": "Per Ghali le idee nascono sui banchi di scuola. Il rapper lo ha detto agli studenti di un liceo di Roma, dove martedì 24 novembre è arrivato a sorpresa per un incontro che è diventato presto un confronto a tutto campo. L'articolo Ghali agli studenti: “È a scuola che si smuovono…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "e2c877176313",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/26/erasmus-al-job-orienta-verona-cinque-progetti-italiani-ricevono-il-premio-per-linnovazione-nellinsegnamento-eita-2026/",
+   "titolo": "Erasmus+ al Job Orienta Verona: cinque progetti italiani ricevono il premio per l’innovazione nell’insegnamento EITA 2026",
+   "abstract": "Saranno le competenze per la vita, le Skills for Life, il filo conduttore della cerimonia nazionale degli European Innovative Teaching Awards (EITA) 2026, in programma domani, 27 novembre, nell’ambito di JOB&Orienta a Verona. L’evento, promosso dalle Agenzie nazionali Erasmus+…",
+   "data": "2026-11-26",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Europa",
+    "erasmus+"
+   ],
+   "id": "73934ab8efb7",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/dl-scuola-valditara-un-passo-decisivo-per-studenti-e-famiglie-maggioranza-compatta-al-fianco-del-governo-",
+   "titolo": "Dl Scuola, Valditara: \"Un passo decisivo per studenti e famiglie. Maggioranza compatta al fianco del governo\"",
+   "abstract": "\"Massima soddisfazione per l’approvazione definitiva del decreto Scuola. Con questo provvedimento diamo risposte concrete alle famiglie italiane e rafforziamo il diritto al successo formativo di ogni studente. Garantiamo maggiori tutele agli alunni con disabilità e supportiamo…",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "8abf6685029a",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/dl-scuola-approvato-marti-lega-risposte-concrete-a-esigenze-degli-istituti-grazie-al-ministro-valditara",
+   "titolo": "Dl Scuola approvato, Marti (Lega): “Risposte concrete a esigenze degli istituti, grazie al ministro Valditara”",
+   "abstract": "“Bene l’approvazione definitiva alla Camera del decreto Scuola: un provvedimento che dà risposte concrete a studenti, famiglie e a chi ogni giorno fa funzionare la scuola”. Lo scrive in una nota il senatore della Lega Roberto Marti, presidente della Commissione Cultura e…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Docenti",
+    "Studenti e genitori",
+    "Decreto scuola"
+   ],
+   "id": "39cf69cc336f",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/dieci-giorni-senza-riscaldamento-a-scuola-le-famiglie-decidono-di-tenere-i-figli-a-casa-il-caso-in-un-istituto-del-cremonese",
+   "titolo": "Dieci giorni senza riscaldamento a scuola, le famiglie decidono di tenere i figli a casa. Il caso in un istituto del cremonese",
+   "abstract": "Dicembre si avvicina, le temperature scendono ma non sempre le scuole sono attrezzate ad affrontare l’inverno incombente. Talvolta capita che i riscaldamenti restino spenti, e che genitori e dirigenti debbano prendere provvedimenti. Come avvenuto in una scuola del cremonese…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Riscaldamento"
+   ],
+   "id": "5d4bd24a2582",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-schlein-alla-scuola-servono-tetti-che-non-cadano-sulle-teste-degli-alunni-poi-libri-gratuiti-anche-alle-superiori-trasporto-pubblico-gratis-per-gli-studenti-e-stipendi-piu-alti/",
+   "titolo": "Decreto scuola, Schlein: “Alla scuola servono tetti che non cadano sulle teste degli alunni”. Poi libri gratuiti anche alle superiori, trasporto pubblico gratis per gli studenti e stipendi più alti per i docenti",
+   "abstract": "Con 142 sì, 112 no e 4 astenuti la Camera ha approvato in via definitiva il decreto scuola oggi 26 novembre. Tra le prime reazioni c'è quella della segretaria del Pd Elly Schlein, intervenuta questa mattina a Roma a margine dell'assemblea della Flc Cgil. L'articolo Decreto…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "f93295c2537a",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-cosa-prevede",
+   "titolo": "Decreto scuola approvato, cosa prevede? Le misure più importanti per docenti e studenti",
+   "abstract": "Il decreto scuola ieri, 25 novembre, ha ricevuto l’ok della Camera. L’Aula ha approvato la questione di fiducia posta dal Governo sul decreto con 180 sì, 112. Oggi, 26 novembre, il voto finale. La parola fine all’iter si avrà con la firma del presidente Mattarella e la…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "decreto legge scuola 2026"
+   ],
+   "id": "cef63532e646",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-alla-camera-le-misure-nuovo-pei-stop-a-distinzione-tra-licei-e-tecnici-tetto-del-30-di-stranieri-mini-doppio-canale",
+   "titolo": "Decreto scuola alla Camera, le misure: nuovo Pei, stop a distinzione tra licei e tecnici, tetto del 30% di stranieri, “mini” doppio canale",
+   "abstract": "Il decreto scuola ieri, 25 novembre, ha ricevuto l’ok della Camera. L’Aula ha approvato la questione di fiducia posta dal Governo sul decreto con 180 sì, 112. Oggi, 26 novembre, il voto finale. La parola fine all’iter si avrà con la firma del presidente Mattarella e la…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "decreto legge scuola 2026"
+   ],
+   "id": "14c8d01668ba",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-e-legge-cambiano-le-regole-del-pei-stop-ai-rinnovi-automatici-e-priorita-alla-conferma-delle-ore/",
+   "titolo": "Decreto Scuola è legge, cambiano le regole del PEI: stop ai rinnovi automatici e priorità alla conferma delle ore",
+   "abstract": "Via libera definitivo dal Parlamento al disegno di legge di conversione del decreto-legge n. 170/2026, il provvedimento che introduce misure urgenti per garantire il regolare avvio dell’anno scolastico 2026/2027, l’attuazione del PNRR e l’integrazione degli studenti stranieri…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Scuole",
+    "Studenti",
+    "Decreto Scuola"
+   ],
+   "id": "7e9e9b4615f7",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-e-legge-valditara-un-passo-decisivo-per-studenti-e-famiglie-maggioranza-compatta-al-fianco-del-governo/",
+   "titolo": "Decreto Scuola è legge, Valditara: “Un passo decisivo per studenti e famiglie. Maggioranza compatta al fianco del Governo”",
+   "abstract": "\"Un passo decisivo per studenti e famiglie. Maggioranza compatta al fianco del Governo\". Con queste parole il Ministro dell’Istruzione e del Merito, Giuseppe Valditara, ha accolto il via libera definitivo al decreto Scuola, rivendicando la portata riformatrice del provvedimento…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "a3c09d54e87d",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-736-del-30-ottobre-2026",
+   "titolo": "Decreto Direttoriale n. 736 del 30 ottobre 2026",
+   "abstract": "Decreto di pagamento massivo dei compensi ai modelli viventi, a.s. 2025/2026",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "bf99d8588133",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2558-dell-11-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 2558 dell' 11 novembre 2026",
+   "abstract": "Decreto di impegno della somma complessiva di euro 59.994,00 (cinquantanovemilanovecentonovantaquattro/00), iva inclusa, a carico del capitolo di spesa 2331 p.g. 12, dello Stato di previsione di questo Ministero, a valere sull'esercizio finanziario 2026, in favore di Sport e…",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "6ab514a02e91",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-2491-del-30-ottobre-2026",
+   "titolo": "Decreto Direttoriale n. 2491 del 30 ottobre 2026",
+   "abstract": "Decreto di impegno per la realizzazione, nell'A.S. 2026/2027, del Progetto \"Chi rispetta... vince\" destinato alle Istituzioni scolastiche secondarie di primo grado, per l'importo complessivo di euro 2.000.000,00, (duemilioni/00) a carico del capitolo 3023 p.g.1 a favore di Sport…",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "f9503809ecc7",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-dipartimentale-n-2750-del-24-11-2026",
+   "titolo": "Decreto Dipartimentale n. 2750 del 24.11.2026",
+   "abstract": "Determina a contrarre per l'avvio della procedura di affidamento diretto alla società SKUOLA NETWORK SRL relativo al servizio finalizzato a garantire la diffusione delle iniziative ministeriali in materia di educazione e sicurezza stradale, da realizzarsi nell'arco dell'anno 2026",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "41f5c3b66f9f",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/concorso-docenti-2027-equiparato-il-punteggio-aggiuntivo-delle-specializzazioni-su-sostegno-1250-punti-anche-per-i-percorsi-indire",
+   "titolo": "Concorso docenti 2027, equiparato il punteggio aggiuntivo delle specializzazioni su sostegno: 12,50 punti anche per i percorsi INDIRE",
+   "abstract": "Importante novità per gli aspiranti docenti di sostegno che hanno conseguito la specializzazione attraverso i percorsi disciplinati dagli articoli 6 e 7 del D.L. 71/2024, convertito dalla Legge 106/2024. Il D.M. 214 del 6 novembre 2026 modifica le tabelle di valutazione dei…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Come diventare insegnante",
+    "concorso docenti 2027"
+   ],
+   "id": "25b32a65153c",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/circolare-n-5616-del-25-novembre-2026",
+   "titolo": "Circolare n. 5616 del 25 novembre 2026",
+   "abstract": "A.S. 2026/2027: Bando di Concorso \"STEAM: femminile plurale\" - VIII edizione. Scadenza: 5 febbraio 2027",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "311aaa5ba25c",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/bando-di-concorso-steam-femminile-plurale-viii-edizione",
+   "titolo": "Bando di Concorso “STEAM: femminile plurale” – VIII edizione",
+   "abstract": "In occasione della ricorrenza del 25 novembre, Giornata internazionale per l’eliminazione della violenza contro le donne , e in vista delle celebrazioni dell’8 marzo, Giornata internazionale della donna , il Ministero dell’istruzione e del merito indice, per l’anno scolastico…",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola"
+   ],
+   "id": "4f86d5449f03",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/atto-di-indirizzo-del-dirigente-scolastico-per-la-predisposizione-del-ptof-in-allegato-il-modello/",
+   "titolo": "Atto di indirizzo del Dirigente Scolastico per la predisposizione del PTOF: in allegato il modello e circolare",
+   "abstract": "La bozza di atto di indirizzo, qui presentata, si sviluppa attorno a quattro macro-obiettivi principali: promozione del benessere scolastico, innovazione didattica orientata alle competenze, transizione digitale ed educazione alla sostenibilità. Tra le indicazioni operative…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "b2dd6989c553",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/alunni-con-disabilita-nelle-scuole-del-veneto-sono-25-130-il-48-degli-iscritti-alle-superiori-193-in-due-anni/",
+   "titolo": "Alunni con disabilità nelle scuole del Veneto: sono 25.130, il 4,8% degli iscritti. Alle superiori +19,3% in due anni",
+   "abstract": "Sono 25.130 gli alunni con disabilità che frequentano le scuole statali del Veneto: il 4,8% di tutti gli iscritti. Nelle rilevazioni precedenti la quota era più bassa, il 3,5% nel 2022/2023, il 3,8% nel 2023/2024 e il 4,2% nel 2024/2025. I numeri vengono dal monitoraggio…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "8f4b81e2f335",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
+  },
   {
    "url": "https://www.tecnicadellascuola.it/trame-del-tempo-valditara-sta-lavorando-affinche-i-manuali-di-storia-non-siano-piegati-allideologia-degli-autori-le-parole-di-rampelli",
    "titolo": "Trame del tempo, Valditara sta lavorando affinché i manuali di storia non siano piegati all’ideologia degli autori: le parole di Rampelli",
@@ -237,6 +879,24 @@
    "raccolto": "2026-11-26",
    "sezioni": [
     "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/25/137643/",
+   "titolo": "Imparare a pensare: la filosofia come laboratorio di pensiero critico",
+   "abstract": "Si può imparare a riconoscere la validità delle ragioni di chi la pensa diversamente da noi? A mettere in discussione le nostre convinzioni, a riconoscerne i limiti, a ripensarle? Educare al pensiero critico significa esercitare queste capacità, particolarmente importanti negli…",
+   "data": "2026-11-25",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "paths"
+   ],
+   "id": "e2f427b1f175",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "innovazione"
    ],
    "superiori": false
   },
