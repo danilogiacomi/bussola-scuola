@@ -1,38 +1,400 @@
 {
- "aggiornato": "2026-11-25T15:37:41+00:00",
+ "aggiornato": "2026-11-26T00:59:46+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-25T15:37:41+00:00",
-   "ultimo_ok": "2026-11-25T15:37:41+00:00"
+   "controllato": "2026-11-26T00:59:46+00:00",
+   "ultimo_ok": "2026-11-26T00:59:46+00:00"
   },
   "gu": {
    "esito": "ok",
-   "voci": 0,
-   "controllato": "2026-11-25T15:37:41+00:00",
-   "ultimo_ok": "2026-11-25T15:37:41+00:00"
+   "voci": 1,
+   "controllato": "2026-11-26T00:59:46+00:00",
+   "ultimo_ok": "2026-11-26T00:59:46+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-25T15:37:41+00:00",
-   "ultimo_ok": "2026-11-25T15:37:41+00:00"
+   "controllato": "2026-11-26T00:59:46+00:00",
+   "ultimo_ok": "2026-11-26T00:59:46+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 24,
-   "controllato": "2026-11-25T15:37:41+00:00",
-   "ultimo_ok": "2026-11-25T15:37:41+00:00"
+   "voci": 29,
+   "controllato": "2026-11-26T00:59:46+00:00",
+   "ultimo_ok": "2026-11-26T00:59:46+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-25T15:37:41+00:00",
-   "ultimo_ok": "2026-11-25T15:37:41+00:00"
+   "voci": 27,
+   "controllato": "2026-11-26T00:59:46+00:00",
+   "ultimo_ok": "2026-11-26T00:59:46+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/trame-del-tempo-valditara-sta-lavorando-affinche-i-manuali-di-storia-non-siano-piegati-allideologia-degli-autori-le-parole-di-rampelli",
+   "titolo": "Trame del tempo, Valditara sta lavorando affinché i manuali di storia non siano piegati all’ideologia degli autori: le parole di Rampelli",
+   "abstract": "Ha fatto molto rumore il caso del manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Giuseppe Valditara",
+    "Storia"
+   ],
+   "id": "6ed9fcadecbc",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sciopero-scuola-20-novembre-adesione-definitiva-del-1636/",
+   "titolo": "Sciopero scuola 20 novembre, adesione definitiva del 16,36%. DATI Ministero",
+   "abstract": "Sono stati resi noti i dati definitivi relativi allo sciopero generale che ha interessato il Comparto e l’Area Istruzione e Ricerca (Settore scuola) per l’intera giornata dello scorso 20 novembre. La rilevazione, condotta in ottemperanza alla Legge n. 146/1990 attraverso…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Docenti",
+    "Politica scolastica",
+    "sciopero"
+   ],
+   "id": "2dbb5f415e8d",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sciopero-docenti-come-si-calcola-la-trattenuta-stipendiale-differenza-tra-sciopero-breve-e-intera-giornata-orientamento-aran/",
+   "titolo": "Sciopero docenti, come si calcola la trattenuta stipendiale: differenza tra sciopero breve e intera giornata. Orientamento ARAN",
+   "abstract": "Come deve essere determinata la trattenuta stipendiale in caso di adesione del personale docente a uno sciopero breve? Qual è la differenza rispetto alla trattenuta prevista per uno sciopero proclamato per l’intera giornata? L'articolo Sciopero docenti, come si calcola la…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Scuole",
+    "Stipendio",
+    "sciopero"
+   ],
+   "id": "510ec8680432",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/sciopero-scuola-20-novembre-2026-adesione-del-1636-pubblicati-i-dati-definitivi-del-personale-della-scuola",
+   "titolo": "Sciopero Scuola 20 novembre 2026, adesione del 16,36%: pubblicati i dati definitivi del personale della scuola",
+   "abstract": "Con l’Avviso ufficiale n. 65 del 25 novembre 2026 per il Comparto e l’Area Istruzione e Ricerca (Settore scuola) sono stati resi noti i dati definitivi relativi allo sciopero generale proclamato per l’intera giornata dello scorso 20 novembre 2026. La rilevazione è stata condotta…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Personale della scuola",
+    "Sciopero"
+   ],
+   "id": "882f48bd2d28",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/pa-riforma-dei-concorsi-per-dirigenti-psicologo-in-commissione-competenze-digitali-e-nuove-regole-per-gli-avanzamenti-interni/",
+   "titolo": "PA, riforma dei concorsi per dirigenti: psicologo in commissione, competenze digitali e nuove regole per gli avanzamenti interni",
+   "abstract": "Arriva il primo via libera del Consiglio dei ministri a due regolamenti che ridisegnano l’accesso alla qualifica di dirigente nella Pubblica amministrazione. L'articolo PA, riforma dei concorsi per dirigenti: psicologo in commissione, competenze digitali e nuove regole per gli…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Nessuna categoria"
+   ],
+   "id": "0db71000256e",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/osservatorio-sul-pluralismo-dei-libri-di-testo-la-proposta-di-fratelli-ditalia-valutare-i-contenuti-non-conformi-alle-indicazioni-nazionali-o-privi-di-equilibrio-nella-trattazione-dei-temi-storici/",
+   "titolo": "Osservatorio sul pluralismo dei libri di testo, la proposta di Fratelli d’Italia: valutare i contenuti non conformi alle indicazioni nazionali o privi di equilibrio nella trattazione dei temi storici",
+   "abstract": "Nel pieno del confronto parlamentare alla Camera per la conversione del decreto Scuola — segnato dal voto di fiducia e dalle scintille tra maggioranza e opposizioni su identità, integrazione e reclutamento — il tema dell’editoria scolastica torna al centro dell’agenda politica…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "aadc39ad54bb",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/nuove-linee-guida-licei-e-istituti-tecnici-si-va-verso-riduzione-ore-curricolari-ed-esuberi-dorganico-serafini-snals-no-riforme-a-costo-zero-intervista",
+   "titolo": "Nuove linee guida licei e istituti tecnici, rischio riduzione ore ed esuberi organico. Serafini (Snals): ‘no’ riforme a costo zero e scuole succubi delle aziende – INTERVISTA",
+   "abstract": "La società, i cittadini e il mondo del lavoro cambiano. Così anche le conoscenze e le competenze da acquisire. Tutti i contesti si adeguano, anche la scuola. Dopo la discussa approvazione delle Nuove Indicazioni nazionali del primo ciclo, scuola media compresa, a Viale…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Personale della scuola",
+    "Docenti soprannumerari",
+    "Elvira Serafini",
+    "nuove indicazioni nazionali secondo ciclo",
+    "Riforme scolastiche"
+   ],
+   "id": "23598253d187",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/25/26A06122/SG",
+   "titolo": "Ministero dell'economia e delle finanze – Decreto 12 novembre 2026",
+   "abstract": "Trasmissione, da parte degli enti locali, delle spese per servizi ausiliari all'istruzione offerti per le scuole - Modifica al decreto 10 agosto 2020.",
+   "data": "2026-11-25",
+   "fonte": "gu",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "318eeb8a7fe6",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maturita-in-valle-daosta-in-commissione-arriva-un-docente-di-francese-in-piu-lavevaz-un-risultato-politico-significativo-grazie-al-confronto-con-valditara/",
+   "titolo": "Maturità in Valle d’Aosta, in commissione arriva un docente di francese in più: Lavevaz: “Un risultato politico significativo” grazie al confronto con Valditara",
+   "abstract": "A partire dall'anno scolastico in corso, all'esame di maturità in Valle d'Aosta ci sarà un docente di francese in più in commissione, senza togliere nessuna delle quattro materie individuate dal Ministero. Lo prevede il disegno di legge che il Consiglio Valle ha approvato…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "3efff7ff526b",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/libri-di-testo-fdi-vuole-istituire-un-osservatorio-che-segnala-i-contenuti-non-conformi-alle-indicazioni-nazionali-o-privi-di-equilibrio",
+   "titolo": "Libri di testo, FdI vuole istituire un Osservatorio “che segnala i contenuti non conformi alle indicazioni nazionali o privi di equilibrio”",
+   "abstract": "Ha fatto molto rumore il caso del manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Giuseppe Valditara",
+    "Storia"
+   ],
+   "id": "98227f63f773",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/legge-sul-consenso-informato-valditara-non-riguarda-laffettivita-ma-solo-la-sessualita-nei-percorsi-extracurricolari-informazioni-non-corrette-direi-persino-false/",
+   "titolo": "Legge sul consenso informato, Valditara: non riguarda l’affettività ma solo la sessualità nei percorsi extracurricolari. “Informazioni non corrette, direi persino false”",
+   "abstract": "Il ministro dell'Istruzione e del Merito Giuseppe Valditara ha pubblicato un video su X per rispondere ad alcuni articoli usciti sulla legge sul consenso informato. L'articolo Legge sul consenso informato, Valditara: non riguarda l’affettività ma solo la sessualità nei percorsi…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "4c7286d16ac3",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/giornata-internazionale-contro-la-violenza-sulle-donne-ordine-degli-psicologi-urgente-presenza-psicologica-stabile-nelle-scuole-e-nei-servizi-per-linfanzia",
+   "titolo": "Giornata internazionale contro la violenza sulle donne, Ordine degli Psicologi: urgente presenza psicologica stabile nelle scuole e nei servizi per l’infanzia",
+   "abstract": "Si celebra oggi, 25 novembre, la Giornata contro la violenza sulle donne. Il ministro dell’Istruzione e del Merito Giuseppe Valditara ha inviato una circolare a studenti, dirigenti, docenti e personale scolastico in occasione del 25 novembre, Giornata internazionale per…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "giornata contro la violenza sulle donne",
+    "Ordine degli Psicologi",
+    "psicologo a scuola"
+   ],
+   "id": "72a440aa8d98",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/educazione-affettiva-valditara-lamore-non-e-possesso-deve-essere-insegnato-in-tutte-le-scuole-a-prescindere-dal-consenso-dei-genitori",
+   "titolo": "Educazione affettiva, Valditara: l’amore non è possesso, deve essere insegnato in tutte le scuole a prescindere dal consenso dei genitori",
+   "abstract": "Oggi, 25 novembre, nella Giornata contro la violenza sulle donne, il ministro dell’Istruzione e del Merito Giuseppe Valditara ha voluto fare alcune precisazioni in un video pubblicato sul suo canale X, in cui si è scagliato contro la narrazione portata avanti da alcuni giornali…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Giuseppe Valditara"
+   ],
+   "id": "47249c5db633",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dl-scuola-scintille-alla-camera-sulla-fiducia-la-maggioranza-rivendica-identita-e-assunzioni-da-gps-lopposizione-attacca-su-tagli-e-inclusione/",
+   "titolo": "Dl Scuola, scintille alla Camera sulla fiducia: la maggioranza rivendica identità e assunzioni da GPS, l’opposizione attacca su tagli e inclusione",
+   "abstract": "Scontro acceso nell’Aula di Montecitorio durante il dibattito sul voto di fiducia al disegno di legge di conversione del decreto Scuola. A dividere maggioranza e opposizione sono soprattutto le norme sull'integrazione degli alunni stranieri, il divieto del velo integrale, i…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "14860ea4cf48",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-ok-alla-fiducia-mini-doppio-canale-tetto-al-30-di-alunni-stranieri-stop-al-volto-coperto-licei-tecnologici-latino-alle-medie-testo/",
+   "titolo": "Decreto Scuola, ok alla fiducia: “mini doppio canale”, tetto al 30% di alunni stranieri, stop al volto coperto, Licei Tecnologici, latino alle medie. TESTO",
+   "abstract": "Via libera dell'aula della Camera alla fiducia posta da governo sul decreto Scuola. I voti favorevoli sono stati 180, i voti contrari 112, 4 le astensioni. L'assemblea procederà ora alla discussione degli ordine del giorno e al voto finale, atteso tra stasera e domani…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica",
+    "Decreto Scuola"
+   ],
+   "id": "d039798af590",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/cinque-insufficienze-e-nessun-certificato-medico-bocciatura-legittima-anche-se-la-scuola-sapeva-dei-problemi-di-salute/",
+   "titolo": "Cinque insufficienze e nessun certificato medico: bocciatura legittima anche se la scuola sapeva dei problemi di salute",
+   "abstract": "Con la sentenza pubblicata lo scorso 10 novembre, il Consiglio di Stato ha respinto l'appello presentato dal genitore di uno studente minorenne contro la bocciatura al primo anno di un liceo scientifico, confermando la decisione presa dall'istituto al termine dell'anno…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Sentenze"
+   ],
+   "id": "9cfbbe4429f6",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/cambia-lesame-di-maturita-la-lingua-francese-diventa-quinta-materia-ma-solo-in-valle-daosta",
+   "titolo": "Cambia l’esame di maturità: la lingua francese diventa quinta materia sicuramente presente, ma solo in Valle d’Aosta",
+   "abstract": "Cambia ancora l’esame di maturità, con la lingua francese che diventa quinta materia. Solo in Valle d’Aosta, però, dal prossimo anno scolastico alla lingua francese sarà riconosciuta la sicura presenza negli esami finali della scuola secondaria di secondo grado. La novità…",
+   "data": "2026-11-25",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "esame di maturità",
+    "Lingua francese",
+    "Valle d'Aosta"
+   ],
+   "id": "7405abcd43de",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-65-del-25-novembre-2026",
+   "titolo": "Avviso n. 65 del 25 novembre 2026",
+   "abstract": "Comparto e Area Istruzione e Ricerca - settore Scuola: dati definitivi di adesione allo sciopero dell'intera giornata del 20 novembre 2026. Varie sigle sindacali.",
+   "data": "2026-11-25",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "1687c2d002b6",
+   "raccolto": "2026-11-26",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/25-novembre-il-messaggio-di-valditara-alle-scuole-3-milioni-di-euro-per-formare-i-docenti-sul-rispetto-e-sul-contrasto-alla-violenza-di-genere/",
+   "titolo": "25 novembre, il messaggio di Valditara alle scuole: 3 milioni di euro per formare i docenti sul rispetto e sul contrasto alla violenza di genere",
+   "abstract": "3 milioni di euro per formare gli insegnanti sulla cultura del rispetto, sulla parità e sul contrasto alla violenza di genere. Lo ricorda il ministro dell'Istruzione e del Merito Giuseppe Valditara nel messaggio rivolto a studenti, dirigenti, docenti e personale scolastico per…",
+   "data": "2026-11-25",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "1f2e3e3c453c",
+   "raccolto": "2026-11-26",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/esami-di-stato-senza-frequentare-neppure-un-giorno-di-scuola-32-indagati-per-un-sistema-di-diplomifici-in-campania",
    "titolo": "“Esami di Stato senza frequentare neppure un giorno di scuola”: 32 indagati per un sistema di diplomifici in Campania",
@@ -22077,42 +22439,6 @@
     "innovazione"
    ],
    "superiori": true,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/g20-istruzione-a-skukuza-il-ministro-valditara-ha-incontrato-il-ministro-dell-istruzione-generale-del-sudafrica-siviwe-gwarube",
-   "titolo": "G20 Istruzione a Skukuza, il Ministro Valditara ha incontrato il Ministro dell’Istruzione generale del Sudafrica Siviwe Gwarube",
-   "abstract": "“Ho avuto un proficuo incontro con il Ministro dell’Istruzione generale del Sudafrica, Siviwe Gwarube, a margine del G20 Istruzione a Skukuza. Un’occasione importante per confermare l’impegno comune a rafforzare la cooperazione tra i nostri Paesi, anche in vista della firma di…",
-   "data": "2025-10-21",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Ministero"
-   ],
-   "id": "bb8129c3f551",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "altro"
-   ],
-   "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/g20-istruzione-a-skukuza-il-ministro-valditara-ha-incontrato-il-ministro-dell-istruzione-superiore-e-della-formazione-del-sudafrica-buti-manamela",
-   "titolo": "G20 Istruzione a Skukuza, il Ministro Valditara ha incontrato il Ministro dell’Istruzione Superiore e della Formazione del Sudafrica Buti Manamela",
-   "abstract": "",
-   "data": "2025-10-21",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Ministero"
-   ],
-   "id": "3c3f9ed16bb3",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "altro"
-   ],
-   "superiori": false,
    "abstract_tentato": true
   }
  ]
