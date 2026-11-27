@@ -1,38 +1,624 @@
 {
- "aggiornato": "2026-11-27T01:00:28+00:00",
+ "aggiornato": "2026-11-27T15:06:59+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-27T01:00:28+00:00",
-   "ultimo_ok": "2026-11-27T01:00:28+00:00"
+   "controllato": "2026-11-27T15:06:59+00:00",
+   "ultimo_ok": "2026-11-27T15:06:59+00:00"
   },
   "gu": {
    "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-27T01:00:28+00:00",
-   "ultimo_ok": "2026-11-27T01:00:28+00:00"
+   "controllato": "2026-11-27T15:06:59+00:00",
+   "ultimo_ok": "2026-11-27T15:06:59+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-27T01:00:28+00:00",
-   "ultimo_ok": "2026-11-27T01:00:28+00:00"
+   "controllato": "2026-11-27T15:06:59+00:00",
+   "ultimo_ok": "2026-11-27T15:06:59+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-27T01:00:28+00:00",
-   "ultimo_ok": "2026-11-27T01:00:28+00:00"
+   "controllato": "2026-11-27T15:06:59+00:00",
+   "ultimo_ok": "2026-11-27T15:06:59+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-27T01:00:28+00:00",
-   "ultimo_ok": "2026-11-27T01:00:28+00:00"
+   "controllato": "2026-11-27T15:06:59+00:00",
+   "ultimo_ok": "2026-11-27T15:06:59+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.indire.it/2026/11/27/insegnare-la-resistenza-oggi-ricerca-storica-memoria-e-progettazione-didattica-per-la-scuola/",
+   "titolo": "“Insegnare la Resistenza oggi: ricerca storica, memoria e progettazione didattica per la scuola”",
+   "abstract": "A partire dall’11 dicembre alle ore 17 prende avvio il ciclo di webinar rivolto ai docenti e alle comunità educanti promosso nell’ambito del portale “Resistenza e guerra di Liberazione. Partigiani, militari, civili: la scelta della libertà”, realizzato grazie alla collaborazione…",
+   "data": "2026-11-27",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio"
+   ],
+   "id": "58fcbf4c4715",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/videogiochi-e-social-alberto-pellai-agli-studenti-unora-al-giorno-al-massimo-permette-al-corpo-di-controllare-la-dopamina-che-produce/",
+   "titolo": "Videogiochi e social, Alberto Pellai agli studenti: “Un’ora al giorno, al massimo, permette al corpo di controllare la dopamina che produce”",
+   "abstract": "Un'ora al giorno di videogiochi, non di più. È il tetto che lo psicoterapeuta Alberto Pellai ha proposto alle circa 800 studentesse e studenti presenti al Teatro dell'Aquila di Fermo, la mattina del 26 novembre: \"Un'ora al giorno, al massimo, permette al corpo di controllare la…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "3acf70d3af6c",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/valutazione-studenti-monomestre-si-o-no-vantaggi-per-gli-studenti-ma-ce-il-rischio-ricorsi-al-tar",
+   "titolo": "Valutazione studenti, monomestre sì o no? Vantaggi per gli studenti, ma c’è il rischio ricorsi al Tar",
+   "abstract": "In un intervento pubblicato dal Corriere della Sera, Anna Rosa Besana, docente di Lettere in pensione, e Rossella Gattinoni, docente di lettere in un liceo della provincia di Lecco, riflettono sul cosiddetto monomestre, cioè la valutazione in un unico periodo al posto di…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Valutazione alunni"
+   ],
+   "id": "6b377543192d",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studenti-intitolano-i-corridoi-della-scuola-alle-vittime-di-femminicidio-non-sono-numeri-sono-ancora-qui-tra-noi-il-video-diventa-virale-sui-social/",
+   "titolo": "Studenti intitolano i corridoi della scuola alle vittime di femminicidio: “Non sono numeri: sono ancora qui, tra noi”. Il video diventa virale sui social",
+   "abstract": "Una studentessa appende una targa al muro, come quelle delle strade: c'è scritto \"Via Alessandra Matteuzzi\". Poco più in là, accanto alla porta dell'aula magna, un'altra porta il nome di Giulia Cecchettin. Sono alcune delle immagini del video pubblicato su Instagram il 25…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "26d3bb65de09",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studentessa-aggredita-durante-loccupazione-le-immagini-finiscono-sui-social-la-madre-denuncia",
+   "titolo": "Studentessa aggredita durante l’occupazione: le immagini finiscono sui social, la madre denuncia",
+   "abstract": "Una studentessa di 15 anni sarebbe stata aggredita da alcune coetanee all’interno di un istituto professionale di Livorno, durante l’occupazione della scuola. Le immagini, riprese con i telefoni da altri studenti presenti, sono poi finite online. A rendere pubblica la vicenda è…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Occupazione",
+    "studenti aggrediti"
+   ],
+   "id": "e445a446077e",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/studentessa-15enne-presa-per-i-capelli-e-colpita-alla-testa-durante-loccupazione-i-compagni-filmano-e-postano-il-video-scatta-la-denuncia/",
+   "titolo": "Studentessa 15enne presa per i capelli e colpita alla testa durante l’occupazione, i compagni filmano e postano il video. Scatta la denuncia",
+   "abstract": "Una ragazza di 15 anni sarebbe stata aggredita da alcune coetanee durante l'occupazione di un istituto di Livorno. Altri studenti, intorno, avrebbero ripreso la scena con il cellulare, e il video è poi finito sui social. L'articolo Studentessa 15enne presa per i capelli e…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "ec11e58a7850",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/si-stende-per-riposare-dopo-la-scuola-e-non-si-rialza-piu-morto-studente-quindicenne-nel-bolognese",
+   "titolo": "Si stende per riposare dopo la scuola e non si rialza più: morto studente quindicenne nel bolognese",
+   "abstract": "Una tragedia, al momento senza spiegazioni. Non ci sono altre parole per descrivere quanto accaduto a un ragazzo di 15 anni, residente a Budrio, che al rientro da scuola si è steso per riposare e non si è più svegliato. A riportare la notizia è Bologna Today, secondo cui il…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "Salute"
+   ],
+   "id": "4cfa035af3e5",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/scuola-mim-dati-ufficiali-sciopero-20-novembre",
+   "titolo": "Scuola, MIM: dati ufficiali sciopero 20 novembre",
+   "abstract": "Si comunicano di seguito i dati definitivi relativi all’adesione del personale scolastico allo sciopero del 20 novembre 2026. La percentuale di adesione nazionale è pari al 16,36 %. La rilevazione è stata effettuata su n. 7.118 istituti scolastici (su un totale di n. 7.589) per…",
+   "data": "2026-11-27",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "3ad6fd387eef",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/spid-nuovi-controlli-contro-il-furto-di-identita-digitale-arriva-il-cruscotto-anpr-per-verificare-le-identita-associate-al-proprio-codice-fiscale/",
+   "titolo": "SPID, nuovi controlli contro il furto di identità digitale: arriva il Cruscotto ANPR per verificare le identità associate al proprio codice fiscale",
+   "abstract": "Il Garante per la protezione dei dati personali, con provvedimento del 12 ottobre, ha espresso parere favorevole sul regolamento predisposto dall’Agenzia per l’Italia Digitale (AgID) relativo alla gestione delle identità digitali SPID attraverso l’Anagrafe nazionale della…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Docenti",
+    "Genitori",
+    "SPID"
+   ],
+   "id": "941a8c26cf27",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/registro-elettronico-dal-garante-della-privacy-il-decalogo-per-le-scuole-attenzione-ai-dati-sensibili-agli-accessi-e-alla-formazione-del-personale/",
+   "titolo": "Registro elettronico, dal Garante della Privacy il DECALOGO per le scuole: attenzione ai dati sensibili, agli accessi e alla formazione del personale",
+   "abstract": "Il Garante per la protezione dei dati personali ha approvato il “Decalogo per l’uso del Registro elettronico nelle scuole”, un documento contenente indicazioni operative, raccomandazioni ed esempi pratici per garantire la tutela della privacy di studenti, famiglie e personale…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Scuole",
+    "privacy",
+    "registro elettronico"
+   ],
+   "id": "fc0b94bfeec2",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/registro-elettronico-il-decalogo-del-garante-privacy-cosa-devono-fare-le-scuole",
+   "titolo": "Registro Elettronico, il Decalogo del Garante Privacy: cosa devono fare le scuole?",
+   "abstract": "L’evoluzione digitale della scuola italiana, avviata con il d.l. 95/2012 per sostituire i registri cartacei storici introdotti dal Regio Decreto del 1924, ha reso il registro elettronico lo strumento primario di gestione didattica e comunicazione con le famiglie. Tuttavia, la…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Privacy",
+    "Registro elettronico"
+   ],
+   "id": "17b538cbb20b",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/27/rassegna-pinocchio-e-la-fata-dai-capelli-turchini-le-letture-di-leggere-forte-riprendono-il-30-novembre-a-pistoia/",
+   "titolo": "Rassegna “Pinocchio e la Fata dai capelli turchini”: le letture di “Leggere: Forte!” riprendono il 30 novembre a Pistoia",
+   "abstract": "Dopo il primo appuntamento del 6 novembre e nell’ambito delle iniziative promosse dalla politica educativa della Regione Toscana “Leggere: Forte!”, proseguono a Pistoia gli incontri di lettura ad alta voce dedicati a Le Avventure di Pinocchio. Le letture, a cura di Loredana…",
+   "data": "2026-11-27",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire"
+   ],
+   "id": "22ce9db7a90d",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ragazzi-soli-e-in-cerca-di-ascolto-il-355-di-chi-usa-regolarmente-lia-si-sente-capito-piu-dal-chatbot-che-dalle-persone-il-471-si-sente-solo-anche-in-compagnia/",
+   "titolo": "Ragazzi soli e in cerca di ascolto: il 35,5% di chi usa regolarmente l’IA si sente capito più dal chatbot che dalle persone. Il 47,1% si sente solo anche in compagnia",
+   "abstract": "Stare in mezzo agli altri non basta a sentirsi meno soli. Il 47,1% dei ragazzi tra gli 11 e i 20 anni dice di sentirsi solo spesso o molto spesso, anche quando è fisicamente in compagnia. Molti cercano ascolto in un chatbot: tra chi usa regolarmente l'intelligenza artificiale…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "88eb3f447609",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/ore-eccedenti-a-scuola-laran-chiarisce-i-ricalcoli-retroattivi-dopo-lentrata-in-vigore-del-nuovo-ccnl",
+   "titolo": "Ore eccedenti a scuola: l’ARAN chiarisce i ricalcoli retroattivi dopo l’entrata in vigore del nuovo CCNL",
+   "abstract": "Con l’orientamento applicativo Id 39514 (del 17 novembre 2026), l’ARAN è intervenuta per sciogliere i dubbi amministrativi riguardanti l’impatto dei rinnovi contrattuali sul calcolo della retribuzione delle ore eccedenti svolte dal personale scolastico. Il parere fornisce…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Personale della scuola",
+    "Aran",
+    "ore eccedenti"
+   ],
+   "id": "2c116b4ec464",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/occupazione-liceo-scattano-le-sanzioni-con-circa-150-studenti-coinvolti-scontro-politico-tra-pd-e-fdi",
+   "titolo": "Occupazione liceo, scattano le sanzioni con circa 150 studenti coinvolti: scontro politico tra PD e FdI",
+   "abstract": "Chiusa l’occupazione, al liceo Montale di Roma, si apre la fase dei provvedimenti disciplinari. Gli studenti coinvolti sarebbero circa 150, ma il dato non è ufficiale e circola soltanto tra alunni e docenti. Dopo settimane di tensioni e proteste, la partita si sposta così sul…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Occupazione"
+   ],
+   "id": "11dfe081d6d9",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/noia-a-scuola-enrico-galiano-forse-un-po-di-noia-oggi-ci-serve-i-consigli-per-aiutare-gli-studenti-a-non-arrendersi-al-primo-momento-di-calo/",
+   "titolo": "Noia a scuola, Enrico Galiano: “Forse un po’ di noia oggi ci serve”. I consigli per aiutare gli studenti a non arrendersi al primo momento di calo",
+   "abstract": "Quando una classe sbadiglia, un insegnante sente subito il bisogno di cambiare attività. Enrico Galiano propone di fermarsi e di farsi un'altra domanda. Ne parla nella seconda puntata di Calma e Gesso, il suo podcast dedicato a figli, scuola e adolescenti, intitolata \"Ma perché…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Studenti"
+   ],
+   "id": "1b78daee5618",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/la-scuola-che-innova-ricerca-e-costruisce-il-futuro-le-38-metodologie-didattiche-e-la-visione-pedagogica-del-dirigente-scolastico-angelo-nasca-dellistituto-tecnico-carlo-alberto-da/",
+   "titolo": "La scuola che innova, ricerca e costruisce il futuro: le 38 metodologie didattiche e la visione pedagogica del dirigente scolastico Angelo Nasca dell’Istituto Tecnico “Carlo Alberto Dalla Chiesa” di Partinico",
+   "abstract": "Guidare un’istituzione scolastica significa anche saper immaginare le condizioni nelle quali la professionalità degli insegnanti possa esprimersi pienamente, accompagnando le trasformazioni della società e interpretando i bisogni delle nuove generazioni. In questa prospettiva si…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti"
+   ],
+   "id": "ab7de4da78b5",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/27/la-filiera-formativa-tecnologico-professionale-al-joborienta/",
+   "titolo": "La filiera formativa tecnologico-professionale al Job&Orienta",
+   "abstract": "In occasione di Job&Orienta, la manifestazione dedicata all’orientamento, alla formazione e al lavoro che si svolge a Verona, il 25 novembre si è tenuto un evento promosso dal Ministero dell’Istruzione e del Merito dedicato alla presentazione dei materiali di accompagnamento per…",
+   "data": "2026-11-27",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "4+2"
+   ],
+   "id": "f304cf2c633c",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "innovazione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/il-decreto-scuola-e-legge-cisl-e-anief-bene-assunzioni-da-prima-fascia-posto-comune-seppure-con-vincoli-passi-avanti-su-riforma-istituti-tecnici-e-ata",
+   "titolo": "Il Decreto Scuola è legge, Cisl e Anief: bene assunzioni da prima fascia posto comune seppure con vincoli. Passi avanti su riforma istituti tecnici e Ata",
+   "abstract": "Sono di vario tenore i giudizi espressi dai rappresentati dei lavoratori sul Decreto Scuola convertito in legge il 26 novembre, con l’approvazione finale della Camera dove si sono contati 142 sì, 112 no e 4 astenuti. Alla Cisl Scuola, ad esempio, non piacciono i “tetti” del 30%…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Personale della scuola",
+    "anief",
+    "Cisl Scuola",
+    "Decreto scuola",
+    "Doppio canale di reclutamento"
+   ],
+   "id": "aef1b668d9e8",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.indire.it/2026/11/27/its-academy-al-joborienta-per-trasformare-le-passioni-in-professioni/",
+   "titolo": "ITS Academy al Job&Orienta, per trasformare le passioni in professioni",
+   "abstract": "Come trasformare una passione in una competenza e una competenza in un’opportunità concreta di lavoro? È la domanda al centro dell’incontro “Pronti per il prossimo livello? L’Alta Formazione ITS Academy: due anni per trasformare le tue passioni in competenze e opportunità…",
+   "data": "2026-11-27",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "its"
+   ],
+   "id": "d6bc8f8610ff",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/erasmus-vet-nelle-scuole-secondarie-di-secondo-grado-selezione-degli-studenti-inclusione-graduatorie-sicurezza-e-responsabilita-del-dirigente-scolastico-con-5-documenti-da-scaricare/",
+   "titolo": "Erasmus+ VET nelle scuole secondarie di secondo grado: selezione degli studenti, inclusione, graduatorie, sicurezza e responsabilità del dirigente scolastico. Con 5 documenti da scaricare",
+   "abstract": "La mobilità internazionale per l’istruzione e la formazione professionale richiede una procedura di selezione trasparente, inclusiva e coerente con il finanziamento europeo. A partire dall’analisi di un avviso scolastico per tirocini all’estero, il contributo esamina i requisiti…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "f85148d00d05",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/educazione-finanziaria-a-scuola-percorsi-gratuiti-per-studenti-e-docenti-nellanno-scolastico-2026-27-come-aderire-nota-mim/",
+   "titolo": "Educazione finanziaria a scuola, percorsi gratuiti per studenti e docenti nell’anno scolastico 2026/27: come aderire. Nota MIM",
+   "abstract": "Il Ministero dell’Istruzione e del Merito, con nota del 27 novembre, comunica l’avvio di percorsi formativi gratuiti per studenti e docenti in materia di educazione finanziaria, assicurativa e previdenziale per l’anno scolastico 2026/27. L'articolo Educazione finanziaria a…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Scuole",
+    "Educazione finanziaria"
+   ],
+   "id": "5f33078c770c",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-tetto-del-30-agli-alunni-stranieri-dal-2027-28-per-la-pedagogista-dafne-guida-serve-piu-italiano-l2",
+   "titolo": "Decreto scuola, tetto del 30% agli alunni stranieri dal 2027/28. Per la pedagogista Dafne Guida serve più italiano L2",
+   "abstract": "Una madre resta sulla porta del nido perché non ha capito a che ora tornare a prendere il figlio. È da una scena come questa che parte Dafne Guida, pedagogista, presidente e direttrice generale della cooperativa sociale Stripes, nel suo intervento pubblicato su Domani il 26…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Alunni stranieri",
+    "decreto legge scuola 2026"
+   ],
+   "id": "37dc37332da4",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-tecnici-e-professionali-diventano-licei-per-i-docenti-di-religione-resta-il-limite-del-70-necessita-di-mediatori-culturali-e-linguistici",
+   "titolo": "Decreto scuola, tecnici e professionali diventano licei. Per i docenti di religione resta il limite del 70%. Necessità di mediatori culturali e linguistici",
+   "abstract": "Che cosa cambia per chi insegna italiano e per le famiglie interessate dal tetto del 30%. FeNSIR chiede mediatori culturali in tutte le scuole, anche in rete. Il 26 novembre la Camera ha approvato in via definitiva la conversione del decreto-legge 170/2026 con 142 voti…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "decreto legge scuola 2026",
+    "Fensir"
+   ],
+   "id": "966b5828a01c",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-846-del-19-novembre-2026",
+   "titolo": "Decreto Direttoriale n. 846 del 19 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-27",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "7cda054f81e1",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/concorso-pnrr-il-consiglio-di-stato-sui-titoli-i-125-punti-valgono-solo-per-la-stessa-materia-e-lo-stesso-grado-un-principio-che-coincide-con-lintervento-gia-adottato-dal-ministero-nella-nuova-t/",
+   "titolo": "Concorso PNRR, il Consiglio di Stato sui titoli: i 12,5 punti valgono solo per la stessa materia e lo stesso grado. Un principio coincidente con intervento del Ministero nella nuova tabella titoli",
+   "abstract": "Arriva una parola definitiva sulla valutazione dei titoli nei concorsi scuola legati al piano straordinario PNRR, una questione che negli ultimi mesi ha generato contenziosi e disparità di trattamento per migliaia di aspiranti docenti in tutta Italia. L'articolo Concorso PNRR…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "57bc8d61fc85",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bocciato-al-liceo-con-5-insufficienze-aveva-informato-solo-un-docente-dei-suoi-problemi-di-salute",
+   "titolo": "Bocciato al Liceo con 5 insufficienze: aveva informato solo un docente dei suoi problemi di salute",
+   "abstract": "Il Consiglio di Stato (Sezione Settima), con la sentenza n. 8176 del 10 novembre 2026, ha confermato la legittimità della mancata ammissione al secondo anno di un Liceo Scientifico, respingendo l’appello proposto dai genitori di uno studente iscritto al primo anno. La pronuncia…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Consiglio di Stato"
+   ],
+   "id": "2daf5b4e3324",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-22201-del-27-novembre-2026",
+   "titolo": "Avviso n. 22201 del 27 novembre 2026",
+   "abstract": "Scheda rilevazione sciopero 4.12.2026.xlsx",
+   "data": "2026-11-27",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "044de8e517ad",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/area-e-comparto-funzioni-centrali-sciopero-generale-66",
+   "titolo": "Area e Comparto Funzioni Centrali - Sciopero generale",
+   "abstract": "Area e Comparto Funzioni Centrali - Sciopero generale di tutti i settori pubblici e privati per l'intera giornata del 4 dicembre 2026 (prot. n. 22201 del 27 novembre 2026).",
+   "data": "2026-11-27",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuola"
+   ],
+   "id": "11f4e74a71fe",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/a-scuola-con-una-pistola-nello-zaino-e-il-colpo-in-canna-studente-di-22-anni-fermato-dai-carabinieri",
+   "titolo": "A scuola con una pistola nello zaino e il colpo in canna: studente di 22 anni fermato dai carabinieri",
+   "abstract": "Un nuovo caso di armi portate a scuola dagli studenti. Stavolta, però, non si tratta di coltelli, ma di un’arma da fuoco, precisamente una “pistola calibro 22”, rinvenuta “nello zaino, col colpo in canna”. A riferire i fatti è Milano Today, secondo cui “un ragazzo di 22 anni…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "armi a scuola",
+    "violenza a scuola"
+   ],
+   "id": "a6400ffb0b48",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/15enne-torna-da-scuola-si-stende-a-letto-e-non-si-risveglia-inutili-i-soccorsi-con-lelicottero-a-scuola-attivato-il-supporto-psicologico-per-gli-studenti/",
+   "titolo": "15enne torna da scuola, si stende a letto e non si risveglia. Inutili i soccorsi con l’elicottero. A scuola attivato il supporto psicologico per gli studenti",
+   "abstract": "Un ragazzo di 15 anni è morto martedì pomeriggio in un paese in provincia di Bologna: era rientrato da scuola, si era sdraiato sul letto per riposare e non si è più svegliato. Inutili l'intervento del 118 (arrivato anche con l'elisoccorso) e la corsa all'ospedale Sant'Orsola di…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "bf0db34a1cd9",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/parte-tutto-dalla-scuola-ghali-fa-lezione-agli-studenti-di-roma-e-napoli-e-presenta-il-suo-progetto-discografico",
    "titolo": "“Parte tutto dalla scuola”: Ghali fa “lezione” agli studenti di Roma e Napoli (e presenta il suo progetto discografico)",
