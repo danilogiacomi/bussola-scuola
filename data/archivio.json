@@ -1,38 +1,334 @@
 {
- "aggiornato": "2026-11-26T15:19:16+00:00",
+ "aggiornato": "2026-11-27T01:00:28+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-26T15:19:16+00:00",
-   "ultimo_ok": "2026-11-26T15:19:16+00:00"
+   "controllato": "2026-11-27T01:00:28+00:00",
+   "ultimo_ok": "2026-11-27T01:00:28+00:00"
   },
   "gu": {
    "esito": "ok",
-   "voci": 1,
-   "controllato": "2026-11-26T15:19:16+00:00",
-   "ultimo_ok": "2026-11-26T15:19:16+00:00"
+   "voci": 0,
+   "controllato": "2026-11-27T01:00:28+00:00",
+   "ultimo_ok": "2026-11-27T01:00:28+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-26T15:19:16+00:00",
-   "ultimo_ok": "2026-11-26T15:19:16+00:00"
+   "controllato": "2026-11-27T01:00:28+00:00",
+   "ultimo_ok": "2026-11-27T01:00:28+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-26T15:19:16+00:00",
-   "ultimo_ok": "2026-11-26T15:19:16+00:00"
+   "controllato": "2026-11-27T01:00:28+00:00",
+   "ultimo_ok": "2026-11-27T01:00:28+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 30,
-   "controllato": "2026-11-26T15:19:16+00:00",
-   "ultimo_ok": "2026-11-26T15:19:16+00:00"
+   "controllato": "2026-11-27T01:00:28+00:00",
+   "ultimo_ok": "2026-11-27T01:00:28+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/parte-tutto-dalla-scuola-ghali-fa-lezione-agli-studenti-di-roma-e-napoli-e-presenta-il-suo-progetto-discografico",
+   "titolo": "“Parte tutto dalla scuola”: Ghali fa “lezione” agli studenti di Roma e Napoli (e presenta il suo progetto discografico)",
+   "abstract": "“Quando parlo con i miei amici e pensiamo una soluzione, anche in generale, arriviamo a una soluzione ‘parte tutto dalle scuole, parte tutto dall’educazione’. E sono sicuro che è a scuola che nascono le idee, perché è così che è successo anche con me”. Lo ha detto il rapper…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Studenti e genitori",
+    "ghali",
+    "Napoli",
+    "Roma"
+   ],
+   "id": "b09d6b73408a",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.indire.it/2026/11/26/insegnare-la-resistenza-oggi-ricerca-storica-memoria-e-progettazione-didattica-per-la-scuola/",
+   "titolo": "“Insegnare la Resistenza oggi: ricerca storica, memoria e progettazione didattica per la scuola”",
+   "abstract": "A partire dall’11 dicembre alle ore 17 prende avvio il ciclo di webinar rivolto ai docenti e alle comunità educanti promosso nell’ambito del portale “Resistenza e guerra di Liberazione. Partigiani, militari, civili: la scelta della libertà”, realizzato grazie alla collaborazione…",
+   "data": "2026-11-26",
+   "fonte": "indire",
+   "tipo": "notizia",
+   "categorie": [
+    "Indire",
+    "patrimonio"
+   ],
+   "id": "b7d79cc95b52",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maltempo-a-marsala-valditara-stanzia-35-milioni-per-il-ripristino-della-scuola-e-premia-i-docenti-che-hanno-messo-in-salvo-gli-alunni/",
+   "titolo": "Tromba d’aria a Marsala, 3,5 milioni per il ripristino della scuola. Valditara premia i docenti che hanno messo in salvo gli alunni",
+   "abstract": "Il Ministro dell’Istruzione e del Merito, Giuseppe Valditara, ha firmato il decreto che assegna 3,5 milioni di euro al Comune di Marsala per gli interventi urgenti di ripristino dell’edificio scolastico e della palestra “Terrenove” dell’Istituto comprensivo “De Gasperi – De…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "8f4233e16567",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/tromba-daria-marsala-insegnanti-salvano-alunni-e-valditara-li-premia-avete-dimostrato-quanto-grande-sia-il-valore-della-missione-di-un-docente",
+   "titolo": "Tromba d’aria Marsala, insegnanti salvano alunni e Valditara li premia: “Avete dimostrato quanto grande sia il valore della missione di un docente”",
+   "abstract": "A inizio ottobre scorso una doppia tromba marina si è abbattuta nella zona del porto di Marsala, nel trapanese, per poi spostarsi verso l’entroterra e lasciare sul suo passaggio feriti e danni ad edifici, automobili e coltivazioni. Il maltempo ha devastato una scuola. Al momento…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Meteo",
+    "Sicilia"
+   ],
+   "id": "82ff71f7a8d1",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/scuola-marsala-valditara-firma-decreto-che-stanzia-3-5-milioni-per-la-ricostruzione-della-scuola-colpita-dal-maltempo-il-ministro-premia-i-docenti-il-",
+   "titolo": "Scuola, Marsala: Valditara firma decreto che stanzia 3,5 milioni per la ricostruzione della scuola colpita dal maltempo. Il Ministro premia i docenti: “Il loro coraggio esemplare”",
+   "abstract": "Il Ministro Valditara ha firmato il decreto che stanzia 3,5 milioni di euro in favore del Comune di Marsala per gli interventi urgenti di ripristino dell’edificio scolastico e della palestra “Terrenove” dell’Istituto Comprensivo “De Gasperi – De Vita”, gravemente danneggiati…",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "notizia",
+   "categorie": [
+    "Comunicato"
+   ],
+   "id": "45e54c6f9243",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/scuola-da-rilanciare-schlein-pd-investire-forte-sul-personale-meno-alunni-per-classe-piu-psicologi-floridia-m5s-e-bonelli-avs-i-soldi-del-riarmo-tolti-allistruzione-video",
+   "titolo": "Scuola da rilanciare, Schlein (Pd): investire forte sul personale, meno alunni per classe, più psicologi. Floridia (M5s) e Bonelli (Avs): i soldi del riarmo tolti all’Istruzione – VIDEO",
+   "abstract": "Elly Schlein, segretaria del Pd, parla del progetto del suo partito sulla scuola. Lo fa in occasione dell’Assemblea nazionale della Flc-Cgil, svolta il 26 novembre nel Teatro Italia diRoma: la dem ha detto che “si è appena votato un pessimo Decreto sulla scuola, perché alla…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Politica scolastica",
+    "Angelo Bonelli (Verdi e Sinistra)",
+    "Barbara Floridia",
+    "Elly Schlein"
+   ],
+   "id": "dd3670c2c627",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/programma-annuale-2027-proroga-di-45-giorni-anche-per-le-scuole-della-sicilia-predisposizione-entro-il-15-gennaio-circolare/",
+   "titolo": "Programma annuale 2027, proroga di 45 giorni anche per le scuole della Sicilia: predisposizione entro il 15 gennaio. CIRCOLARE",
+   "abstract": "Anche le scuole statali della Sicilia potranno beneficiare della proroga di 45 giorni dei termini per la predisposizione e l’approvazione del Programma annuale 2027. A disporlo è il Dipartimento regionale dell’Istruzione, dell’Università e del Diritto allo studio con la…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "4c16629fb593",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/matricola-a-15-anni-alluniversita-il-test-di-ammissione-superato-nonostante-il-preavviso-di-pochi-giorni-e-il-sogno-di-fare-il-ricercatore/",
+   "titolo": "Matricola a 15 anni all’Università: il test di ammissione superato nonostante il preavviso di pochi giorni e il sogno di fare il ricercatore",
+   "abstract": "Quindici anni e già all'università. Mentre tanti ragazzi della sua età stanno prendendo le misure con le superiori, un giovane siciliano ha cominciato le lezioni al Dipartimento di Matematica e Informatica dell'Università di Catania. L'articolo Matricola a 15 anni…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "cb95f3c7dcee",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/libri-di-testo-presto-osservatorio-sui-contenuti-non-conformi-fracassi-flc-cgil-la-scelta-spetta-ai-docenti-lo-contrasteremo",
+   "titolo": "Libri di testo, presto Osservatorio sui “contenuti non conformi”? Fracassi (Flc-Cgil): “La scelta spetta ai docenti, lo contrasteremo”",
+   "abstract": "Ha fatto molto rumore il caso del manuale di storia per le scuole superiori ‘Trame del tempo 3’, edito da Laterza, che a pagina 666 sostiene che il governo Meloni “settantasette anni dopo la Liberazione dal fascismo”, è “il partito che ne ha raccolto l’eredità e che continua ad…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Gianna Fracassi (Flc-Cgil)"
+   ],
+   "id": "3f861376941c",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/la-responsabile-di-plesso-porta-a-scuola-la-figlia-ma-ignora-che-esistono-obblighi-di-sicurezza-e-copertura-assicurativa",
+   "titolo": "La responsabile di plesso porta a scuola la figlia. Ma ignora che esistono obblighi di sicurezza e copertura assicurativa",
+   "abstract": "Una docente di un Liceo Scientifico ci chiede:”La nostra responsabile del plesso liceale XXX dove ci sono 35 classi, si comporta come se la scuola fosse casa sua. Spesso porta la figlia dell’età di 8 anni a scuola mentre lei svolge il suo servizio e le fa utilizzare il computer…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Docenti",
+    "Infortuni",
+    "responsabili di plesso",
+    "Sicurezza"
+   ],
+   "id": "c774b1f49f19",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/educazione-al-rispetto-e-contrasto-alla-violenza-di-genere-non-serve-il-consenso-delle-famiglie-anche-per-le-attivita-extracurricolari-nota/",
+   "titolo": "Educazione al rispetto e contrasto alla violenza di genere, non serve il consenso delle famiglie anche per le attività extracurricolari. NOTA",
+   "abstract": "Con nota del 25 novembre il MIM chiarisce che le attività didattiche riguardanti l’educazione al rispetto, l’empatia affettiva e relazionale e il contrasto alla violenza di genere non richiedono il consenso informato delle famiglie o degli studenti maggiorenni, anche quando sono…",
+   "data": "2026-11-26",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Scuole",
+    "Educazione civica",
+    "Educazione di genere"
+   ],
+   "id": "902c51acc1be",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-819-dell-11-novembre-2026",
+   "titolo": "Decreto direttoriale n. 819 dell'11 novembre 2026",
+   "abstract": "Decreto per ulteriore scorrimento della graduatoria definitiva degli interventi volti all'eliminazione delle barriere architettoniche negli edifici pubblici ospitanti scuole statali o paritarie di ogni ordine e grado - decreto direttoriale n. 575 del 18 settembre 2026.",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "1c496bdb0c0f",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-732-del-29-ottobre-2026",
+   "titolo": "Decreto direttoriale n. 732 del 29 ottobre 2026",
+   "abstract": "",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "f2690129d349",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/decreto-direttoriale-n-1616-del-25-novembre-2026avvio-della-procedura-ai-sensi-dell-art-50-comma-1-lett-b-d-lgs-n-36-2023-per-il-servizio-di-facchinag",
+   "titolo": "Decreto Direttoriale n. 1616 del 25 novembre 2026",
+   "abstract": "Avvio della procedura ai sensi dell'art. 50, comma 1, lett. b), d.lgs. n. 36/2023 per il servizio di facchinaggio e smaltimento arredi, nonché il lavaggio di tendaggi e articoli di tappezzeria presso la sede del Ministero dell'istruzione e del merito di Roma, mediante lo…",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "770fe5463a14",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/consenso-preventivo-informato-no-allautorizzazione-dei-genitori-per-leducazione-al-rispetto-e-contro-la-violenza-di-genere-nota-mim",
+   "titolo": "Consenso preventivo informato, no all’autorizzazione dei genitori per l’educazione al rispetto e contro la violenza di genere: nota MIM",
+   "abstract": "Arrivano dal MIM alcuni chiarimenti riguardanti l’esatto perimetro della Legge 9 giugno 2026, n. 104 in materia di consenso informato in ambito scolastico. Con la nota prot. n. 6105 del 25 novembre 2026, il Ministero ha risposto ai numerosi quesiti inviati dalle istituzioni…",
+   "data": "2026-11-26",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "consenso informato",
+    "educazione affettiva",
+    "educazione alla sessualità"
+   ],
+   "id": "94dd086c19e6",
+   "raccolto": "2026-11-27",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.mim.gov.it/web/guest/-/avviso-n-66-del-26-novembre-2026",
+   "titolo": "Avviso n. 66 del 26 novembre 2026",
+   "abstract": "",
+   "data": "2026-11-26",
+   "fonte": "mim",
+   "tipo": "atto",
+   "categorie": [],
+   "id": "75494ac9ba12",
+   "raccolto": "2026-11-27",
+   "abstract_tentato": true,
+   "sezioni": [
+    "norme"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.tecnicadellascuola.it/oltre-le-competenze-le-nuove-indicazioni-tra-costrutti-pedagogici-continuita-e-discontinuita-una-guida-al-cambiamento",
    "titolo": "“Oltre le competenze”, le nuove Indicazioni tra costrutti pedagogici, continuità e discontinuità. Una guida al cambiamento",
@@ -23081,24 +23377,6 @@
     "altro"
    ],
    "superiori": false,
-   "abstract_tentato": true
-  },
-  {
-   "url": "https://www.mim.gov.it/web/guest/-/fino-al-10-novembre-disponibile-la-consultazione-pubblica-sull-impatto-delle-norme-sugli-its-academy",
-   "titolo": "Fino al 10 novembre disponibile la consultazione pubblica sull’impatto delle norme sugli ITS Academy",
-   "abstract": "Il Ministero dell’Istruzione e del Merito ha avviato una consultazione pubblica per raccogliere la voce dei cittadini sull’impatto nella loro vita formativa, sociale e lavorativa delle norme approvate in materia di Istruzione tecnologica superiore. Si tratta di una ulteriore…",
-   "data": "2025-10-22",
-   "fonte": "mim",
-   "tipo": "notizia",
-   "categorie": [
-    "Ministero"
-   ],
-   "id": "41b8a6d95da1",
-   "raccolto": "2026-11-05",
-   "sezioni": [
-    "innovazione"
-   ],
-   "superiori": true,
    "abstract_tentato": true
   }
  ]
