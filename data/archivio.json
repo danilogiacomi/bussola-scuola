@@ -1,38 +1,354 @@
 {
- "aggiornato": "2026-11-27T15:06:59+00:00",
+ "aggiornato": "2026-11-28T00:33:01+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-27T15:06:59+00:00",
-   "ultimo_ok": "2026-11-27T15:06:59+00:00"
+   "controllato": "2026-11-28T00:33:01+00:00",
+   "ultimo_ok": "2026-11-28T00:33:01+00:00"
   },
   "gu": {
-   "esito": "ok",
+   "esito": "errore",
    "voci": 0,
-   "controllato": "2026-11-27T15:06:59+00:00",
-   "ultimo_ok": "2026-11-27T15:06:59+00:00"
+   "controllato": "2026-11-28T00:33:01+00:00",
+   "ultimo_ok": "2026-11-27T15:06:59+00:00",
+   "messaggio": "object has no attribute 'title'"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-27T15:06:59+00:00",
-   "ultimo_ok": "2026-11-27T15:06:59+00:00"
+   "controllato": "2026-11-28T00:33:01+00:00",
+   "ultimo_ok": "2026-11-28T00:33:01+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-27T15:06:59+00:00",
-   "ultimo_ok": "2026-11-27T15:06:59+00:00"
+   "controllato": "2026-11-28T00:33:01+00:00",
+   "ultimo_ok": "2026-11-28T00:33:01+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
-   "voci": 30,
-   "controllato": "2026-11-27T15:06:59+00:00",
-   "ultimo_ok": "2026-11-27T15:06:59+00:00"
+   "voci": 29,
+   "controllato": "2026-11-28T00:33:01+00:00",
+   "ultimo_ok": "2026-11-28T00:33:01+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.orizzontescuola.it/violenza-sulle-donne-il-cnddu-chiede-a-valditara-un-programma-sperimentale-nelle-scuole-equipe-territoriali-rilevazioni-anonime-e-sostegno-alle-studentesse-vittime/",
+   "titolo": "Violenza sulle donne, il CNDDU chiede a Valditara un programma sperimentale nelle scuole: équipe territoriali, rilevazioni anonime e sostegno alle studentesse vittime",
+   "abstract": "Un programma sperimentale di prevenzione nelle scuole, con équipe di specialisti condivise tra più istituti e indagini anonime sul clima relazionale delle scuole. Lo chiede al ministro dell'Istruzione e del Merito Giuseppe Valditara il Coordinamento Nazionale Docenti della…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica",
+    "Studenti"
+   ],
+   "id": "c945f3cf73af",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme",
+    "studenti",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/violenza-assistita-e-orfani-di-femminicidio-gli-psicologi-la-prevenzione-comincia-dai-primi-mille-giorni-di-vita-serve-una-presenza-stabile-della-psicologia-nelle-scuole/",
+   "titolo": "Violenza assistita e orfani di femminicidio, gli psicologi: “La prevenzione comincia dai primi mille giorni di vita”. Serve una presenza stabile della psicologia nelle scuole",
+   "abstract": "Rafforzare la prevenzione, garantire interventi tempestivi a tutela dei minori e assicurare una presenza stabile della psicologia nelle scuole e a sostegno delle famiglie. Sono alcuni dei temi affrontati durante la giornata di studio promossa il 27 novembre 2026 dal Consiglio…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "b892d1b9b200",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/rivalutazione-pensioni-2027",
+   "titolo": "Rivalutazione pensioni 2027, Meloni: “Dal 1° gennaio aumenteranno tutte. Chi ha meno va protetto di più”",
+   "abstract": "Il Governo sta tagliando le pensioni? Niente di più falso. A dirlo la stessa presidente del Consiglio Giorgia Meloni, in un video pubblicato oggi, 27 novembre, sul suo profilo X. “Con questo Governo nessuna pensione è stata mai tagliata. Anzi, è accaduto il contrario. In questi…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Giorgia Meloni",
+    "Pensioni"
+   ],
+   "id": "156ba10db8b1",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ricci-invalsi-non-basta-recuperare-le-fragilita-occorre-valorizzare-anche-le-eccellenze-con-lintelligenza-artificiale-diventano-ancora-piu-importanti-le-competenze-di-b/",
+   "titolo": "Ricci (INVALSI): “Non basta recuperare le fragilità, occorre valorizzare anche le eccellenze”. Con l’intelligenza artificiale diventano ancora più importanti le competenze di base",
+   "abstract": "Garantire a tutti gli studenti le competenze fondamentali e, allo stesso tempo, offrire a ciascuno la possibilità di sviluppare i propri talenti. È la riflessione proposta da Roberto Ricci, presidente dell’INVALSI, nell’editoriale del 24 novembre , conversando con Savina…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Competenze"
+   ],
+   "id": "04bbc31b8ae7",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "esami",
+    "studenti",
+    "personale",
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maturita-renzi-ho-preso-60-60-ma-non-me-li-sono-meritati-da-quellesperienza-i-40-punti-di-credito-scolastico-nella-buona-scuola/",
+   "titolo": "Maturità, Renzi: “Ho preso 60/60, ma non me li sono meritati. Da quell’esperienza i 40 punti di credito scolastico nella Buona Scuola”",
+   "abstract": "Un’esperienza personale alla base della scelta di attribuire maggiore importanza al percorso scolastico degli studenti rispetto alle sole prove di maturità. A raccontarla è stato Matteo Renzi, leader di Italia Viva ed ex presidente del Consiglio, nel corso di “Wannabe”, il…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica"
+   ],
+   "id": "bc764e433224",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "esami",
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/maturita-2026-assegnati-altri-21mila-euro-per-il-pagamento-delle-commissioni-desame-decreto/",
+   "titolo": "Maturità 2026, assegnati altri 21mila euro per il pagamento delle commissioni d’esame. Decreto",
+   "abstract": "Il Ministero dell’Istruzione e del Merito, con Decreto direttoriale n. 846 del 19 novembre 2026, ha disposto l’assegnazione di ulteriori risorse finanziarie per il pagamento delle commissioni degli Esami di maturità conclusivi dei corsi di studio della scuola secondaria di…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Scuole"
+   ],
+   "id": "d399950d5fb1",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "esami"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/libri-di-testo-scolastici-stop-alle-nuove-edizioni-prima-di-cinque-anni-e-studenti-coinvolti-nella-scelta-dei-volumi-governo-accoglie-due-ordini-del-giorno/",
+   "titolo": "Libri di testo scolastici, stop alle nuove edizioni prima di cinque anni e studenti coinvolti nella scelta dei volumi: Governo accoglie due ordini del giorno",
+   "abstract": "Sono gli obiettivi di due ordini del giorno presentati da Fratelli d'Italia e accolti dal Governo senza riformulazione durante l'esame alla Camera del Decreto Scuola, approvato definitivamente il 26 novembre 2026. L'articolo Libri di testo scolastici, stop alle nuove edizioni…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Politica scolastica",
+    "Studenti"
+   ],
+   "id": "a0691594cb72",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/indicazioni-nazionali-licei-anp-distinguere-bene-obiettivi-di-apprendimento-irrinunciabili-e-meri-esempi-no-al-ritorno-dei-programmi",
+   "titolo": "Indicazioni Nazionali licei, Anp: distinguere bene obiettivi di apprendimento irrinunciabili e meri esempi, no al ritorno dei “programmi”",
+   "abstract": "Via libera del Consiglio di Stato al regolamento che detta le nuove Indicazioni nazionali per i licei. Si tratta dei programmi scolastici che dall’anno scolastico 2027/28 entreranno in vigore a partire dalle prime classi. Il regolamento potrà essere ora firmato dal ministro…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "Anp",
+    "nuove indicazioni nazionali secondo ciclo"
+   ],
+   "id": "bf4133fe8f6b",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/educazione-ambientale-scuola-laboratori-didattici-per-gli-alunni-le-proposte-di-etna-today",
+   "titolo": "Educazione ambientale scuola, laboratori didattici per gli alunni: le proposte di Etna Today",
+   "abstract": "Portare gli alunni fuori dalle mura scolastiche significa offrire loro la possibilità di imparare attraverso l’esperienza diretta, trasformando la scoperta in uno strumento di conoscenza. L’educazione ambientale e alla sostenibilità può diventare così un percorso concreto e…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Sicilia",
+    "sostenibilità"
+   ],
+   "id": "4eab3e544239",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-riforma-degli-istituti-tecnici-le-criticita-da-risolvere-spiegate-dallesperto",
+   "titolo": "Decreto scuola, riforma degli istituti tecnici: le criticità da risolvere spiegate dall’esperto",
+   "abstract": "La “partita” riforma degli Istituti Tecnici continua a creare molta apprensione. Cosa possiamo dire ai docenti direttamente coinvolti? Questa la domanda di un ascoltatore nel corso della diretta della Tecnica risponde live. A rispondere, il segretario nazionale della Cisl Scuola…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Decreto scuola",
+    "Istituti tecnici",
+    "riforma istituti tecnici"
+   ],
+   "id": "30c9be78a71e",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/decreto-scuola-pubblicato-in-gazzetta-ruolo-dalla-prima-fascia-gps-sostegno-pei-tetto-del-30-per-gli-stranieri-volto-coperto-latino-alle-medie-e-licei-tecnologici/",
+   "titolo": "Decreto scuola pubblicato in Gazzetta: ruolo dalla prima fascia GPS, sostegno, PEI, tetto del 30% per gli stranieri, volto coperto, Latino alle medie e licei tecnologici",
+   "abstract": "È stata pubblicata sulla Gazzetta Ufficiale n. 277 del 27 novembre 2026 la legge 27 novembre 2026, n. 219, che converte con modificazioni il decreto-legge 30 settembre 2026, n. 170, il cosiddetto decreto scuola. La legge è in vigore dal 28 novembre, il giorno successivo alla…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Politica scolastica",
+    "Decreto Scuola"
+   ],
+   "id": "936e6b405657",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "personale",
+    "innovazione",
+    "inclusione"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-flc-cgil-dura-le-norme-approvate-sono-espressione-di-un-nuovo-razzismo",
+   "titolo": "Decreto Scuola, Flc Cgil dura: “le norme approvate sono espressione di un nuovo razzismo”",
+   "abstract": "Il decreto scuola ieri, 26 novembre, ha ricevuto l’okay definitivo della Camera. La parola fine all’iter si avrà con la firma del presidente Mattarella e la pubblicazione in Gazzetta Ufficiale. La conversione in legge è prevista entro il 29 novembre. Il decreto 170 del 30…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "Alunni stranieri",
+    "Decreto scuola",
+    "Flc Cgil"
+   ],
+   "id": "6cdf0695b82e",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/daniele-novara-contro-lo-schiaffo-educativo-i-bambini-puniti-imparano-che-i-genitori-non-sempre-li-proteggono-e-che-i-conflitti-si-risolvono-con-la-forza/",
+   "titolo": "Daniele Novara contro lo ‘schiaffo educativo’: i bambini puniti imparano che i genitori non sempre li proteggono e che i conflitti si risolvono con la forza",
+   "abstract": "Picchiare un bambino o sgridarlo con durezza non lo aiuta a imparare. Lo scrive il pedagogista Daniele Novara in un post sui social, dove se la prende con una convinzione che tra molti genitori italiani resiste da tempo: l'idea che botte e rimproveri pesanti servano a educare…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori"
+   ],
+   "id": "77286f1b7a18",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/concorsi-docenti-2027-il-servizio-sul-sostegno-non-vale-per-posto-comune/",
+   "titolo": "Concorsi docenti 2027, il servizio sul sostegno non vale per posto comune",
+   "abstract": "Nel Question Time del 25 novembre 2026 su Orizzonte Scuola, condotto da Andrea Carlino con la partecipazione di Sonia Cannas, docente ed esperta in normativa scolastica, è stato affrontato anche il tema della valutazione del servizio svolto sul sostegno nei concorsi per posto…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Diventare Insegnanti",
+    "Concorso infanzia e primaria",
+    "Concorso secondaria"
+   ],
+   "id": "64241d19dcd6",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/classi-accorpate-e-precedenti-concorsi-quando-spettano-i-1250-punti-tre-sentenze-del-consiglio-di-stato-si-allineano-allultimo-decreto-mim",
+   "titolo": "Classi accorpate e precedenti concorsi, quando spettano i 12,50 punti: tre sentenze del Consiglio di Stato si allineano all’ultimo decreto MIM",
+   "abstract": "Il superamento di un precedente concorso ordinario per l’insegnamento nella scuola secondaria di primo grado non dà diritto ai 12,50 punti aggiuntivi nella procedura concorsuale per la scuola secondaria di secondo grado, anche se le relative classi di concorso sono state…",
+   "data": "2026-11-27",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Classi di concorso",
+    "concorsi docenti",
+    "concorso docenti 2027"
+   ],
+   "id": "b9450f8d2b06",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "personale"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ata-il-16-dicembre-sindacati-convocati-al-mim-per-la-ripartizione-di-10-milioni-di-euro-altri-4-milioni-per-lindennita-di-direzione-dei-dsga/",
+   "titolo": "ATA, il 16 dicembre sindacati convocati al MIM per la ripartizione di 10 milioni di euro. Altri 4 milioni per l’indennità di direzione dei DSGA",
+   "abstract": "Il prossimo 16 dicembre è previsto un tavolo di contrattazione al Ministero dell’Istruzione e del Merito per definire la ripartizione di circa 10 milioni di euro destinati al personale delle segreterie scolastiche, compresi i DSGA, coinvolto nelle attività di valutazione delle…",
+   "data": "2026-11-27",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "DSGA"
+   ],
+   "id": "db1042856c71",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.indire.it/2026/11/27/insegnare-la-resistenza-oggi-ricerca-storica-memoria-e-progettazione-didattica-per-la-scuola/",
    "titolo": "“Insegnare la Resistenza oggi: ricerca storica, memoria e progettazione didattica per la scuola”",
