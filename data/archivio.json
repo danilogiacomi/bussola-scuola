@@ -1,39 +1,400 @@
 {
- "aggiornato": "2026-11-28T00:33:01+00:00",
+ "aggiornato": "2026-11-28T14:13:18+00:00",
  "fonti": {
   "mim": {
    "esito": "ok",
    "voci": 406,
-   "controllato": "2026-11-28T00:33:01+00:00",
-   "ultimo_ok": "2026-11-28T00:33:01+00:00"
+   "controllato": "2026-11-28T14:13:18+00:00",
+   "ultimo_ok": "2026-11-28T14:13:18+00:00"
   },
   "gu": {
-   "esito": "errore",
+   "esito": "ok",
    "voci": 0,
-   "controllato": "2026-11-28T00:33:01+00:00",
-   "ultimo_ok": "2026-11-27T15:06:59+00:00",
-   "messaggio": "object has no attribute 'title'"
+   "controllato": "2026-11-28T14:13:18+00:00",
+   "ultimo_ok": "2026-11-28T14:13:18+00:00"
   },
   "indire": {
    "esito": "ok",
    "voci": 40,
-   "controllato": "2026-11-28T00:33:01+00:00",
-   "ultimo_ok": "2026-11-28T00:33:01+00:00"
+   "controllato": "2026-11-28T14:13:18+00:00",
+   "ultimo_ok": "2026-11-28T14:13:18+00:00"
   },
   "orizzontescuola": {
    "esito": "ok",
-   "voci": 29,
-   "controllato": "2026-11-28T00:33:01+00:00",
-   "ultimo_ok": "2026-11-28T00:33:01+00:00"
+   "voci": 26,
+   "controllato": "2026-11-28T14:13:18+00:00",
+   "ultimo_ok": "2026-11-28T14:13:18+00:00"
   },
   "tecnicadellascuola": {
    "esito": "ok",
    "voci": 29,
-   "controllato": "2026-11-28T00:33:01+00:00",
-   "ultimo_ok": "2026-11-28T00:33:01+00:00"
+   "controllato": "2026-11-28T14:13:18+00:00",
+   "ultimo_ok": "2026-11-28T14:13:18+00:00"
   }
  },
  "notizie": [
+  {
+   "url": "https://www.tecnicadellascuola.it/valutazione-di-sistema-a-scuola-dai-dati-alle-decisioni-come-trasformare-rav-e-pdm-in-strumenti-concreti-di-miglioramento",
+   "titolo": "Valutazione di sistema a scuola, dai dati alle decisioni: come trasformare RAV e PdM in strumenti concreti di miglioramento",
+   "abstract": "La valutazione di sistema non dovrebbe ridursi alla compilazione di documenti e all’adempimento di scadenze. RAV e Piano di miglioramento contengono informazioni preziose per comprendere le criticità di un istituto e individuare possibili strategie di intervento. Ma come passare…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Valutazioni di sistema"
+   ],
+   "id": "5735ae31bf82",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/studente-detenuto-evade-durante-unuscita-didattica-accusata-la-prof-gli-insegnanti-non-possono-sostituirsi-alla-polizia-penitenziaria",
+   "titolo": "Studente detenuto evade durante un’uscita didattica, accusata la prof: “Gli insegnanti non possono sostituirsi alla polizia penitenziaria”",
+   "abstract": "Il Coordinamento Nazionale Docenti della disciplina dei Diritti Umani (CNDDU) esprime solidarietà all’insegnante prosciolta dal Tribunale di Asti dall’accusa di aver favorito colposamente l’evasione di un detenuto durante un’uscita didattica ad Alba. Il presidente Romano…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "scuole in carcere"
+   ],
+   "id": "d2bc6e20d953",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/sciopero-nella-scuola-lo-speciale-diritti-obblighi-responsabilita-e-adempimenti-di-dirigenti-docenti-e-ata-9-approfondimenti-e-3-documenti-da-scaricare/",
+   "titolo": "Sciopero nella scuola, lo SPECIALE: diritti, obblighi, responsabilità e adempimenti di dirigenti, docenti e ATA. 9 approfondimenti e 3 documenti da scaricare",
+   "abstract": "Cosa deve fare il dirigente scolastico in occasione di uno sciopero? È possibile sostituire il personale che aderisce all’astensione dal lavoro? Come garantire la vigilanza sugli alunni? Quando è possibile sospendere il servizio scolastico? Quali sono le conseguenze dello…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "136b11608ba3",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/rav-ptof-pdm-cosa-sono-i-documenti-strategici-a-scuola-perche-compilarli-o-aggiornarli-il-piano-sos-ds",
+   "titolo": "Rav, Ptof, Pdm: cosa sono i documenti strategici a scuola? Perché compilarli o aggiornarli? Il piano Sos Ds",
+   "abstract": "Oramai da diversi anni fa parte del patrimonio culturale delle scuole la locuzione “documenti strategici”. Per il triennio 2025-28 con la nota prot. n. 66850 del 29.10.2025 (per l’a.s. 2025-26) e la nota prot. n. 188974 del 22 ottobre 2026 (per l’a.s. 2026-27) il MIM ha…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Dirigenti",
+    "PTOF",
+    "RAV"
+   ],
+   "id": "7fd48c04a557",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "altro"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.orizzontescuola.it/quando-iniziano-le-vacanze-di-natale-e-quando-si-torna-a-scuola-tutte-le-date-delle-feste-regione-per-regione/",
+   "titolo": "Quando iniziano le vacanze di Natale e quando si torna a scuola? Tutte le date delle feste regione per regione",
+   "abstract": "Panettone, tombolate, la calza della Befana: le vacanze di Natale sono già segnate sul calendario. Per la maggior parte degli studenti italiani le feste vanno dal 23 dicembre 2026 al 6 gennaio 2027. L'articolo Quando iniziano le vacanze di Natale e quando si torna a scuola?…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Scuole",
+    "calendario scolastico"
+   ],
+   "id": "5e62a74a04db",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/pn-21-27-progetti-scuole-come-raccontarli-al-meglio",
+   "titolo": "Pn 21-27, progetti scuole: come raccontarli al meglio?",
+   "abstract": "I progetti finanziati nell’ambito del Programma Nazionale “Scuola e Competenze” 2021-2027 rappresentano un’importante opportunità per gli istituti scolastici. L’obiettivo è realizzare attività innovative, percorsi formativi e iniziative rivolte a studenti, docenti e comunità…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "PON"
+   ],
+   "id": "91cfa88ddb36",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/personale-ata-in-lavoro-agile-possibile-fruire-dei-permessi-orari-per-visite-e-terapie-mediche-orientamento-aran/",
+   "titolo": "Personale ATA in lavoro agile, possibile fruire dei permessi orari per visite e terapie mediche. Orientamento ARAN",
+   "abstract": "Il personale ATA che svolge la propria prestazione lavorativa in modalità agile può assentarsi temporaneamente durante la giornata per sottoporsi a terapie mediche, avvalendosi degli specifici permessi previsti dal contratto collettivo. L'articolo Personale ATA in lavoro agile…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Scuole",
+    "Lavoro agile"
+   ],
+   "id": "7522b9728f79",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/minorenni-stranieri-non-accompagnati-solo-uno-su-cinque-studia-in-classe-con-coetanei-italiani-unicef-e-fondazione-ismu-il-55-frequenta-soltanto-corsi-di-lingua/",
+   "titolo": "Minorenni stranieri non accompagnati, solo uno su cinque studia in classe con coetanei italiani. UNICEF e Fondazione ISMU: il 55% frequenta soltanto corsi di lingua",
+   "abstract": "In Italia, appena un minorenne straniero non accompagnato su cinque segue un percorso scolastico insieme a ragazzi italiani e con un titolo di studio come traguardo. Il 55% frequenta solo corsi di italiano, mentre il 6% non partecipa a nessuna attività formativa. Lo rendono noto…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti"
+   ],
+   "id": "29afb85f6090",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/lettura-su-carta-o-su-schermo-conta-come-si-legge-piu-del-supporto-una-psicoanalista-spiega-cosa-cambia-tra-e-reader-tablet-e-smartphone-e-come-aiutarli/",
+   "titolo": "Lettura su carta o su schermo? Conta come si legge, più del supporto. Una psicoanalista spiega cosa cambia tra e-reader, tablet e smartphone e come aiutarli",
+   "abstract": "Leggere su un libro o su uno schermo non produce sempre gli stessi effetti su bambini e ragazzi, ma per Adelia Lucattini, medico, psichiatra e psicoanalista, membro ordinario della Società Psicoanalitica Italiana (SPI) e full member dell'International Psychoanalytical…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "9bd6b0f5adb5",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "riforme",
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/la-responsabilita-dellesperto-esterno-nella-vigilanza-sugli-alunni-a-cura-di-anna-armone/",
+   "titolo": "La responsabilità dell’esperto esterno nella vigilanza sugli alunni. A cura di Anna Armone",
+   "abstract": "Il ricorso a esperti esterni da parte delle istituzioni scolastiche deve essere giustificato dall’esigenza di acquisire competenze non disponibili all’interno dell’istituto e deve essere coerente con l’offerta formativa, con il progetto approvato e con le concrete modalità…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Gestire la scuola"
+   ],
+   "id": "1178a7f54ef4",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/incarichi-specifici-ata-e-posizioni-economiche-compensi-e-compatibilita-parere-aran",
+   "titolo": "Incarichi specifici ATA e posizioni economiche, compensi e compatibilità: parere ARAN",
+   "abstract": "Con l’orientamento applicativo Id 39523 (del 17 novembre 2026), l’ARAN ha fornito importanti precisazioni sull’applicazione dell’art. 54 del CCNL Istruzione e Ricerca del 18 gennaio 2024, relativo al conferimento degli incarichi specifici al personale ATA (escluso il personale…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "ATA",
+    "Incarichi",
+    "Personale Ata",
+    "Posizioni economiche"
+   ],
+   "id": "0aac6bbc7aad",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ia-in-classe-dalla-global-privacy-assembly-una-risoluzione-per-proteggere-gli-studenti-dati-mai-per-la-pubblicita-decisioni-non-solo-allalgoritmo-e-chatbot-che-dicano-di-essere-macchine/",
+   "titolo": "IA a scuola, i chatbot non devono fingersi esseri umani né assecondare gli studenti. No ai dati per scopi pubblicitari. Le raccomandazioni della Global Privacy Assembly",
+   "abstract": "I dati che bambini e ragazzi lasciano usando l'intelligenza artificiale a scuola non devono essere usati per scopi commerciali o pubblicitari. Le decisioni che li riguardano, poi, non dovrebbero dipendere solo da un algoritmo, e i chatbot dovrebbero avvisare con chiarezza che…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Scuole",
+    "Studenti",
+    "privacy"
+   ],
+   "id": "8a92fb48434a",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale",
+    "innovazione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/guanto-smart-climatizzazione-degli-edifici-con-lenergia-solare-unapp-per-la-citta-e-un-kit-contro-lansia-i-progetti-degli-studenti-premiati-dalla-regione-lombardia/",
+   "titolo": "Guanto smart, climatizzazione degli edifici con l’energia solare, un’app per la città e un kit contro l’ansia: i progetti degli studenti premiati dalla Regione Lombardia",
+   "abstract": "La Regione Lombardia ha assegnato i premi dell'edizione 2026 di \"Lombardia è Ricerca\" per le scuole. Il riconoscimento va ai quattro migliori progetti innovativi realizzati negli istituti superiori e negli istituti di formazione professionale del territorio, capaci di promuovere…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca",
+    "Studenti"
+   ],
+   "id": "ecde52e60e63",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": true
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/funzioni-strumentali-docenti-chi-decide-ruoli-e-compensi-tra-collegio-e-contrattazione-distituto",
+   "titolo": "Funzioni strumentali docenti: chi decide ruoli e compensi tra Collegio e Contrattazione d’Istituto?",
+   "abstract": "L’orientamento applicativo Id 39556 (del 19 novembre 2026) dell’ARAN fa chiarezza sulle corrette procedure per la definizione e il compenso delle funzioni strumentali all’offerta formativa destinate al personale docente. Le competenze del Collegio dei Docenti Richiamando l’art…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Docente",
+    "Funzioni Strumentali"
+   ],
+   "id": "fbfb2f50951e",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/esplosione-vicino-a-una-scuola-in-afghanistan-morti-7-studenti-oltre-90-i-feriti/",
+   "titolo": "Esplosione vicino a una scuola in Afghanistan: morti 7 studenti, oltre 90 i feriti",
+   "abstract": "Sette morti e più di 90 feriti. È il bilancio dell'esplosione di sabato mattina in una scuola della provincia di Kunar, nell'est dell'Afghanistan, diffuso dal direttore provinciale della Cultura e dell'Informazione, Sami ul Haq Bayan, e riportato dall'Associated Press. Lo…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "425a6194a984",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/dottorato-a-85-anni-e-un-cane-premiato-con-il-dogtorate-la-cerimonia-di-laurea-piu-numerosa-di-sempre-regala-due-storie-speciali/",
+   "titolo": "Dottorato a 85 anni e un cane premiato con il Dogtorate: la cerimonia di laurea più numerosa di sempre regala due storie speciali",
+   "abstract": "Tra gli oltre 3.200 studenti che in questi giorni ricevono il titolo alla York St John University ce ne sono due che nessuno dimenticherà facilmente. Il primo è Robin Gallagher, 85 anni, il dottore di ricerca più anziano che l'ateneo abbia mai avuto. Il secondo ha quattro zampe…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Cronaca"
+   ],
+   "id": "8c3220302e1f",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/decreto-scuola-valditara-atto-di-civilta-il-divieto-di-volto-coperto-il-tetto-del-30-e-integrazione-e-buon-senso",
+   "titolo": "Decreto Scuola, Valditara: “Atto di civiltà” il divieto di volto coperto, il tetto del 30% “è integrazione e buon senso”",
+   "abstract": "Intervistato in diretta dal TG4, il ministro dell’Istruzione e del Merito, Giuseppe Valditara, ha illustrato nel dettaglio due misure contenute nel nuovo provvedimento sulla scuola: il divieto di frequentare con il volto coperto e il tetto del 30% di alunni stranieri non…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Attualità",
+    "decreto legge scuola 2026",
+    "Giuseppe Valditara"
+   ],
+   "id": "11d4778403ff",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "inclusione"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.tecnicadellascuola.it/bocciata-con-4-insufficienze-la-famiglia-ricorre-al-tar-non-siamo-stati-informati-il-giudice-respinge-il-registro-elettronico-basta",
+   "titolo": "Bocciata con 4 insufficienze, la famiglia ricorre al TAR: “Non siamo stati informati”. Il giudice respinge: “Il registro elettronico basta”",
+   "abstract": "Il Tribunale Amministrativo Regionale per l’Emilia-Romagna (Sezione Prima), con la sentenza n. 01793/2026, ha respinto il ricorso presentato dalla madre di una studentessa di un Istituto Superiore di Modena, confermando la piena legittimità della bocciatura deliberata dal…",
+   "data": "2026-11-28",
+   "fonte": "tecnicadellascuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Studenti e genitori",
+    "Bocciatura",
+    "Tar"
+   ],
+   "id": "2bc0fa70e6cd",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti"
+   ],
+   "superiori": false
+  },
+  {
+   "url": "https://www.orizzontescuola.it/ai-tempi-di-pinocchio-si-saltava-la-scuola-per-vedere-i-burattini-oggi-ci-sono-i-social-cosa-ci-insegna-ancora-collodi-dopo-200-anni/",
+   "titolo": "Ai tempi di Pinocchio si saltava la scuola per vedere i burattini, oggi ci sono i social. Cosa ci insegna ancora Collodi dopo 200 anni",
+   "abstract": "Duecento anni fa nasceva Carlo Collodi e il suo burattino rappresenta ancora oggi uno strumento prezioso sul piano educativo. Le avventure di Pinocchio raccontano infatti un percorso di crescita che trasforma un protagonista impulsivo, immaturo e ribelle in un essere umano…",
+   "data": "2026-11-28",
+   "fonte": "orizzontescuola",
+   "tipo": "notizia",
+   "categorie": [
+    "Docenti",
+    "Genitori",
+    "Studenti"
+   ],
+   "id": "78fa13151c7f",
+   "raccolto": "2026-11-28",
+   "sezioni": [
+    "studenti",
+    "personale"
+   ],
+   "superiori": false
+  },
   {
    "url": "https://www.orizzontescuola.it/violenza-sulle-donne-il-cnddu-chiede-a-valditara-un-programma-sperimentale-nelle-scuole-equipe-territoriali-rilevazioni-anonime-e-sostegno-alle-studentesse-vittime/",
    "titolo": "Violenza sulle donne, il CNDDU chiede a Valditara un programma sperimentale nelle scuole: équipe territoriali, rilevazioni anonime e sostegno alle studentesse vittime",
